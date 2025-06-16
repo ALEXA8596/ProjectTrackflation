@@ -1,0 +1,356 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:45:11.600",
+    "name": "Hannes KOLEHMAINEN"
+  },
+  {
+    "place": 2,
+    "country": "SWE",
+    "mark": "00:45:44.800",
+    "name": "Hjalmar ANDERSSON"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "00:46:37.600",
+    "name": "John EKE"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "00:46:54.800",
+    "name": "Jalmari ESKOLA"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "00:47:07.700",
+    "name": "Josef TERNSTRÖM"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "00:47:23.400",
+    "name": "Albin Oskar STENROOS"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "00:47:32.000",
+    "name": "Ville KYRÖNEN"
+  },
+  {
+    "place": 8,
+    "country": "RSA",
+    "mark": "00:47:33.500",
+    "name": "Len RICHARDSON"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "00:47:37.400",
+    "name": "Brynolf LARSSON"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "00:47:40.000",
+    "name": "Johan SUNDKVIST"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "00:48:03.000",
+    "name": "Frans Wiljam JOHANSSON"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "00:48:12.000",
+    "name": "Harry Hallas HELLAWELL"
+  },
+  {
+    "place": 13,
+    "country": "SWE",
+    "mark": "00:48:45.400",
+    "name": "Klas LUNDSTRÖM"
+  },
+  {
+    "place": 14,
+    "country": "DEN",
+    "mark": "00:49:06.400",
+    "name": "Lauritz CHRISTIANSEN"
+  },
+  {
+    "place": 15,
+    "country": "GBR",
+    "mark": "00:49:18.200",
+    "name": "Frederick Newton HIBBINS"
+  },
+  {
+    "place": 16,
+    "country": "GBR",
+    "mark": "00:49:53.700",
+    "name": "Ernest GLOVER"
+  },
+  {
+    "place": 17,
+    "country": "SWE",
+    "mark": "00:50:15.800",
+    "name": "Bror FOCK"
+  },
+  {
+    "place": 18,
+    "country": "GBR",
+    "mark": "00:50:28.000",
+    "name": "Thomas HUMPHREYS"
+  },
+  {
+    "place": 19,
+    "country": "NOR",
+    "mark": "00:50:40.800",
+    "name": "Olaf Sigvart HOVDENAK"
+  },
+  {
+    "place": 20,
+    "country": "NOR",
+    "mark": "00:51:16.200",
+    "name": "Parelius FINNERUD"
+  },
+  {
+    "place": 21,
+    "country": "SWE",
+    "mark": "00:51:26.800",
+    "name": "Gustaf CARLEN"
+  },
+  {
+    "place": 22,
+    "country": "NOR",
+    "mark": "00:51:47.400",
+    "name": "Johannes ANDERSEN"
+  },
+  {
+    "place": 23,
+    "country": "DEN",
+    "mark": "00:53:00.800",
+    "name": "Viggo Christoffer PEDERSEN"
+  },
+  {
+    "place": 24,
+    "country": "USA",
+    "mark": "00:53:51.400",
+    "name": "Henry Louis SCOTT"
+  },
+  {
+    "place": 25,
+    "country": "FIN",
+    "mark": "00:54:08.000",
+    "name": "Väinö HEIKKILÄ"
+  },
+  {
+    "place": 26,
+    "country": "DEN",
+    "mark": "00:54:24.900",
+    "name": "Gerhard TOPP"
+  },
+  {
+    "place": 27,
+    "country": "GER",
+    "mark": "00:54:40.600",
+    "name": "Gregor VIETZ"
+  },
+  {
+    "place": 28,
+    "country": "DEN",
+    "mark": "00:55:27.000",
+    "name": "Steen RASMUSSEN"
+  },
+  {
+    "place": 29,
+    "country": "AUT",
+    "mark": "Did not finish",
+    "name": "Emmerich RATH"
+  },
+  {
+    "place": 30,
+    "country": "DEN",
+    "mark": "Did not finish",
+    "name": "Holger BADEN"
+  },
+  {
+    "place": 31,
+    "country": "DEN",
+    "mark": "Did not finish",
+    "name": "Fritz DANILD"
+  },
+  {
+    "place": 32,
+    "country": "DEN",
+    "mark": "Did not finish",
+    "name": "Karl Julius JENSEN"
+  },
+  {
+    "place": 33,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Eefferi HARJU"
+  },
+  {
+    "place": 34,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Aarne Karl LINDHOLM"
+  },
+  {
+    "place": 35,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Jean BOUIN"
+  },
+  {
+    "place": 36,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "William COTTRILL"
+  },
+  {
+    "place": 37,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "William SCOTT"
+  },
+  {
+    "place": 38,
+    "country": "NOR",
+    "mark": "Did not finish",
+    "name": "Nils DAHL"
+  },
+  {
+    "place": 39,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Edvin HELLGREN"
+  },
+  {
+    "place": 40,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "John KLINTBERG"
+  },
+  {
+    "place": 41,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Axel LINDAHL"
+  },
+  {
+    "place": 42,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Henrik NORDSTRÖM"
+  },
+  {
+    "place": 43,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "George V. BONHAG"
+  },
+  {
+    "place": 44,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Tell Schirnding BERNA"
+  },
+  {
+    "place": 45,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "William K. KRAMER"
+  },
+  {
+    "place": 46,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Carl HOLMBERG"
+  },
+  {
+    "place": 47,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Pyotr TIMOFEYEV"
+  },
+  {
+    "place": 48,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Mihály VÁRADI"
+  },
+  {
+    "place": 49,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Iosif ZAYTSEV"
+  },
+  {
+    "place": 50,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "William MURRAY"
+  },
+  {
+    "place": 51,
+    "country": "CZE",
+    "mark": "Did not start",
+    "name": "Vladimir PENC"
+  },
+  {
+    "place": 52,
+    "country": "CZE",
+    "mark": "Did not start",
+    "name": "Rudolf RICHTER"
+  },
+  {
+    "place": 53,
+    "country": "CZE",
+    "mark": "Did not start",
+    "name": "František SLAVÍK"
+  },
+  {
+    "place": 54,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Henri Auguste ARNAUD"
+  },
+  {
+    "place": 55,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Henri TEYSSEDOU"
+  },
+  {
+    "place": 56,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "George LEE"
+  },
+  {
+    "place": 57,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Charles Henry RUFFELL"
+  },
+  {
+    "place": 58,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "George Curtis L. WALLACH"
+  },
+  {
+    "place": 59,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Nikolay KHORKOV"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:03:53.600",
+    "name": "Paavo NURMI"
+  },
+  {
+    "place": 2,
+    "country": "SUI",
+    "mark": "00:03:55.000",
+    "name": "Wilhelm SCHÄRER"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "00:03:55.600",
+    "name": "G. Henry STALLARD"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "00:03:57.000",
+    "name": "Douglas Gordon LOWE"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:03:58.600",
+    "name": "Raymond Bates BUKER"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:03:59.000",
+    "name": "Lloyd HAHN"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "00:04:00.000",
+    "name": "Raymond Bates WATSON"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "00:04:00.300",
+    "name": "Frej LIEWENDHAL"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "00:04:00.600",
+    "name": "Aarne Aatami PEUSSA"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "00:04:02.800",
+    "name": "René WIRIATH"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "00:04:03.700",
+    "name": "Sonny SPENCER"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "00:04:03.900",
+    "name": "Jaakko Artturi LUOMA"
+  },
+  {
+    "place": 13,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Paul GASSER"
+  },
+  {
+    "place": 14,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "V. N. VENKATARAMANASWAMY"
+  },
+  {
+    "place": 15,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Rudolf HEIDEGGER"
+  },
+  {
+    "place": 16,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Alphonse VAN ACHTEN"
+  },
+  {
+    "place": 17,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Lajos BEJCZY"
+  },
+  {
+    "place": 18,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "János BENEDEK"
+  },
+  {
+    "place": 19,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Alfredo GOMES"
+  },
+  {
+    "place": 20,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Manuel PLAZA REYES"
+  },
+  {
+    "place": 21,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Joaquín MIQUEL"
+  },
+  {
+    "place": 22,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Miguel PALAU CLAVERAS"
+  },
+  {
+    "place": 23,
+    "country": "EST",
+    "mark": "Did not start",
+    "name": "Johannes VILLEMSON"
+  },
+  {
+    "place": 24,
+    "country": "HAI",
+    "mark": "Did not start",
+    "name": "Édouard ARMAND"
+  },
+  {
+    "place": 25,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Katsuo OKAZAKI"
+  },
+  {
+    "place": 26,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Guillermo AMPARAN"
+  },
+  {
+    "place": 27,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Pedro CURIEL"
+  },
+  {
+    "place": 28,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Juan ESCUTIA"
+  },
+  {
+    "place": 29,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Stefan OLDAK"
+  },
+  {
+    "place": 30,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Edvin WIDE"
+  },
+  {
+    "place": 31,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Karel NEDOBITY"
+  },
+  {
+    "place": 32,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Vaclav VOHRALIK"
+  },
+  {
+    "place": 33,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Eduard RIEDL"
+  }
+]

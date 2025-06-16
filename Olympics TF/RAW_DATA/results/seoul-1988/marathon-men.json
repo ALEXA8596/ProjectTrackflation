@@ -1,0 +1,710 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "02:10:32.000",
+    "name": "Gelindo BORDIN"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "02:10:47.000",
+    "name": "Douglas WAKIIHURI"
+  },
+  {
+    "place": 3,
+    "country": "DJI",
+    "mark": "02:10:59.000",
+    "name": "Hussein AHMED SALAH"
+  },
+  {
+    "place": 4,
+    "country": "JPN",
+    "mark": "02:11:05.000",
+    "name": "Takeyuki NAKAYAMA"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "02:11:49.000",
+    "name": "Stephen MONEGHETTI"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "02:12:19.000",
+    "name": "Charles SPEDDING"
+  },
+  {
+    "place": 7,
+    "country": "TAN",
+    "mark": "02:13:06.000",
+    "name": "Juma IKANGAA"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "02:13:07.000",
+    "name": "Rob DE CASTELLA"
+  },
+  {
+    "place": 9,
+    "country": "JPN",
+    "mark": "02:13:41.000",
+    "name": "Toshihiko SEKO"
+  },
+  {
+    "place": 10,
+    "country": "URS",
+    "mark": "02:13:49.000",
+    "name": "Ravil KASHAPOV"
+  },
+  {
+    "place": 11,
+    "country": "MEX",
+    "mark": "02:13:58.000",
+    "name": "Jesus HERRERA"
+  },
+  {
+    "place": 12,
+    "country": "NZL",
+    "mark": "02:14:08.000",
+    "name": "John CAMPBELL"
+  },
+  {
+    "place": 13,
+    "country": "NED",
+    "mark": "02:14:40.000",
+    "name": "Gerard NIJBOER"
+  },
+  {
+    "place": 14,
+    "country": "USA",
+    "mark": "02:14:44.000",
+    "name": "Peter Dickson PFITZINGER"
+  },
+  {
+    "place": 15,
+    "country": "NED",
+    "mark": "02:14:53.000",
+    "name": "Martin TEN KATE"
+  },
+  {
+    "place": 16,
+    "country": "ITA",
+    "mark": "02:15:20.000",
+    "name": "Orlando PIZZOLATO"
+  },
+  {
+    "place": 17,
+    "country": "JPN",
+    "mark": "02:15:42.000",
+    "name": "Masanari SHINTAKU"
+  },
+  {
+    "place": 18,
+    "country": "KOR",
+    "mark": "02:15:44.000",
+    "name": "Won-Tak KIM"
+  },
+  {
+    "place": 19,
+    "country": "ITA",
+    "mark": "02:16:07.000",
+    "name": "Piergiovanni POLI"
+  },
+  {
+    "place": 20,
+    "country": "HAI",
+    "mark": "02:16:15.000",
+    "name": "Dieudonne LAMOTHE"
+  },
+  {
+    "place": 21,
+    "country": "GBR",
+    "mark": "02:16:18.000",
+    "name": "David LONG"
+  },
+  {
+    "place": 22,
+    "country": "DEN",
+    "mark": "02:16:40.000",
+    "name": "Henrik Hove JORGENSEN"
+  },
+  {
+    "place": 23,
+    "country": "FRG",
+    "mark": "02:16:54.000",
+    "name": "Ralf SALZMANN"
+  },
+  {
+    "place": 24,
+    "country": "IRL",
+    "mark": "02:17:16.000",
+    "name": "Richard HOOPER"
+  },
+  {
+    "place": 25,
+    "country": "YUG",
+    "mark": "02:17:47.000",
+    "name": "Miroslav VINDIS"
+  },
+  {
+    "place": 26,
+    "country": "CHN",
+    "mark": "02:17:54.000",
+    "name": "Shang-Yan CAI"
+  },
+  {
+    "place": 27,
+    "country": "POR",
+    "mark": "02:18:05.000",
+    "name": "Joaquim SILVA"
+  },
+  {
+    "place": 28,
+    "country": "CAN",
+    "mark": "02:18:20.000",
+    "name": "Arthur BOILEAU"
+  },
+  {
+    "place": 29,
+    "country": "USA",
+    "mark": "02:19:09.000",
+    "name": "Ed EYESTONE"
+  },
+  {
+    "place": 30,
+    "country": "MAR",
+    "mark": "02:19:56.000",
+    "name": "Noureddine SOBHI"
+  },
+  {
+    "place": 31,
+    "country": "KOR",
+    "mark": "02:20:11.000",
+    "name": "Jae-seong YU"
+  },
+  {
+    "place": 32,
+    "country": "TUR",
+    "mark": "02:20:12.000",
+    "name": "Mehmet TERZI"
+  },
+  {
+    "place": 33,
+    "country": "GBR",
+    "mark": "02:20:45.000",
+    "name": "Kevin FORSTER"
+  },
+  {
+    "place": 34,
+    "country": "BOT",
+    "mark": "02:20:51.000",
+    "name": "Bigboy Josie MATLAPENG"
+  },
+  {
+    "place": 35,
+    "country": "ALG",
+    "mark": "02:21:12.000",
+    "name": "Allaoua KHELLIL"
+  },
+  {
+    "place": 36,
+    "country": "LUX",
+    "mark": "02:22:14.000",
+    "name": "Justin GLODEN"
+  },
+  {
+    "place": 37,
+    "country": "FRA",
+    "mark": "02:22:24.000",
+    "name": "Alexandre GONZALEZ"
+  },
+  {
+    "place": 38,
+    "country": "CHN",
+    "mark": "02:22:49.000",
+    "name": "Guo-Wei ZHANG"
+  },
+  {
+    "place": 39,
+    "country": "COL",
+    "mark": "02:23:34.000",
+    "name": "Pedro ORTIZ"
+  },
+  {
+    "place": 40,
+    "country": "CRC",
+    "mark": "02:23:45.000",
+    "name": "Ronaldo LANZONI"
+  },
+  {
+    "place": 41,
+    "country": "AUS",
+    "mark": "02:23:49.000",
+    "name": "Bradley CAMP"
+  },
+  {
+    "place": 42,
+    "country": "CAF",
+    "mark": "02:23:52.000",
+    "name": "Adolphe AMBOWODE"
+  },
+  {
+    "place": 43,
+    "country": "TAN",
+    "mark": "02:24:17.000",
+    "name": "John BURRA"
+  },
+  {
+    "place": 44,
+    "country": "SWZ",
+    "mark": "02:24:42.000",
+    "name": "Samuel HLAWE"
+  },
+  {
+    "place": 45,
+    "country": "CRC",
+    "mark": "02:24:49.000",
+    "name": "Juan ANDRES"
+  },
+  {
+    "place": 46,
+    "country": "CAN",
+    "mark": "02:24:49.000",
+    "name": "Peter Kevin MAHER"
+  },
+  {
+    "place": 47,
+    "country": "NIG",
+    "mark": "02:25:05.000",
+    "name": "Abdou MANZO"
+  },
+  {
+    "place": 48,
+    "country": "BRA",
+    "mark": "02:25:13.000",
+    "name": "Diamantino DOS SANTOS"
+  },
+  {
+    "place": 49,
+    "country": "DJI",
+    "mark": "02:25:25.000",
+    "name": "Omar MOUSSA"
+  },
+  {
+    "place": 50,
+    "country": "MEX",
+    "mark": "02:25:34.000",
+    "name": "Carlos RETIZ"
+  },
+  {
+    "place": 51,
+    "country": "ASA",
+    "mark": "02:25:35.000",
+    "name": "Gary FANELLI"
+  },
+  {
+    "place": 52,
+    "country": "IRL",
+    "mark": "02:25:38.000",
+    "name": "John WOODS"
+  },
+  {
+    "place": 53,
+    "country": "SWZ",
+    "mark": "02:25:56.000",
+    "name": "Gideon MTHEMBU"
+  },
+  {
+    "place": 54,
+    "country": "NEP",
+    "mark": "02:25:57.000",
+    "name": "Baikuntha MANANDHAR"
+  },
+  {
+    "place": 55,
+    "country": "TCH",
+    "mark": "02:26:12.000",
+    "name": "Karel DAVID"
+  },
+  {
+    "place": 56,
+    "country": "BRA",
+    "mark": "02:26:27.000",
+    "name": "Ivo MACHADO RODRIGUES"
+  },
+  {
+    "place": 57,
+    "country": "MEX",
+    "mark": "02:27:10.000",
+    "name": "Martin MONDRAGON"
+  },
+  {
+    "place": 58,
+    "country": "SWZ",
+    "mark": "02:28:06.000",
+    "name": "Vusie OLAMINI"
+  },
+  {
+    "place": 59,
+    "country": "NIG",
+    "mark": "02:28:15.000",
+    "name": "Inni ABOUBACAR"
+  },
+  {
+    "place": 60,
+    "country": "NGR",
+    "mark": "02:29:14.000",
+    "name": "Yohanna WAZIRI"
+  },
+  {
+    "place": 61,
+    "country": "LES",
+    "mark": "02:29:44.000",
+    "name": "Nqheku NTESO"
+  },
+  {
+    "place": 62,
+    "country": "UGA",
+    "mark": "02:30:29.000",
+    "name": "Benjamin LONGIROS"
+  },
+  {
+    "place": 63,
+    "country": "UGA",
+    "mark": "02:31:04.000",
+    "name": "Vincent RUGUGA"
+  },
+  {
+    "place": 64,
+    "country": "ESP",
+    "mark": "02:31:10.000",
+    "name": "Alfonso ABELLAN LIMARES"
+  },
+  {
+    "place": 65,
+    "country": "SRI",
+    "mark": "02:31:29.000",
+    "name": "Vithanakande LEK SAMARASINGHE"
+  },
+  {
+    "place": 66,
+    "country": "NEP",
+    "mark": "02:31:49.000",
+    "name": "Tika BOGATI"
+  },
+  {
+    "place": 67,
+    "country": "CAN",
+    "mark": "02:32:19.000",
+    "name": "Dave EDGE"
+  },
+  {
+    "place": 68,
+    "country": "CRC",
+    "mark": "02:32:43.000",
+    "name": "Luis LOPEZ ROCER"
+  },
+  {
+    "place": 69,
+    "country": "BOL",
+    "mark": "02:34:41.000",
+    "name": "Juan Rodrigo CAMACHO"
+  },
+  {
+    "place": 70,
+    "country": "NGR",
+    "mark": "02:35:26.000",
+    "name": "Abbas MOHAMMED"
+  },
+  {
+    "place": 71,
+    "country": "TUR",
+    "mark": "02:37:44.000",
+    "name": "Ahmet ALTUN"
+  },
+  {
+    "place": 72,
+    "country": "ZIM",
+    "mark": "02:38:13.000",
+    "name": "James GOMBEDZA"
+  },
+  {
+    "place": 73,
+    "country": "COD",
+    "mark": "02:38:34.000",
+    "name": "Kamana KOJI"
+  },
+  {
+    "place": 74,
+    "country": "ANG",
+    "mark": "02:40:45.000",
+    "name": "Joao CARVALHO"
+  },
+  {
+    "place": 75,
+    "country": "PNG",
+    "mark": "02:41:47.000",
+    "name": "Aaron DUPNAI"
+  },
+  {
+    "place": 76,
+    "country": "FIJ",
+    "mark": "02:41:50.000",
+    "name": "Bineshwar PRASAD"
+  },
+  {
+    "place": 77,
+    "country": "ISV",
+    "mark": "02:42:19.000",
+    "name": "Calvin DALLAS"
+  },
+  {
+    "place": 78,
+    "country": "RWA",
+    "mark": "02:42:52.000",
+    "name": "Telesphore DUSABE"
+  },
+  {
+    "place": 79,
+    "country": "BIZ",
+    "mark": "02:43:29.000",
+    "name": "Eugene MUSLAR"
+  },
+  {
+    "place": 80,
+    "country": "NIG",
+    "mark": "02:43:51.000",
+    "name": "Hassan KARIMOU"
+  },
+  {
+    "place": 81,
+    "country": "ISV",
+    "mark": "02:44:40.000",
+    "name": "Wallace WILLIAMS"
+  },
+  {
+    "place": 82,
+    "country": "LES",
+    "mark": "02:44:44.000",
+    "name": "Mohala MOHLOLO"
+  },
+  {
+    "place": 83,
+    "country": "OMA",
+    "mark": "02:46:59.000",
+    "name": "Awadh Shaban AL-SAMEER"
+  },
+  {
+    "place": 84,
+    "country": "JAM",
+    "mark": "02:47:57.000",
+    "name": "Derek ADAMSON"
+  },
+  {
+    "place": 85,
+    "country": "NEP",
+    "mark": "02:47:57.000",
+    "name": "Krishna Bahadur BASNET"
+  },
+  {
+    "place": 86,
+    "country": "GUM",
+    "mark": "02:49:52.000",
+    "name": "Fred SCHUMANN"
+  },
+  {
+    "place": 87,
+    "country": "MAW",
+    "mark": "02:51:43.000",
+    "name": "John MWATHIWA"
+  },
+  {
+    "place": 88,
+    "country": "ISV",
+    "mark": "02:52:06.000",
+    "name": "Marlon Selwyn WILLIAMS"
+  },
+  {
+    "place": 89,
+    "country": "COD",
+    "mark": "02:55:21.000",
+    "name": "Kaleka MUTOKE"
+  },
+  {
+    "place": 90,
+    "country": "GUM",
+    "mark": "02:56:32.000",
+    "name": "James WALKER"
+  },
+  {
+    "place": 91,
+    "country": "SOM",
+    "mark": "02:58:10.000",
+    "name": "Mohiddin Mohamed KULMIYE"
+  },
+  {
+    "place": 92,
+    "country": "UGA",
+    "mark": "02:59:35.000",
+    "name": "Jackson Fred OGWANG"
+  },
+  {
+    "place": 93,
+    "country": "IRI",
+    "mark": "03:00:20.000",
+    "name": "Naser BABAPUR"
+  },
+  {
+    "place": 94,
+    "country": "GUM",
+    "mark": "03:03:19.000",
+    "name": "Ricardo Joseph TAITANO"
+  },
+  {
+    "place": 95,
+    "country": "SLE",
+    "mark": "03:04:00.000",
+    "name": "Baba Ibrahim SUMA-KEITA"
+  },
+  {
+    "place": 96,
+    "country": "GUI",
+    "mark": "03:06:27.000",
+    "name": "Alassane BAH"
+  },
+  {
+    "place": 97,
+    "country": "VIE",
+    "mark": "03:10:57.000",
+    "name": "Nguyen Van THUYET"
+  },
+  {
+    "place": 98,
+    "country": "BIZ",
+    "mark": "03:14:02.000",
+    "name": "Polin BELISLE"
+  },
+  {
+    "place": 99,
+    "country": "KEN",
+    "mark": "Did not finish",
+    "name": "Ibrahim HUSSEIN"
+  },
+  {
+    "place": 100,
+    "country": "GDR",
+    "mark": "Did not finish",
+    "name": "Jorg PETER"
+  },
+  {
+    "place": 101,
+    "country": "IRL",
+    "mark": "Did not finish",
+    "name": "John TREACY"
+  },
+  {
+    "place": 102,
+    "country": "MAR",
+    "mark": "Did not finish",
+    "name": "Moustafa EL-NECHCHADI"
+  },
+  {
+    "place": 103,
+    "country": "NOR",
+    "mark": "Did not finish",
+    "name": "Geir KVERNMO"
+  },
+  {
+    "place": 104,
+    "country": "SUI",
+    "mark": "Did not finish",
+    "name": "Bruno LAFRANCHI"
+  },
+  {
+    "place": 105,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Alain LAZARE"
+  },
+  {
+    "place": 106,
+    "country": "POR",
+    "mark": "Did not finish",
+    "name": "Paulo CATARINO"
+  },
+  {
+    "place": 107,
+    "country": "CHI",
+    "mark": "Did not finish",
+    "name": "Omar Domingo AGUILAR"
+  },
+  {
+    "place": 108,
+    "country": "BEL",
+    "mark": "Did not finish",
+    "name": "Dirk VAN DER HERTEN"
+  },
+  {
+    "place": 109,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Mark CONOVER"
+  },
+  {
+    "place": 110,
+    "country": "KOR",
+    "mark": "Did not finish",
+    "name": "Seong-nak GWON"
+  },
+  {
+    "place": 111,
+    "country": "ESP",
+    "mark": "Did not finish",
+    "name": "Honorato HERNÁNDEZ"
+  },
+  {
+    "place": 112,
+    "country": "TCH",
+    "mark": "Did not finish",
+    "name": "Martin VRABEL"
+  },
+  {
+    "place": 113,
+    "country": "SOL",
+    "mark": "Did not finish",
+    "name": "John MAEKE"
+  },
+  {
+    "place": 114,
+    "country": "MAW",
+    "mark": "Did not finish",
+    "name": "George MAMBOSASA"
+  },
+  {
+    "place": 115,
+    "country": "MDV",
+    "mark": "Did not finish",
+    "name": "Abdul Haji ABDUL LATHEEF"
+  },
+  {
+    "place": 116,
+    "country": "MDV",
+    "mark": "Did not finish",
+    "name": "Hussein HALEEM"
+  },
+  {
+    "place": 117,
+    "country": "SOM",
+    "mark": "Did not finish",
+    "name": "Ahmed Mohamed ISMAIL"
+  },
+  {
+    "place": 118,
+    "country": "KEN",
+    "mark": "Did not finish",
+    "name": "Joseph KIPSANG"
+  }
+]

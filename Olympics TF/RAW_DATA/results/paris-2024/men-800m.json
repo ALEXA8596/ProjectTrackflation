@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "1:41.19",
+    "name": "Emmanuel WANYONYI"
+  },
+  {
+    "place": 2,
+    "country": "CAN",
+    "mark": "1:41.20",
+    "name": "Marco AROP"
+  },
+  {
+    "place": 3,
+    "country": "ALG",
+    "mark": "1:41.50",
+    "name": "Djamel SEDJATI"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "1:41.67",
+    "name": "Bryce HOPPEL"
+  },
+  {
+    "place": 5,
+    "country": "ESP",
+    "mark": "1:42.08",
+    "name": "Mohamed ATTAOUI"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "1:42.14",
+    "name": "Gabriel TUAL"
+  },
+  {
+    "place": 7,
+    "country": "BOT",
+    "mark": "1:42.82",
+    "name": "Tshepiso MASALELA"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "1:43.84",
+    "name": "Max BURGIN"
+  }
+]

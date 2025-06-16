@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "CZE",
+    "mark": "88.16",
+    "name": "Jan ŽELEZNÝ"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "87.44",
+    "name": "Steve BACKLEY"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "86.98",
+    "name": "Seppo Henrik RATY"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "86.88",
+    "name": "Raymond HECHT"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "85.68",
+    "name": "Boris HENRY"
+  },
+  {
+    "place": 6,
+    "country": "RUS",
+    "mark": "85.30",
+    "name": "Sergey MAKAROV"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "84.02",
+    "name": "Kimmo Paavali KINNUNEN"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "83.58",
+    "name": "Thomas PUKSTYS"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "81.82",
+    "name": "Peter BLANK"
+  },
+  {
+    "place": 10,
+    "country": "GRE",
+    "mark": "81.46",
+    "name": "Kostas GATSIOUDIS"
+  },
+  {
+    "place": 11,
+    "country": "CHN",
+    "mark": "80.96",
+    "name": "Lianbiao ZHANG"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "78.58",
+    "name": "Michael Christopher HILL"
+  }
+]

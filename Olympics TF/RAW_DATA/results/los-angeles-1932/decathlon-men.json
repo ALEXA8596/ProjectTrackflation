@@ -1,0 +1,122 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "518.8",
+    "name": "Jim BAUSCH"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "698.8",
+    "name": "Akiles Eero Johannes JÄRVINEN"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "774.4",
+    "name": "Wolrad EBERLE"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "742.0",
+    "name": "Wilson David Jr. CHARLES"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "512.8",
+    "name": "Hans-Heinrich SIEVERT"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "756.4",
+    "name": "Paavo Ilmari YRJÖLÄ"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "692.8",
+    "name": "Clifford Clyde COFFMAN"
+  },
+  {
+    "place": 8,
+    "country": "IRL",
+    "mark": "774.4",
+    "name": "Robert Morton Newburgh TISDALL"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "694.0",
+    "name": "Erwin WEGNER"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "413.2",
+    "name": "Peter BACSALMASI"
+  },
+  {
+    "place": 11,
+    "country": "RSA",
+    "mark": "331.6",
+    "name": "Harry Balthazar HART"
+  },
+  {
+    "place": 12,
+    "country": "LAT",
+    "mark": "Did not finish",
+    "name": "Janis DIMSA"
+  },
+  {
+    "place": 13,
+    "country": "POL",
+    "mark": "Did not finish",
+    "name": "Zygmunt SIEDLECKI"
+  },
+  {
+    "place": 14,
+    "country": "ARG",
+    "mark": "Did not finish",
+    "name": "Hector BERRA"
+  },
+  {
+    "place": 15,
+    "country": "BRA",
+    "mark": "Did not finish",
+    "name": "Carlos WOEBCKEN"
+  },
+  {
+    "place": 16,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "José Antonio MASÓ"
+  },
+  {
+    "place": 17,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Hermenegildo DEL ROSSO"
+  },
+  {
+    "place": 18,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Matti Kalervo SIPPALA"
+  },
+  {
+    "place": 19,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "Pat O'CALLAGHAN"
+  },
+  {
+    "place": 20,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Shuhei NISHIDA"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "21.05",
+    "name": "Udo BEYER"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "21.03",
+    "name": "Yevgeni MIRONOV"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "21.00",
+    "name": "Aleksandr BARYSHNIKOV"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "20.55",
+    "name": "Allan Dean FEUERBACH"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "20.47",
+    "name": "Hans-Peter GIES"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "20.36",
+    "name": "Geoffrey CAPES"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "20.26",
+    "name": "George Roger WOODS"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "20.17",
+    "name": "Hans HOGLUND"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "19.89",
+    "name": "Peter Carlton SHMOCK"
+  },
+  {
+    "place": 10,
+    "country": "GDR",
+    "mark": "19.79",
+    "name": "Heinz-Joachim ROTHENBURG"
+  },
+  {
+    "place": 11,
+    "country": "TCH",
+    "mark": "19.62",
+    "name": "Jaroslav BRABEC"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "18.99",
+    "name": "Reijo STAHLBERG"
+  },
+  {
+    "place": 13,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Bishop DOLEGIEWICZ"
+  }
+]

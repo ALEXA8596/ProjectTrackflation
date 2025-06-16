@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "ESP",
+    "mark": "00:03:40.120",
+    "name": "Fermin CACHO RUIZ"
+  },
+  {
+    "place": 2,
+    "country": "MAR",
+    "mark": "00:03:40.620",
+    "name": "Rachid EL BASIR"
+  },
+  {
+    "place": 3,
+    "country": "QAT",
+    "mark": "00:03:40.690",
+    "name": "Mohammed SULEIMAN"
+  },
+  {
+    "place": 4,
+    "country": "KEN",
+    "mark": "00:03:41.120",
+    "name": "Joseph CHESIRE"
+  },
+  {
+    "place": 5,
+    "country": "KEN",
+    "mark": "00:03:41.270",
+    "name": "Jonah BIRIR"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "00:03:41.530",
+    "name": "Jens-Peter HEROLD"
+  },
+  {
+    "place": 7,
+    "country": "ALG",
+    "mark": "00:03:41.700",
+    "name": "Nourredine MORCELI"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:03:41.740",
+    "name": "Jim SPIVEY"
+  },
+  {
+    "place": 9,
+    "country": "CAN",
+    "mark": "00:03:42.550",
+    "name": "Graham Colin HOOD"
+  },
+  {
+    "place": 10,
+    "country": "KEN",
+    "mark": "00:03:42.620",
+    "name": "David KIBET"
+  },
+  {
+    "place": 11,
+    "country": "ESP",
+    "mark": "00:03:43.510",
+    "name": "Manuel PANCORBO CHICA"
+  },
+  {
+    "place": 12,
+    "country": "EUN",
+    "mark": "00:03:44.660",
+    "name": "Azat RAKIPOV"
+  },
+  {
+    "place": 13,
+    "country": "MAR",
+    "mark": "Did not start",
+    "name": "Said AOUITA"
+  }
+]

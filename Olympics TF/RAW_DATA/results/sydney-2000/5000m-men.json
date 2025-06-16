@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "ETH",
+    "mark": "00:13:35.490",
+    "name": "Millon WOLDE"
+  },
+  {
+    "place": 2,
+    "country": "ALG",
+    "mark": "00:13:36.200",
+    "name": "Ali SAIDI-SIEF"
+  },
+  {
+    "place": 3,
+    "country": "MAR",
+    "mark": "00:13:36.470",
+    "name": "Brahim LAHLAFI"
+  },
+  {
+    "place": 4,
+    "country": "ETH",
+    "mark": "00:13:37.030",
+    "name": "Fita BAYISSA"
+  },
+  {
+    "place": 5,
+    "country": "KEN",
+    "mark": "00:13:37.130",
+    "name": "David CHELULE"
+  },
+  {
+    "place": 6,
+    "country": "ETH",
+    "mark": "00:13:37.170",
+    "name": "Dange ALEMU"
+  },
+  {
+    "place": 7,
+    "country": "UKR",
+    "mark": "00:13:37.800",
+    "name": "Serhiy LEBID"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "00:13:38.570",
+    "name": "Jirka ARNDT"
+  },
+  {
+    "place": 9,
+    "country": "KEN",
+    "mark": "00:13:39.110",
+    "name": "Julius GITAHI"
+  },
+  {
+    "place": 10,
+    "country": "KEN",
+    "mark": "00:13:39.430",
+    "name": "Richard LIMO"
+  },
+  {
+    "place": 11,
+    "country": "ALG",
+    "mark": "00:13:40.950",
+    "name": "Reda BENZINE"
+  },
+  {
+    "place": 12,
+    "country": "AUS",
+    "mark": "00:13:42.030",
+    "name": "Mizan MEHARI"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "00:13:43.200",
+    "name": "Adam GOUCHER"
+  },
+  {
+    "place": 14,
+    "country": "QAT",
+    "mark": "00:13:45.100",
+    "name": "Mohammed SULEIMAN"
+  },
+  {
+    "place": 15,
+    "country": "JPN",
+    "mark": "00:13:46.900",
+    "name": "Toshinari TAKAOKA"
+  },
+  {
+    "place": 16,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Mohammed MOURHIT"
+  },
+  {
+    "place": 17,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "José David GALVÁN"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "00:01:56.000",
+    "name": "Jim LIGHTBODY"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "00:01:56.300",
+    "name": "Howard VALENTINE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "00:01:56.400",
+    "name": "Emil BREITKREUTZ"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Harry KIENER"
+  },
+  {
+    "place": 5,
+    "country": "NZL",
+    "mark": "Did not start",
+    "name": "Will GUNN"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Charles Joseph BACON"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "David Curtis MUNSON"
+  }
+]

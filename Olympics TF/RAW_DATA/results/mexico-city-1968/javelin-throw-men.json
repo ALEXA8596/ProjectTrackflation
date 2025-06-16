@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "90.10",
+    "name": "Yanis LUSIS"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "88.58",
+    "name": "Jorma Viljo Palaavi KINNUNEN"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "87.06",
+    "name": "Gergely KULCSAR"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "85.70",
+    "name": "Wladyslaw NIKICIUK"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "84.42",
+    "name": "Manfred STOLLE"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "83.48",
+    "name": "Ake NILSSON"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "80.58",
+    "name": "Janusz SIDLO"
+  },
+  {
+    "place": 8,
+    "country": "SUI",
+    "mark": "80.56",
+    "name": "Urs VON WARTBURG"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "80.08",
+    "name": "Marcus Paul MURRO"
+  },
+  {
+    "place": 10,
+    "country": "AUT",
+    "mark": "77.40",
+    "name": "Walter PEKTOR"
+  },
+  {
+    "place": 11,
+    "country": "CUB",
+    "mark": "74.88",
+    "name": "Aurelio JANET TORRES"
+  },
+  {
+    "place": 12,
+    "country": "FRG",
+    "mark": "73.50",
+    "name": "Hermann SALOMON"
+  },
+  {
+    "place": 13,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Christos Panayotis PIERRAKOS"
+  },
+  {
+    "place": 14,
+    "country": "MAR",
+    "mark": "Did not start",
+    "name": "Lahcen Samsam AKKA"
+  }
+]

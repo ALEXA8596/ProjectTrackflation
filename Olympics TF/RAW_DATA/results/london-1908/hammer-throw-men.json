@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "51.92",
+    "name": "John Joseph FLANAGAN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "51.18",
+    "name": "Matt MCGRATH"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "48.51",
+    "name": "Con WALSH"
+  },
+  {
+    "place": 4,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Moritz RASMUSSEN"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Carl SANDBERG"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Edward Blake ARCHIBALD"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Denis CAREY"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Laurence KIELY"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Emil WELZ"
+  },
+  {
+    "place": 10,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Mikhail DORIZAS"
+  },
+  {
+    "place": 11,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Nikolaos GEORGANTAS"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Wilbur Gordon BURROUGHS"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Ralph ROSE"
+  }
+]

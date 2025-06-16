@@ -1,0 +1,20 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "55.000",
+    "name": "Charles Joseph BACON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "55.3est / at 2 yards",
+    "name": "Harry HILLMAN"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "57.0est / at 15 yards",
+    "name": "Jimmy TREMEER"
+  }
+]

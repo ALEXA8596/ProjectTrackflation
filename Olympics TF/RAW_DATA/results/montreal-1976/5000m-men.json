@@ -1,0 +1,122 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:13:24.760",
+    "name": "Lasse VIRÉN"
+  },
+  {
+    "place": 2,
+    "country": "NZL",
+    "mark": "00:13:25.160",
+    "name": "Dick Theodorus QUAX"
+  },
+  {
+    "place": 3,
+    "country": "FRG",
+    "mark": "00:13:25.380",
+    "name": "Klaus-Peter HILDENBRAND"
+  },
+  {
+    "place": 4,
+    "country": "NZL",
+    "mark": "00:13:25.500",
+    "name": "Rodney DIXON"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:13:26.190",
+    "name": "Brendan FOSTER"
+  },
+  {
+    "place": 6,
+    "country": "BEL",
+    "mark": "00:13:26.990",
+    "name": "Willy POLLEUNIS"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "00:13:27.650",
+    "name": "Ian STEWART"
+  },
+  {
+    "place": 8,
+    "country": "POR",
+    "mark": "00:13:29.380",
+    "name": "Aniceto SIMOES"
+  },
+  {
+    "place": 9,
+    "country": "NOR",
+    "mark": "00:13:30.330",
+    "name": "Knut KVALHEIM"
+  },
+  {
+    "place": 10,
+    "country": "FRG",
+    "mark": "00:13:31.070",
+    "name": "Detlef UHLEMANN"
+  },
+  {
+    "place": 11,
+    "country": "URS",
+    "mark": "00:13:36.720",
+    "name": "Enn SELLIK"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "00:13:42.510",
+    "name": "Paul Geoffrey GEIS"
+  },
+  {
+    "place": 13,
+    "country": "FIN",
+    "mark": "00:13:46.610",
+    "name": "Pekka Johannes PAIVARINTA"
+  },
+  {
+    "place": 14,
+    "country": "URS",
+    "mark": "Did not finish",
+    "name": "Boris KUZNETSOV"
+  },
+  {
+    "place": 15,
+    "country": "MAR",
+    "mark": "Did not start",
+    "name": "Mohamed BEN BARAKA"
+  },
+  {
+    "place": 16,
+    "country": "KSA",
+    "mark": "Did not start",
+    "name": "Saad Shetwy AL BISHY"
+  },
+  {
+    "place": 17,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Dave FITZSIMONS"
+  },
+  {
+    "place": 18,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Jose Joao DA SILVA"
+  },
+  {
+    "place": 19,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Knut BORO"
+  },
+  {
+    "place": 20,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Carlos LOPES"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "09.900",
+    "name": "James Ray HINES"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "10.000",
+    "name": "Lennox MILLER"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "10.000",
+    "name": "Charles Edward GREENE"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "10.100",
+    "name": "Pablo MONTES CASANOVA"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "10.100",
+    "name": "Roger BAMBUCK"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "10.100",
+    "name": "Melvin Jr. PENDER"
+  },
+  {
+    "place": 7,
+    "country": "CAN",
+    "mark": "10.100",
+    "name": "Harry Winston JEROME"
+  },
+  {
+    "place": 8,
+    "country": "MAD",
+    "mark": "10.200",
+    "name": "Jean-louis RAVELOMANANTSOA"
+  },
+  {
+    "place": 9,
+    "country": "BAH",
+    "mark": "Did not finish",
+    "name": "Thomas Augustus ROBINSON"
+  }
+]

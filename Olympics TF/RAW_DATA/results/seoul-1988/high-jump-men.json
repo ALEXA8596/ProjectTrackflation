@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "2.38",
+    "name": "Gennady AVDEYENKO"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "2.36",
+    "name": "Hollis CONWAY"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "2.36",
+    "name": "Patrick SJÖBERG"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "2.36",
+    "name": "Rudolf POVARNITSIN"
+  },
+  {
+    "place": 5,
+    "country": "BER",
+    "mark": "2.34",
+    "name": "Nick SAUNDERS"
+  },
+  {
+    "place": 6,
+    "country": "FRG",
+    "mark": "2.34",
+    "name": "Dietmar MÖGENBURG"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "2.31",
+    "name": "Carlo THRÄNHARDT"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "2.31",
+    "name": "Dalton GRANT"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "2.31",
+    "name": "Igor PAKLIN"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "2.31",
+    "name": "James Allen Jr. HOWARD"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "2.31",
+    "name": "Brian E. STANTON"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "2.31",
+    "name": "Krzysztof KRAWCZYK"
+  },
+  {
+    "place": 13,
+    "country": "ITA",
+    "mark": "2.25",
+    "name": "Luca TOSO"
+  },
+  {
+    "place": 14,
+    "country": "ESP",
+    "mark": "2.25",
+    "name": "Arturo ORTIZ SANTOS"
+  },
+  {
+    "place": 15,
+    "country": "TCH",
+    "mark": "2.20",
+    "name": "Robert RUFFINI"
+  },
+  {
+    "place": 16,
+    "country": "GBR",
+    "mark": "2.15",
+    "name": "Geoffrey Peter PARSONS"
+  }
+]

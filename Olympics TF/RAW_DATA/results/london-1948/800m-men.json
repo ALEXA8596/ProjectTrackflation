@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "00:01:49.200",
+    "name": "Malvin Groston WHITFIELD"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "00:01:49.500",
+    "name": "Arthur WINT"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "00:01:49.800",
+    "name": "Marcel HANSENNE"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "00:01:50.100",
+    "name": "Herbert Otto BARTEN"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "00:01:50.500",
+    "name": "Ingvar BENGTSSON"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:01:52.100",
+    "name": "Robert David CHAMBERS"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "00:01:53.000",
+    "name": "Robert CHEF D'HOTEL"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "00:01:53.400",
+    "name": "Harold John PARLETT"
+  },
+  {
+    "place": 9,
+    "country": "DEN",
+    "mark": "00:01:54.000",
+    "name": "Niels HOLST-SÖRENSEN"
+  },
+  {
+    "place": 10,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "Seamus KELLY"
+  },
+  {
+    "place": 11,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Bruno SCHNEIDER"
+  },
+  {
+    "place": 12,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "Dermot MCDERMOTT"
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "place": 1,
+    "country": "SWE",
+    "mark": "60.64",
+    "name": "Eric LEMMING"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "58.66",
+    "name": "Juho Julius SAARISTO"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "55.50",
+    "name": "Mor KOVACS"
+  },
+  {
+    "place": 4,
+    "country": "AUT",
+    "mark": "NM",
+    "name": "Gustav KROJER"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "NM",
+    "name": "Eskil FALK"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Harry LOTT"
+  },
+  {
+    "place": 7,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Olaf INGEBRETSEN"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Hugo AHRÉN"
+  },
+  {
+    "place": 9,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Jørgen KORNERUP-BANG"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Cesare FRASSINE"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Bruno BRODD"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Thomas LUND"
+  },
+  {
+    "place": 13,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Mikhail NOMIKOS"
+  },
+  {
+    "place": 14,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Máté SZÁKALL"
+  },
+  {
+    "place": 15,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Urho AALTONEN"
+  },
+  {
+    "place": 16,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Gustave LEMASSON"
+  },
+  {
+    "place": 17,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Giulio ALVISI"
+  },
+  {
+    "place": 18,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Colombo ZEVOLA"
+  },
+  {
+    "place": 19,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Furio BINI"
+  },
+  {
+    "place": 20,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Ubaldo BIANCHI"
+  },
+  {
+    "place": 21,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Jim MITCHEL"
+  },
+  {
+    "place": 22,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Pierre FAILLIOT"
+  },
+  {
+    "place": 23,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Charles LAGARDE"
+  },
+  {
+    "place": 24,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Raoul Lucien PAOLI"
+  },
+  {
+    "place": 25,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "André TISON"
+  },
+  {
+    "place": 26,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Kostas TSIKLITIRAS"
+  },
+  {
+    "place": 27,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Istvan MUDIN"
+  },
+  {
+    "place": 28,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Rezső UJLAKI"
+  },
+  {
+    "place": 29,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Manlio LEGAT"
+  },
+  {
+    "place": 30,
+    "country": "LUX",
+    "mark": "Did not start",
+    "name": "Marcel PELLETIER"
+  },
+  {
+    "place": 31,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Ferdinand Reinhardt BIE"
+  },
+  {
+    "place": 32,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Bruno Julius WAGNER"
+  },
+  {
+    "place": 33,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Hugo K. WIESLANDER"
+  },
+  {
+    "place": 34,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Mkrtich MKRYAN"
+  },
+  {
+    "place": 35,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Platt ADAMS"
+  },
+  {
+    "place": 36,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Samuel Harrison BELLAH"
+  },
+  {
+    "place": 37,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Richard Leslie BYRD"
+  },
+  {
+    "place": 38,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Laurence Atwood WHITNEY"
+  },
+  {
+    "place": 39,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "André DÉSFARGES"
+  }
+]

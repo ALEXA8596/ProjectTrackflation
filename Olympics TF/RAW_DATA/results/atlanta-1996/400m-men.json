@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "43.490",
+    "name": "Michael JOHNSON"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "44.410",
+    "name": "Roger BLACK"
+  },
+  {
+    "place": 3,
+    "country": "UGA",
+    "mark": "44.530",
+    "name": "Davis KAMOGA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "44.620",
+    "name": "Alvin HARRISON"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "44.700",
+    "name": "Iwan THOMAS"
+  },
+  {
+    "place": 6,
+    "country": "JAM",
+    "mark": "44.830",
+    "name": "Roxbert MARTIN"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "44.990",
+    "name": "Davian CLARKE"
+  },
+  {
+    "place": 8,
+    "country": "QAT",
+    "mark": "Did not finish",
+    "name": "Ibrahim Ismail MUFTAH"
+  },
+  {
+    "place": 9,
+    "country": "BUR",
+    "mark": "Did not start",
+    "name": "Ibrahim OUÉDRAOGO"
+  },
+  {
+    "place": 10,
+    "country": "BOT",
+    "mark": "Did not start",
+    "name": "Justice DIPEBA"
+  }
+]

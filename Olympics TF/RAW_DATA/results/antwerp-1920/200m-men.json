@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "22.000",
+    "name": "Allen WOODRING"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "22.0est / at 10 cm",
+    "name": "Charles PADDOCK"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "22.2est / at 1 metre",
+    "name": "Harry EDWARD"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "22.2est / close behind",
+    "name": "Loren MURCHISON"
+  },
+  {
+    "place": 5,
+    "country": "NZL",
+    "mark": "22.3est",
+    "name": "George DAVIDSON"
+  },
+  {
+    "place": 6,
+    "country": "RSA",
+    "mark": "22.3est",
+    "name": "Jack OOSTERLAAK"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Louis RENARD"
+  },
+  {
+    "place": 8,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Carlos BOTIN"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "René MOURLON"
+  },
+  {
+    "place": 10,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Cyril H. COAFFEE"
+  }
+]

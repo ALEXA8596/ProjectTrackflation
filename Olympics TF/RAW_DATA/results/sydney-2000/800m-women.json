@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "MOZ",
+    "mark": "00:01:56.150",
+    "name": "Maria MUTOLA"
+  },
+  {
+    "place": 2,
+    "country": "AUT",
+    "mark": "00:01:56.640",
+    "name": "Stephanie GRAF"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "00:01:56.800",
+    "name": "Kelly HOLMES"
+  },
+  {
+    "place": 4,
+    "country": "SLO",
+    "mark": "00:01:58.510",
+    "name": "Brigita LANGERHOLC"
+  },
+  {
+    "place": 5,
+    "country": "CZE",
+    "mark": "00:01:58.560",
+    "name": "Helena FUCHSOVA"
+  },
+  {
+    "place": 6,
+    "country": "CUB",
+    "mark": "00:01:58.660",
+    "name": "Zulia CALATAYUD"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "00:01:58.750",
+    "name": "Hazel CLARK"
+  },
+  {
+    "place": 8,
+    "country": "MAR",
+    "mark": "00:01:59.270",
+    "name": "Hasna BENHASSI"
+  },
+  {
+    "place": 9,
+    "country": "MOZ",
+    "mark": "Did not start",
+    "name": "Argentina PAULINO"
+  }
+]

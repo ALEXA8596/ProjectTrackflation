@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "1:55.21",
+    "name": "Athing MU"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "1:55.88",
+    "name": "Keely HODGKINSON"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "1:56.81",
+    "name": "Raevyn ROGERS"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "1:56.90",
+    "name": "Jemma REEKIE"
+  },
+  {
+    "place": 5,
+    "country": "CHN",
+    "mark": "1:57.00",
+    "name": "Chunyu WANG"
+  },
+  {
+    "place": 6,
+    "country": "ETH",
+    "mark": "1:57.56",
+    "name": "Habitam ALEMU"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "1:57.66",
+    "name": "Alexandra BELL"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "1:58.26",
+    "name": "Natoya GOULE"
+  }
+]

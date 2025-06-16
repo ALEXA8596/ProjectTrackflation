@@ -1,0 +1,128 @@
+[
+  {
+    "place": 1,
+    "country": "TUN",
+    "mark": "00:14:05.000",
+    "name": "Mohamed GAMMOUDI"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:14:05.200",
+    "name": "Kipchoge KEINO"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "00:14:06.400",
+    "name": "Nabiba Naftali TEMU"
+  },
+  {
+    "place": 4,
+    "country": "MEX",
+    "mark": "00:14:10.800",
+    "name": "Juan Maximo MARTINEZ"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "00:14:12.400",
+    "name": "Ronald CLARKE"
+  },
+  {
+    "place": 6,
+    "country": "ETH",
+    "mark": "00:14:17.600",
+    "name": "Wohib MASRESHA"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "00:14:18.400",
+    "name": "Nikolai SVIRIDOV"
+  },
+  {
+    "place": 8,
+    "country": "ETH",
+    "mark": "00:14:19.000",
+    "name": "Fikru DEGUEFU"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "00:14:20.800",
+    "name": "Jean WADOUX"
+  },
+  {
+    "place": 10,
+    "country": "NZL",
+    "mark": "00:14:39.800",
+    "name": "Rex Montague MADDAFORD"
+  },
+  {
+    "place": 11,
+    "country": "CAN",
+    "mark": "00:14:45.000",
+    "name": "Robert FINLAY"
+  },
+  {
+    "place": 12,
+    "country": "BEL",
+    "mark": "00:14:59.600",
+    "name": "Emiel PUTTEMANS"
+  },
+  {
+    "place": 13,
+    "country": "FRG",
+    "mark": "Did not finish",
+    "name": "Harald NORPOTH"
+  },
+  {
+    "place": 14,
+    "country": "MAR",
+    "mark": "Did not start",
+    "name": "Larbi OUKADA"
+  },
+  {
+    "place": 15,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Mihail ZHELEV"
+  },
+  {
+    "place": 16,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Alvaro MEJIA FLORES"
+  },
+  {
+    "place": 17,
+    "country": "ESA",
+    "mark": "Did not start",
+    "name": "Efrain CORDERO"
+  },
+  {
+    "place": 18,
+    "country": "GHA",
+    "mark": "Did not start",
+    "name": "Robert HACKMAN"
+  },
+  {
+    "place": 19,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Lajos MECSER"
+  },
+  {
+    "place": 20,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Arne Roald RISA"
+  },
+  {
+    "place": 21,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Manuel De OLIVEIRA"
+  }
+]

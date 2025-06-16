@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "13.050",
+    "name": "Omar MCLEOD"
+  },
+  {
+    "place": 2,
+    "country": "ESP",
+    "mark": "13.170",
+    "name": "Orlando ORTEGA"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "13.240",
+    "name": "Dimitri BASCOU"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "13.290",
+    "name": "Pascal MARTINOT-LAGARDE"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "13.310",
+    "name": "Devon ALLEN"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "13.400",
+    "name": "Johnathan CABRAL"
+  },
+  {
+    "place": 7,
+    "country": "CYP",
+    "mark": "13.410",
+    "name": "Milan TRAJKOVIC"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "Disqualified",
+    "name": "Ronnie ASH"
+  }
+]

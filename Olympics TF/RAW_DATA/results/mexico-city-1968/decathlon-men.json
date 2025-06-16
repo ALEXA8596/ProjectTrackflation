@@ -1,0 +1,200 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "424",
+    "name": "Bill TOOMEY"
+  },
+  {
+    "place": 2,
+    "country": "FRG",
+    "mark": "416",
+    "name": "Hans Joachim WALDE"
+  },
+  {
+    "place": 3,
+    "country": "FRG",
+    "mark": "356",
+    "name": "Kurt BENDLIN"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "404",
+    "name": "Nikolai AVILOV"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "305",
+    "name": "Joachim KIRST"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "384",
+    "name": "Thomas Flubacher WADDELL"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "500",
+    "name": "Richard Donald SLOAN"
+  },
+  {
+    "place": 8,
+    "country": "DEN",
+    "mark": "517",
+    "name": "Steen SMIDT-JENSEN"
+  },
+  {
+    "place": 9,
+    "country": "NED",
+    "mark": "539",
+    "name": "Eduard Jan DE NOORLANDER"
+  },
+  {
+    "place": 10,
+    "country": "GDR",
+    "mark": "244",
+    "name": "Manfred TIEDTKE"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "350",
+    "name": "Lennart HEDMARK"
+  },
+  {
+    "place": 12,
+    "country": "AUT",
+    "mark": "307",
+    "name": "Walter DIESSL"
+  },
+  {
+    "place": 13,
+    "country": "GBR",
+    "mark": "312",
+    "name": "Clive Citreon Olaf LONGE"
+  },
+  {
+    "place": 14,
+    "country": "TPE",
+    "mark": "361",
+    "name": "Ah-min WU"
+  },
+  {
+    "place": 15,
+    "country": "BUL",
+    "mark": "328",
+    "name": "Spas DZHUROV"
+  },
+  {
+    "place": 16,
+    "country": "BEL",
+    "mark": "425",
+    "name": "Roger LESPAGNARD"
+  },
+  {
+    "place": 17,
+    "country": "SUI",
+    "mark": "337",
+    "name": "Urs TRAUTMANN"
+  },
+  {
+    "place": 18,
+    "country": "LIE",
+    "mark": "476",
+    "name": "Franz BIEDERMANN"
+  },
+  {
+    "place": 19,
+    "country": "NCA",
+    "mark": "190",
+    "name": "Donald VELEZ"
+  },
+  {
+    "place": 20,
+    "country": "AUT",
+    "mark": "Did not finish",
+    "name": "Gert HERÜNTER"
+  },
+  {
+    "place": 21,
+    "country": "SUI",
+    "mark": "Did not finish",
+    "name": "Hans-Rüdi KUNZ"
+  },
+  {
+    "place": 22,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Charlemagne ANYAMAH"
+  },
+  {
+    "place": 23,
+    "country": "MEX",
+    "mark": "Did not finish",
+    "name": "Roberto CARMONA BOTELLA"
+  },
+  {
+    "place": 24,
+    "country": "ISL",
+    "mark": "Did not finish",
+    "name": "Valbjorn THORLAKSSON"
+  },
+  {
+    "place": 25,
+    "country": "GDR",
+    "mark": "Did not finish",
+    "name": "Herbert WESSEL"
+  },
+  {
+    "place": 26,
+    "country": "TPE",
+    "mark": "Did not finish",
+    "name": "Chuan-Chow CHEN"
+  },
+  {
+    "place": 27,
+    "country": "URS",
+    "mark": "Did not finish",
+    "name": "Rein AUN"
+  },
+  {
+    "place": 28,
+    "country": "VIE",
+    "mark": "Did not finish",
+    "name": "Henh Phuoc HO"
+  },
+  {
+    "place": 29,
+    "country": "AUT",
+    "mark": "Did not finish",
+    "name": "Hörst MANDL"
+  },
+  {
+    "place": 30,
+    "country": "MAD",
+    "mark": "Did not finish",
+    "name": "Dominique RADUTORAHALAHY"
+  },
+  {
+    "place": 31,
+    "country": "FRG",
+    "mark": "Did not finish",
+    "name": "Werner VON MOLTKE"
+  },
+  {
+    "place": 32,
+    "country": "SUI",
+    "mark": "Did not finish",
+    "name": "Werner DUTTWEILER"
+  },
+  {
+    "place": 33,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Freddy HERBRAND"
+  }
+]

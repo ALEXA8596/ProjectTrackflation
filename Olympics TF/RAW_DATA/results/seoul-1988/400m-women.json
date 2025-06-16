@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "48.650",
+    "name": "Olga BRYZGINA"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "49.450",
+    "name": "Petra MÜLLER"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "49.900",
+    "name": "Olga NAZAROVA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "50.160",
+    "name": "Valerie Ann BRISCO-HOOKS"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "50.720",
+    "name": "Diane Lynn DIXON"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "51.120",
+    "name": "Denean Elizabeth HOWARD-HILL"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "51.170",
+    "name": "Helga ARENDT"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "51.250",
+    "name": "Maree HOLLAND"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Gerda HAAZ"
+  },
+  {
+    "place": 10,
+    "country": "MRI",
+    "mark": "Did not start",
+    "name": "Sheila SEEBALUCK"
+  }
+]

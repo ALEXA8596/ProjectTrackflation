@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "12.99",
+    "name": "Grant HOLLOWAY"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.09",
+    "name": "Daniel ROBERTS"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "13.09",
+    "name": "Rasheed BROADBELL"
+  },
+  {
+    "place": 4,
+    "country": "ESP",
+    "mark": "13.20",
+    "name": "Enrique LLOPIS"
+  },
+  {
+    "place": 5,
+    "country": "JPN",
+    "mark": "13.21",
+    "name": "Rachid MURATAKE"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "13.32",
+    "name": "Freddie CRITTENDEN"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "13.34",
+    "name": "Orlando BENNETT"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "13.39",
+    "name": "Hansle PARCHMENT"
+  }
+]

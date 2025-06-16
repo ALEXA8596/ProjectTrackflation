@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "RUS",
+    "mark": "2.06",
+    "name": "Elena SLESARENKO"
+  },
+  {
+    "place": 2,
+    "country": "RSA",
+    "mark": "2.02",
+    "name": "Hestrie CLOETE"
+  },
+  {
+    "place": 3,
+    "country": "UKR",
+    "mark": "2.02",
+    "name": "Vita STYOPINA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "1.99",
+    "name": "Amy ACUFF"
+  },
+  {
+    "place": 5,
+    "country": "UKR",
+    "mark": "1.96",
+    "name": "Iryna MYKHAL'CHENKO"
+  },
+  {
+    "place": 6,
+    "country": "RUS",
+    "mark": "1.96",
+    "name": "Anna CHICHEROVA"
+  },
+  {
+    "place": 7,
+    "country": "ROU",
+    "mark": "1.93",
+    "name": "Oana MUȘUNOI-PANTELIMON"
+  },
+  {
+    "place": 8,
+    "country": "ROU",
+    "mark": "1.93",
+    "name": "Monica IAGĂR-DINESCU"
+  },
+  {
+    "place": 9,
+    "country": "UKR",
+    "mark": "1.93",
+    "name": "Inha BABAKOVA"
+  },
+  {
+    "place": 10,
+    "country": "ESP",
+    "mark": "1.93",
+    "name": "Marta MENDIA"
+  },
+  {
+    "place": 11,
+    "country": "CRO",
+    "mark": "1.89",
+    "name": "Blanka VLASIC"
+  },
+  {
+    "place": 12,
+    "country": "BEL",
+    "mark": "1.85",
+    "name": "Tia HELLEBAUT"
+  }
+]

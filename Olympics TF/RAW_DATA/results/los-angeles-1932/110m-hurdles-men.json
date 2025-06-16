@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "14.600",
+    "name": "George J. Jr. SALING"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "14.700",
+    "name": "Percy BEARD"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "14.800",
+    "name": "Donald FINLAY"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "14.800",
+    "name": "John Alton Claude KELLER"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "14.800",
+    "name": "David George BURGHLEY"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "Disqualified",
+    "name": "Willi WELSCHER"
+  },
+  {
+    "place": 7,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Vangelis MOIROPOULOS"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Andre ADELHEIM"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "George Augustus GOLDING"
+  }
+]

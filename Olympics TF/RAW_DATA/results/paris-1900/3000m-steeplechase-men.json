@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "00:07:34.400",
+    "name": "George ORTON"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "at 10 yards",
+    "name": "Sidney ROBINSON"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "at 50 yards",
+    "name": "Jean CHASTANIÉ"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Charles BENNETT"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "John BRAY"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Wilbur Gordon BURROUGHS"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Alex GRANT"
+  }
+]

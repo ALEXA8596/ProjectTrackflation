@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "49.200",
+    "name": "Harry HILLMAN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "49.900",
+    "name": "Frank WALLER"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "50.000",
+    "name": "Herman GROMAN"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Edwin CLAPP"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Frank DAVEY"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Paul BEHRENS"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Phillips COMSTOCK"
+  },
+  {
+    "place": 8,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Frank LUKEMAN"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Charles Joseph BACON"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Fay MOULTON"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "David Curtis MUNSON"
+  }
+]

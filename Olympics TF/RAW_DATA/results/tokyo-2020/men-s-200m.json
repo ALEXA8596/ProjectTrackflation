@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "CAN",
+    "mark": "19.62",
+    "name": "Andre DE GRASSE"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "19.68",
+    "name": "Kenneth BEDNAREK"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "19.74",
+    "name": "Noah LYLES"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "19.93",
+    "name": "Erriyon KNIGHTON"
+  },
+  {
+    "place": 5,
+    "country": "LBR",
+    "mark": "19.98",
+    "name": "Joseph FAHNBULLEH"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "20.20",
+    "name": "Aaron BROWN"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "20.21",
+    "name": "Rasheed DWYER"
+  },
+  {
+    "place": 8,
+    "country": "TTO",
+    "mark": "20.39",
+    "name": "Jereem RICHARDS"
+  }
+]

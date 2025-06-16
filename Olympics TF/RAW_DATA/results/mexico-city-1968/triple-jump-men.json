@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "17.39",
+    "name": "Viktor SANEEV"
+  },
+  {
+    "place": 2,
+    "country": "BRA",
+    "mark": "17.27",
+    "name": "Nelson PRUDENCIO"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "17.22",
+    "name": "Giuseppe GENTILE"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "17.12w",
+    "name": "Arthur Franklin WALKER JR."
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "17.09w",
+    "name": "Nikolai DUDKIN"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "17.02",
+    "name": "Philip MAY"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "16.89",
+    "name": "Jozef SCHMIDT"
+  },
+  {
+    "place": 8,
+    "country": "SEN",
+    "mark": "16.73w",
+    "name": "Mamsdou Monsour DIA"
+  },
+  {
+    "place": 9,
+    "country": "BUL",
+    "mark": "16.46",
+    "name": "Georgi Ivanov STOYKOVSKI"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "16.45",
+    "name": "Henrik KALOCSAI"
+  },
+  {
+    "place": 11,
+    "country": "FRG",
+    "mark": "15.90",
+    "name": "Joachim KÜGLER"
+  },
+  {
+    "place": 12,
+    "country": "ESP",
+    "mark": "15.75",
+    "name": "Luis Felipe ARETA SAMPERIZ"
+  },
+  {
+    "place": 13,
+    "country": "ROU",
+    "mark": "15.62",
+    "name": "Serban CIOCHINA"
+  },
+  {
+    "place": 14,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Labh SINGH"
+  }
+]

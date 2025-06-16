@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "52.000",
+    "name": "Betty CUTHBERT"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "52.200",
+    "name": "Ann Elizabeth PACKER"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "53.400",
+    "name": "Judith Florence AMOORE-POLLOCK"
+  },
+  {
+    "place": 4,
+    "country": "HUN",
+    "mark": "54.400",
+    "name": "Antonia MUNKACSI"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "54.600",
+    "name": "Mariya ITKINA"
+  },
+  {
+    "place": 6,
+    "country": "NED",
+    "mark": "55.200",
+    "name": "Mathilda Catrina VAN DER MADE-VAN DER ZWAARD"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "55.400",
+    "name": "Gertrud SCHMIDT"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "55.500",
+    "name": "Evelyne LEBRET"
+  }
+]

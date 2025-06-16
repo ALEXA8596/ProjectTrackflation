@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "23.700",
+    "name": "Marjorie JACKSON"
+  },
+  {
+    "place": 2,
+    "country": "NED",
+    "mark": "24.200",
+    "name": "Bertha BROUWER"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "24.200",
+    "name": "Nadezhda KHNYKINA-DVALISHVILI"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "24.200",
+    "name": "Winsome CRIPPS-DENNIS"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "24.600",
+    "name": "Helga KLEIN"
+  },
+  {
+    "place": 6,
+    "country": "RSA",
+    "mark": "24.600",
+    "name": "Daphne Lilian Evelyn ROBB-HASENJÄGER"
+  },
+  {
+    "place": 7,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Lilian Reyna BUGLIA"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Shirley STRICKLAND-DE LA HUNTY"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Maria SANDER-DOMAGELLA"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Maria MUSSO"
+  },
+  {
+    "place": 11,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Fanny BLANKERS-KOEN"
+  },
+  {
+    "place": 12,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Sonja PRETOT"
+  },
+  {
+    "place": 13,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Jorunn ASKERSRUD-TANGEN"
+  }
+]

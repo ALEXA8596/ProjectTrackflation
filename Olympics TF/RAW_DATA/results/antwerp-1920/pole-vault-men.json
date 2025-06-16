@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "4.09",
+    "name": "Frank FOSS"
+  },
+  {
+    "place": 2,
+    "country": "DEN",
+    "mark": "3.70",
+    "name": "Henry PETERSEN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "3.60",
+    "name": "Edwin MYERS"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "3.60",
+    "name": "Edward Emil KNOUREK"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "3.60",
+    "name": "Ernfrid RYDBERG"
+  },
+  {
+    "place": 6,
+    "country": "DEN",
+    "mark": "3.60",
+    "name": "Laurits Möller JÖRGENSEN"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "3.60",
+    "name": "Eldon JENNE"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "3.50",
+    "name": "Georg HÖGSTRÖM"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "3.50",
+    "name": "Johan MATTSSON"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Étienne GAJAN"
+  }
+]

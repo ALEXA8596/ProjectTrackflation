@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "7937",
+    "name": "Milton Gray CAMPBELL"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "7587",
+    "name": "Rafer Lewis JOHNSON"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "7465",
+    "name": "Vasili KUZNETSOV"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "6930",
+    "name": "Uno PALU"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "6853",
+    "name": "Martin LAUER"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "6773",
+    "name": "Walter MEIER"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "6565",
+    "name": "Lars Thorbjorn LASSENIUS"
+  },
+  {
+    "place": 8,
+    "country": "TPE",
+    "mark": "6521",
+    "name": "Chuan-Kwang YANG"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "6427",
+    "name": "Pat LEANE"
+  },
+  {
+    "place": 10,
+    "country": "AUS",
+    "mark": "6278",
+    "name": "John CANN"
+  },
+  {
+    "place": 11,
+    "country": "AUS",
+    "mark": "6025",
+    "name": "Ian Baines BRUCE"
+  },
+  {
+    "place": 12,
+    "country": "IRI",
+    "mark": "5103",
+    "name": "Nadjmeddin FARABI"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Bob RICHARDS"
+  },
+  {
+    "place": 14,
+    "country": "URS",
+    "mark": "Did not finish",
+    "name": "Yuri KUTENKO"
+  },
+  {
+    "place": 15,
+    "country": "BEL",
+    "mark": "Did not finish",
+    "name": "Walter Andre HERSSENS"
+  },
+  {
+    "place": 16,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Georgios ROUBANIS"
+  },
+  {
+    "place": 17,
+    "country": "PUR",
+    "mark": "Did not start",
+    "name": "Reinaldo Luis OLIVER MARTINEZ"
+  },
+  {
+    "place": 18,
+    "country": "TPE",
+    "mark": "Did not start",
+    "name": "Chun-Tsai WU"
+  }
+]

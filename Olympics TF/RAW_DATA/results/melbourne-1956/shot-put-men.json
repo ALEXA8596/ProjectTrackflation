@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "18.57",
+    "name": "Parry O'BRIEN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "18.18",
+    "name": "William Henry NIEDER"
+  },
+  {
+    "place": 3,
+    "country": "TCH",
+    "mark": "17.65",
+    "name": "Jiri SKOBLA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "17.48",
+    "name": "Ken BANTUM"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "16.96",
+    "name": "Boris BALYAEV"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "16.65",
+    "name": "Erik UDDEBOM"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "16.63",
+    "name": "Karl-Heinz WEGMANN"
+  },
+  {
+    "place": 8,
+    "country": "GRE",
+    "mark": "16.56",
+    "name": "Georgios TSAKANIKAS"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "16.52",
+    "name": "Barry William DONATH"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "16.28",
+    "name": "Silvano MECONI"
+  },
+  {
+    "place": 11,
+    "country": "AUS",
+    "mark": "16.08",
+    "name": "Robert Peter HANLIN"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "15.81",
+    "name": "William Barclay PALMER"
+  },
+  {
+    "place": 13,
+    "country": "URS",
+    "mark": "15.62",
+    "name": "Vladimir LOSHCHILOV"
+  },
+  {
+    "place": 14,
+    "country": "FRA",
+    "mark": "15.31",
+    "name": "Raymond THOMAS"
+  },
+  {
+    "place": 15,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Vartan OVSEPIAN"
+  },
+  {
+    "place": 16,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Todor Artarski TODOROV"
+  },
+  {
+    "place": 17,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Gerald Anthony CARR"
+  },
+  {
+    "place": 18,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Mark PHARAOH"
+  }
+]

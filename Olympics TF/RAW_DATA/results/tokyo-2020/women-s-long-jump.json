@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "7.00",
+    "name": "Malaika MIHAMBO"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "6.97",
+    "name": "Brittney REESE"
+  },
+  {
+    "place": 3,
+    "country": "NGR",
+    "mark": "6.97",
+    "name": "Ese BRUME"
+  },
+  {
+    "place": 4,
+    "country": "SRB",
+    "mark": "6.91",
+    "name": "Ivana SPANOVIC"
+  },
+  {
+    "place": 5,
+    "country": "UKR",
+    "mark": "6.88",
+    "name": "Maryna BEKH-ROMANCHUK"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "6.84",
+    "name": "Tara DAVIS"
+  },
+  {
+    "place": 7,
+    "country": "AUS",
+    "mark": "6.83",
+    "name": "Brooke STRATTON"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "6.80",
+    "name": "Jazmin SAWYERS"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "6.67",
+    "name": "Khaddi SAGNIA"
+  },
+  {
+    "place": 10,
+    "country": "TTO",
+    "mark": "6.60",
+    "name": "Tyra GITTENS"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "6.51",
+    "name": "Abigail IROZURU"
+  },
+  {
+    "place": 12,
+    "country": "IVB",
+    "mark": "6.50",
+    "name": "Chantel MALONE"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "47.98",
+    "name": "John Franklin ANDERSON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "47.15",
+    "name": "Henri Jean LABORDE"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "47.85",
+    "name": "Paul WINTER"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "46.38",
+    "name": "Jules NOEL"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "x",
+    "name": "Istvan DONOGAN"
+  },
+  {
+    "place": 6,
+    "country": "HUN",
+    "mark": "x",
+    "name": "Endre MADARASZ"
+  },
+  {
+    "place": 7,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "José Antonio MASÓ"
+  },
+  {
+    "place": 8,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Bento BARROS"
+  },
+  {
+    "place": 9,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Hector BERRA"
+  },
+  {
+    "place": 10,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Carmine DI GIORGI"
+  },
+  {
+    "place": 11,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Antonio GIUSFREDI"
+  },
+  {
+    "place": 12,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Jesus AGUIRRE DELGADO"
+  },
+  {
+    "place": 13,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Francisco DÁVILA"
+  }
+]

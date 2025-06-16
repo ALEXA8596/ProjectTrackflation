@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "5.90",
+    "name": "Nick HYSONG"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "5.90",
+    "name": "Lawrence JOHNSON"
+  },
+  {
+    "place": 3,
+    "country": "RUS",
+    "mark": "5.90",
+    "name": "Maksim TARASOV"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "5.90",
+    "name": "Michael STOLLE"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "5.80",
+    "name": "Dmitri MARKOV"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "5.80",
+    "name": "Viktor TCHISTIAKOV"
+  },
+  {
+    "place": 7,
+    "country": "RSA",
+    "mark": "5.80",
+    "name": "Okkert BRITS"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "5.80",
+    "name": "Daniel ECKER"
+  },
+  {
+    "place": 9,
+    "country": "ESP",
+    "mark": "5.70",
+    "name": "Ramon MIRANDA"
+  },
+  {
+    "place": 10,
+    "country": "ISR",
+    "mark": "5.50",
+    "name": "Alexander AVERBUKH"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "5.50",
+    "name": "Giuseppe GIBILISCO"
+  },
+  {
+    "place": 12,
+    "country": "RUS",
+    "mark": "5.50",
+    "name": "Yevgeniy SMIRYAGIN"
+  },
+  {
+    "place": 13,
+    "country": "GER",
+    "mark": "5.50",
+    "name": "Tim LOBINGER"
+  },
+  {
+    "place": 14,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Ruhan IŞIM"
+  }
+]

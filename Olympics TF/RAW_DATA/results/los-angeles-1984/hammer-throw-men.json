@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "78.08",
+    "name": "Juha TIAINEN"
+  },
+  {
+    "place": 2,
+    "country": "FRG",
+    "mark": "77.98",
+    "name": "Karl-Hans RIEHM"
+  },
+  {
+    "place": 3,
+    "country": "FRG",
+    "mark": "76.68",
+    "name": "Klaus PLOGHAUS"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "75.94",
+    "name": "Orlando BIANCHINI"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "75.60",
+    "name": "William Earnest GREEN"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "75.28",
+    "name": "Harri HUHTALA"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "73.46",
+    "name": "Walter CIOFANI"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "72.62",
+    "name": "Robert B. WEIR"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "72.32",
+    "name": "Martin GIRVAN"
+  },
+  {
+    "place": 10,
+    "country": "FRG",
+    "mark": "No mark",
+    "name": "Christoph SAHNER"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "No mark",
+    "name": "Matthew D. MILEHAM"
+  },
+  {
+    "place": 12,
+    "country": "ITA",
+    "mark": "Disqualified",
+    "name": "Gianpaolo URLANDO"
+  }
+]

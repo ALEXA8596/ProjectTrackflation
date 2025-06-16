@@ -1,0 +1,134 @@
+[
+  {
+    "place": 1,
+    "country": "ETH",
+    "mark": "00:31:06.020",
+    "name": "Derartu TULU"
+  },
+  {
+    "place": 2,
+    "country": "RSA",
+    "mark": "00:31:11.750",
+    "name": "Elana MEYER"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "00:31:19.890",
+    "name": "Lynn A. JENNINGS"
+  },
+  {
+    "place": 4,
+    "country": "CHN",
+    "mark": "00:31:21.080",
+    "name": "Huandi ZHONG"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:31:26.110",
+    "name": "Liz MCCOLGAN"
+  },
+  {
+    "place": 6,
+    "country": "CHN",
+    "mark": "00:31:28.060",
+    "name": "Xiuting WANG"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "00:31:36.450",
+    "name": "Uta PIPPIG"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:31:38.040",
+    "name": "Judi Anne ST. HILAIRE"
+  },
+  {
+    "place": 9,
+    "country": "KEN",
+    "mark": "00:31:38.910",
+    "name": "Helen KIMAIYO"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "00:31:46.490",
+    "name": "Jill HUNTER"
+  },
+  {
+    "place": 11,
+    "country": "NED",
+    "mark": "00:31:47.380",
+    "name": "Christine TOONSTRA"
+  },
+  {
+    "place": 12,
+    "country": "JPN",
+    "mark": "00:31:55.060",
+    "name": "Izumi MAKI"
+  },
+  {
+    "place": 13,
+    "country": "POR",
+    "mark": "00:32:03.930",
+    "name": "Albertina DIAS"
+  },
+  {
+    "place": 14,
+    "country": "JPN",
+    "mark": "00:32:09.580",
+    "name": "Miki IGARASHI"
+  },
+  {
+    "place": 15,
+    "country": "BEL",
+    "mark": "00:32:14.170",
+    "name": "Godelieve SLEGERS"
+  },
+  {
+    "place": 16,
+    "country": "ITA",
+    "mark": "00:32:37.910",
+    "name": "Rosanna MUNEROTTO"
+  },
+  {
+    "place": 17,
+    "country": "KEN",
+    "mark": "00:32:53.090",
+    "name": "Tegla LOROUPE"
+  },
+  {
+    "place": 18,
+    "country": "ETH",
+    "mark": "00:34:05.560",
+    "name": "Tigist MOREDA"
+  },
+  {
+    "place": 19,
+    "country": "POR",
+    "mark": "Did not finish",
+    "name": "Fernanda MARQUES"
+  },
+  {
+    "place": 20,
+    "country": "POR",
+    "mark": "Did not finish",
+    "name": "Conceiçao FERREIRA"
+  },
+  {
+    "place": 21,
+    "country": "BOL",
+    "mark": "Did not start",
+    "name": "Sandra CORTEZ"
+  },
+  {
+    "place": 22,
+    "country": "ISV",
+    "mark": "Did not start",
+    "name": "Ana GUTIERREZ WITTMANN"
+  }
+]

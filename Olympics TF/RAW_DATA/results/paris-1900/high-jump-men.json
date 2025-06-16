@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "1.90",
+    "name": "Irving BAXTER"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "1.78",
+    "name": "Patrick Joseph LEAHY"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "1.75",
+    "name": "Lajos GÖNCZY"
+  },
+  {
+    "place": 4,
+    "country": "NOR",
+    "mark": "1.70",
+    "name": "Carl Albert ANDERSEN"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "1.70",
+    "name": "Eric LEMMING"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "1.70",
+    "name": "Waldemar STEFFEN"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "1.60",
+    "name": "Louis MONNIER"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "1.50",
+    "name": "Tore BLOM"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Walter CARROLL"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Arpád DANOS"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "William Procter REMINGTON"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Peter O'CONNOR"
+  }
+]

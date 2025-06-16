@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "17.35",
+    "name": "Yaak UUDMAE"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "17.24",
+    "name": "Viktor SANEEV"
+  },
+  {
+    "place": 3,
+    "country": "BRA",
+    "mark": "17.22",
+    "name": "Joao Carlos DE OLIVEIRA"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "16.87",
+    "name": "Keith CONNOR"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "16.72",
+    "name": "Lan CAMPBELL"
+  },
+  {
+    "place": 6,
+    "country": "BUL",
+    "mark": "16.56",
+    "name": "Atanas CHOCHEV"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "16.47",
+    "name": "Bela BAKOSI"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "16.44",
+    "name": "Kenneth LORRAWAY"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "16.12",
+    "name": "Evgeni ANIKIN"
+  },
+  {
+    "place": 10,
+    "country": "YUG",
+    "mark": "16.09",
+    "name": "Milan SPASOJEVIC"
+  },
+  {
+    "place": 11,
+    "country": "CUB",
+    "mark": "16.03w",
+    "name": "Armando HERRERA LEAL"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Christian VALETUDIE"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "00:03:32.070",
+    "name": "Noah Kiprono NGENYI"
+  },
+  {
+    "place": 2,
+    "country": "MAR",
+    "mark": "00:03:32.320",
+    "name": "Hicham EL GUERROUJ"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "00:03:32.440",
+    "name": "Bernard LAGAT"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "00:03:34.140",
+    "name": "Mehdi BAALA"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "00:03:35.500",
+    "name": "Kevin SULLIVAN"
+  },
+  {
+    "place": 6,
+    "country": "ETH",
+    "mark": "00:03:36.780",
+    "name": "Danial ZEGEYE"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "00:03:37.270",
+    "name": "Andres DIAZ"
+  },
+  {
+    "place": 8,
+    "country": "ESP",
+    "mark": "00:03:38.910",
+    "name": "Juan Carlos HIGUERO"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "00:03:39.410",
+    "name": "John MAYOCK"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "00:03:39.840",
+    "name": "Jason PYRAH"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "00:03:45.460",
+    "name": "Driss MAAZOUZI"
+  },
+  {
+    "place": 12,
+    "country": "MAR",
+    "mark": "00:03:56.080",
+    "name": "Youssef BABA"
+  }
+]

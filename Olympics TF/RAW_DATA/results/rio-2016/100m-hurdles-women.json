@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "12.480",
+    "name": "Brianna ROLLINS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "12.590",
+    "name": "Nia ALI"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "12.610",
+    "name": "Kristi CASTLIN"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "12.630",
+    "name": "Cindy OFILI"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "12.740",
+    "name": "Cindy ROLEDER"
+  },
+  {
+    "place": 6,
+    "country": "BAH",
+    "mark": "12.760",
+    "name": "Pedrya SEYMOUR"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "12.760",
+    "name": "Tiffany PORTER"
+  },
+  {
+    "place": 8,
+    "country": "CAN",
+    "mark": "12.890",
+    "name": "Phylicia GEORGE"
+  },
+  {
+    "place": 9,
+    "country": "GEQ",
+    "mark": "Did not start",
+    "name": "Reina-Flor OKORI"
+  }
+]

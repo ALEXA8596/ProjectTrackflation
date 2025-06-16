@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "46.200",
+    "name": "Arthur WINT"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "46.400",
+    "name": "Herbert MCKENLEY"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "46.900",
+    "name": "Malvin Groston WHITFIELD"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "47.200",
+    "name": "David Benjamin BOLEN"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "47.900",
+    "name": "Morris Joseph CUROTTA"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "50.200",
+    "name": "George James GUIDA"
+  },
+  {
+    "place": 7,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Rodolfo CARRERA"
+  },
+  {
+    "place": 8,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Herluf Eigil CHRISTENSEN"
+  },
+  {
+    "place": 9,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Niels HOLST-SÖRENSEN"
+  },
+  {
+    "place": 10,
+    "country": "NZL",
+    "mark": "Did not start",
+    "name": "Doug HARRIS"
+  },
+  {
+    "place": 11,
+    "country": "PER",
+    "mark": "Did not start",
+    "name": "Santiago FERRANDO DIETZ"
+  },
+  {
+    "place": 12,
+    "country": "SRI",
+    "mark": "Did not start",
+    "name": "Duncan WHITE"
+  },
+  {
+    "place": 13,
+    "country": "URU",
+    "mark": "Did not start",
+    "name": "Mario FAYOS"
+  },
+  {
+    "place": 14,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Jerko BULIC"
+  }
+]

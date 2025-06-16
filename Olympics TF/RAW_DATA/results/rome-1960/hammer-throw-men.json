@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "67.10",
+    "name": "Vasili RUDENKOV"
+  },
+  {
+    "place": 2,
+    "country": "HUN",
+    "mark": "65.79",
+    "name": "Gyula ZSIVOTZKY"
+  },
+  {
+    "place": 3,
+    "country": "POL",
+    "mark": "65.64",
+    "name": "Tadeusz RUT"
+  },
+  {
+    "place": 4,
+    "country": "IRL",
+    "mark": "64.95",
+    "name": "John Frank LAWLOR"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "64.57",
+    "name": "Olgierd CIEPLY"
+  },
+  {
+    "place": 6,
+    "country": "YUG",
+    "mark": "64.21",
+    "name": "Zvonko BEZJAK"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "63.60",
+    "name": "Anatoli SAMOTSVETOV"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "63.59",
+    "name": "Hal CONNOLLY"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "63.53",
+    "name": "Heinrich THUN"
+  },
+  {
+    "place": 10,
+    "country": "URS",
+    "mark": "63.10",
+    "name": "Yuri NIKULIN"
+  },
+  {
+    "place": 11,
+    "country": "NOR",
+    "mark": "63.05",
+    "name": "Sverre STRANDLI"
+  },
+  {
+    "place": 12,
+    "country": "PAK",
+    "mark": "61.79",
+    "name": "Muhammad IQBAL"
+  },
+  {
+    "place": 13,
+    "country": "JPN",
+    "mark": "60.08",
+    "name": "Noboru OKAMOTO"
+  },
+  {
+    "place": 14,
+    "country": "USA",
+    "mark": "59.76",
+    "name": "Albert William HALL"
+  },
+  {
+    "place": 15,
+    "country": "GBR",
+    "mark": "54.22",
+    "name": "Michael ELLIS"
+  },
+  {
+    "place": 16,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Erman BASTIAN"
+  }
+]

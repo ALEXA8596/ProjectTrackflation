@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "8.38",
+    "name": "Jeff HENDERSON"
+  },
+  {
+    "place": 2,
+    "country": "RSA",
+    "mark": "8.37",
+    "name": "Luvo MANYONGA"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "8.29",
+    "name": "Greg RUTHERFORD"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "8.25",
+    "name": "Jarrion LAWSON"
+  },
+  {
+    "place": 5,
+    "country": "CHN",
+    "mark": "8.17",
+    "name": "Jianan WANG"
+  },
+  {
+    "place": 6,
+    "country": "URU",
+    "mark": "8.10",
+    "name": "Emiliano LASA"
+  },
+  {
+    "place": 7,
+    "country": "AUS",
+    "mark": "8.06",
+    "name": "Henry FRAYNE"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "8.05",
+    "name": "Kafetien GOMIS"
+  },
+  {
+    "place": 9,
+    "country": "RSA",
+    "mark": "7.97",
+    "name": "Rushwal SAMAAI"
+  },
+  {
+    "place": 10,
+    "country": "AUS",
+    "mark": "7.87",
+    "name": "Fabrice LAPIERRE"
+  },
+  {
+    "place": 11,
+    "country": "CHN",
+    "mark": "7.86",
+    "name": "Changzhou HUANG"
+  },
+  {
+    "place": 12,
+    "country": "JAM",
+    "mark": "7.82",
+    "name": "Damar FORBES"
+  }
+]

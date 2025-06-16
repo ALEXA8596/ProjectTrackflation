@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "20.56",
+    "name": "Astrid KUMBERNUSS"
+  },
+  {
+    "place": 2,
+    "country": "CHN",
+    "mark": "19.88",
+    "name": "Xinmei SUI"
+  },
+  {
+    "place": 3,
+    "country": "RUS",
+    "mark": "19.35",
+    "name": "Irina KHUDOROSHKINA"
+  },
+  {
+    "place": 4,
+    "country": "UKR",
+    "mark": "19.30",
+    "name": "Vita PAVLYSH"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "19.22",
+    "name": "Connie Marie PRICE-SMITH"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "19.06",
+    "name": "Stephanie STORP"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "18.92",
+    "name": "Kathrin NEIMKE"
+  },
+  {
+    "place": 8,
+    "country": "RUS",
+    "mark": "18.68",
+    "name": "Irina KORZHANENKO"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "18.48",
+    "name": "Ramona PAGEL"
+  },
+  {
+    "place": 10,
+    "country": "CUB",
+    "mark": "18.40",
+    "name": "Belsy LAZA"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "18.34",
+    "name": "Judith Miriam OAKES"
+  },
+  {
+    "place": 12,
+    "country": "UKR",
+    "mark": "17.99",
+    "name": "Walentina FEDJUSCHINA"
+  },
+  {
+    "place": 13,
+    "country": "CHN",
+    "mark": "Did not start",
+    "name": "Zhihong HUANG"
+  },
+  {
+    "place": 14,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Corrie DE BRUIN"
+  }
+]

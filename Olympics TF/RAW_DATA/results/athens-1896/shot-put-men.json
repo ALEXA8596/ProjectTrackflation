@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "OR",
+    "name": "Bob GARRETT"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Conrad BÖCKER"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Pál PÉTHY"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Louis ADLER"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Momcsillo TAPAVICZA"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Alfred FLATOW"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Hermann WEINGÄRTNER"
+  },
+  {
+    "place": 8,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Holger NIELSEN"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Alphonse GRISEL"
+  },
+  {
+    "place": 10,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Charles WINCKLER"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "George Stuart ROBERTSON"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Dezső WEIN"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Charles VANONI"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "8869",
+    "name": "Ashton EATON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "8671",
+    "name": "Trey HARDEE"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "8523",
+    "name": "Leonel SUAREZ"
+  },
+  {
+    "place": 4,
+    "country": "BEL",
+    "mark": "8447",
+    "name": "Hans VAN ALPHEN"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "8442",
+    "name": "Damian WARNER"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "8320",
+    "name": "Rico FREIMUTH"
+  },
+  {
+    "place": 7,
+    "country": "UKR",
+    "mark": "8283",
+    "name": "Oleksiy KASYANOV"
+  },
+  {
+    "place": 8,
+    "country": "RUS",
+    "mark": "8219",
+    "name": "Sergey SVIRIDOV"
+  },
+  {
+    "place": 9,
+    "country": "RSA",
+    "mark": "8173",
+    "name": "Willem COERTZEN"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "8126",
+    "name": "Pascal BEHRENBRUCH"
+  },
+  {
+    "place": 11,
+    "country": "NED",
+    "mark": "8034",
+    "name": "Eelco SINTNICOLAAS"
+  },
+  {
+    "place": 12,
+    "country": "NZL",
+    "mark": "7988",
+    "name": "Brent NEWDICK"
+  },
+  {
+    "place": 13,
+    "country": "CHI",
+    "mark": "7972",
+    "name": "Gonzalo BARROILHET"
+  },
+  {
+    "place": 14,
+    "country": "CUB",
+    "mark": "7956",
+    "name": "Yordani GARCIA"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "7952",
+    "name": "Kevin MAYER"
+  },
+  {
+    "place": 16,
+    "country": "RUS",
+    "mark": "7948",
+    "name": "Ilya SHKURENYOV"
+  },
+  {
+    "place": 17,
+    "country": "BLR",
+    "mark": "7928",
+    "name": "Eduard MIKHAN"
+  },
+  {
+    "place": 18,
+    "country": "KAZ",
+    "mark": "7926",
+    "name": "Dmitriy KARPOV"
+  },
+  {
+    "place": 19,
+    "country": "BRA",
+    "mark": "7849",
+    "name": "Luiz Alberto DE ARAUJO"
+  },
+  {
+    "place": 20,
+    "country": "JPN",
+    "mark": "7842",
+    "name": "Keisuke USHIRO"
+  },
+  {
+    "place": 21,
+    "country": "NED",
+    "mark": "7805",
+    "name": "Ingmar VOS"
+  },
+  {
+    "place": 22,
+    "country": "LAT",
+    "mark": "7649",
+    "name": "Edgars ERINS"
+  },
+  {
+    "place": 23,
+    "country": "LBR",
+    "mark": "7586",
+    "name": "Jangy ADDY"
+  },
+  {
+    "place": 24,
+    "country": "HUN",
+    "mark": "7581",
+    "name": "Attila SZABO"
+  },
+  {
+    "place": 25,
+    "country": "LTU",
+    "mark": "7557",
+    "name": "Darius DRAUDVILA"
+  },
+  {
+    "place": 26,
+    "country": "UZB",
+    "mark": "7203",
+    "name": "Rifat ARTIKOV"
+  },
+  {
+    "place": 27,
+    "country": "GER",
+    "mark": "Did not finish",
+    "name": "Jan Felix KNOBEL"
+  },
+  {
+    "place": 28,
+    "country": "GRN",
+    "mark": "Did not finish",
+    "name": "Kurt FELIX"
+  },
+  {
+    "place": 29,
+    "country": "SRB",
+    "mark": "Did not finish",
+    "name": "Mihail DUDAS"
+  },
+  {
+    "place": 30,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Daniel AWDE"
+  },
+  {
+    "place": 31,
+    "country": "CZE",
+    "mark": "Did not finish",
+    "name": "Roman SEBRLE"
+  }
+]

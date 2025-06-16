@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "20.230",
+    "name": "Donald QUARRIE"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "20.290",
+    "name": "Millard Frank Jr. HAMPTON"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "20.430",
+    "name": "Dwayne Eugene EVANS"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "20.540",
+    "name": "Pietro MENNEA"
+  },
+  {
+    "place": 5,
+    "country": "BRA",
+    "mark": "20.840",
+    "name": "Ruy DA SILVA"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "20.910",
+    "name": "Bogdan GRZEJSZCZAK"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "21.170",
+    "name": "Colin BRADFORD"
+  },
+  {
+    "place": 8,
+    "country": "TTO",
+    "mark": "00:01:19.600",
+    "name": "Hasely CRAWFORD"
+  },
+  {
+    "place": 9,
+    "country": "DOM",
+    "mark": "Did not start",
+    "name": "Félix LÓPEZ"
+  },
+  {
+    "place": 10,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Robert MARTIN"
+  },
+  {
+    "place": 11,
+    "country": "BIZ",
+    "mark": "Did not start",
+    "name": "Colin Evandale THURTON"
+  },
+  {
+    "place": 12,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Peter PETROV"
+  },
+  {
+    "place": 13,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Francisco GOMEZ HACHAVARRIA"
+  },
+  {
+    "place": 14,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Silvio LEONARD SARRIA"
+  },
+  {
+    "place": 15,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Hermes Julian RAMIREZ LIMONTA"
+  },
+  {
+    "place": 16,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Hannu Juhani MAKELA"
+  },
+  {
+    "place": 17,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Aleksandr AKSININ"
+  },
+  {
+    "place": 18,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Valerii BORZOV"
+  }
+]

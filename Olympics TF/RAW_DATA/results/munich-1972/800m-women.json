@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "FRG",
+    "mark": "00:01:58.550",
+    "name": "Hildegard FALCK-JANZE"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "00:01:58.650",
+    "name": "Niole SABAITE"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "00:01:59.190",
+    "name": "Gunhild HOFFMEISTER"
+  },
+  {
+    "place": 4,
+    "country": "BUL",
+    "mark": "00:01:59.720",
+    "name": "Svetla ZLATEVA"
+  },
+  {
+    "place": 5,
+    "country": "YUG",
+    "mark": "00:01:59.980",
+    "name": "Vera NIKOLIC"
+  },
+  {
+    "place": 6,
+    "country": "ROU",
+    "mark": "00:02:00.040",
+    "name": "Ileana SILAI"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "00:02:00.150",
+    "name": "Rosemary Olivia STIRLING"
+  },
+  {
+    "place": 8,
+    "country": "CAN",
+    "mark": "00:02:00.170",
+    "name": "Abby HOFFMAN"
+  },
+  {
+    "place": 9,
+    "country": "LBN",
+    "mark": "Did not start",
+    "name": "Arda KALPAKIAN"
+  }
+]

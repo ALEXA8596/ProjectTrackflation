@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "FRA",
+    "mark": "5.75",
+    "name": "Pierre QUINON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "5.65",
+    "name": "Michael Scott TULLY"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "5.60",
+    "name": "Thierry VIGNERON"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "5.60",
+    "name": "Earl Holmes BELL"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "5.45",
+    "name": "Kimmo PALLONEN"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "5.40",
+    "name": "Douglas Paul LYTLE"
+  },
+  {
+    "place": 7,
+    "country": "SUI",
+    "mark": "5.30",
+    "name": "Felix BOHNI"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "5.30",
+    "name": "Mauro BARELLA"
+  },
+  {
+    "place": 9,
+    "country": "ESP",
+    "mark": "5.20",
+    "name": "Alberto RUIZ BENITO"
+  },
+  {
+    "place": 10,
+    "country": "CHN",
+    "mark": "5.10",
+    "name": "Wei-Min YANG"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "5.10",
+    "name": "Jeffrey GUTTERIDGE"
+  },
+  {
+    "place": 12,
+    "country": "BRA",
+    "mark": "No mark",
+    "name": "Tom HINTNAUS"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "No mark",
+    "name": "Serge FERREIRA"
+  },
+  {
+    "place": 14,
+    "country": "JPN",
+    "mark": "No mark",
+    "name": "Tomomi TAKAHASHI"
+  },
+  {
+    "place": 15,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Alfonso CANO"
+  }
+]

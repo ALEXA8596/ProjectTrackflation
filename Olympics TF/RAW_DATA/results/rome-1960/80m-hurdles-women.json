@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "10.800",
+    "name": "Iryna PRESS"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "10.900",
+    "name": "Carole Louis QUINTON"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "11.000",
+    "name": "Gisela KÖHLER-BIRKEMEYER"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "11.100",
+    "name": "Mary Denise BIGNAL-RAND"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "11.200",
+    "name": "Galina BYSTROVA"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "11.200",
+    "name": "Rimma KOSHELEVA"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Maria BACSKAI"
+  }
+]

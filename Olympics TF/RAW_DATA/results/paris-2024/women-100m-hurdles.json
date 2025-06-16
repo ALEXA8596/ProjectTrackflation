@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "12.33",
+    "name": "Masai RUSSELL"
+  },
+  {
+    "place": 2,
+    "country": "FRA",
+    "mark": "12.34",
+    "name": "Cyrena SAMBA-MAYELA"
+  },
+  {
+    "place": 3,
+    "country": "PUR",
+    "mark": "12.36",
+    "name": "Jasmine CAMACHO-QUINN"
+  },
+  {
+    "place": 4,
+    "country": "NED",
+    "mark": "12.43",
+    "name": "Nadine VISSER"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "12.43",
+    "name": "Grace Elizabeth STARK"
+  },
+  {
+    "place": 6,
+    "country": "BAH",
+    "mark": "12.56",
+    "name": "Devynne CHARLTON"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "12.93",
+    "name": "Alaysha JOHNSON"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "Did not finish",
+    "name": "Ackera NUGENT"
+  }
+]

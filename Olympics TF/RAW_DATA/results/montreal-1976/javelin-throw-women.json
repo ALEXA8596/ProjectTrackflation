@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "65.94",
+    "name": "Ruth FUCHS"
+  },
+  {
+    "place": 2,
+    "country": "FRG",
+    "mark": "64.70",
+    "name": "Marion BECKER-STEINER"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "63.96",
+    "name": "Kathryn Joan SCHMIDT"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "63.84",
+    "name": "Jaqueline TODTEN-HEIN"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "63.08",
+    "name": "Sabine SEBROWSKI"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "59.42",
+    "name": "Svetlana KOROLYOVA-BABICH"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "59.16",
+    "name": "Nadezhda YAKUBOVICH"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "57.50",
+    "name": "Karin Kiefer SMITH"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "57.20",
+    "name": "Eva JANKO-EGGER"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "57.00",
+    "name": "Teresa SANDERSON"
+  },
+  {
+    "place": 11,
+    "country": "ROU",
+    "mark": "55.60",
+    "name": "Eva Ileana ZORGO-RADULY"
+  },
+  {
+    "place": 12,
+    "country": "BUL",
+    "mark": "52.24",
+    "name": "Yordanka PEEVA"
+  }
+]

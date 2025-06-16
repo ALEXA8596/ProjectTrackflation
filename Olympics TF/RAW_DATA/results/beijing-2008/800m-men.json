@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "00:01:44.650",
+    "name": "Wilfred BUNGEI"
+  },
+  {
+    "place": 2,
+    "country": "SUD",
+    "mark": "00:01:44.700",
+    "name": "Ismail Ahmed ISMAIL"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "00:01:44.820",
+    "name": "Alfred Kirwa YEGO"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "00:01:44.940",
+    "name": "Gary REED"
+  },
+  {
+    "place": 5,
+    "country": "BRN",
+    "mark": "00:01:44.950",
+    "name": "Yusuf Saad KAMEL"
+  },
+  {
+    "place": 6,
+    "country": "CUB",
+    "mark": "00:01:45.880",
+    "name": "Yeimer LOPEZ"
+  },
+  {
+    "place": 7,
+    "country": "ALG",
+    "mark": "00:01:45.960",
+    "name": "Nabil MADI"
+  },
+  {
+    "place": 8,
+    "country": "ALG",
+    "mark": "00:01:47.190",
+    "name": "Nadjim MANSEUR"
+  },
+  {
+    "place": 9,
+    "country": "NZL",
+    "mark": "Did not start",
+    "name": "Nick WILLIS"
+  },
+  {
+    "place": 10,
+    "country": "ECU",
+    "mark": "Did not start",
+    "name": "Byron PIEDRA"
+  },
+  {
+    "place": 11,
+    "country": "ALG",
+    "mark": "Did not start",
+    "name": "Anter ZERGUELAINE"
+  }
+]

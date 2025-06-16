@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "ROU",
+    "mark": "x",
+    "name": "Lia MANOLIU"
+  },
+  {
+    "place": 2,
+    "country": "FRG",
+    "mark": "x",
+    "name": "Liselotte (Liesel) WESTERMANN"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "x",
+    "name": "Jolan KLEIBER-KONTSEK"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "52.34",
+    "name": "Anita OTTO"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "x",
+    "name": "Antonina POPOVA"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "50.40",
+    "name": "Olga FIKOTOVA-CONNOLLY"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "49.80",
+    "name": "Christine SPIELBERG"
+  },
+  {
+    "place": 8,
+    "country": "FRG",
+    "mark": "50.46",
+    "name": "Brigitte BERENDONK"
+  },
+  {
+    "place": 9,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "Mary MCNEIL"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Judit BOGNAR-LENDVAI"
+  }
+]

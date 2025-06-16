@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "CHN",
+    "mark": "12.910",
+    "name": "Xiang LIU"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.180",
+    "name": "Terrence TRAMMELL"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "13.200",
+    "name": "Anier GARCIA"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "13.210",
+    "name": "Maurice WIGNALL"
+  },
+  {
+    "place": 5,
+    "country": "LAT",
+    "mark": "13.210",
+    "name": "Stanislavs OLIJARS"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "13.480",
+    "name": "Charles Tyrone ALLEN"
+  },
+  {
+    "place": 7,
+    "country": "BRA",
+    "mark": "13.490",
+    "name": "Matheus Facho INOCÊNCIO"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "13.760",
+    "name": "Ladji DOUCOURE"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "Disqualified",
+    "name": "Duane ROSS"
+  },
+  {
+    "place": 10,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Redelen DOS SANTOS"
+  }
+]

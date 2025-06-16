@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "16.81",
+    "name": "Jozef SCHMIDT"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "16.63",
+    "name": "Vladimir GORYAEV"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "16.43",
+    "name": "Vitold KREER"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "16.41",
+    "name": "Ira Sylvester DAVIS"
+  },
+  {
+    "place": 5,
+    "country": "ISL",
+    "mark": "16.37",
+    "name": "Vilhjalmur EINARSSON"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "16.01",
+    "name": "Ryszard MALCHERCZYK"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "15.93",
+    "name": "Manfred HINZE"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "15.84",
+    "name": "Kari Tapani RAHKAMO"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "15.71",
+    "name": "Ian Ross TOMLINSON"
+  },
+  {
+    "place": 10,
+    "country": "URS",
+    "mark": "15.67",
+    "name": "Yevgeny MIKHAYLOV"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "15.49",
+    "name": "Sten ERICSON"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "15.49",
+    "name": "Fred John ALSOP"
+  },
+  {
+    "place": 13,
+    "country": "AUS",
+    "mark": "15.22",
+    "name": "John BAGULEY"
+  },
+  {
+    "place": 14,
+    "country": "BRA",
+    "mark": "15.07",
+    "name": "Adhemar FERREIRA DA SILVA"
+  },
+  {
+    "place": 15,
+    "country": "ITA",
+    "mark": "No mark",
+    "name": "Pierluigi GATTI"
+  },
+  {
+    "place": 16,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Lyuben Nikolov GURGUCHINOV"
+  },
+  {
+    "place": 17,
+    "country": "MAS",
+    "mark": "Did not start",
+    "name": "Kaimar-ud-din BIN MAIDIN"
+  }
+]

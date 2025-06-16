@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "68.37",
+    "name": "Christoph HARTING"
+  },
+  {
+    "place": 2,
+    "country": "POL",
+    "mark": "67.55",
+    "name": "Piotr MALACHOWSKI"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "67.05",
+    "name": "Daniel JASINSKI"
+  },
+  {
+    "place": 4,
+    "country": "EST",
+    "mark": "66.58",
+    "name": "Martin KUPPER"
+  },
+  {
+    "place": 5,
+    "country": "EST",
+    "mark": "65.10",
+    "name": "Gerd KANTER"
+  },
+  {
+    "place": 6,
+    "country": "AUT",
+    "mark": "64.95",
+    "name": "Lukas WEISSHAIDINGER"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "64.50",
+    "name": "Zoltan KOVAGO"
+  },
+  {
+    "place": 8,
+    "country": "CYP",
+    "mark": "63.72",
+    "name": "Apostolos PARELLIS"
+  },
+  {
+    "place": 9,
+    "country": "BEL",
+    "mark": "62.22",
+    "name": "Philip MILANOV"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "62.12",
+    "name": "Axel HARSTEDT"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "62.05",
+    "name": "Mason FINLEY"
+  },
+  {
+    "place": 12,
+    "country": "LTU",
+    "mark": "60.66",
+    "name": "Andrius GUDZIUS"
+  }
+]

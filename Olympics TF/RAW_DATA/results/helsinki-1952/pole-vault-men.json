@@ -1,0 +1,140 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "4.55",
+    "name": "Bob RICHARDS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "4.50",
+    "name": "Donald Robert LAZ"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "4.40",
+    "name": "Ragnar LUNDBERG"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "4.40",
+    "name": "Pyotr DENISENKO"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "4.30",
+    "name": "Valto Rudolf OLENIUS"
+  },
+  {
+    "place": 6,
+    "country": "JPN",
+    "mark": "4.20",
+    "name": "Bunkichi SAWADA"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "4.20",
+    "name": "Vladimir BRAZHNIK"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "4.20",
+    "name": "Viktor KNYAZEV"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "4.20",
+    "name": "George Frank MATTOS"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "4.10",
+    "name": "Erkki Olavi KATAJA"
+  },
+  {
+    "place": 11,
+    "country": "HUN",
+    "mark": "4.10",
+    "name": "Tamas HOMMONAY"
+  },
+  {
+    "place": 12,
+    "country": "SWE",
+    "mark": "4.10",
+    "name": "Lennart LIND"
+  },
+  {
+    "place": 13,
+    "country": "YUG",
+    "mark": "4.10",
+    "name": "Milan MILAKOV"
+  },
+  {
+    "place": 14,
+    "country": "GRE",
+    "mark": "3.95",
+    "name": "Rigas EFSTATHIADIS"
+  },
+  {
+    "place": 15,
+    "country": "ISL",
+    "mark": "3.95",
+    "name": "Torfi BRYNGEIRSSON"
+  },
+  {
+    "place": 16,
+    "country": "NOR",
+    "mark": "3.80",
+    "name": "Erling KAAS"
+  },
+  {
+    "place": 17,
+    "country": "GRE",
+    "mark": "3.80",
+    "name": "Theodosios BALAFAS"
+  },
+  {
+    "place": 18,
+    "country": "FIN",
+    "mark": "3.80",
+    "name": "Juho Ensio PIIRONEN"
+  },
+  {
+    "place": 19,
+    "country": "ROU",
+    "mark": "3.80",
+    "name": "Zeno DRAGOMIR"
+  },
+  {
+    "place": 20,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Jorge AGUILERA"
+  },
+  {
+    "place": 21,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Franz FRITZ"
+  },
+  {
+    "place": 22,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Georges BREITMAN"
+  },
+  {
+    "place": 23,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Edward ADAMCZYK"
+  }
+]

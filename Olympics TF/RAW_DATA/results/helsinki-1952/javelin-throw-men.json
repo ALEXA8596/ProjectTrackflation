@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "73.78",
+    "name": "Cyrus C. Jr. YOUNG"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "72.46",
+    "name": "William Preston MILLER"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "71.89",
+    "name": "Toivo Armas HYYTIÄINEN"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "71.72",
+    "name": "Viktor TSYBULENKO"
+  },
+  {
+    "place": 5,
+    "country": "YUG",
+    "mark": "70.55",
+    "name": "Branko DANGUBIC"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "70.37",
+    "name": "Vladimir KUZNETSOV"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "69.04",
+    "name": "Ragnar ERICZON"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "68.80",
+    "name": "Soini Mikael NIKKINEN"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "68.42",
+    "name": "Franklin Wesley HELD"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "67.47",
+    "name": "Per-Arne BERGLUND"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "65.50",
+    "name": "Otto BENGTSSON"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "64.54",
+    "name": "Herbert KOSCHEL"
+  },
+  {
+    "place": 13,
+    "country": "URS",
+    "mark": "64.52",
+    "name": "Yury SHCHERBAKOV"
+  },
+  {
+    "place": 14,
+    "country": "GBR",
+    "mark": "63.75",
+    "name": "Dick MILLER"
+  },
+  {
+    "place": 15,
+    "country": "ARG",
+    "mark": "62.82",
+    "name": "Ricardo Matias HEBER"
+  },
+  {
+    "place": 16,
+    "country": "FIN",
+    "mark": "62.61",
+    "name": "Eino LEPPANEN"
+  },
+  {
+    "place": 17,
+    "country": "ITA",
+    "mark": "61.67",
+    "name": "Amos MATTEUCCI"
+  },
+  {
+    "place": 18,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Pedro APPELANIZ ZARRAGA"
+  }
+]

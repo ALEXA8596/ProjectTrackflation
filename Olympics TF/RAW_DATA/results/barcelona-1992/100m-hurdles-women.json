@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "GRE",
+    "mark": "12.640",
+    "name": "Paraskevi Voula PATOULIDOU"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "12.690",
+    "name": "La Vona Ann MARTIN"
+  },
+  {
+    "place": 3,
+    "country": "BUL",
+    "mark": "12.700",
+    "name": "Yordanka DONKOVA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "12.750",
+    "name": "Lynda TOLBERT-GOODE"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "12.750",
+    "name": "Yolanda Gail DEVERS-ROBERTS"
+  },
+  {
+    "place": 6,
+    "country": "CUB",
+    "mark": "12.870",
+    "name": "Aliuska LOPEZ"
+  },
+  {
+    "place": 7,
+    "country": "EUN",
+    "mark": "13.010",
+    "name": "Natalia KOLOVANOVA"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "13.570",
+    "name": "Odalys ADAMS CASTILLO"
+  },
+  {
+    "place": 9,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Julie BAUMANN"
+  },
+  {
+    "place": 10,
+    "country": "ALG",
+    "mark": "Did not start",
+    "name": "Yasmina AZIZI"
+  }
+]

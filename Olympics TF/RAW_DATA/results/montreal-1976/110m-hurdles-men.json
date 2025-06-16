@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "FRA",
+    "mark": "13.300",
+    "name": "Guy DRUT"
+  },
+  {
+    "place": 2,
+    "country": "CUB",
+    "mark": "13.330",
+    "name": "Alejandro CASAÑAS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "13.380",
+    "name": "Willie DAVENPORT"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "13.410",
+    "name": "Charles Wayne FOSTER"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "13.440",
+    "name": "Thomas MUNKELT"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "13.730",
+    "name": "James Earl OWENS"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "13.930",
+    "name": "Vyacheslav KULEBYAKIN"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "13.940",
+    "name": "Viktor MYASNIKOV"
+  }
+]

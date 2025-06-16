@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "RUS",
+    "mark": "5.05",
+    "name": "Yelena ISINBAEVA"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "4.80",
+    "name": "Jennifer SUHR"
+  },
+  {
+    "place": 3,
+    "country": "RUS",
+    "mark": "4.75",
+    "name": "Svetlana FEOFANOVA"
+  },
+  {
+    "place": 4,
+    "country": "RUS",
+    "mark": "4.75",
+    "name": "Yuliya GOLUBCHIKOVA"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "4.70",
+    "name": "Monika PYREK"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "4.65",
+    "name": "Carolin Tamara HINGST"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "4.65",
+    "name": "Silke SPIEGELBURG"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "4.55",
+    "name": "April STEINER BENNETT"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "4.55",
+    "name": "Vanessa BOSLAK"
+  },
+  {
+    "place": 10,
+    "country": "BRA",
+    "mark": "4.45",
+    "name": "Fabiana MURER"
+  },
+  {
+    "place": 11,
+    "country": "POL",
+    "mark": "4.45",
+    "name": "Anna ROGOWSKA"
+  },
+  {
+    "place": 12,
+    "country": "CHN",
+    "mark": "4.45",
+    "name": "Shuying GAO"
+  }
+]

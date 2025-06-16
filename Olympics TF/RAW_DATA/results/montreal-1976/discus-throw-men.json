@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "67.50",
+    "name": "Malcolm Maurice WILKINS"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "66.22",
+    "name": "Wolfgang SCHMIDT"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "65.70",
+    "name": "John Gates POWELL"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "64.30",
+    "name": "Norbert THIEDE"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "64.24",
+    "name": "Siegfried PACHALE"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "63.12",
+    "name": "Pentti Aatos KAHMA"
+  },
+  {
+    "place": 7,
+    "country": "NOR",
+    "mark": "63.06",
+    "name": "Knut HJELTNES"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "61.98",
+    "name": "L.Jay SILVESTER"
+  },
+  {
+    "place": 9,
+    "country": "TCH",
+    "mark": "61.28",
+    "name": "Ludvik DANEK"
+  },
+  {
+    "place": 10,
+    "country": "BUL",
+    "mark": "60.94",
+    "name": "Velko VELEV"
+  },
+  {
+    "place": 11,
+    "country": "HUN",
+    "mark": "60.54",
+    "name": "Ferenc TEGLA"
+  },
+  {
+    "place": 12,
+    "country": "FRG",
+    "mark": "60.46",
+    "name": "Hein-Direk NEU"
+  },
+  {
+    "place": 13,
+    "country": "TCH",
+    "mark": "58.42",
+    "name": "Josef SILHAVY"
+  },
+  {
+    "place": 14,
+    "country": "HUN",
+    "mark": "57.48",
+    "name": "Janos FARAGO"
+  },
+  {
+    "place": 15,
+    "country": "ITA",
+    "mark": "55.86",
+    "name": "Armando DE VINCENTIIS"
+  }
+]

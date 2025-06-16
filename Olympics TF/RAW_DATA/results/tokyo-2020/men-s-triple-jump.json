@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "POR",
+    "mark": "17.98",
+    "name": "Pedro P. PICHARDO"
+  },
+  {
+    "place": 2,
+    "country": "CHN",
+    "mark": "17.57",
+    "name": "Yaming ZHU"
+  },
+  {
+    "place": 3,
+    "country": "BUR",
+    "mark": "17.47",
+    "name": "Fabrice ZANGO HUGUES"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "17.44",
+    "name": "Will CLAYE"
+  },
+  {
+    "place": 5,
+    "country": "ALG",
+    "mark": "17.43",
+    "name": "Yasser TRIKI"
+  },
+  {
+    "place": 6,
+    "country": "TUR",
+    "mark": "17.25",
+    "name": "Necati ER"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "17.18",
+    "name": "Donald SCOTT"
+  },
+  {
+    "place": 8,
+    "country": "CHN",
+    "mark": "17.01",
+    "name": "Yaoqing FANG"
+  },
+  {
+    "place": 9,
+    "country": "ITA",
+    "mark": "16.85",
+    "name": "Andrea DALLAVALLE"
+  },
+  {
+    "place": 10,
+    "country": "CUB",
+    "mark": "16.63",
+    "name": "Cristian NAPOLES"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "16.52",
+    "name": "Emanuel IHEMEJE"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "No mark",
+    "name": "Melvin RAFFIN"
+  }
+]

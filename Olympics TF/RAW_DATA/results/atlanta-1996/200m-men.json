@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "19.320",
+    "name": "Michael JOHNSON"
+  },
+  {
+    "place": 2,
+    "country": "NAM",
+    "mark": "19.680",
+    "name": "Frankie FREDERICKS"
+  },
+  {
+    "place": 3,
+    "country": "TTO",
+    "mark": "19.800",
+    "name": "Ato BOLDON"
+  },
+  {
+    "place": 4,
+    "country": "BAR",
+    "mark": "20.140",
+    "name": "Obadele THOMPSON"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "20.170",
+    "name": "Jeff WILLIAMS"
+  },
+  {
+    "place": 6,
+    "country": "CUB",
+    "mark": "20.210",
+    "name": "Iván GARCÍA"
+  },
+  {
+    "place": 7,
+    "country": "BEL",
+    "mark": "20.270",
+    "name": "Patrick STEVENS"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "20.480",
+    "name": "Michael MARSH"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "Disqualified",
+    "name": "Dean CAPOBIANCO"
+  },
+  {
+    "place": 10,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Venancio JOSE"
+  },
+  {
+    "place": 11,
+    "country": "NGR",
+    "mark": "Did not start",
+    "name": "Olapade ADENIKEN"
+  },
+  {
+    "place": 12,
+    "country": "QAT",
+    "mark": "Did not start",
+    "name": "Ibrahim Ismail MUFTAH"
+  }
+]

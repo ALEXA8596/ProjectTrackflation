@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "UGA",
+    "mark": "47.820",
+    "name": "John AKII-BUA"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "48.510",
+    "name": "Ralph Vernon MANN"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "48.520",
+    "name": "David Peter HEMERY"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "48.640",
+    "name": "James Michael SEYMOUR"
+  },
+  {
+    "place": 5,
+    "country": "FRG",
+    "mark": "49.650",
+    "name": "Rainer SCHUBERT"
+  },
+  {
+    "place": 6,
+    "country": "GRE",
+    "mark": "49.660",
+    "name": "Stavros TZIORTZIS"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "49.660",
+    "name": "Yevgeni GAVRILENKO"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "50.250",
+    "name": "Yuri ZORIN"
+  },
+  {
+    "place": 9,
+    "country": "PAR",
+    "mark": "Did not start",
+    "name": "Francisco ROJAS SOTO"
+  }
+]

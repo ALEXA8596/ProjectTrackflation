@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "7.40",
+    "name": "Jackie JOYNER-KERSEE"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "7.22",
+    "name": "Heike DRECHSLER"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "7.11",
+    "name": "Galina CISTJAKOVA"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "7.04",
+    "name": "Elena BELEVSKAYA"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "6.73w",
+    "name": "Nicole BOEGMAN"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "6.62",
+    "name": "Fiona MAY"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "6.60",
+    "name": "Agata KARCZMAREK"
+  },
+  {
+    "place": 8,
+    "country": "GDR",
+    "mark": "6.55",
+    "name": "Sabine JOHN"
+  },
+  {
+    "place": 9,
+    "country": "CHN",
+    "mark": "6.50",
+    "name": "Qiying XIONG"
+  },
+  {
+    "place": 10,
+    "country": "URS",
+    "mark": "6.46",
+    "name": "Inessa KRAVETS"
+  },
+  {
+    "place": 11,
+    "country": "CHN",
+    "mark": "6.40",
+    "name": "Shuzhen LIU"
+  },
+  {
+    "place": 12,
+    "country": "DEN",
+    "mark": "6.38",
+    "name": "Lene Stokholm DEMSITZ"
+  },
+  {
+    "place": 13,
+    "country": "COK",
+    "mark": "Did not start",
+    "name": "Erin TIERNEY"
+  },
+  {
+    "place": 14,
+    "country": "GDR",
+    "mark": "Did not start",
+    "name": "Anke BEHMER"
+  }
+]

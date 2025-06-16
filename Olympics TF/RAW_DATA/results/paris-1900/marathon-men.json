@@ -1,0 +1,116 @@
+[
+  {
+    "place": 1,
+    "country": "FRA",
+    "mark": "02:59:45.000",
+    "name": "Michel THEATO"
+  },
+  {
+    "place": 2,
+    "country": "FRA",
+    "mark": "03:04:17.000",
+    "name": "Emile CHAMPION"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "03:37:14.000",
+    "name": "Ernst FAST"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "04:00:43.000",
+    "name": "Eugene BESSE"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "04:04:12.000",
+    "name": "Arthur NEWTON"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Georges DAUNIS-TOUQUET"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Auguste MARCHAIS"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "William SAWARD"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Ion POOL"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Frederick RANDALL"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Johan NYSTRÖM"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "W. TAYLOR"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Martens MARTENS"
+  },
+  {
+    "place": 14,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Ettore ZILIA"
+  },
+  {
+    "place": 15,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Jakub WOLF"
+  },
+  {
+    "place": 16,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "John MAGUIRE"
+  },
+  {
+    "place": 17,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Emilio BANFI"
+  },
+  {
+    "place": 18,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "John CREGAN"
+  },
+  {
+    "place": 19,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Alex GRANT"
+  }
+]

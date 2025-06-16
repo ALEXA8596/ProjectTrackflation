@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "RSA",
+    "mark": "00:01:57.230",
+    "name": "Caster SEMENYA"
+  },
+  {
+    "place": 2,
+    "country": "RUS",
+    "mark": "00:01:57.530",
+    "name": "Ekaterina POISTOGOVA"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "00:01:57.590",
+    "name": "Pamela JELIMO"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "00:01:57.930",
+    "name": "Alysia JOHNSON MONTANO"
+  },
+  {
+    "place": 5,
+    "country": "BDI",
+    "mark": "00:01:59.630",
+    "name": "Francine NIYONSABA"
+  },
+  {
+    "place": 6,
+    "country": "KEN",
+    "mark": "00:02:00.190",
+    "name": "Janeth Jepkosgei BUSIENEI"
+  },
+  {
+    "place": 7,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Elena ARZHAKOVA"
+  },
+  {
+    "place": 8,
+    "country": "UKR",
+    "mark": "Did not finish",
+    "name": "Yuliya KREVSUN"
+  },
+  {
+    "place": 9,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Mariya SAVINOVA"
+  },
+  {
+    "place": 10,
+    "country": "EGY",
+    "mark": "Did not start",
+    "name": "Noura ELSAYED"
+  },
+  {
+    "place": 11,
+    "country": "UKR",
+    "mark": "Did not start",
+    "name": "Liliya LOBANOVA"
+  },
+  {
+    "place": 12,
+    "country": "ETH",
+    "mark": "Did not start",
+    "name": "Fantu MAGISO"
+  },
+  {
+    "place": 13,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "Kenia SINCLAIR"
+  }
+]

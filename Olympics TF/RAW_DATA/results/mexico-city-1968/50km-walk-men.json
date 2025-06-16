@@ -1,0 +1,242 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "04:20:13.600",
+    "name": "Christoph HÖHNE"
+  },
+  {
+    "place": 2,
+    "country": "HUN",
+    "mark": "04:30:17.000",
+    "name": "Antal KISS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "04:31:55.400",
+    "name": "Lawrence Dean YOUNG"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "04:33:09.800",
+    "name": "Peter SELZER"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "04:34:05.000",
+    "name": "Stig LINDBERG"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "04:36:33.200",
+    "name": "Vittorio VISINI"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "04:37:32.200",
+    "name": "Bryan ELEY"
+  },
+  {
+    "place": 8,
+    "country": "MEX",
+    "mark": "04:37:51.400",
+    "name": "Jose PEDRAZA ZUNIGA"
+  },
+  {
+    "place": 9,
+    "country": "CAN",
+    "mark": "04:37:57.400",
+    "name": "Karl-Heinz MERSCHENZ"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "04:39:13.800",
+    "name": "Goetz Heinrich KLOPFER"
+  },
+  {
+    "place": 11,
+    "country": "FRG",
+    "mark": "04:39:43.200",
+    "name": "Horst-Rüdiger MAGNOR"
+  },
+  {
+    "place": 12,
+    "country": "AUS",
+    "mark": "04:40:13.800",
+    "name": "Frank CLARK"
+  },
+  {
+    "place": 13,
+    "country": "SWE",
+    "mark": "04:40:42.600",
+    "name": "Örjan ANDERSSON"
+  },
+  {
+    "place": 14,
+    "country": "FRG",
+    "mark": "04:43:26.200",
+    "name": "Gerhard WEIDNER"
+  },
+  {
+    "place": 15,
+    "country": "URS",
+    "mark": "04:44:39.200",
+    "name": "Sergey GRIGORYEV"
+  },
+  {
+    "place": 16,
+    "country": "LUX",
+    "mark": "04:44:45.200",
+    "name": "Charel SOWA"
+  },
+  {
+    "place": 17,
+    "country": "JPN",
+    "mark": "04:47:29.600",
+    "name": "Kazuo SAITO"
+  },
+  {
+    "place": 18,
+    "country": "GBR",
+    "mark": "04:52:20.000",
+    "name": "Shaun LIGHTMAN"
+  },
+  {
+    "place": 19,
+    "country": "AUS",
+    "mark": "04:52:29.000",
+    "name": "Robert Charles GARDINER"
+  },
+  {
+    "place": 20,
+    "country": "SUI",
+    "mark": "04:53:33.800",
+    "name": "Erwin STUTZ"
+  },
+  {
+    "place": 21,
+    "country": "FRA",
+    "mark": "04:57:40.200",
+    "name": "Henri DELERUE"
+  },
+  {
+    "place": 22,
+    "country": "POL",
+    "mark": "04:58:03.800",
+    "name": "Mieczyslaw RUTYNA"
+  },
+  {
+    "place": 23,
+    "country": "CAN",
+    "mark": "04:58:31.600",
+    "name": "Felix CAPPELLA"
+  },
+  {
+    "place": 24,
+    "country": "ISR",
+    "mark": "05:01:06.000",
+    "name": "Shaul LADANY"
+  },
+  {
+    "place": 25,
+    "country": "MEX",
+    "mark": "05:01:30.000",
+    "name": "Pablo COLIN"
+  },
+  {
+    "place": 26,
+    "country": "USA",
+    "mark": "05:38:03.400",
+    "name": "David L. ROMANSKY"
+  },
+  {
+    "place": 27,
+    "country": "MEX",
+    "mark": "05:56:09.200",
+    "name": "Ismael HERNANDEZ AVILA"
+  },
+  {
+    "place": 28,
+    "country": "ESA",
+    "mark": "05:56:22.000",
+    "name": "Ricardo Alberto CRUZ FLORES"
+  },
+  {
+    "place": 29,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Paul Vincent NIHILL"
+  },
+  {
+    "place": 30,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Stefan INGVARSSON"
+  },
+  {
+    "place": 31,
+    "country": "FRG",
+    "mark": "Disqualified",
+    "name": "Bernhard NERMERICH"
+  },
+  {
+    "place": 32,
+    "country": "URS",
+    "mark": "Did not finish",
+    "name": "Gennadi AGAPOV"
+  },
+  {
+    "place": 33,
+    "country": "ITA",
+    "mark": "Did not finish",
+    "name": "Abdon PAMICH"
+  },
+  {
+    "place": 34,
+    "country": "GDR",
+    "mark": "Did not finish",
+    "name": "Burkhard LEUSCHKE"
+  },
+  {
+    "place": 35,
+    "country": "URS",
+    "mark": "Did not finish",
+    "name": "Igor DELLA-ROSSA"
+  },
+  {
+    "place": 36,
+    "country": "IRL",
+    "mark": "Did not finish",
+    "name": "John KELLY"
+  },
+  {
+    "place": 37,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Jozsef CSERMAK"
+  },
+  {
+    "place": 38,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Euclides CALZADO LOPEZ"
+  },
+  {
+    "place": 39,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Katsuo NISHIDA"
+  },
+  {
+    "place": 40,
+    "country": "NCA",
+    "mark": "Did not start",
+    "name": "Carlos VANEGAS"
+  }
+]

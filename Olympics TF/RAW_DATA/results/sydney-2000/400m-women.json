@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "49.110",
+    "name": "Cathy FREEMAN"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "49.580",
+    "name": "Lorraine FENTON"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "49.720",
+    "name": "Katharine MERRY"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "49.790",
+    "name": "Donna FRASER"
+  },
+  {
+    "place": 5,
+    "country": "MEX",
+    "mark": "49.960",
+    "name": "Ana GUEVARA"
+  },
+  {
+    "place": 6,
+    "country": "RSA",
+    "mark": "50.050",
+    "name": "Heide SEYERLING"
+  },
+  {
+    "place": 7,
+    "country": "NGR",
+    "mark": "50.120",
+    "name": "Falilat OGUNKOYA"
+  },
+  {
+    "place": 8,
+    "country": "RUS",
+    "mark": "51.040",
+    "name": "Olga KOTLYAROVA"
+  },
+  {
+    "place": 9,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Svetlana POSPELOVA"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Marie-Jose PEREC"
+  },
+  {
+    "place": 11,
+    "country": "SLO",
+    "mark": "Did not start",
+    "name": "Brigita LANGERHOLC"
+  }
+]

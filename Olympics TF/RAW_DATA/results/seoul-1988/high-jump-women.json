@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "2.01",
+    "name": "Dorothy Louise RITTER"
+  },
+  {
+    "place": 2,
+    "country": "BUL",
+    "mark": "2.01",
+    "name": "Stefka KOSTADINOVA"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "1.99",
+    "name": "Tamara BYKOVA"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "1.96",
+    "name": "Olga TURCHAK"
+  },
+  {
+    "place": 5,
+    "country": "BUL",
+    "mark": "1.93",
+    "name": "Lyudmila Groudova ANDONOVA"
+  },
+  {
+    "place": 6,
+    "country": "ROU",
+    "mark": "1.93",
+    "name": "Alina ASTAFEI"
+  },
+  {
+    "place": 7,
+    "country": "AUS",
+    "mark": "1.93",
+    "name": "Chris STANTON"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "1.90",
+    "name": "Diana Clare ELLIOTT-DAVIES"
+  },
+  {
+    "place": 9,
+    "country": "KOR",
+    "mark": "1.90",
+    "name": "Hee-Sun KIM"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "1.90",
+    "name": "Maryse EWANJE-EPEE"
+  },
+  {
+    "place": 11,
+    "country": "JPN",
+    "mark": "1.90",
+    "name": "Megumi SATO"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "1.90",
+    "name": "Janet Margaret BOYLE"
+  }
+]

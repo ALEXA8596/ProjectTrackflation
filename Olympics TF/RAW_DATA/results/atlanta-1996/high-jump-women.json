@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "BUL",
+    "mark": "2.05",
+    "name": "Stefka KOSTADINOVA"
+  },
+  {
+    "place": 2,
+    "country": "GRE",
+    "mark": "2.03",
+    "name": "Niki BAKOGIANNI"
+  },
+  {
+    "place": 3,
+    "country": "UKR",
+    "mark": "2.01",
+    "name": "Inha BABAKOVA"
+  },
+  {
+    "place": 4,
+    "country": "RUS",
+    "mark": "1.99",
+    "name": "Yelena GULYAYEVA"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "1.96",
+    "name": "Alina ASTAFEI"
+  },
+  {
+    "place": 6,
+    "country": "LTU",
+    "mark": "1.96",
+    "name": "Nele ZILINSKIENE"
+  },
+  {
+    "place": 7,
+    "country": "RUS",
+    "mark": "1.96",
+    "name": "Tatyana MOTKOVA"
+  },
+  {
+    "place": 8,
+    "country": "NOR",
+    "mark": "1.96",
+    "name": "Hanne HAUGLAND"
+  },
+  {
+    "place": 9,
+    "country": "SLO",
+    "mark": "1.93",
+    "name": "Britta BILAC"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "1.93",
+    "name": "Tisha WALLER"
+  },
+  {
+    "place": 11,
+    "country": "CZE",
+    "mark": "1.93",
+    "name": "Zuzana HLAVONOVA"
+  },
+  {
+    "place": 12,
+    "country": "MDA",
+    "mark": "1.93",
+    "name": "Olga BOLSOVA"
+  },
+  {
+    "place": 13,
+    "country": "KAZ",
+    "mark": "1.93",
+    "name": "Svetlana ZALEVSKAYA"
+  },
+  {
+    "place": 14,
+    "country": "ITA",
+    "mark": "Disqualified",
+    "name": "Antonella BEVILACQUA"
+  },
+  {
+    "place": 15,
+    "country": "IVB",
+    "mark": "Did not start",
+    "name": "Coralea CLINE"
+  },
+  {
+    "place": 16,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Sigrid KIRCHMANN"
+  }
+]

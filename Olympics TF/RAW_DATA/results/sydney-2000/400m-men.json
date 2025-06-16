@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "43.840",
+    "name": "Michael JOHNSON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "44.400",
+    "name": "Alvin HARRISON"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "44.700",
+    "name": "Greg HAUGHTON"
+  },
+  {
+    "place": 4,
+    "country": "BRA",
+    "mark": "45.010",
+    "name": "Sanderlei PARRELA"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "45.140",
+    "name": "Robert MACKOWIAK"
+  },
+  {
+    "place": 6,
+    "country": "RSA",
+    "mark": "45.260",
+    "name": "Hendrick MOKGANYETSI"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "45.550",
+    "name": "Danny MCFARLANE"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "Disqualified",
+    "name": "Antonio PETTIGREW"
+  }
+]

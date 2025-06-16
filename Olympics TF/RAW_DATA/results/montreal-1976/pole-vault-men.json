@@ -1,0 +1,128 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "5.50",
+    "name": "Tadeusz SLUSARSKI"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "5.50",
+    "name": "Antti Tapani KALLIOMÄKI"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "5.50",
+    "name": "David Luther ROBERTS"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "5.45",
+    "name": "Patrick ABADA"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "5.45",
+    "name": "Wojciech BUCIARSKI"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "5.45",
+    "name": "Earl Holmes BELL"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "5.40",
+    "name": "Jean-Michel BELLOT"
+  },
+  {
+    "place": 8,
+    "country": "JPN",
+    "mark": "5.40",
+    "name": "Itsuo TAKANEZAWA"
+  },
+  {
+    "place": 9,
+    "country": "FRG",
+    "mark": "5.35",
+    "name": "Günther LOHRE"
+  },
+  {
+    "place": 10,
+    "country": "URS",
+    "mark": "5.25",
+    "name": "Yuri PROKHORENKO"
+  },
+  {
+    "place": 11,
+    "country": "POL",
+    "mark": "5.25",
+    "name": "Wladyslaw KOZAKIEWICZ"
+  },
+  {
+    "place": 12,
+    "country": "AUS",
+    "mark": "5.25",
+    "name": "Donald BAIRD"
+  },
+  {
+    "place": 13,
+    "country": "URS",
+    "mark": "5.20",
+    "name": "Vladimir KISHKUN"
+  },
+  {
+    "place": 14,
+    "country": "USA",
+    "mark": "5.20",
+    "name": "Terence Lynn PORTER"
+  },
+  {
+    "place": 15,
+    "country": "FIN",
+    "mark": "5.20",
+    "name": "Tapani HAAPAKOSKI"
+  },
+  {
+    "place": 16,
+    "country": "GBR",
+    "mark": "5.00",
+    "name": "Brian HOOPER"
+  },
+  {
+    "place": 17,
+    "country": "CAN",
+    "mark": "No mark",
+    "name": "Bruce SIMPSON"
+  },
+  {
+    "place": 18,
+    "country": "CUB",
+    "mark": "No mark",
+    "name": "Roberto MORE LOZANO"
+  },
+  {
+    "place": 19,
+    "country": "FRA",
+    "mark": "No mark",
+    "name": "François TRACANELLI"
+  },
+  {
+    "place": 20,
+    "country": "SWE",
+    "mark": "No mark",
+    "name": "Kjell ISAKSSON"
+  },
+  {
+    "place": 21,
+    "country": "KSA",
+    "mark": "Did not start",
+    "name": "Rihan OBAID"
+  }
+]

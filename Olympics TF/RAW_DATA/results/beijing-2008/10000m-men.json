@@ -1,0 +1,236 @@
+[
+  {
+    "place": 1,
+    "country": "ETH",
+    "mark": "00:27:01.170",
+    "name": "Kenenisa BEKELE"
+  },
+  {
+    "place": 2,
+    "country": "ETH",
+    "mark": "00:27:02.770",
+    "name": "Sileshi SIHINE"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "00:27:04.110",
+    "name": "Micah Kipkemboi KOGO"
+  },
+  {
+    "place": 4,
+    "country": "KEN",
+    "mark": "00:27:04.110",
+    "name": "Moses Ndiema MASAI"
+  },
+  {
+    "place": 5,
+    "country": "ERI",
+    "mark": "00:27:05.110",
+    "name": "Zersenay TADESSE"
+  },
+  {
+    "place": 6,
+    "country": "ETH",
+    "mark": "00:27:06.680",
+    "name": "Haile GEBRSELASSIE"
+  },
+  {
+    "place": 7,
+    "country": "KEN",
+    "mark": "00:27:08.250",
+    "name": "Martin Irungu MATHATHI"
+  },
+  {
+    "place": 8,
+    "country": "QAT",
+    "mark": "00:27:23.750",
+    "name": "Ahmad Hassan ABDULLAH"
+  },
+  {
+    "place": 9,
+    "country": "TAN",
+    "mark": "00:27:25.330",
+    "name": "Fabiano JOSEPH"
+  },
+  {
+    "place": 10,
+    "country": "UGA",
+    "mark": "00:27:27.280",
+    "name": "Boniface Kiprop TOROITICH"
+  },
+  {
+    "place": 11,
+    "country": "TUR",
+    "mark": "00:27:29.330",
+    "name": "Selim BAYRAK"
+  },
+  {
+    "place": 12,
+    "country": "ERI",
+    "mark": "00:27:36.110",
+    "name": "Kidane TADESSE"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "00:27:36.990",
+    "name": "Galen RUPP"
+  },
+  {
+    "place": 14,
+    "country": "TAN",
+    "mark": "00:27:48.030",
+    "name": "Dickson MARWA"
+  },
+  {
+    "place": 15,
+    "country": "USA",
+    "mark": "00:27:52.530",
+    "name": "Abdi ABDIRAHMAN"
+  },
+  {
+    "place": 16,
+    "country": "MAR",
+    "mark": "00:27:53.140",
+    "name": "Abdellah FALIL"
+  },
+  {
+    "place": 17,
+    "country": "ESP",
+    "mark": "00:27:54.200",
+    "name": "Juan carlos DE LA OSSA"
+  },
+  {
+    "place": 18,
+    "country": "BRN",
+    "mark": "00:27:55.140",
+    "name": "Ali Hasan MAHBOOD"
+  },
+  {
+    "place": 19,
+    "country": "RWA",
+    "mark": "00:27:56.740",
+    "name": "Dieudonne DISI"
+  },
+  {
+    "place": 20,
+    "country": "QAT",
+    "mark": "00:27:58.670",
+    "name": "Essa Ismail RASHED"
+  },
+  {
+    "place": 21,
+    "country": "TAN",
+    "mark": "00:28:06.260",
+    "name": "Samwel SHAURI"
+  },
+  {
+    "place": 22,
+    "country": "QAT",
+    "mark": "00:28:11.920",
+    "name": "Felix Kikwai KIBORE"
+  },
+  {
+    "place": 23,
+    "country": "ESP",
+    "mark": "00:28:13.680",
+    "name": "Carles CASTILLEJO"
+  },
+  {
+    "place": 24,
+    "country": "ESP",
+    "mark": "00:28:13.730",
+    "name": "Ayad LAMDASSEM"
+  },
+  {
+    "place": 25,
+    "country": "USA",
+    "mark": "00:28:13.930",
+    "name": "Jorge TORRES"
+  },
+  {
+    "place": 26,
+    "country": "IND",
+    "mark": "00:28:13.970",
+    "name": "Surendra SINGH"
+  },
+  {
+    "place": 27,
+    "country": "AUT",
+    "mark": "00:28:14.380",
+    "name": "Gunther WEIDLINGER"
+  },
+  {
+    "place": 28,
+    "country": "JPN",
+    "mark": "00:28:23.280",
+    "name": "Kensuke TAKEZAWA"
+  },
+  {
+    "place": 29,
+    "country": "MEX",
+    "mark": "00:28:26.570",
+    "name": "Juan Carlos ROMERO"
+  },
+  {
+    "place": 30,
+    "country": "RUS",
+    "mark": "00:28:34.720",
+    "name": "Sergey IVANOV"
+  },
+  {
+    "place": 31,
+    "country": "JPN",
+    "mark": "00:28:39.770",
+    "name": "Takayuki MATSUMIYA"
+  },
+  {
+    "place": 32,
+    "country": "ERI",
+    "mark": "00:28:54.330",
+    "name": "Teklemariam MEDHIN"
+  },
+  {
+    "place": 33,
+    "country": "CAN",
+    "mark": "00:29:08.100",
+    "name": "Eric GILLIS"
+  },
+  {
+    "place": 34,
+    "country": "POR",
+    "mark": "00:29:09.030",
+    "name": "Rui Pedro SILVA"
+  },
+  {
+    "place": 35,
+    "country": "MEX",
+    "mark": "00:29:24.780",
+    "name": "Alejandro SUAREZ"
+  },
+  {
+    "place": 36,
+    "country": "MAR",
+    "mark": "Did not finish",
+    "name": "Mohamed EL HACHIMI"
+  },
+  {
+    "place": 37,
+    "country": "MEX",
+    "mark": "Did not finish",
+    "name": "José David GALVÁN"
+  },
+  {
+    "place": 38,
+    "country": "ZIM",
+    "mark": "Did not finish",
+    "name": "Cuthbert NYASANGO"
+  },
+  {
+    "place": 39,
+    "country": "ALG",
+    "mark": "Did not start",
+    "name": "Khoudir AGGOUNE"
+  }
+]

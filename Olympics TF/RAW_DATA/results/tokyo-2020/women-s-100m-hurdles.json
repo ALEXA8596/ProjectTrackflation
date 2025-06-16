@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "PUR",
+    "mark": "12.37",
+    "name": "Jasmine CAMACHO-QUINN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "12.52",
+    "name": "Kendra HARRISON"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "12.55",
+    "name": "Megan TAPPER"
+  },
+  {
+    "place": 4,
+    "country": "NGR",
+    "mark": "12.60",
+    "name": "Oluwatobiloba AMUSAN"
+  },
+  {
+    "place": 5,
+    "country": "NED",
+    "mark": "12.73",
+    "name": "Nadine VISSER"
+  },
+  {
+    "place": 6,
+    "country": "BAH",
+    "mark": "12.74",
+    "name": "Devynne CHARLTON"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "13.01",
+    "name": "Gabriele CUNNINGHAM"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "13.24",
+    "name": "Britany ANDERSON"
+  }
+]

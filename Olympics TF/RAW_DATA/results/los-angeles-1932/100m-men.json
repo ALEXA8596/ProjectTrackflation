@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "10.300",
+    "name": "Eddie TOLAN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.300",
+    "name": "Ralph METCALFE"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "10.400",
+    "name": "Arthur JONATH"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "10.500",
+    "name": "George Sidney SIMPSON"
+  },
+  {
+    "place": 5,
+    "country": "RSA",
+    "mark": "10.600",
+    "name": "Daniel Jacobus JOUBERT"
+  },
+  {
+    "place": 6,
+    "country": "JPN",
+    "mark": "10.800",
+    "name": "Takayoshi YOSHIOKA"
+  },
+  {
+    "place": 7,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "José Alberto TORRIENTE"
+  },
+  {
+    "place": 8,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Renos FRANGOUDIS"
+  },
+  {
+    "place": 9,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Leonardo VALDÉS"
+  },
+  {
+    "place": 10,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Kichizo SASAKI"
+  },
+  {
+    "place": 11,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Khristos MANTIKAS"
+  }
+]

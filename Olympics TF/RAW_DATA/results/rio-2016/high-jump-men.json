@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "CAN",
+    "mark": "2.38",
+    "name": "Derek DROUIN"
+  },
+  {
+    "place": 2,
+    "country": "QAT",
+    "mark": "2.36",
+    "name": "Mutaz Essa BARSHIM"
+  },
+  {
+    "place": 3,
+    "country": "UKR",
+    "mark": "2.33",
+    "name": "Bohdan BONDARENKO"
+  },
+  {
+    "place": 4,
+    "country": "UKR",
+    "mark": "2.33",
+    "name": "Andriy PROTSENKO"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "2.33",
+    "name": "Robert GRABARZ"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "2.33",
+    "name": "Erik KYNARD"
+  },
+  {
+    "place": 7,
+    "country": "SYR",
+    "mark": "2.29",
+    "name": "Majed Aldin GHAZAL"
+  },
+  {
+    "place": 8,
+    "country": "CYP",
+    "mark": "2.29",
+    "name": "Kyriakos IOANNOU"
+  },
+  {
+    "place": 9,
+    "country": "BAH",
+    "mark": "2.29",
+    "name": "Donald THOMAS"
+  },
+  {
+    "place": 10,
+    "country": "BUL",
+    "mark": "2.29",
+    "name": "Tikhomir IVANOV"
+  },
+  {
+    "place": 11,
+    "country": "BAH",
+    "mark": "2.25",
+    "name": "Trevor BARRY"
+  },
+  {
+    "place": 12,
+    "country": "CYP",
+    "mark": "2.25",
+    "name": "Dimitrios CHONDROKOUKIS"
+  },
+  {
+    "place": 13,
+    "country": "PUR",
+    "mark": "2.25",
+    "name": "Luis Joel CASTRO"
+  },
+  {
+    "place": 14,
+    "country": "CZE",
+    "mark": "2.20",
+    "name": "Jaroslav BABA"
+  },
+  {
+    "place": 15,
+    "country": "AUS",
+    "mark": "2.20",
+    "name": "Brandon STARC"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "BEL",
+    "mark": "00:14:17.600",
+    "name": "Gaston Etienne REIFF"
+  },
+  {
+    "place": 2,
+    "country": "TCH",
+    "mark": "00:14:17.800",
+    "name": "Emil ZATOPEK"
+  },
+  {
+    "place": 3,
+    "country": "NED",
+    "mark": "00:14:26.800",
+    "name": "Willem SLIJKHUIS"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "00:14:28.600",
+    "name": "Erik AHLDEN"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "00:14:39.000",
+    "name": "Bertil ALBERTSSON"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:14:39.400",
+    "name": "Curtis Charles STONE"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "00:14:41.000",
+    "name": "Väinö KOSKELA"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "00:14:43.000",
+    "name": "Väinö MÄKELA"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Evert NYBERG"
+  },
+  {
+    "place": 10,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "Martin EGAN"
+  },
+  {
+    "place": 11,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Ricardo R. BRALO"
+  },
+  {
+    "place": 12,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Constantino MIRANDA JUSTO"
+  },
+  {
+    "place": 13,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Jacob KJERSEM"
+  }
+]

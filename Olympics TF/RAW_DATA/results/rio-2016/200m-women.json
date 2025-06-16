@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "21.780",
+    "name": "Elaine THOMPSON-HERAH"
+  },
+  {
+    "place": 2,
+    "country": "NED",
+    "mark": "21.880",
+    "name": "Dafne SCHIPPERS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "22.150",
+    "name": "Tori BOWIE"
+  },
+  {
+    "place": 4,
+    "country": "CIV",
+    "mark": "22.210",
+    "name": "Marie-Josee TA LOU"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "22.310",
+    "name": "Dina ASHER-SMITH"
+  },
+  {
+    "place": 6,
+    "country": "TTO",
+    "mark": "22.340",
+    "name": "Michelle-Lee AHYE"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "22.650",
+    "name": "Deajah STEVENS"
+  },
+  {
+    "place": 8,
+    "country": "BUL",
+    "mark": "22.690",
+    "name": "Ivet LALOVA-COLLIO"
+  }
+]

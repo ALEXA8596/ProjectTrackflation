@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "16.85",
+    "name": "Jozef SCHMIDT"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "16.58",
+    "name": "Oleg FEDOSEEV"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "16.57",
+    "name": "Viktor KRAVCHENKO"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "16.46",
+    "name": "Fred John ALSOP"
+  },
+  {
+    "place": 5,
+    "country": "ROU",
+    "mark": "16.23",
+    "name": "Serban CIOCHINA"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "16.15",
+    "name": "Manfred HINZE"
+  },
+  {
+    "place": 7,
+    "country": "BUL",
+    "mark": "16.10",
+    "name": "Georgi Ivanov STOYKOVSKI"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "16.09",
+    "name": "Hans-Jurgen RUCKBORN"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "16.00",
+    "name": "Ira Sylvester DAVIS"
+  },
+  {
+    "place": 10,
+    "country": "JPN",
+    "mark": "15.90",
+    "name": "Takayuki OKAZAKI"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "15.84",
+    "name": "William John SHARPE"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "15.82",
+    "name": "Jan JASKOLSKI"
+  },
+  {
+    "place": 13,
+    "country": "SEN",
+    "mark": "15.44",
+    "name": "Mamsdou Monsour DIA"
+  },
+  {
+    "place": 14,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Khrisostomos MOUSIADIS"
+  },
+  {
+    "place": 15,
+    "country": "PRK",
+    "mark": "Did not start",
+    "name": "Won-sil CHA"
+  }
+]

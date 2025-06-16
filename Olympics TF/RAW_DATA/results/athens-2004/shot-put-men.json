@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "21.16",
+    "name": "Adam NELSON"
+  },
+  {
+    "place": 2,
+    "country": "DEN",
+    "mark": "21.07",
+    "name": "Joachim Broechner OLSEN"
+  },
+  {
+    "place": 3,
+    "country": "ESP",
+    "mark": "20.84",
+    "name": "Manuel MARTINEZ"
+  },
+  {
+    "place": 4,
+    "country": "BLR",
+    "mark": "20.60",
+    "name": "Andrey MIKHNEVICH"
+  },
+  {
+    "place": 5,
+    "country": "BLR",
+    "mark": "20.34",
+    "name": "Yury BIALOU"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "20.31",
+    "name": "Justin ANLEZARK"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "20.26",
+    "name": "Ralf BARTELS"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "20.19",
+    "name": "John GODINA"
+  },
+  {
+    "place": 9,
+    "country": "SVK",
+    "mark": "19.92",
+    "name": "Mikulas KONOPKA"
+  },
+  {
+    "place": 10,
+    "country": "SLO",
+    "mark": "19.34",
+    "name": "Miroslav VODOVNIK"
+  },
+  {
+    "place": 11,
+    "country": "CZE",
+    "mark": "19.21",
+    "name": "Petr STEHLIK"
+  },
+  {
+    "place": 12,
+    "country": "UKR",
+    "mark": "Disqualified",
+    "name": "Yuriy BILONOG"
+  }
+]

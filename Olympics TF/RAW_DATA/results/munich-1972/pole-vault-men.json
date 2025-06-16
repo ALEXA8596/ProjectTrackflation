@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "5.50",
+    "name": "Wolfgang NORDWIG"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "5.40",
+    "name": "Bob SEAGREN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "5.35",
+    "name": "Jan Eric JOHNSON"
+  },
+  {
+    "place": 4,
+    "country": "FRG",
+    "mark": "5.30",
+    "name": "Reinhard KURETZKY"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "5.20",
+    "name": "Bruce SIMPSON"
+  },
+  {
+    "place": 6,
+    "country": "FRG",
+    "mark": "5.20",
+    "name": "Volker OHL"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "5.20",
+    "name": "Hans LAGERQVIST"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "5.10",
+    "name": "François TRACANELLI"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "5.10",
+    "name": "Ingemar JERNBERG"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "5.00",
+    "name": "Wojciech BUCIARSKI"
+  },
+  {
+    "place": 11,
+    "country": "GRE",
+    "mark": "5.00",
+    "name": "Christos PAPANIKOLAOU"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "No mark",
+    "name": "Antti Tapani KALLIOMÄKI"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "No mark",
+    "name": "Herve D'ENCAUSSE"
+  },
+  {
+    "place": 14,
+    "country": "POL",
+    "mark": "No mark",
+    "name": "Tadeusz SLUSARSKI"
+  },
+  {
+    "place": 15,
+    "country": "SEN",
+    "mark": "Did not start",
+    "name": "Abass GOUDIABY"
+  }
+]

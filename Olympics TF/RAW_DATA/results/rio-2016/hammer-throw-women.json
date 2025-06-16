@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "82.29",
+    "name": "Anita WLODARCZYK"
+  },
+  {
+    "place": 2,
+    "country": "CHN",
+    "mark": "76.75",
+    "name": "Wenxiu ZHANG"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "74.54",
+    "name": "Sophie HITCHON"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "73.71",
+    "name": "Betty HEIDLER"
+  },
+  {
+    "place": 5,
+    "country": "MDA",
+    "mark": "73.50",
+    "name": "Zalina PETRIVSKAYA"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "72.74",
+    "name": "Amber CAMPBELL"
+  },
+  {
+    "place": 7,
+    "country": "BLR",
+    "mark": "71.90",
+    "name": "Hanna MALYSHIK"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "70.95",
+    "name": "Deanna PRICE"
+  },
+  {
+    "place": 9,
+    "country": "POL",
+    "mark": "69.87",
+    "name": "Joanna FIODOROW"
+  },
+  {
+    "place": 10,
+    "country": "VEN",
+    "mark": "69.26",
+    "name": "Rosa RODRIGUEZ"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "65.18",
+    "name": "Alexandra TAVERNIER"
+  },
+  {
+    "place": 12,
+    "country": "CHN",
+    "mark": "No mark",
+    "name": "Zheng WANG"
+  }
+]

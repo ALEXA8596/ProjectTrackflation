@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "EUN",
+    "mark": "82.54",
+    "name": "Andrey ABDUVALIEV"
+  },
+  {
+    "place": 2,
+    "country": "EUN",
+    "mark": "81.96",
+    "name": "Igor ASTAPKOVICH"
+  },
+  {
+    "place": 3,
+    "country": "EUN",
+    "mark": "81.38",
+    "name": "Igor NIKOULINE"
+  },
+  {
+    "place": 4,
+    "country": "HUN",
+    "mark": "77.78",
+    "name": "Tibor GECSEK"
+  },
+  {
+    "place": 5,
+    "country": "EST",
+    "mark": "77.52",
+    "name": "Juri Augustovitch TAMM"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "76.90",
+    "name": "Heinrich WEIS"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "76.84",
+    "name": "Lance Earl DEAL"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "76.16",
+    "name": "Sean CARLIN"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "75.14",
+    "name": "Johann LINDNER"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "74.84",
+    "name": "Christophe EPALLE"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "72.98",
+    "name": "Enrico SGRULLETTI"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "Disqualified",
+    "name": "Jud LOGAN"
+  }
+]

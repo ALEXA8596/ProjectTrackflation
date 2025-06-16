@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "11.700",
+    "name": "Trebisonda VALLA"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "11.700",
+    "name": "Anni STEUER"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "11.700",
+    "name": "Betty TAYLOR"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "11.700",
+    "name": "Claudia TESTONI"
+  },
+  {
+    "place": 5,
+    "country": "NED",
+    "mark": "11.800",
+    "name": "Catharina Elizabeth TER BRAAKE"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "12.000",
+    "name": "Doris ECKERT"
+  },
+  {
+    "place": 7,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Raquel MARTINEZ"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "00:01:54.940",
+    "name": "Tatiana KAZANKINA"
+  },
+  {
+    "place": 2,
+    "country": "BUL",
+    "mark": "00:01:55.420",
+    "name": "Nikolina SHTEREVA"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "00:01:55.600",
+    "name": "Elfi ZINN"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "00:01:55.740",
+    "name": "Anita WEISS"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "00:01:56.440",
+    "name": "Svetlana STYRKINA"
+  },
+  {
+    "place": 6,
+    "country": "BUL",
+    "mark": "00:01:57.210",
+    "name": "Svetla ZLATEVA"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "00:01:58.990",
+    "name": "Doris GLUTH"
+  },
+  {
+    "place": 8,
+    "country": "ROU",
+    "mark": "00:02:02.210",
+    "name": "Mariana SUMAN"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Siv Nina Anette HOLMEN"
+  }
+]

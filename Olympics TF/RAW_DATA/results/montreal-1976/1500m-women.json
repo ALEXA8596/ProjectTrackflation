@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "00:04:05.480",
+    "name": "Tatiana KAZANKINA"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "00:04:06.020",
+    "name": "Gunhild HOFFMEISTER"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "00:04:06.090",
+    "name": "Ulrike KLAPEZYNSKI-BRUNS"
+  },
+  {
+    "place": 4,
+    "country": "BUL",
+    "mark": "00:04:06.570",
+    "name": "Nikolina SHTEREVA"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "00:04:07.200",
+    "name": "Lyudmila BRAGINA"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "00:04:07.270",
+    "name": "Gabriella DORIO"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "00:04:07.910",
+    "name": "Ellen TITTEL-WELLMAN"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:04:08.540",
+    "name": "Janice Melbourne MERRILL"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "00:04:09.550",
+    "name": "Siv Nina Anette HOLMEN"
+  },
+  {
+    "place": 10,
+    "country": "LIE",
+    "mark": "Did not start",
+    "name": "Maria RITTER"
+  }
+]

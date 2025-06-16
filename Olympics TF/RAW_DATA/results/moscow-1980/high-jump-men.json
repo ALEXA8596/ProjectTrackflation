@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "2.36",
+    "name": "Gerd WESSIG"
+  },
+  {
+    "place": 2,
+    "country": "POL",
+    "mark": "2.31",
+    "name": "Jacek WSZOLA"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "2.31",
+    "name": "Jörg FREIMUTH"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "2.29",
+    "name": "Henry LAUTERBACH"
+  },
+  {
+    "place": 5,
+    "country": "SUI",
+    "mark": "2.24",
+    "name": "Roland DALHAUSER"
+  },
+  {
+    "place": 6,
+    "country": "YUG",
+    "mark": "2.24",
+    "name": "Vaso KOMNENIC"
+  },
+  {
+    "place": 7,
+    "country": "ROU",
+    "mark": "2.21",
+    "name": "Adrian PROTEASA"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "2.21",
+    "name": "Aleksandr GRIGORIEV"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "2.21",
+    "name": "Mark NAYLOR"
+  },
+  {
+    "place": 10,
+    "country": "URS",
+    "mark": "2.21",
+    "name": "Gennadi BELKOV"
+  },
+  {
+    "place": 11,
+    "country": "URS",
+    "mark": "2.21",
+    "name": "Aleksey DEMYANYUK"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "2.18",
+    "name": "Janusz TRZEPIZUR"
+  },
+  {
+    "place": 13,
+    "country": "ROU",
+    "mark": "2.18",
+    "name": "Sorin MATEI"
+  },
+  {
+    "place": 14,
+    "country": "BEL",
+    "mark": "2.18",
+    "name": "Guy MOREAU"
+  },
+  {
+    "place": 15,
+    "country": "ITA",
+    "mark": "2.15",
+    "name": "Marco TAMBERI"
+  },
+  {
+    "place": 16,
+    "country": "ESP",
+    "mark": "2.10",
+    "name": "Roberto CABREJAS"
+  }
+]

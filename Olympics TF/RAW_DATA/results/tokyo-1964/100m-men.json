@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "10.000",
+    "name": "Robert HAYES"
+  },
+  {
+    "place": 2,
+    "country": "CUB",
+    "mark": "10.200",
+    "name": "Enrique FIGUEROLA CAMUE"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "10.200",
+    "name": "Harry Winston JEROME"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "10.400",
+    "name": "Wieslaw Jan MANIAK"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "10.400",
+    "name": "Heinz SCHUMANN"
+  },
+  {
+    "place": 6,
+    "country": "CIV",
+    "mark": "10.400",
+    "name": "Gahoussou KONE"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "10.400",
+    "name": "Melvin Jr. PENDER"
+  },
+  {
+    "place": 8,
+    "country": "BAH",
+    "mark": "10.500",
+    "name": "Thomas Augustus ROBINSON"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Nikolay POLITIKO"
+  },
+  {
+    "place": 10,
+    "country": "NGR",
+    "mark": "Did not start",
+    "name": "David EJOKE"
+  }
+]

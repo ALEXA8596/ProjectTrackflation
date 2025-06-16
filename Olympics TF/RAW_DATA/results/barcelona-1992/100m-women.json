@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "10.820",
+    "name": "Yolanda Gail DEVERS-ROBERTS"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "10.830",
+    "name": "Juliet CUTHBERT"
+  },
+  {
+    "place": 3,
+    "country": "EUN",
+    "mark": "10.840",
+    "name": "Irina PRIVALOVA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "10.860",
+    "name": "Gwen TORRENCE"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "10.880",
+    "name": "Merlene OTTEY-PAGE"
+  },
+  {
+    "place": 6,
+    "country": "BUL",
+    "mark": "11.100",
+    "name": "Aneliya VECHERNIKOVA-NUNEVA"
+  },
+  {
+    "place": 7,
+    "country": "NGR",
+    "mark": "11.150",
+    "name": "Mary ONYALI-OMAGBEMI"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "11.190",
+    "name": "Liliana ALLEN"
+  },
+  {
+    "place": 9,
+    "country": "ANG",
+    "mark": "Did not start",
+    "name": "Antonia DE JESUS"
+  }
+]

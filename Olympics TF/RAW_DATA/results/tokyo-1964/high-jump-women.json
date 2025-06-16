@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "ROU",
+    "mark": "1.90",
+    "name": "Iolanda BALAS"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "1.80",
+    "name": "Michelle Mary MASON-BROWN"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "1.78",
+    "name": "Taisiya CHENCHIK"
+  },
+  {
+    "place": 4,
+    "country": "BRA",
+    "mark": "1.74",
+    "name": "Aida DOS SANTOS MENEZES"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "1.71",
+    "name": "Dianne Roberta GERACE"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "1.71",
+    "name": "Frances Mary SLAAP"
+  },
+  {
+    "place": 7,
+    "country": "YUG",
+    "mark": "1.71",
+    "name": "Olga GERE-PULIC"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "1.71",
+    "name": "Eleanor Inez MONTGOMERY"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "1.71",
+    "name": "Karin RUGER-SCHULZE"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "1.71",
+    "name": "Jaroslawa JOZWIAKOWSKA-BIEDA"
+  },
+  {
+    "place": 11,
+    "country": "AUS",
+    "mark": "1.71",
+    "name": "Robyn WOODHOUSE"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "1.68",
+    "name": "Gerda KUPFERSCHMIED"
+  },
+  {
+    "place": 13,
+    "country": "FIN",
+    "mark": "1.65",
+    "name": "Leena Kyllikki KAARNA"
+  },
+  {
+    "place": 14,
+    "country": "AUT",
+    "mark": "No mark",
+    "name": "Ulla FLEGEL"
+  },
+  {
+    "place": 15,
+    "country": "USA",
+    "mark": "No mark",
+    "name": "Terrezene BROWN"
+  },
+  {
+    "place": 16,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Doris LANGER"
+  },
+  {
+    "place": 17,
+    "country": "KOR",
+    "mark": "Did not start",
+    "name": "Jeon-ja KIM"
+  }
+]

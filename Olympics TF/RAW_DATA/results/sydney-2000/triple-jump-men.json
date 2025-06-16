@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "17.71",
+    "name": "Jonathan David EDWARDS"
+  },
+  {
+    "place": 2,
+    "country": "CUB",
+    "mark": "17.47",
+    "name": "Yoel GARCIA LUIS"
+  },
+  {
+    "place": 3,
+    "country": "RUS",
+    "mark": "17.46",
+    "name": "Denis KAPUSTIN"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "17.37",
+    "name": "Yoelbi QUESADA"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "17.29",
+    "name": "Onochie ACHIKE"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "17.08",
+    "name": "Phillips IDOWU"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "17.05",
+    "name": "Robert HOWARD"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "16.96",
+    "name": "Paolo CAMOSSI"
+  },
+  {
+    "place": 9,
+    "country": "BUL",
+    "mark": "16.95",
+    "name": "Rostislav DIMITROV"
+  },
+  {
+    "place": 10,
+    "country": "AUS",
+    "mark": "16.80",
+    "name": "Andrew MURPHY"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "16.61",
+    "name": "Walter DAVIS"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "No mark",
+    "name": "Charles Michael FRIEDEK"
+  }
+]

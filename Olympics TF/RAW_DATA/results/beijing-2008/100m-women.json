@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "10.780",
+    "name": "Shelly-Ann FRASER-PRYCE"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "10.980",
+    "name": "Sherone SIMPSON"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "10.980",
+    "name": "Kerron STEWART"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "11.030",
+    "name": "Lauryn WILLIAMS"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "11.070",
+    "name": "Muna LEE"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "11.140",
+    "name": "Jeanette KWAKYE"
+  },
+  {
+    "place": 7,
+    "country": "BAH",
+    "mark": "11.190",
+    "name": "Debbie FERGUSON-MCKENZIE"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "11.200",
+    "name": "Torri EDWARDS"
+  },
+  {
+    "place": 9,
+    "country": "BUL",
+    "mark": "Disqualified",
+    "name": "Tezzhan NAIMOVA"
+  }
+]

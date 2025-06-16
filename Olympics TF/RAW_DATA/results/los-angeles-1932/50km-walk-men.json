@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "04:50:10.000",
+    "name": "Thomas William GREEN"
+  },
+  {
+    "place": 2,
+    "country": "LAT",
+    "mark": "04:57:20.000",
+    "name": "Janis DALINS"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "04:59:06.000",
+    "name": "Ugo FRIGERIO"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "05:06:06.000",
+    "name": "Karl HAHNEL"
+  },
+  {
+    "place": 5,
+    "country": "ITA",
+    "mark": "05:07:39.000",
+    "name": "Ettore RIVOLTA"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "05:16:41.000",
+    "name": "Paul SIEVERT"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "05:27:25.000",
+    "name": "Henri QUINTRIC"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "05:28:02.000",
+    "name": "George William Ernest CROSBIE"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "05:51:00.000",
+    "name": "Bill CHISHOLM"
+  },
+  {
+    "place": 10,
+    "country": "EST",
+    "mark": "06:19:00.000",
+    "name": "Alfred MAASIK"
+  },
+  {
+    "place": 11,
+    "country": "CAN",
+    "mark": "Did not finish",
+    "name": "Henry CIEMAN"
+  },
+  {
+    "place": 12,
+    "country": "GRE",
+    "mark": "Did not finish",
+    "name": "John MORALIS"
+  },
+  {
+    "place": 13,
+    "country": "ITA",
+    "mark": "Did not finish",
+    "name": "Francesco PRETTI"
+  },
+  {
+    "place": 14,
+    "country": "SUI",
+    "mark": "Did not finish",
+    "name": "Arthur SCHWAB"
+  },
+  {
+    "place": 15,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Harry Robert HINKEL"
+  },
+  {
+    "place": 16,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Yrjo KORHOLIN-KOSKI"
+  }
+]

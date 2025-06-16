@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "ROU",
+    "mark": "00:01:57.600",
+    "name": "Doina BESLIU-MELINTE"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "00:01:58.630",
+    "name": "Kimberley Ann GALLAGHER"
+  },
+  {
+    "place": 3,
+    "country": "ROU",
+    "mark": "00:01:58.830",
+    "name": "Fita LOVIN"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "00:01:59.050",
+    "name": "Gabriella DORIO"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:02:00.030",
+    "name": "Lorraine BAKER"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:02:00.340",
+    "name": "Ruth Kleinsasser WYSOCKI"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "00:02:00.650",
+    "name": "Margit KLINGER"
+  },
+  {
+    "place": 8,
+    "country": "IRL",
+    "mark": "00:02:00.770",
+    "name": "Caroline O'SHEA"
+  }
+]

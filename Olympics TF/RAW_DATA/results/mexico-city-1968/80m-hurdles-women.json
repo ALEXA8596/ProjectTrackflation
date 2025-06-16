@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "10.300",
+    "name": "Maureen CAIRD"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "10.400",
+    "name": "Pam KILBORN-RYAN"
+  },
+  {
+    "place": 3,
+    "country": "TPE",
+    "mark": "10.400",
+    "name": "Cheng CHI"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "10.500",
+    "name": "Patricia VAN WOLVELAERE-JOHNSON"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "10.600",
+    "name": "Karin RICHERT-BALZER"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "10.600",
+    "name": "Danuta STRASZYNSKA"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "10.600",
+    "name": "Elzbieta ZEBROWSKA"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "10.700",
+    "name": "Tatyana TALYSHEVA"
+  },
+  {
+    "place": 9,
+    "country": "FRG",
+    "mark": "Did not start",
+    "name": "Karin REICHERT-FRISCH"
+  },
+  {
+    "place": 10,
+    "country": "FRG",
+    "mark": "Did not start",
+    "name": "Heide ROSENDAHL"
+  }
+]

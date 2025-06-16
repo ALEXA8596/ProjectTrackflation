@@ -1,0 +1,236 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:30:23.200",
+    "name": "Ville RITOLA"
+  },
+  {
+    "place": 2,
+    "country": "SWE",
+    "mark": "00:30:55.200",
+    "name": "Edvin WIDE"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "00:31:43.000",
+    "name": "Eero BERG"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "00:31:50.200",
+    "name": "Väinö Jeremias SIPILÄ"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:31:58.000",
+    "name": "Ernest HARPER"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "00:32:06.000",
+    "name": "Halland BRITTON"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "00:32:12.000",
+    "name": "Guillaume TELL"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:32:17.000",
+    "name": "Robert Earl JOHNSON"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "00:32:33.000",
+    "name": "Robert MARCHAL"
+  },
+  {
+    "place": 10,
+    "country": "LAT",
+    "mark": "00:32:44.000",
+    "name": "Arturs MOTTMILLERS"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "00:32:48.000",
+    "name": "Henri LAUVAUX"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "00:32:52.000",
+    "name": "Gaston HEUET"
+  },
+  {
+    "place": 13,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Eddie WEBSTER"
+  },
+  {
+    "place": 14,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Gustaf BERGSTRÖM"
+  },
+  {
+    "place": 15,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Verne Hobson BOOTH"
+  },
+  {
+    "place": 16,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Wayne JOHNSON"
+  },
+  {
+    "place": 17,
+    "country": "BEL",
+    "mark": "Did not finish",
+    "name": "Camiel VANDEVELDE"
+  },
+  {
+    "place": 18,
+    "country": "BUL",
+    "mark": "Did not finish",
+    "name": "Anton TSVETANOV"
+  },
+  {
+    "place": 19,
+    "country": "BUL",
+    "mark": "Did not finish",
+    "name": "Vasil VENKOV"
+  },
+  {
+    "place": 20,
+    "country": "HUN",
+    "mark": "Did not finish",
+    "name": "Pal KIRALY"
+  },
+  {
+    "place": 21,
+    "country": "IRL",
+    "mark": "Did not finish",
+    "name": "J. J. RYAN"
+  },
+  {
+    "place": 22,
+    "country": "IND",
+    "mark": "Did not finish",
+    "name": "Pala SINGH"
+  },
+  {
+    "place": 23,
+    "country": "ITA",
+    "mark": "Did not finish",
+    "name": "Carlo SPERONI"
+  },
+  {
+    "place": 24,
+    "country": "LAT",
+    "mark": "Did not finish",
+    "name": "Vilis CIMMERMANIS"
+  },
+  {
+    "place": 25,
+    "country": "ECU",
+    "mark": "Did not finish",
+    "name": "Alberto JARRÍN"
+  },
+  {
+    "place": 26,
+    "country": "GRE",
+    "mark": "Did not finish",
+    "name": "Vyron ATHANASIADIS"
+  },
+  {
+    "place": 27,
+    "country": "GRE",
+    "mark": "Did not finish",
+    "name": "Alexandros KRANIS"
+  },
+  {
+    "place": 28,
+    "country": "MEX",
+    "mark": "Did not finish",
+    "name": "Pedro CURIEL"
+  },
+  {
+    "place": 29,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "J.p. CLARKE"
+  },
+  {
+    "place": 30,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "José Francisco CUEVAS"
+  },
+  {
+    "place": 31,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "István KULTSÁR"
+  },
+  {
+    "place": 32,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Malcolm V. BOYD"
+  },
+  {
+    "place": 33,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Hans KANTOR"
+  },
+  {
+    "place": 34,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Manuel PLAZA REYES"
+  },
+  {
+    "place": 35,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Yahei MIURA"
+  },
+  {
+    "place": 36,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Katsuo OKAZAKI"
+  },
+  {
+    "place": 37,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Kikunosuke TASHIRO"
+  },
+  {
+    "place": 38,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Stefan SZELESTOWSKI"
+  },
+  {
+    "place": 39,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Len RICHARDSON"
+  }
+]

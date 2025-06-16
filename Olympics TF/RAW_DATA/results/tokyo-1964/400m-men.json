@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "45.100",
+    "name": "Mike LARRABEE"
+  },
+  {
+    "place": 2,
+    "country": "TTO",
+    "mark": "45.200",
+    "name": "Wendell Adrian MOTTLEY"
+  },
+  {
+    "place": 3,
+    "country": "POL",
+    "mark": "45.600",
+    "name": "Andrzej BADENSKI"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "45.700",
+    "name": "Robbie Ian BRIGHTWELL"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "46.000",
+    "name": "Ulis C. WILLIAMS"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "46.000",
+    "name": "Timothy Joseph Michael GRAHAM"
+  },
+  {
+    "place": 7,
+    "country": "AUS",
+    "mark": "46.300",
+    "name": "Peter VASSELLA"
+  },
+  {
+    "place": 8,
+    "country": "TTO",
+    "mark": "46.800",
+    "name": "Edwin SKINNER"
+  },
+  {
+    "place": 9,
+    "country": "KOR",
+    "mark": "Did not start",
+    "name": "Jong-kil CHANG"
+  },
+  {
+    "place": 10,
+    "country": "GHA",
+    "mark": "Did not start",
+    "name": "Brobbey MENSAH"
+  },
+  {
+    "place": 11,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "George Ezekiel KERR"
+  },
+  {
+    "place": 12,
+    "country": "LBR",
+    "mark": "Did not start",
+    "name": "Wesley JOHNSON"
+  },
+  {
+    "place": 13,
+    "country": "MGL",
+    "mark": "Did not start",
+    "name": "Amarsanaa DULAM"
+  }
+]

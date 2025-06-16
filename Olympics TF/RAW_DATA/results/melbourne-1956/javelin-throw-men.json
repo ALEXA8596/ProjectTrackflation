@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "NOR",
+    "mark": "85.71",
+    "name": "Egil DANIELSEN"
+  },
+  {
+    "place": 2,
+    "country": "POL",
+    "mark": "79.98",
+    "name": "Janusz SIDLO"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "79.50",
+    "name": "Viktor TSYBULENKO"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "74.68",
+    "name": "Herbert KOSCHEL"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "74.28",
+    "name": "Jan KOPYTO"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "72.88",
+    "name": "Giovanni LIEVORE"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "71.84",
+    "name": "Michel MACQUET"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "70.32",
+    "name": "Aleksandr GORSHKOV"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "69.86",
+    "name": "Heinrich WILL"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "69.74",
+    "name": "Philip Ransom CONLEY"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "68.64",
+    "name": "Cyrus C. Jr. YOUNG"
+  },
+  {
+    "place": 12,
+    "country": "URS",
+    "mark": "67.14",
+    "name": "Vladimir KUZNETSOV"
+  },
+  {
+    "place": 13,
+    "country": "HUN",
+    "mark": "66.33",
+    "name": "Sandor KRASNAI-KRAMER"
+  },
+  {
+    "place": 14,
+    "country": "PAK",
+    "mark": "62.55",
+    "name": "Muhammad NAWAZ"
+  },
+  {
+    "place": 15,
+    "country": "USA",
+    "mark": "No mark",
+    "name": "Benjamin Benito GARCIA"
+  }
+]

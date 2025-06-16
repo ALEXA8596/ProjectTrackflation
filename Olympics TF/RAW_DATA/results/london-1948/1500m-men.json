@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "SWE",
+    "mark": "00:03:49.800",
+    "name": "Henry ERIKSSON"
+  },
+  {
+    "place": 2,
+    "country": "SWE",
+    "mark": "00:03:50.400",
+    "name": "Lennart STRAND"
+  },
+  {
+    "place": 3,
+    "country": "NED",
+    "mark": "00:03:50.400",
+    "name": "Willem SLIJKHUIS"
+  },
+  {
+    "place": 4,
+    "country": "TCH",
+    "mark": "00:03:51.200",
+    "name": "Vaclav CEVONA"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "00:03:52.200",
+    "name": "Gösta BERGKVIST"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "00:03:52.600",
+    "name": "George William NANKEVILLE"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "00:03:54.400",
+    "name": "Sandor GARAI"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:03:54.500",
+    "name": "Don GEHRMANN"
+  },
+  {
+    "place": 9,
+    "country": "DEN",
+    "mark": "00:03:56.100",
+    "name": "Erik Arne JÖRGENSEN"
+  },
+  {
+    "place": 10,
+    "country": "LUX",
+    "mark": "00:03:56.900",
+    "name": "Joseph BARTHEL"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "00:04:02.000",
+    "name": "Marcel HANSENNE"
+  },
+  {
+    "place": 12,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Bruno SCHNEIDER"
+  },
+  {
+    "place": 13,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Daniel POYÁN"
+  },
+  {
+    "place": 14,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Adan Mario TORRES"
+  },
+  {
+    "place": 15,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Gaston Etienne REIFF"
+  },
+  {
+    "place": 16,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Raymond ROSIER"
+  },
+  {
+    "place": 17,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Hans A. STREULI"
+  }
+]

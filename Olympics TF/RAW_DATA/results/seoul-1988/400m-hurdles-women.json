@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "53.170",
+    "name": "Deborah FLINTOFF-KING"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "53.180",
+    "name": "Tatiana LEDOVSKAYA"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "53.630",
+    "name": "Ellen FIEDLER"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "53.690",
+    "name": "Sabine BUSCH"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "54.030",
+    "name": "Sally Janet Jane GUNNELL"
+  },
+  {
+    "place": 6,
+    "country": "FRG",
+    "mark": "54.040",
+    "name": "Gudrun ABT"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "54.390",
+    "name": "Tanya KUROCHKINA"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "55.320",
+    "name": "Latanya Mechun SHEFFIELD"
+  }
+]

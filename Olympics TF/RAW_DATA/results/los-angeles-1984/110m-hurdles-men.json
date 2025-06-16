@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "13.200",
+    "name": "Roger KINGDOM"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.230",
+    "name": "Gregory FOSTER"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "13.400",
+    "name": "Arto BRYGGARE"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "13.450",
+    "name": "Mark MCKOY"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "13.550",
+    "name": "Anthony Eugene CAMPBELL"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "13.710",
+    "name": "Stephane CARISTAN"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "13.800",
+    "name": "Carlos SALA MOLERA"
+  },
+  {
+    "place": 8,
+    "country": "CAN",
+    "mark": "14.150",
+    "name": "Jeffrey GLASS"
+  }
+]

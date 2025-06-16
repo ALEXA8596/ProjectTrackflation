@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "SWE",
+    "mark": "15.40",
+    "name": "Arne AHMAN"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "15.365",
+    "name": "George Gordon AVERY"
+  },
+  {
+    "place": 3,
+    "country": "TUR",
+    "mark": "15.025",
+    "name": "Ruhi SARIALP"
+  },
+  {
+    "place": 4,
+    "country": "DEN",
+    "mark": "14.83",
+    "name": "Preben Kaj LARSEN"
+  },
+  {
+    "place": 5,
+    "country": "BRA",
+    "mark": "14.825",
+    "name": "Geraldo DE OLIVEIRA"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "14.70",
+    "name": "Karl Johan Valdemar RAUTIO"
+  },
+  {
+    "place": 7,
+    "country": "AUS",
+    "mark": "14.53",
+    "name": "Les MCKEAND"
+  },
+  {
+    "place": 8,
+    "country": "BRA",
+    "mark": "14.49",
+    "name": "Adhemar FERREIRA DA SILVA"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "14.485",
+    "name": "Ake HALLGREN"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "14.33",
+    "name": "William Everett ALBANS"
+  },
+  {
+    "place": 11,
+    "country": "BRA",
+    "mark": "14.31",
+    "name": "Helio COUTINHO DA SILVA"
+  },
+  {
+    "place": 12,
+    "country": "KOR",
+    "mark": "14.25",
+    "name": "Won-gwon KIM"
+  },
+  {
+    "place": 13,
+    "country": "SWE",
+    "mark": "14.215",
+    "name": "Lennart MOBERG"
+  },
+  {
+    "place": 14,
+    "country": "IND",
+    "mark": "No mark",
+    "name": "Henry REBELLO"
+  },
+  {
+    "place": 15,
+    "country": "GUY",
+    "mark": "Did not start",
+    "name": "Charles THOMPSON"
+  }
+]

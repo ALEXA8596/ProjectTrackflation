@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "20.63",
+    "name": "Michelle CARTER"
+  },
+  {
+    "place": 2,
+    "country": "NZL",
+    "mark": "20.42",
+    "name": "Valerie ADAMS"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "19.87",
+    "name": "Anita MARTON"
+  },
+  {
+    "place": 4,
+    "country": "CHN",
+    "mark": "19.39",
+    "name": "Lijiao GONG"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "19.35",
+    "name": "Raven SAUNDERS"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "19.03",
+    "name": "Christina SCHWANITZ"
+  },
+  {
+    "place": 7,
+    "country": "TTO",
+    "mark": "18.37",
+    "name": "Cleopatra BOREL"
+  },
+  {
+    "place": 8,
+    "country": "BLR",
+    "mark": "18.23",
+    "name": "Aliona DUBITSKAYA"
+  },
+  {
+    "place": 9,
+    "country": "BRA",
+    "mark": "18.16",
+    "name": "Geisa ARCANJO"
+  },
+  {
+    "place": 10,
+    "country": "CHI",
+    "mark": "18.07",
+    "name": "Natalia DUCO"
+  },
+  {
+    "place": 11,
+    "country": "BLR",
+    "mark": "17.37",
+    "name": "Alena ABRAMCHUK"
+  },
+  {
+    "place": 12,
+    "country": "CMR",
+    "mark": "16.99",
+    "name": "Auriole DONGMO"
+  }
+]

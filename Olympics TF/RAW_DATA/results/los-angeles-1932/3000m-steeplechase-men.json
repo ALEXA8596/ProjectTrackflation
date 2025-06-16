@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:10:33.400",
+    "name": "Volmari ISO-HOLLO"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "00:10:46.000",
+    "name": "Thomas EVENSON"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "00:10:46.200",
+    "name": "Joseph Paul MCCLUSKEY"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "00:10:52.400",
+    "name": "Martti MATILAINEN"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:10:53.200",
+    "name": "George William BAILEY"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:10:58.000",
+    "name": "Glen Wilson DAWSON"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "00:11:04.000",
+    "name": "Giuseppe LIPPI"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:11:04.500",
+    "name": "Walter Herbert PRITCHARD"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "00:11:10.200",
+    "name": "Verner TOIVONEN"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "00:11:29.000",
+    "name": "Nello BARTOLINI"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "44.600",
+    "name": "Viktor MARKIN"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "44.840",
+    "name": "Richard MITCHELL"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "44.870",
+    "name": "Frank SCHAFFER"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "45.090",
+    "name": "Alberto JUANTORENA"
+  },
+  {
+    "place": 5,
+    "country": "BEL",
+    "mark": "45.100",
+    "name": "Alfons BRIJDENBACH"
+  },
+  {
+    "place": 6,
+    "country": "TTO",
+    "mark": "45.550",
+    "name": "Michael SOLOMON"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "45.560",
+    "name": "David Andrew JENKINS"
+  },
+  {
+    "place": 8,
+    "country": "TTO",
+    "mark": "46.330",
+    "name": "Joseph COOMBS"
+  },
+  {
+    "place": 9,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Koen GIJSBERS"
+  },
+  {
+    "place": 10,
+    "country": "KUW",
+    "mark": "Did not start",
+    "name": "Ramyan AL-RAMYAN"
+  },
+  {
+    "place": 11,
+    "country": "ANG",
+    "mark": "Did not start",
+    "name": "Ruben INACIO"
+  },
+  {
+    "place": 12,
+    "country": "CMR",
+    "mark": "Did not start",
+    "name": "Emmanuel BITANGA"
+  },
+  {
+    "place": 13,
+    "country": "MOZ",
+    "mark": "Did not start",
+    "name": "Constantino REIS"
+  },
+  {
+    "place": 14,
+    "country": "SEN",
+    "mark": "Did not start",
+    "name": "Boubacar DIALLO"
+  },
+  {
+    "place": 15,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Christer GULLSTRAND"
+  }
+]

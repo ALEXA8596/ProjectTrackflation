@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "44.000",
+    "name": "Jeremy WARINER"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "44.160",
+    "name": "Otis HARRIS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "44.420",
+    "name": "Derrick BREW"
+  },
+  {
+    "place": 4,
+    "country": "GRN",
+    "mark": "44.660",
+    "name": "Alleyne FRANCIQUE"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "44.760",
+    "name": "Brandon SIMPSON"
+  },
+  {
+    "place": 6,
+    "country": "JAM",
+    "mark": "44.830",
+    "name": "Davian CLARKE"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "44.940",
+    "name": "Leslie DJHONE"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "45.550",
+    "name": "Michael BLACKWOOD"
+  },
+  {
+    "place": 9,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Anton GALKIN"
+  },
+  {
+    "place": 10,
+    "country": "CGO",
+    "mark": "Did not start",
+    "name": "Lezin ELONGO NGOYIKONDA"
+  }
+]

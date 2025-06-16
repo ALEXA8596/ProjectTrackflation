@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "21.880",
+    "name": "Allyson FELIX"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "22.090",
+    "name": "Shelly-Ann FRASER-PRYCE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "22.140",
+    "name": "Carmelita JETER"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "22.380",
+    "name": "Veronica CAMPBELL-BROWN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "22.390",
+    "name": "Sanya RICHARDS-ROSS"
+  },
+  {
+    "place": 6,
+    "country": "CIV",
+    "mark": "22.570",
+    "name": "Murielle AHOURE"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "22.630",
+    "name": "Myriam SOUMARE"
+  },
+  {
+    "place": 8,
+    "country": "TTO",
+    "mark": "Disqualified",
+    "name": "Semoy HACKETT"
+  },
+  {
+    "place": 9,
+    "country": "HAI",
+    "mark": "Did not start",
+    "name": "Marlena WESH"
+  },
+  {
+    "place": 10,
+    "country": "CAY",
+    "mark": "Did not start",
+    "name": "Cydonie MOTHERSILLE"
+  }
+]

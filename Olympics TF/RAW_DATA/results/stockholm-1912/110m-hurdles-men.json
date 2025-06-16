@@ -1,0 +1,152 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "15.100",
+    "name": "Fred KELLY"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "15.200",
+    "name": "James WENDELL"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "15.300",
+    "name": "Martin HAWKINS"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "15.3est",
+    "name": "John Ruggles CASE"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "15.5est",
+    "name": "Kenneth POWELL"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "John Patrick NICHOLSON"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Albert MARTIN"
+  },
+  {
+    "place": 8,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Béla MÉSZÁROS"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Gaston SABARTHEZ"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Torwald NORLING"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Edward BEESON"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Louis SAINT-AUBERT"
+  },
+  {
+    "place": 13,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Camille LEUNCKENS"
+  },
+  {
+    "place": 14,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Raymond DE GUANDERAX"
+  },
+  {
+    "place": 15,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Richard Goodenough RICE"
+  },
+  {
+    "place": 16,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Richard RAU"
+  },
+  {
+    "place": 17,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Andor HORVAY"
+  },
+  {
+    "place": 18,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Gösta HOLMER"
+  },
+  {
+    "place": 19,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Skotte JACOBSSON"
+  },
+  {
+    "place": 20,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Einar NILSSON"
+  },
+  {
+    "place": 21,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Bertil UGGLA"
+  },
+  {
+    "place": 22,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Hugo K. WIESLANDER"
+  },
+  {
+    "place": 23,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Paul G. ZERLING"
+  },
+  {
+    "place": 24,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "James Joseph DONAHUE"
+  },
+  {
+    "place": 25,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Jim THORPE"
+  }
+]

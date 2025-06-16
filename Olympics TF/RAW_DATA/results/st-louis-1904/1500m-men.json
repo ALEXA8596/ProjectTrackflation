@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "00:04:05.400",
+    "name": "Jim LIGHTBODY"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "00:04:06.800",
+    "name": "William Frank VERNER"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Bernie GALLAGHER"
+  },
+  {
+    "place": 4,
+    "country": "NZL",
+    "mark": "Did not start",
+    "name": "Will GUNN"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "John DALY"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "George V. BONHAG"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Edward P. CARR"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Alex GRANT"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "BOT",
+    "mark": "19.46",
+    "name": "Letsile TEBOGO"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "19.62",
+    "name": "Kenneth BEDNAREK"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "19.70",
+    "name": "Noah LYLES"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "19.99",
+    "name": "Erriyon KNIGHTON"
+  },
+  {
+    "place": 5,
+    "country": "DOM",
+    "mark": "20.02",
+    "name": "Alexander OGANDO"
+  },
+  {
+    "place": 6,
+    "country": "ZIM",
+    "mark": "20.10",
+    "name": "Tapiwanashe MAKARAWU"
+  },
+  {
+    "place": 7,
+    "country": "LBR",
+    "mark": "20.15",
+    "name": "Joseph FAHNBULLEH"
+  },
+  {
+    "place": 8,
+    "country": "ZIM",
+    "mark": "20.53",
+    "name": "Makanakaishe CHARAMBA"
+  }
+]

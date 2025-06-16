@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "EUN",
+    "mark": "21.06",
+    "name": "Svetlana KRIVELYOVA"
+  },
+  {
+    "place": 2,
+    "country": "CHN",
+    "mark": "20.47",
+    "name": "Zhihong HUANG"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "19.78",
+    "name": "Kathrin NEIMKE"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "19.70",
+    "name": "Belsy LAZA"
+  },
+  {
+    "place": 5,
+    "country": "CHN",
+    "mark": "19.26",
+    "name": "Tianhua ZHOU"
+  },
+  {
+    "place": 6,
+    "country": "BUL",
+    "mark": "19.23",
+    "name": "Svetla Ivanova MITKOVA"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "19.10",
+    "name": "Stephanie STORP"
+  },
+  {
+    "place": 8,
+    "country": "EUN",
+    "mark": "18.69",
+    "name": "Vita PAVLYSH"
+  },
+  {
+    "place": 9,
+    "country": "EUN",
+    "mark": "18.60",
+    "name": "Natalya LISOVSKAYA"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "18.29",
+    "name": "Krystyna ZABAWSKA"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "18.24",
+    "name": "Ramona PAGEL"
+  },
+  {
+    "place": 12,
+    "country": "CHN",
+    "mark": "17.81",
+    "name": "Wenhua ZHEN"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "Disqualified",
+    "name": "Bonnie DASSE"
+  }
+]

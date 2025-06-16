@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "10.140",
+    "name": "Valerii BORZOV"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.240",
+    "name": "Robert TAYLOR"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "10.330",
+    "name": "Lennox MILLER"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "10.360",
+    "name": "Aleksandr KORNELYUK"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "10.400",
+    "name": "Mike FRAY"
+  },
+  {
+    "place": 6,
+    "country": "FRG",
+    "mark": "10.400",
+    "name": "Jobst HIRSCHT"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "10.460",
+    "name": "Zenon NOWOSZ"
+  },
+  {
+    "place": 8,
+    "country": "TTO",
+    "mark": "Did not finish",
+    "name": "Hasely CRAWFORD"
+  },
+  {
+    "place": 9,
+    "country": "TOG",
+    "mark": "Did not start",
+    "name": "Robert AREGBA"
+  },
+  {
+    "place": 10,
+    "country": "CIV",
+    "mark": "Did not start",
+    "name": "Gahoussou KONE"
+  },
+  {
+    "place": 11,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Pablo MONTES CASANOVA"
+  },
+  {
+    "place": 12,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Hermes Julian RAMIREZ LIMONTA"
+  },
+  {
+    "place": 13,
+    "country": "THA",
+    "mark": "Did not start",
+    "name": "Anat RATANAPOL"
+  }
+]

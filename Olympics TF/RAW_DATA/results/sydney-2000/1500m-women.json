@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "ALG",
+    "mark": "00:04:05.100",
+    "name": "Nouria MERAH-BENIDA"
+  },
+  {
+    "place": 2,
+    "country": "ROU",
+    "mark": "00:04:05.150",
+    "name": "Violeta SZEKELY"
+  },
+  {
+    "place": 3,
+    "country": "ROU",
+    "mark": "00:04:05.270",
+    "name": "Gabriela SZABO"
+  },
+  {
+    "place": 4,
+    "country": "ETH",
+    "mark": "00:04:05.330",
+    "name": "Kutre DULECHA"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "00:04:06.420",
+    "name": "Lidia CHOJECKA"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "00:04:06.490",
+    "name": "Anna JAKUBCZAK-PAWELEC"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "00:04:08.020",
+    "name": "Kelly HOLMES"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:04:08.300",
+    "name": "Marla RUNYAN"
+  },
+  {
+    "place": 9,
+    "country": "SUI",
+    "mark": "00:04:08.840",
+    "name": "Sabina FISCHER"
+  },
+  {
+    "place": 10,
+    "country": "POR",
+    "mark": "00:04:11.150",
+    "name": "Carla SACRAMENTO"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "00:04:22.290",
+    "name": "Hayley TULLETT"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "00:04:23.050",
+    "name": "Suzy FAVOR HAMILTON"
+  },
+  {
+    "place": 13,
+    "country": "MAR",
+    "mark": "Did not start",
+    "name": "Hasna BENHASSI"
+  }
+]

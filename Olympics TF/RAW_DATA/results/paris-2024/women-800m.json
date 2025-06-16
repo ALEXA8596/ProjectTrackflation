@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "1:56.72",
+    "name": "Keely HODGKINSON"
+  },
+  {
+    "place": 2,
+    "country": "ETH",
+    "mark": "1:57.15",
+    "name": "Tsige DUGUMA"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "1:57.42",
+    "name": "Mary MORAA"
+  },
+  {
+    "place": 4,
+    "country": "VIN",
+    "mark": "1:57.66",
+    "name": "Shafiqua MALONEY"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "1:58.19",
+    "name": "Renelle LAMOTE"
+  },
+  {
+    "place": 6,
+    "country": "ETH",
+    "mark": "1:58.28",
+    "name": "Worknesh MESELE"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "1:58.50",
+    "name": "Juliette WHITTAKER"
+  },
+  {
+    "place": 8,
+    "country": "RSA",
+    "mark": "1:58.79",
+    "name": "Prudence SEKGODISO"
+  }
+]

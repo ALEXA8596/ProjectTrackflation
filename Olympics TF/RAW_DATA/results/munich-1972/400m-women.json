@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "51.080",
+    "name": "Monika ZEHRT"
+  },
+  {
+    "place": 2,
+    "country": "FRG",
+    "mark": "51.210",
+    "name": "Rita WILDEN-JAHN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "51.640",
+    "name": "Kathleen HAMMOND"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "51.860",
+    "name": "Helga SEIDLER"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "51.960",
+    "name": "Mabel FERGERSON"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "51.990",
+    "name": "Charlene Louise RENDINA"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "52.190",
+    "name": "Dagmar KÄSLING"
+  },
+  {
+    "place": 8,
+    "country": "HUN",
+    "mark": "52.390",
+    "name": "Györgyi BALOGH-SZOMOV"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Christiane WILDSCHEK"
+  }
+]

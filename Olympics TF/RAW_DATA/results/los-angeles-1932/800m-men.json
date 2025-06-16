@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:01:49.700",
+    "name": "Thomas HAMPSON"
+  },
+  {
+    "place": 2,
+    "country": "CAN",
+    "mark": "00:01:49.900",
+    "name": "Alex WILSON"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "00:01:51.500",
+    "name": "Philip EDWARDS"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "00:01:51.700",
+    "name": "Edwin Bernard GENUNG"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:01:52.500",
+    "name": "Ned TURNER"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:01:52.700",
+    "name": "Chuck HORNBOSTEL"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "00:01:53.000",
+    "name": "John Vincent POWELL"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "00:01:53.600",
+    "name": "Séraphin MARTIN"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "00:01:55.000",
+    "name": "Otto PELTZER"
+  },
+  {
+    "place": 10,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "João ANDRADE"
+  },
+  {
+    "place": 11,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Amilio RODRÍGUEZ"
+  },
+  {
+    "place": 12,
+    "country": "NZL",
+    "mark": "Did not start",
+    "name": "John LOVELOCK"
+  }
+]

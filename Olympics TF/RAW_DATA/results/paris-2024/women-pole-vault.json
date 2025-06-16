@@ -1,0 +1,116 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "4.90",
+    "name": "Nina KENNEDY"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "4.85",
+    "name": "Katie MOON"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "4.85",
+    "name": "Alysha NEWMAN"
+  },
+  {
+    "place": 4,
+    "country": "SUI",
+    "mark": "4.80",
+    "name": "Angelica MOSER"
+  },
+  {
+    "place": 5,
+    "country": "CZE",
+    "mark": "4.80",
+    "name": "Amalie SVABIKOVA"
+  },
+  {
+    "place": 6,
+    "country": "NZL",
+    "mark": "4.70",
+    "name": "Eliza MCCARTNEY"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "4.70",
+    "name": "Elisa MOLINAROLO"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "4.70",
+    "name": "Wilma MURTO"
+  },
+  {
+    "place": 9,
+    "country": "GRE",
+    "mark": "4.70",
+    "name": "Katerina STEFANIDI"
+  },
+  {
+    "place": 10,
+    "country": "VEN",
+    "mark": "4.60",
+    "name": "Robeilys PEINADO"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "4.60",
+    "name": "Marie-Julie BONNIN"
+  },
+  {
+    "place": 12,
+    "country": "NZL",
+    "mark": "4.60",
+    "name": "Imogen AYRIS"
+  },
+  {
+    "place": 13,
+    "country": "NZL",
+    "mark": "4.60",
+    "name": "Olivia MCTAGGART"
+  },
+  {
+    "place": 14,
+    "country": "ITA",
+    "mark": "4.40",
+    "name": "Roberta BRUNI"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "4.40",
+    "name": "Ninon CHAPELLE"
+  },
+  {
+    "place": 16,
+    "country": "GER",
+    "mark": "4.40",
+    "name": "Anjuli KNAESCHE"
+  },
+  {
+    "place": 17,
+    "country": "FIN",
+    "mark": "4.40",
+    "name": "Elina LAMPELA"
+  },
+  {
+    "place": 18,
+    "country": "NOR",
+    "mark": "4.40",
+    "name": "Lene Onsrud RETZIUS"
+  },
+  {
+    "place": 19,
+    "country": "SLO",
+    "mark": "4.40",
+    "name": "Tina SUTEJ"
+  }
+]

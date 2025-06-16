@@ -1,0 +1,266 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "1.90",
+    "name": "Harry Franklin PORTER"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "1.88",
+    "name": "Cornelius LEAHY"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "1.88",
+    "name": "Istvan SOMODY"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "1.88",
+    "name": "Géo ANDRÉ"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "1.85",
+    "name": "Herbert Alfred GIDNEY"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "1.85",
+    "name": "Thomasrobinsom MOFFITT"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "1.83",
+    "name": "John Neil PATTERSON"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Hans REHDER"
+  },
+  {
+    "place": 9,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Béla SZABÓ"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "John MILNE"
+  },
+  {
+    "place": 11,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Géza VADON"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Otto MÜHL"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Jeremiah MAHONEY"
+  },
+  {
+    "place": 14,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Lynn MILLER"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Raymond BERTHET"
+  },
+  {
+    "place": 16,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "György DOMOKOS"
+  },
+  {
+    "place": 17,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "József ZOLD"
+  },
+  {
+    "place": 18,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "John SCHOMMER"
+  },
+  {
+    "place": 19,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Gaston MARTIN"
+  },
+  {
+    "place": 20,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Elemér SZIGETI-POLYÁKOVICS"
+  },
+  {
+    "place": 21,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Béla DÁNÉR"
+  },
+  {
+    "place": 22,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Paul CAZENAVE"
+  },
+  {
+    "place": 23,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Ben STEPHENSON"
+  },
+  {
+    "place": 24,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Carl SILFVERSTRAND"
+  },
+  {
+    "place": 25,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Gustav KROJER"
+  },
+  {
+    "place": 26,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Robert PASCAREL"
+  },
+  {
+    "place": 27,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Timoty J. AHEARNE"
+  },
+  {
+    "place": 28,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Oswald E. GROENINGS"
+  },
+  {
+    "place": 29,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "George Mahoney MAYBERRY"
+  },
+  {
+    "place": 30,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Robert PASEMANN"
+  },
+  {
+    "place": 31,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Albert WEINSTEIN"
+  },
+  {
+    "place": 32,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Kostas TSIKLITIRAS"
+  },
+  {
+    "place": 33,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Lajos GÖNCZY"
+  },
+  {
+    "place": 34,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Kálmán SZATHMÁRY"
+  },
+  {
+    "place": 35,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Ivan WARDENER"
+  },
+  {
+    "place": 36,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Gaspare TORRETTA"
+  },
+  {
+    "place": 37,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Coen VAN VEENHUIJSEN"
+  },
+  {
+    "place": 38,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "David Douglas STUPART"
+  },
+  {
+    "place": 39,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Oscar R. LEMMING"
+  },
+  {
+    "place": 40,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Gunnar RÖNSTRÖM"
+  },
+  {
+    "place": 41,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Hugo K. WIESLANDER"
+  },
+  {
+    "place": 42,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "John Joseph BRENNAN"
+  },
+  {
+    "place": 43,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Francis C. IRONS"
+  },
+  {
+    "place": 44,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Géza SZEGEDY"
+  }
+]

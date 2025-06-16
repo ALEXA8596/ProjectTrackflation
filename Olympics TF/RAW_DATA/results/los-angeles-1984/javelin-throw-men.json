@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "86.76",
+    "name": "Arto HARKONEN"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "85.74",
+    "name": "David OTTLEY"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "83.72",
+    "name": "Kenth ELDEBRINK"
+  },
+  {
+    "place": 4,
+    "country": "FRG",
+    "mark": "82.46",
+    "name": "Wolfram GAMBKE"
+  },
+  {
+    "place": 5,
+    "country": "JPN",
+    "mark": "81.98",
+    "name": "Masami YOSHIDA"
+  },
+  {
+    "place": 6,
+    "country": "ISL",
+    "mark": "81.58",
+    "name": "Einar VILHJALMSSON"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "81.22",
+    "name": "Arne Roald BRADSTOCK"
+  },
+  {
+    "place": 8,
+    "country": "CAN",
+    "mark": "80.68",
+    "name": "Laslo BABITS"
+  },
+  {
+    "place": 9,
+    "country": "NOR",
+    "mark": "78.98",
+    "name": "Per Erling OLSEN"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "78.40",
+    "name": "Thomas Alan PETRANOFF"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "78.10",
+    "name": "Duncan Fuller ATWOOD"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "70.86",
+    "name": "Jean Paul LAKAFIA"
+  }
+]

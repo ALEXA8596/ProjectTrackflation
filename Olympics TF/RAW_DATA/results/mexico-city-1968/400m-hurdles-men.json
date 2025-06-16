@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "48.100",
+    "name": "David Peter HEMERY"
+  },
+  {
+    "place": 2,
+    "country": "FRG",
+    "mark": "49.000",
+    "name": "Gerhard HENNIGE"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "49.000",
+    "name": "John SHERWOOD"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "49.000",
+    "name": "Geoffrey Peter VANDERSTOCK"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "49.100",
+    "name": "Vyacheslav SKOMOROKHOV"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "49.200",
+    "name": "Ronald Howard WHITNEY"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "49.200",
+    "name": "Rainer SCHUBERT"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "50.100",
+    "name": "Roberto FRINOLLI"
+  }
+]

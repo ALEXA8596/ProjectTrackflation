@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "NED",
+    "mark": "11.900",
+    "name": "Fanny BLANKERS-KOEN"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "12.200",
+    "name": "Dorothy Gladys MANLEY"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "12.200",
+    "name": "Shirley STRICKLAND-DE LA HUNTY"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "12.3est",
+    "name": "Viola MYERS"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "12.4est",
+    "name": "Patricia JONES"
+  },
+  {
+    "place": 6,
+    "country": "JAM",
+    "mark": "12.6est",
+    "name": "Cynthia THOMPSON"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Jolán MERTIN"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Léa CAURLA"
+  },
+  {
+    "place": 9,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "Mavis EVELYN"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "L. F. EIRAND"
+  },
+  {
+    "place": 11,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Zsilvia VARGA"
+  },
+  {
+    "place": 12,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Elfriede STEURER"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Liliane SPRECHER"
+  },
+  {
+    "place": 14,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "Carmen PHIPPS"
+  }
+]

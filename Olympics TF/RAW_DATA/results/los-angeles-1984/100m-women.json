@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "10.970",
+    "name": "Evelyn ASHFORD"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "11.130",
+    "name": "Alice Regina BROWN"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "11.160",
+    "name": "Merlene OTTEY-PAGE"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "11.250",
+    "name": "Jeanette BOLDEN"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "11.390",
+    "name": "Grace JACKSON SMALL"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "11.400",
+    "name": "Angela BAILEY"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "11.430",
+    "name": "Heather HUNTE-OAKES"
+  },
+  {
+    "place": 8,
+    "country": "CAN",
+    "mark": "11.620",
+    "name": "Angella TAYLOR-ISSAJENKO"
+  }
+]

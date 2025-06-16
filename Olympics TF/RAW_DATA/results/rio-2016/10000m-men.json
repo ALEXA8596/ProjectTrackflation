@@ -1,0 +1,206 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:27:05.170",
+    "name": "Mohamed FARAH"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:27:05.640",
+    "name": "Paul Kipngetich TANUI"
+  },
+  {
+    "place": 3,
+    "country": "ETH",
+    "mark": "00:27:06.260",
+    "name": "Tamirat TOLA"
+  },
+  {
+    "place": 4,
+    "country": "ETH",
+    "mark": "00:27:06.270",
+    "name": "Yigrem DEMELASH"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:27:08.920",
+    "name": "Galen RUPP"
+  },
+  {
+    "place": 6,
+    "country": "UGA",
+    "mark": "00:27:10.060",
+    "name": "Joshua Kiprui CHEPTEGEI"
+  },
+  {
+    "place": 7,
+    "country": "KEN",
+    "mark": "00:27:22.930",
+    "name": "Bedan Karoki MUCHIRI"
+  },
+  {
+    "place": 8,
+    "country": "ERI",
+    "mark": "00:27:23.860",
+    "name": "Zersenay TADESSE"
+  },
+  {
+    "place": 9,
+    "country": "ERI",
+    "mark": "00:27:30.790",
+    "name": "Nguse AMLOSOM"
+  },
+  {
+    "place": 10,
+    "country": "BRN",
+    "mark": "00:27:31.860",
+    "name": "Abraham Naibei CHEROBEN"
+  },
+  {
+    "place": 11,
+    "country": "KEN",
+    "mark": "00:27:31.940",
+    "name": "Geoffrey Kipsang KAMWOROR"
+  },
+  {
+    "place": 12,
+    "country": "NZL",
+    "mark": "00:27:33.670",
+    "name": "Zane ROBERTSON"
+  },
+  {
+    "place": 13,
+    "country": "TUR",
+    "mark": "00:27:35.500",
+    "name": "Polat Kemboi ARIKAN"
+  },
+  {
+    "place": 14,
+    "country": "USA",
+    "mark": "00:27:35.650",
+    "name": "Leonard Essau KORIR"
+  },
+  {
+    "place": 15,
+    "country": "ETH",
+    "mark": "00:27:36.340",
+    "name": "Abadi HADIS"
+  },
+  {
+    "place": 16,
+    "country": "AUS",
+    "mark": "00:27:51.710",
+    "name": "David MCNEILL"
+  },
+  {
+    "place": 17,
+    "country": "JPN",
+    "mark": "00:27:51.940",
+    "name": "Suguru OSAKO"
+  },
+  {
+    "place": 18,
+    "country": "RSA",
+    "mark": "00:27:54.570",
+    "name": "Stephen MOKOKA"
+  },
+  {
+    "place": 19,
+    "country": "USA",
+    "mark": "00:27:58.320",
+    "name": "Shadrack KIPCHIRCHIR"
+  },
+  {
+    "place": 20,
+    "country": "BEL",
+    "mark": "00:28:01.490",
+    "name": "Bashir ABDI"
+  },
+  {
+    "place": 21,
+    "country": "PER",
+    "mark": "00:28:02.030",
+    "name": "Luis OSTOS"
+  },
+  {
+    "place": 22,
+    "country": "UGA",
+    "mark": "00:28:03.380",
+    "name": "Moses Martin KURONG"
+  },
+  {
+    "place": 23,
+    "country": "UGA",
+    "mark": "00:28:04.840",
+    "name": "Timothy TOROITICH"
+  },
+  {
+    "place": 24,
+    "country": "ERI",
+    "mark": "00:28:15.990",
+    "name": "Goitom KIFLE"
+  },
+  {
+    "place": 25,
+    "country": "GBR",
+    "mark": "00:28:19.360",
+    "name": "Andrew VERNON"
+  },
+  {
+    "place": 26,
+    "country": "BRN",
+    "mark": "00:28:20.170",
+    "name": "El Hassan ELABBASSI"
+  },
+  {
+    "place": 27,
+    "country": "BDI",
+    "mark": "00:28:32.750",
+    "name": "Olivier IRABARUTA"
+  },
+  {
+    "place": 28,
+    "country": "AUS",
+    "mark": "00:28:46.320",
+    "name": "Ben ST LAWRENCE"
+  },
+  {
+    "place": 29,
+    "country": "JPN",
+    "mark": "00:28:55.230",
+    "name": "Yuta SHITARA"
+  },
+  {
+    "place": 30,
+    "country": "JPN",
+    "mark": "00:29:02.510",
+    "name": "Kota MURAYAMA"
+  },
+  {
+    "place": 31,
+    "country": "GBR",
+    "mark": "00:29:14.950",
+    "name": "Ross MILLINGTON"
+  },
+  {
+    "place": 32,
+    "country": "CAN",
+    "mark": "00:29:32.840",
+    "name": "Mohammed AHMED"
+  },
+  {
+    "place": 33,
+    "country": "BRN",
+    "mark": "Did not finish",
+    "name": "Hassan CHANI"
+  },
+  {
+    "place": 34,
+    "country": "TUR",
+    "mark": "Did not finish",
+    "name": "Ali KAYA"
+  }
+]

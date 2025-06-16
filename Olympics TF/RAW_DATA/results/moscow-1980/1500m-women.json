@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "00:03:56.600",
+    "name": "Tatiana KAZANKINA"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "00:03:57.800",
+    "name": "Christiane STOLL-WARTENBERG"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "00:03:59.600",
+    "name": "Nadezhda OLIZARENKO"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "00:04:00.300",
+    "name": "Gabriella DORIO"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "00:04:00.700",
+    "name": "Ulrike KLAPEZYNSKI-BRUNS"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "00:04:01.300",
+    "name": "Liubov SMOLKA"
+  },
+  {
+    "place": 7,
+    "country": "ROU",
+    "mark": "00:04:01.300",
+    "name": "Maricica PUICA"
+  },
+  {
+    "place": 8,
+    "country": "ROU",
+    "mark": "00:04:03.000",
+    "name": "Ileana SILAI"
+  },
+  {
+    "place": 9,
+    "country": "ROU",
+    "mark": "00:04:04.800",
+    "name": "Natalia ANDRE-MARASESCU"
+  },
+  {
+    "place": 10,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Geeta ZUTSHI"
+  },
+  {
+    "place": 11,
+    "country": "SYR",
+    "mark": "Did not start",
+    "name": "Hala EL-MOUGHRABI"
+  }
+]

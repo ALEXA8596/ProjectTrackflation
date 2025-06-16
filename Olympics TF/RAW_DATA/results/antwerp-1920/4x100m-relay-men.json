@@ -1,0 +1,37 @@
+[
+  {
+    "place": 1,
+    "mark": "42.200",
+    "name": null
+  },
+  {
+    "place": 2,
+    "mark": "42.600",
+    "name": null
+  },
+  {
+    "place": 3,
+    "mark": "42.8est / at 2 metres",
+    "name": null
+  },
+  {
+    "place": 4,
+    "mark": "43.0est / at 2 metres",
+    "name": null
+  },
+  {
+    "place": 5,
+    "mark": "43.3est / at 3 metres",
+    "name": null
+  },
+  {
+    "place": 6,
+    "mark": "44.0est / at 5 metres",
+    "name": null
+  },
+  {
+    "place": 7,
+    "mark": "Did not start",
+    "name": null
+  }
+]

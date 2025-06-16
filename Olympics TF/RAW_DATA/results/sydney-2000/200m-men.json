@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "GRE",
+    "mark": "20.090",
+    "name": "Kostas KENTERIS"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "20.140",
+    "name": "Darren CAMPBELL"
+  },
+  {
+    "place": 3,
+    "country": "TTO",
+    "mark": "20.200",
+    "name": "Ato BOLDON"
+  },
+  {
+    "place": 4,
+    "country": "BAR",
+    "mark": "20.200",
+    "name": "Obadele THOMPSON"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "20.230",
+    "name": "Christian MALCOLM"
+  },
+  {
+    "place": 6,
+    "country": "BRA",
+    "mark": "20.280",
+    "name": "Claudinei SILVA"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "20.350",
+    "name": "Coby MILLER"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "20.490",
+    "name": "John CAPEL"
+  },
+  {
+    "place": 9,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Alexios ALEXOPOULOS"
+  }
+]

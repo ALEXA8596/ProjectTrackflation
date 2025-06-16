@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "11.0w",
+    "name": "Wilma RUDOLPH"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "11.3w",
+    "name": "Dorothy HYMAN"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "11.3w",
+    "name": "Giuseppina LEONE"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "11.4w",
+    "name": "Mariya ITKINA"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "11.5w",
+    "name": "Catherine CAPDEVIELLE"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "11.6w",
+    "name": "Jennifer Ann SMART"
+  },
+  {
+    "place": 7,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Siloo MYSTRI"
+  },
+  {
+    "place": 8,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Ulla FLEGEL"
+  },
+  {
+    "place": 9,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Erzsébet BARTOS-HELDT"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Antonia MUNKACSI"
+  },
+  {
+    "place": 11,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Alena STOLTSOVA"
+  },
+  {
+    "place": 12,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Iryna PRESS"
+  }
+]

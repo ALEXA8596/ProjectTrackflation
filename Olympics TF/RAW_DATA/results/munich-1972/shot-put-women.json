@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "21.03",
+    "name": "Nadezhda CHIZHOVA"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "20.22",
+    "name": "Margitta HELMBOLD-GUMMEL"
+  },
+  {
+    "place": 3,
+    "country": "BUL",
+    "mark": "19.35",
+    "name": "Ivanka Mikailova CHRISTOVA-TODOROVA"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "19.24",
+    "name": "Esfir DOLZHENKO-KRACHEVSKAYA"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "18.94",
+    "name": "Marianne ADAM"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "18.85",
+    "name": "Marita LANGE"
+  },
+  {
+    "place": 7,
+    "country": "TCH",
+    "mark": "18.81",
+    "name": "Helena FIBINGEROVA"
+  },
+  {
+    "place": 8,
+    "country": "BUL",
+    "mark": "18.34",
+    "name": "Elena STOYANOVA"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "18.28",
+    "name": "Antonina IVANOVA"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "18.24",
+    "name": "Ludwika CHEWINSKA"
+  },
+  {
+    "place": 11,
+    "country": "HUN",
+    "mark": "18.23",
+    "name": "Judit BOGNAR-LENDVAI"
+  },
+  {
+    "place": 12,
+    "country": "BUL",
+    "mark": "17.86",
+    "name": "Radostina VASEKOVA"
+  },
+  {
+    "place": 13,
+    "country": "ROU",
+    "mark": "16.62",
+    "name": "Valentina CIOLTAN"
+  }
+]

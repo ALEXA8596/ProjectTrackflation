@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "RUS",
+    "mark": "75.02",
+    "name": "Olga KUZENKOVA"
+  },
+  {
+    "place": 2,
+    "country": "CUB",
+    "mark": "73.36",
+    "name": "Yipsi MORENO"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "73.16",
+    "name": "Yunaika CRAWFORD"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "72.73",
+    "name": "Betty HEIDLER"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "72.57",
+    "name": "Kamila SKOLIMOWSKA"
+  },
+  {
+    "place": 6,
+    "country": "BLR",
+    "mark": "72.27",
+    "name": "Olga TSANDER"
+  },
+  {
+    "place": 7,
+    "country": "CHN",
+    "mark": "72.03",
+    "name": "Wenxiu ZHANG"
+  },
+  {
+    "place": 8,
+    "country": "UKR",
+    "mark": "70.40",
+    "name": "Iryna SEKACHOVA"
+  },
+  {
+    "place": 9,
+    "country": "TTO",
+    "mark": "69.94",
+    "name": "Candice SCOTT"
+  },
+  {
+    "place": 10,
+    "country": "CHN",
+    "mark": "69.76",
+    "name": "Yuan GU"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "68.40",
+    "name": "Andrea BUNJES"
+  },
+  {
+    "place": 12,
+    "country": "GRE",
+    "mark": "66.83",
+    "name": "Alexandra PAPAYEORYIOU"
+  }
+]

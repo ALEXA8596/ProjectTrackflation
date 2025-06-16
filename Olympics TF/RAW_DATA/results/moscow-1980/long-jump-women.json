@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "7.06",
+    "name": "Tatiana KOLPAKOVA"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "7.04",
+    "name": "Brigitte WUJAK"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "7.01",
+    "name": "Tatiana SKACHKO"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "6.95",
+    "name": "Anna WLODARCZYK"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "6.87",
+    "name": "Siegrun SIEGL"
+  },
+  {
+    "place": 6,
+    "country": "TCH",
+    "mark": "6.83",
+    "name": "Jarmila NYGRYNOVA"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "6.71",
+    "name": "Siegrid HEIMANN"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "6.71",
+    "name": "Lidiya ALFEYEVA"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "6.50",
+    "name": "Susan HEARNSHAW"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "6.46",
+    "name": "Susan SCOTT-REEVE"
+  },
+  {
+    "place": 11,
+    "country": "POL",
+    "mark": "6.33",
+    "name": "Barbara WOJNAR-BARAN"
+  },
+  {
+    "place": 12,
+    "country": "BUL",
+    "mark": "6.24",
+    "name": "Lidia GUSHEVA"
+  },
+  {
+    "place": 13,
+    "country": "GUY",
+    "mark": "6.10",
+    "name": "Jennifer INNIS"
+  },
+  {
+    "place": 14,
+    "country": "SLE",
+    "mark": "Did not start",
+    "name": "Estella MEHEUX"
+  },
+  {
+    "place": 15,
+    "country": "SYR",
+    "mark": "Did not start",
+    "name": "Dia TOUTOUNJI"
+  }
+]

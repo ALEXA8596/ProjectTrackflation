@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "COL",
+    "mark": "15.17",
+    "name": "Caterine IBARGUEN"
+  },
+  {
+    "place": 2,
+    "country": "VEN",
+    "mark": "14.98",
+    "name": "Yulimar ROJAS"
+  },
+  {
+    "place": 3,
+    "country": "KAZ",
+    "mark": "14.74",
+    "name": "Olga RYPAKOVA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "14.71",
+    "name": "Keturah ORJI"
+  },
+  {
+    "place": 5,
+    "country": "ISR",
+    "mark": "14.68",
+    "name": "Hanna KNYAZYEVA-MINENKO"
+  },
+  {
+    "place": 6,
+    "country": "POR",
+    "mark": "14.65",
+    "name": "Patricia MAMONA"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "14.53",
+    "name": "Kimberly WILLIAMS"
+  },
+  {
+    "place": 8,
+    "country": "GRE",
+    "mark": "14.26",
+    "name": "Paraskevi PAPAHRISTOU"
+  },
+  {
+    "place": 9,
+    "country": "POR",
+    "mark": "14.12",
+    "name": "Susana COSTA"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "14.07",
+    "name": "Anna JAGACIAK"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "13.96",
+    "name": "Kristin GIERISCH"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "13.95",
+    "name": "Kristiina MAKELA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "10.940",
+    "name": "Yolanda Gail DEVERS-ROBERTS"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "10.940",
+    "name": "Merlene OTTEY-PAGE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "10.960",
+    "name": "Gwen TORRENCE"
+  },
+  {
+    "place": 4,
+    "country": "BAH",
+    "mark": "11.000",
+    "name": "Chandra STURRUP"
+  },
+  {
+    "place": 5,
+    "country": "RUS",
+    "mark": "11.060",
+    "name": "Marina TRANDENKOVA"
+  },
+  {
+    "place": 6,
+    "country": "RUS",
+    "mark": "11.100",
+    "name": "Nataliya POMOSHCHNIKOVA-VORONOVA"
+  },
+  {
+    "place": 7,
+    "country": "NGR",
+    "mark": "11.130",
+    "name": "Mary ONYALI-OMAGBEMI"
+  },
+  {
+    "place": 8,
+    "country": "UKR",
+    "mark": "11.140",
+    "name": "Zhanna PINTUSEVYCH"
+  }
+]

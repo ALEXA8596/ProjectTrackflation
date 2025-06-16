@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "2.24",
+    "name": "Richard Douglas FOSBURY"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "2.22",
+    "name": "Edward J. Jr. CARUTHERS"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "2.20",
+    "name": "Valentin GAVRILOV"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "2.16",
+    "name": "Valeri SKVORTSOV"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "2.14",
+    "name": "Reynaldo Ray BROWN"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "2.14",
+    "name": "Giacomo CROSA"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "2.14",
+    "name": "Gunter SPIELVOGEL"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "2.12",
+    "name": "Lawrence William PECKHAM"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "2.09",
+    "name": "Robert SAINTE-ROSE"
+  },
+  {
+    "place": 10,
+    "country": "FRG",
+    "mark": "2.09",
+    "name": "Ingomar SIEGHART"
+  },
+  {
+    "place": 11,
+    "country": "ESP",
+    "mark": "2.09",
+    "name": "Luis Maria GARRIGA ORTIZ"
+  },
+  {
+    "place": 12,
+    "country": "CHA",
+    "mark": "2.09",
+    "name": "Ahmed SENOUSSI"
+  },
+  {
+    "place": 13,
+    "country": "YUG",
+    "mark": "2.06",
+    "name": "Miodrag TODOSIJEVIC"
+  },
+  {
+    "place": 14,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Bo JONSSON"
+  },
+  {
+    "place": 15,
+    "country": "SEN",
+    "mark": "Did not start",
+    "name": "Ababacar LY"
+  },
+  {
+    "place": 16,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Freddy HERBRAND"
+  },
+  {
+    "place": 17,
+    "country": "NGR",
+    "mark": "Did not start",
+    "name": "Samuel IGUN"
+  },
+  {
+    "place": 18,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Jan DAHLGREN"
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "8.12",
+    "name": "Ralph Harold BOSTON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "8.11",
+    "name": "Irvin ROBERSON"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "8.04",
+    "name": "Igor TER-OVANESYAN"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "8.00",
+    "name": "Manfred STEINBACH"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "7.69",
+    "name": "Jorma Rainer VALKAMA"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "7.68",
+    "name": "Christian COLLARDOT"
+  },
+  {
+    "place": 7,
+    "country": "NED",
+    "mark": "7.66",
+    "name": "Hendrik VISSER"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "7.58",
+    "name": "Dmitri BONDARENKO"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "7.49",
+    "name": "Manfred MOLZBERGER"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "7.47",
+    "name": "Attilio BRAVI"
+  },
+  {
+    "place": 11,
+    "country": "GRE",
+    "mark": "7.45",
+    "name": "Demetrios MANGLARAS"
+  },
+  {
+    "place": 12,
+    "country": "JAM",
+    "mark": "7.26",
+    "name": "Paul FOREMAN"
+  },
+  {
+    "place": 13,
+    "country": "GBR",
+    "mark": "7.25",
+    "name": "Fred John ALSOP"
+  },
+  {
+    "place": 14,
+    "country": "AFG",
+    "mark": "Did not start",
+    "name": "Ali YUSUF ZAID"
+  },
+  {
+    "place": 15,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "José TELLES DA CONCEIÇÃO"
+  },
+  {
+    "place": 16,
+    "country": "IRI",
+    "mark": "Did not start",
+    "name": "Rouhollah RAHMANI"
+  },
+  {
+    "place": 17,
+    "country": "PAK",
+    "mark": "Did not start",
+    "name": "Iftikhar SHAH"
+  },
+  {
+    "place": 18,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Henryk GRABOWSKI"
+  },
+  {
+    "place": 19,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Torgny WAHLANDER"
+  }
+]

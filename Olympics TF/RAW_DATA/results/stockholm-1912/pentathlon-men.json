@@ -1,0 +1,230 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "1",
+    "name": "Jim THORPE"
+  },
+  {
+    "place": 2,
+    "country": "NOR",
+    "mark": "6",
+    "name": "Ferdinand Reinhardt BIE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "3",
+    "name": "James Joseph DONAHUE"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "5",
+    "name": "Frank LUKEMAN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "2",
+    "name": "James August MENAUL"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "4",
+    "name": "Hugo K. WIESLANDER"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "Did not finish",
+    "name": "Karl Ferdinand Ritter von  HALT"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "Did not finish",
+    "name": "Josef WAITZER"
+  },
+  {
+    "place": 9,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Angelo PEDRELLI"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Ernö HOLESCEK"
+  },
+  {
+    "place": 11,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Mikhail NOMIKOS"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Harry FRYKBERG"
+  },
+  {
+    "place": 13,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "László LICHTENECKERT"
+  },
+  {
+    "place": 14,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Clément MENTREL"
+  },
+  {
+    "place": 15,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Leone LINARDI"
+  },
+  {
+    "place": 16,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Frigyes MEZEI"
+  },
+  {
+    "place": 17,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Kay SCHWENDSEN"
+  },
+  {
+    "place": 18,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Giulio ALVISI"
+  },
+  {
+    "place": 19,
+    "country": "CZE",
+    "mark": "Did not start",
+    "name": "Jindrich JIRSAK"
+  },
+  {
+    "place": 20,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Rodolfo HAMMERSLEY"
+  },
+  {
+    "place": 21,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Svend LANGKJAER"
+  },
+  {
+    "place": 22,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Aarne SALOVAARA"
+  },
+  {
+    "place": 23,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "André FOUSSARD"
+  },
+  {
+    "place": 24,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Raoul Lucien PAOLI"
+  },
+  {
+    "place": 25,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Alex ABRAHAM"
+  },
+  {
+    "place": 26,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Kostas TSIKLITIRAS"
+  },
+  {
+    "place": 27,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "György LUNZER"
+  },
+  {
+    "place": 28,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Carlo BUTTI"
+  },
+  {
+    "place": 29,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Manlio LEGAT"
+  },
+  {
+    "place": 30,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Ulrick BAASCH"
+  },
+  {
+    "place": 31,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Knut LINDBERG"
+  },
+  {
+    "place": 32,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Bertil UGGLA"
+  },
+  {
+    "place": 33,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Paul G. ZERLING"
+  },
+  {
+    "place": 34,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Platt ADAMS"
+  },
+  {
+    "place": 35,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Harry Stoddard BABCOCK"
+  },
+  {
+    "place": 36,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Richard Leslie BYRD"
+  },
+  {
+    "place": 37,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Eugene Leroy MERCER"
+  },
+  {
+    "place": 38,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "George Warren PHILBROOK"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "8.54",
+    "name": "Carl LEWIS"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "8.24",
+    "name": "Gary HONEY"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "8.24",
+    "name": "Giovanni EVANGELISTI"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "8.16",
+    "name": "Lawrence Ellwyne MYRICKS"
+  },
+  {
+    "place": 5,
+    "country": "CHN",
+    "mark": "7.99",
+    "name": "Yu-Huang LIU"
+  },
+  {
+    "place": 6,
+    "country": "BAH",
+    "mark": "7.97",
+    "name": "Joseph WELLS"
+  },
+  {
+    "place": 7,
+    "country": "JPN",
+    "mark": "7.87",
+    "name": "Junichi USUI"
+  },
+  {
+    "place": 8,
+    "country": "KOR",
+    "mark": "7.81",
+    "name": "Jong-Il KIM"
+  },
+  {
+    "place": 9,
+    "country": "NGR",
+    "mark": "7.78",
+    "name": "Yusuf ALLI"
+  },
+  {
+    "place": 10,
+    "country": "ESP",
+    "mark": "7.69",
+    "name": "Antonio CORGOS CERVANTES"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "7.63",
+    "name": "Michael Keith MCRAE"
+  },
+  {
+    "place": 12,
+    "country": "NGR",
+    "mark": "7.57",
+    "name": "Jubobosaye KIO"
+  },
+  {
+    "place": 13,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Ronald DESRUELLES"
+  },
+  {
+    "place": 14,
+    "country": "GHA",
+    "mark": "Did not start",
+    "name": "Francis DODOO"
+  },
+  {
+    "place": 15,
+    "country": "NGR",
+    "mark": "Did not start",
+    "name": "Paul EMORDI"
+  }
+]

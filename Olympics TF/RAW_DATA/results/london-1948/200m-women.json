@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "NED",
+    "mark": "24.400",
+    "name": "Fanny BLANKERS-KOEN"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "25.100",
+    "name": "Audrey Doreen Swayne WILLIAMSON"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "25.3est",
+    "name": "Shirley STRICKLAND-DE LA HUNTY"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "25.200",
+    "name": "Audrey Mickey PATTERSON"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "25.6est",
+    "name": "Margaret WALKER"
+  },
+  {
+    "place": 6,
+    "country": "RSA",
+    "mark": "25.7est",
+    "name": "Daphne Lilian Evelyn ROBB-HASENJÄGER"
+  },
+  {
+    "place": 7,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Elisabeth RANFTL"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Léa CAURLA"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Grete JENNY"
+  },
+  {
+    "place": 10,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Adriana MILLARD PACHECO"
+  },
+  {
+    "place": 11,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "Carmen PHIPPS"
+  }
+]

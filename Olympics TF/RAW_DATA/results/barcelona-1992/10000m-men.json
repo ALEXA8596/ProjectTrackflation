@@ -1,0 +1,122 @@
+[
+  {
+    "place": 1,
+    "country": "MAR",
+    "mark": "00:27:46.700",
+    "name": "Khalid SKAH"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:27:47.720",
+    "name": "Richard CHELIMO"
+  },
+  {
+    "place": 3,
+    "country": "ETH",
+    "mark": "00:28:00.070",
+    "name": "Addis ABEBE"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "00:28:11.390",
+    "name": "Salvatore ANTIBO"
+  },
+  {
+    "place": 5,
+    "country": "MEX",
+    "mark": "00:28:17.790",
+    "name": "Arturo BARRIOS FLORES"
+  },
+  {
+    "place": 6,
+    "country": "MEX",
+    "mark": "00:28:20.190",
+    "name": "German SILVA MARTINEZ"
+  },
+  {
+    "place": 7,
+    "country": "KEN",
+    "mark": "00:28:25.180",
+    "name": "William KOECH"
+  },
+  {
+    "place": 8,
+    "country": "KEN",
+    "mark": "00:28:27.110",
+    "name": "Moses Kiptarbet TANUI"
+  },
+  {
+    "place": 9,
+    "country": "ETH",
+    "mark": "00:28:27.680",
+    "name": "Fita BAYISSA"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "00:28:29.380",
+    "name": "Todd WILLIAMS"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "00:28:29.830",
+    "name": "Paul William EVANS"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "00:28:34.210",
+    "name": "Zoltan KALDY"
+  },
+  {
+    "place": 13,
+    "country": "RSA",
+    "mark": "00:28:37.180",
+    "name": "Xolile YAWA"
+  },
+  {
+    "place": 14,
+    "country": "JPN",
+    "mark": "00:28:37.610",
+    "name": "Haruo URATA"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "00:28:47.660",
+    "name": "Antonio MARTINS-BORDELO"
+  },
+  {
+    "place": 16,
+    "country": "MEX",
+    "mark": "00:28:48.050",
+    "name": "Armando QUINTANILLA"
+  },
+  {
+    "place": 17,
+    "country": "GBR",
+    "mark": "00:28:48.480",
+    "name": "Richard David NERURKAR"
+  },
+  {
+    "place": 18,
+    "country": "ARG",
+    "mark": "00:28:55.200",
+    "name": "Antonio Fabian SILIO"
+  },
+  {
+    "place": 19,
+    "country": "NOR",
+    "mark": "00:29:53.910",
+    "name": "John HALVORSEN"
+  },
+  {
+    "place": 20,
+    "country": "MAR",
+    "mark": "Did not finish",
+    "name": "Hammou BOUTAYEB"
+  }
+]

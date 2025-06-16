@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "10.750",
+    "name": "Shelly-Ann FRASER-PRYCE"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.780",
+    "name": "Carmelita JETER"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "10.810",
+    "name": "Veronica CAMPBELL-BROWN"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "10.850",
+    "name": "Tianna BARTOLETTA"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "10.890",
+    "name": "Allyson FELIX"
+  },
+  {
+    "place": 6,
+    "country": "TTO",
+    "mark": "10.940",
+    "name": "Kelly-Ann BAPTISTE"
+  },
+  {
+    "place": 7,
+    "country": "CIV",
+    "mark": "11.000",
+    "name": "Murielle AHOURE"
+  },
+  {
+    "place": 8,
+    "country": "NGR",
+    "mark": "11.010",
+    "name": "Blessing OKAGBARE"
+  },
+  {
+    "place": 9,
+    "country": "TTO",
+    "mark": "Disqualified",
+    "name": "Semoy HACKETT"
+  }
+]

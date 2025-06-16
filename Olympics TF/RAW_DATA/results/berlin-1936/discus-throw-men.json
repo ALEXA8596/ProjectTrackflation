@@ -1,0 +1,128 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "50.48",
+    "name": "William Kenneth CARPENTER"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "49.36",
+    "name": "Gordon Glover DUNN"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "49.23",
+    "name": "Giorgio OBERWEGER"
+  },
+  {
+    "place": 4,
+    "country": "NOR",
+    "mark": "48.77",
+    "name": "Reidar SÖRLIE"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "47.93",
+    "name": "Willy SCHRÖDER"
+  },
+  {
+    "place": 6,
+    "country": "GRE",
+    "mark": "47.75",
+    "name": "Nikolaos SYLLAS"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "47.22",
+    "name": "Gunnar BERGH"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "46.20",
+    "name": "Ake HEDVALL"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "46.05",
+    "name": "Johann WOTAPEK"
+  },
+  {
+    "place": 10,
+    "country": "NOR",
+    "mark": "45.89",
+    "name": "Helge SIVERTSEN"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "45.10",
+    "name": "Hans FRITSCH"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "44.56",
+    "name": "Jules NOEL"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "43.83",
+    "name": "Walter Donogan WOOD"
+  },
+  {
+    "place": 14,
+    "country": "CHN",
+    "mark": "Did not start",
+    "name": "Ball-Chow CHEN"
+  },
+  {
+    "place": 15,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Felix ERAUZQUIN ERAUZQUIN"
+  },
+  {
+    "place": 16,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "André FITTE"
+  },
+  {
+    "place": 17,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Ioannis SERAIDARIS"
+  },
+  {
+    "place": 18,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Istvan DONOGAN"
+  },
+  {
+    "place": 19,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Eiichiro MATSUNO"
+  },
+  {
+    "place": 20,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Julius VIKTORÝ"
+  },
+  {
+    "place": 21,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Nikola VUČEVIĆ"
+  }
+]

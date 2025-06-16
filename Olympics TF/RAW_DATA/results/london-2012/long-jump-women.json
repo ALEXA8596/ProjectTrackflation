@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "7.12",
+    "name": "Brittney REESE"
+  },
+  {
+    "place": 2,
+    "country": "RUS",
+    "mark": "7.07",
+    "name": "Elena SOKOLOVA"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "6.89",
+    "name": "Janay DELOACH"
+  },
+  {
+    "place": 4,
+    "country": "RUS",
+    "mark": "6.76",
+    "name": "Lyudmila KOLCHANOVA"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "6.67",
+    "name": "Eloyse LESUEUR"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "6.55",
+    "name": "Shara PROCTOR"
+  },
+  {
+    "place": 7,
+    "country": "BLR",
+    "mark": "6.54",
+    "name": "Veronika SHUTKOVA"
+  },
+  {
+    "place": 8,
+    "country": "SRB",
+    "mark": "6.35",
+    "name": "Ivana SPANOVIC"
+  },
+  {
+    "place": 9,
+    "country": "GEO",
+    "mark": "NM",
+    "name": "Maiko GOGOLADZE"
+  },
+  {
+    "place": 10,
+    "country": "UZB",
+    "mark": "NM",
+    "name": "Yuliya TARASOVA"
+  },
+  {
+    "place": 11,
+    "country": "TUR",
+    "mark": "Disqualified",
+    "name": "Karin MELIS"
+  },
+  {
+    "place": 12,
+    "country": "UKR",
+    "mark": "Disqualified",
+    "name": "Marharyta TVERDOHLIB"
+  },
+  {
+    "place": 13,
+    "country": "LAT",
+    "mark": "Disqualified",
+    "name": "Ineta RADEVICA"
+  },
+  {
+    "place": 14,
+    "country": "BLR",
+    "mark": "Disqualified",
+    "name": "Nastassia MIRONCHYK-IVANOVA"
+  },
+  {
+    "place": 15,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Anna NAZAROVA"
+  },
+  {
+    "place": 16,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Caterine IBARGUEN"
+  },
+  {
+    "place": 17,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Margrethe RENSTROM"
+  }
+]

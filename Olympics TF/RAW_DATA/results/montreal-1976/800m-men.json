@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "CUB",
+    "mark": "00:01:43.500",
+    "name": "Alberto JUANTORENA"
+  },
+  {
+    "place": 2,
+    "country": "BEL",
+    "mark": "00:01:43.860",
+    "name": "Ivo VAN DAMME"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "00:01:44.120",
+    "name": "Richard Charles WOHLHUTER"
+  },
+  {
+    "place": 4,
+    "country": "FRG",
+    "mark": "00:01:45.260",
+    "name": "Willi WULBECK"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:01:45.440",
+    "name": "Steve OVETT"
+  },
+  {
+    "place": 6,
+    "country": "YUG",
+    "mark": "00:01:45.750",
+    "name": "Lucijano SUSANJ"
+  },
+  {
+    "place": 7,
+    "country": "IND",
+    "mark": "00:01:45.770",
+    "name": "Singh SINGH"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "00:01:48.390",
+    "name": "Carlo GRIPPO"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Markku TASKINEN"
+  }
+]

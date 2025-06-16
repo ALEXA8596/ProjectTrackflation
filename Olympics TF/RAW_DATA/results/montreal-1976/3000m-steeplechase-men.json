@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "SWE",
+    "mark": "00:08:08.020",
+    "name": "Anders GARDERUD"
+  },
+  {
+    "place": 2,
+    "country": "POL",
+    "mark": "00:08:09.110",
+    "name": "Bronislaw MALINOWSKI"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "00:08:10.360",
+    "name": "Frank BAUMGARTL"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "00:08:12.600",
+    "name": "Tapio KANTANEN"
+  },
+  {
+    "place": 5,
+    "country": "FRG",
+    "mark": "00:08:20.140",
+    "name": "Michael KARST"
+  },
+  {
+    "place": 6,
+    "country": "NZL",
+    "mark": "00:08:21.080",
+    "name": "Evan ROBERTSON"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "00:08:21.530",
+    "name": "Dan GLANS"
+  },
+  {
+    "place": 8,
+    "country": "ESP",
+    "mark": "00:08:22.650",
+    "name": "Antonio CAMPOS QVILES"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "00:08:22.990",
+    "name": "Dennis Malcolm COATES"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "00:08:23.990",
+    "name": "Henry Dinwoody MARSH"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "00:08:33.660",
+    "name": "Anthony STAYNINGS"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "00:08:42.740",
+    "name": "Ismo Tapio TOUKONEN"
+  },
+  {
+    "place": 13,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Jose Joao DA SILVA"
+  }
+]

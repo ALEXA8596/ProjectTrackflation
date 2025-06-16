@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "12.920",
+    "name": "Aries MERRITT"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.040",
+    "name": "Jason RICHARDSON"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "13.120",
+    "name": "Hansle PARCHMENT"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "13.390",
+    "name": "Lawrence CLARKE"
+  },
+  {
+    "place": 5,
+    "country": "BAR",
+    "mark": "13.400",
+    "name": "Ryan BRATHWAITE"
+  },
+  {
+    "place": 6,
+    "country": "CUB",
+    "mark": "13.430",
+    "name": "Orlando ORTEGA"
+  },
+  {
+    "place": 7,
+    "country": "RSA",
+    "mark": "13.530",
+    "name": "Lehann FOURIE"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "Disqualified",
+    "name": "Dayron ROBLES"
+  },
+  {
+    "place": 9,
+    "country": "PUR",
+    "mark": "Did not finish",
+    "name": "Enrique LLANOS"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Andrew POZZI"
+  },
+  {
+    "place": 11,
+    "country": "MAD",
+    "mark": "Disqualified",
+    "name": "Kame ALI"
+  },
+  {
+    "place": 12,
+    "country": "BAH",
+    "mark": "Disqualified",
+    "name": "Shamar SANDS"
+  },
+  {
+    "place": 13,
+    "country": "BAR",
+    "mark": "Did not finish",
+    "name": "Shane BRATHWAITE"
+  },
+  {
+    "place": 14,
+    "country": "CHN",
+    "mark": "Did not finish",
+    "name": "Xiang LIU"
+  },
+  {
+    "place": 15,
+    "country": "POL",
+    "mark": "Did not finish",
+    "name": "Artur NOGA"
+  },
+  {
+    "place": 16,
+    "country": "SEN",
+    "mark": "Disqualified",
+    "name": "Moussa DEMBELE"
+  }
+]

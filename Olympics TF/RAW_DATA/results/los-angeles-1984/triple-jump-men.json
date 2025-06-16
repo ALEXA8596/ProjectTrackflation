@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "17.26w",
+    "name": "Al JOYNER"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "17.18",
+    "name": "Mike CONLEY"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "16.87",
+    "name": "Keith CONNOR"
+  },
+  {
+    "place": 4,
+    "country": "CHN",
+    "mark": "16.83",
+    "name": "Zhen-Xian ZOU"
+  },
+  {
+    "place": 5,
+    "country": "FRG",
+    "mark": "16.77",
+    "name": "Peter BOUSCHEN"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "16.75",
+    "name": "William Augustus III BANKS"
+  },
+  {
+    "place": 7,
+    "country": "NGR",
+    "mark": "16.67",
+    "name": "Ajayi AGBEBAKU"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "16.66",
+    "name": "Eric Lloyd MCCALLA"
+  },
+  {
+    "place": 9,
+    "country": "NGR",
+    "mark": "16.64",
+    "name": "Joseph TAIWO"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "16.40",
+    "name": "John A. HERBERT"
+  },
+  {
+    "place": 11,
+    "country": "EGY",
+    "mark": "16.07",
+    "name": "Hassan Ahmed BADRA"
+  },
+  {
+    "place": 12,
+    "country": "SEN",
+    "mark": "15.99",
+    "name": "Mamadou DIALLO"
+  },
+  {
+    "place": 13,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Ángel Carlos GAGLIANO"
+  }
+]

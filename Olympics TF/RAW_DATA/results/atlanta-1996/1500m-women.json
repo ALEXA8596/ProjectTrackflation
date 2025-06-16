@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "RUS",
+    "mark": "00:04:00.830",
+    "name": "Svetlana MASTERKOVA"
+  },
+  {
+    "place": 2,
+    "country": "ROU",
+    "mark": "00:04:01.540",
+    "name": "Gabriela SZABO"
+  },
+  {
+    "place": 3,
+    "country": "AUT",
+    "mark": "00:04:03.020",
+    "name": "Theresia KIESL"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "00:04:03.560",
+    "name": "Leah Marlee PELLS"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "00:04:03.790",
+    "name": "Margaret CROWLEY"
+  },
+  {
+    "place": 6,
+    "country": "POR",
+    "mark": "00:04:03.910",
+    "name": "Carla SACRAMENTO"
+  },
+  {
+    "place": 7,
+    "country": "RUS",
+    "mark": "00:04:05.900",
+    "name": "Lyudmila BORISOVA"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "00:04:05.920",
+    "name": "Malgorzata RYDZ"
+  },
+  {
+    "place": 9,
+    "country": "RSA",
+    "mark": "00:04:06.330",
+    "name": "Gwen GRIFFITHS"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "00:04:07.210",
+    "name": "Regina JACOBS"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "00:04:07.460",
+    "name": "Kelly HOLMES"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "00:04:08.270",
+    "name": "Anna BRZEZINSKA"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "CUB",
+    "mark": "2.34",
+    "name": "Javier SOTOMAYOR"
+  },
+  {
+    "place": 2,
+    "country": "SWE",
+    "mark": "2.34",
+    "name": "Patrick SJÖBERG"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "2.34",
+    "name": "Timothy FORSYTH"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "2.34",
+    "name": "Artur PARTYKA"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "2.34",
+    "name": "Hollis CONWAY"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "2.31",
+    "name": "Ralf SONN"
+  },
+  {
+    "place": 7,
+    "country": "BAH",
+    "mark": "2.31",
+    "name": "Troy KEMP"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "2.28",
+    "name": "Marino Rafael DRAKE RODRIGUEZ"
+  },
+  {
+    "place": 9,
+    "country": "IOA",
+    "mark": "2.28",
+    "name": "Dragutin TOPIC"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "2.28",
+    "name": "Charles AUSTIN"
+  },
+  {
+    "place": 11,
+    "country": "ESP",
+    "mark": "2.28",
+    "name": "Gustavo Adolfo BECQUER"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "2.24",
+    "name": "Stephen James SMITH"
+  },
+  {
+    "place": 13,
+    "country": "ROU",
+    "mark": "2.24",
+    "name": "Sorin MATEI"
+  },
+  {
+    "place": 14,
+    "country": "BUL",
+    "mark": "2.24",
+    "name": "Gueorgui Kroumov DAKOV"
+  }
+]

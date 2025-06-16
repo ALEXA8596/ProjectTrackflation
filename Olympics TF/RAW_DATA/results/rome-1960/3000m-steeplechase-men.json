@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "00:08:34.200",
+    "name": "Zdzislaw KRZYSZKOWIAK"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "00:08:36.400",
+    "name": "Nikolai SOKOLOV"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "00:08:42.200",
+    "name": "Semyon RZHISHCHIN"
+  },
+  {
+    "place": 4,
+    "country": "BEL",
+    "mark": "00:08:47.600",
+    "name": "Gaston ROELANTS"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "00:08:58.600",
+    "name": "Gunnar KARLSSON-TJORNEBO"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "00:09:01.600",
+    "name": "Ludwig MULLER"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "00:09:18.200",
+    "name": "Charles Nicholas JONES"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "00:09:18.200",
+    "name": "Aleksei KONOV"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "Did not finish",
+    "name": "Hans HUNECKE"
+  },
+  {
+    "place": 10,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Balkrishan GREWAL"
+  },
+  {
+    "place": 11,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Walter STEINBACH"
+  },
+  {
+    "place": 12,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Sebastião MENDES"
+  }
+]

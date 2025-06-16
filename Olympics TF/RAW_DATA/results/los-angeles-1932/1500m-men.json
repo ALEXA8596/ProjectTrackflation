@@ -1,0 +1,116 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "00:03:51.200",
+    "name": "Luigi BECCALI"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "00:03:52.600",
+    "name": "John CORNES"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "00:03:52.800",
+    "name": "Philip EDWARDS"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "00:03:53.400",
+    "name": "Glenn CUNNINGHAM"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "00:03:54.600",
+    "name": "Eric NY"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:03:55.000",
+    "name": "Norwood Penrose HALLOWELL"
+  },
+  {
+    "place": 7,
+    "country": "NZL",
+    "mark": "00:03:57.800",
+    "name": "John LOVELOCK"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:03:58.100",
+    "name": "Francis Arthur CROWLEY"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "00:03:58.400",
+    "name": "Martti LUOMANEN"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "00:03:58.400",
+    "name": "Harri Edvin LARVA"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Eino Alfred PURJE"
+  },
+  {
+    "place": 12,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "João ANDRADE"
+  },
+  {
+    "place": 13,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Alexander John HILLHOUSE"
+  },
+  {
+    "place": 14,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Janusz KUSOCINSKI"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Roger ROCHARD"
+  },
+  {
+    "place": 16,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Séraphin MARTIN"
+  },
+  {
+    "place": 17,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Jaime MERINO"
+  },
+  {
+    "place": 18,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Paul Jean KELLER"
+  },
+  {
+    "place": 19,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Luis OLIVA"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "place": 1,
+    "country": "LUX",
+    "mark": "00:03:45.200",
+    "name": "Joseph BARTHEL"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "00:03:45.200",
+    "name": "Robert MCMILLEN"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "00:03:45.400",
+    "name": "Werner LUEG"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "00:03:46.000",
+    "name": "Roger Gilbert BANNISTER"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "00:03:46.000",
+    "name": "Patrick EL MABROUK"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "00:03:46.800",
+    "name": "Rolf LAMERS"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "00:03:47.000",
+    "name": "Olle ABERG"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "00:03:47.600",
+    "name": "Ingvar ERICSSON"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "00:03:49.600",
+    "name": "Donald Robertson MACMILLAN"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "00:03:49.800",
+    "name": "Denis Severus JOHANSSON"
+  },
+  {
+    "place": 11,
+    "country": "NOR",
+    "mark": "00:03:51.400",
+    "name": "Audun BOYSEN"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "00:03:56.000",
+    "name": "Warren Oliver DRUETZLER"
+  },
+  {
+    "place": 13,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Hugo NUTINI"
+  },
+  {
+    "place": 14,
+    "country": "GUA",
+    "mark": "Did not start",
+    "name": "Augusto ROBLES"
+  },
+  {
+    "place": 15,
+    "country": "PAN",
+    "mark": "Did not start",
+    "name": "Frank PRINCE"
+  },
+  {
+    "place": 16,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Leslie John PERRY"
+  },
+  {
+    "place": 17,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Gaston Etienne REIFF"
+  },
+  {
+    "place": 18,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "John William Milton HUTCHINS"
+  },
+  {
+    "place": 19,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Guillermo SOLA"
+  },
+  {
+    "place": 20,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Niels Gunnar NIELSEN"
+  },
+  {
+    "place": 21,
+    "country": "GUA",
+    "mark": "Did not start",
+    "name": "Victorio SOLARES"
+  },
+  {
+    "place": 22,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Yoshitaka MUROYA"
+  }
+]

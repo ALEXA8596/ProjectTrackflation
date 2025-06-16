@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "2",
+    "name": "Eero Reino LEHTONEN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "6",
+    "name": "Everett Lewis BRADLEY"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "1",
+    "name": "Hugo Jalmari LAHTINEN"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "5",
+    "name": "Bob LEGENDRE"
+  },
+  {
+    "place": 5,
+    "country": "NOR",
+    "mark": "4",
+    "name": "Helge Andreas LØVLAND"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "7",
+    "name": "Brutus Kerr HAMILTON"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "3",
+    "name": "Bertil OHLSON"
+  },
+  {
+    "place": 8,
+    "country": "JPN",
+    "mark": "Did not finish",
+    "name": "Hiroshi MASUDA"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Jonni MYYRÄ"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Géo ANDRÉ"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Gabriel SEMPE"
+  },
+  {
+    "place": 12,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Konosuke SANO"
+  }
+]

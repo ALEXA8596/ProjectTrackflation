@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "22.47",
+    "name": "Ulf TIMMERMANN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "22.39",
+    "name": "Eric Randolph BARNES"
+  },
+  {
+    "place": 3,
+    "country": "SUI",
+    "mark": "21.99",
+    "name": "Werner GÜNTHÖR"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "21.40",
+    "name": "Udo BEYER"
+  },
+  {
+    "place": 5,
+    "country": "TCH",
+    "mark": "20.57",
+    "name": "Remigius MACHURA"
+  },
+  {
+    "place": 6,
+    "country": "CHI",
+    "mark": "20.38",
+    "name": "Gert Michel WEIL"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "20.36",
+    "name": "Alessandro ANDREI"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "20.36",
+    "name": "Sergey SMIRNOV"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "20.16",
+    "name": "Gregory Louis TAFRALIS"
+  },
+  {
+    "place": 10,
+    "country": "NOR",
+    "mark": "19.91",
+    "name": "Georg Arnfinn ANDERSEN"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "19.89",
+    "name": "James DOEHRING"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "19.51",
+    "name": "Helmut KRIEGER"
+  }
+]

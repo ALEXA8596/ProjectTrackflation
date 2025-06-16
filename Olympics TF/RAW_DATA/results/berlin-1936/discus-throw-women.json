@@ -1,0 +1,38 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "44.26",
+    "name": "Gisela MAUERMAYER"
+  },
+  {
+    "place": 2,
+    "country": "POL",
+    "mark": "42.89",
+    "name": "Jadwiga WAJSOURNA"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "39.80",
+    "name": "Paula MOLLENHAUER"
+  },
+  {
+    "place": 4,
+    "country": "JPN",
+    "mark": "37.87",
+    "name": "Ko NAKAMURA"
+  },
+  {
+    "place": 5,
+    "country": "JPN",
+    "mark": "33.98",
+    "name": "Hide MINESHIMA"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "34.42",
+    "name": "Birgit LUNDSTRÖM"
+  }
+]

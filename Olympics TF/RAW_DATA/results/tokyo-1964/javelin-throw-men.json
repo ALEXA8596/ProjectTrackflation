@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "82.66",
+    "name": "Pauli Lauri NEVALA"
+  },
+  {
+    "place": 2,
+    "country": "HUN",
+    "mark": "82.32",
+    "name": "Gergely KULCSAR"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "80.57",
+    "name": "Yanis LUSIS"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "80.17",
+    "name": "Janusz SIDLO"
+  },
+  {
+    "place": 5,
+    "country": "SUI",
+    "mark": "78.72",
+    "name": "Urs VON WARTBURG"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "76.94",
+    "name": "Jorma Viljo Palaavi KINNUNEN"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "74.72",
+    "name": "Rolf HERINGS"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "74.26",
+    "name": "Vladimir KUZNETSOV"
+  },
+  {
+    "place": 9,
+    "country": "POL",
+    "mark": "73.11",
+    "name": "Wladyslaw NIKICIUK"
+  },
+  {
+    "place": 10,
+    "country": "GRE",
+    "mark": "72.65",
+    "name": "Christos Panayotis PIERRAKOS"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "71.52",
+    "name": "Walter Edward RED"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "69.82",
+    "name": "Hans SCHENK"
+  },
+  {
+    "place": 13,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Lennart HEDMARK"
+  },
+  {
+    "place": 14,
+    "country": "TPE",
+    "mark": "Did not start",
+    "name": "Chuan-Kwang YANG"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "SWE",
+    "mark": "68.90",
+    "name": "Daniel STAHL"
+  },
+  {
+    "place": 2,
+    "country": "SWE",
+    "mark": "67.39",
+    "name": "Simon PETTERSSON"
+  },
+  {
+    "place": 3,
+    "country": "AUT",
+    "mark": "67.07",
+    "name": "Lukas WEISSHAIDINGER"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "67.02",
+    "name": "Matthew DENNY"
+  },
+  {
+    "place": 5,
+    "country": "SLO",
+    "mark": "66.37",
+    "name": "Kristjan CEH"
+  },
+  {
+    "place": 6,
+    "country": "LTU",
+    "mark": "64.11",
+    "name": "Andrius GUDZIUS"
+  },
+  {
+    "place": 7,
+    "country": "COL",
+    "mark": "64.08",
+    "name": "Mauricio ORTEGA"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "63.88",
+    "name": "Sam MATTIS"
+  },
+  {
+    "place": 9,
+    "country": "JAM",
+    "mark": "62.56",
+    "name": "Chad WRIGHT"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "62.44",
+    "name": "Daniel JASINSKI"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "61.75",
+    "name": "Clemens PRUFER"
+  },
+  {
+    "place": 12,
+    "country": "NOR",
+    "mark": "61.18",
+    "name": "Ola STUNES ISENE"
+  }
+]

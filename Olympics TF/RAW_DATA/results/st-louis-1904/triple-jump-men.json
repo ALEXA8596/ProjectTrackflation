@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "14.32",
+    "name": "Meyer PRINSTEIN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.90",
+    "name": "Fred ENGELHARDT"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "13.36",
+    "name": "Robert STANGLAND"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "12.91",
+    "name": "John FUHRER"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Edward FRENCH"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Louis L. HEYDEN"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Béla DE MEZO"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Ray EWRY"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "John Joseph FLANAGAN"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Frederick SCHULE"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Garrett SERVISS"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Frank CONNOLLY"
+  }
+]

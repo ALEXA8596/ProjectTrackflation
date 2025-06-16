@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "13.600",
+    "name": "Hayes JONES"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.700",
+    "name": "Harold Blaine LINDGREN"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "13.700",
+    "name": "Anatoly MIKHAYLOV"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "13.800",
+    "name": "Eddy OTTOZ"
+  },
+  {
+    "place": 5,
+    "country": "IND",
+    "mark": "14.000",
+    "name": "Gurbachan SINGH RANDHAWA"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "14.000",
+    "name": "Marcel DURIEZ"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "14.100",
+    "name": "Giovanni CORNACCHIA"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "14.100",
+    "name": "Giorgio MAZZA"
+  },
+  {
+    "place": 9,
+    "country": "TPE",
+    "mark": "Did not start",
+    "name": "Kuei-chang LIN"
+  }
+]

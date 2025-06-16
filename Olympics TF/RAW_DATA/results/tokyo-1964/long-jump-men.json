@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "8.07",
+    "name": "Lynn DAVIES"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "8.03",
+    "name": "Ralph Harold BOSTON"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "7.99",
+    "name": "Igor TER-OVANESYAN"
+  },
+  {
+    "place": 4,
+    "country": "NGR",
+    "mark": "7.60",
+    "name": "Wariboko WEST"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "7.44",
+    "name": "Jean COCHARD"
+  },
+  {
+    "place": 6,
+    "country": "ESP",
+    "mark": "7.34",
+    "name": "Luis Felipe ARETA SAMPERIZ"
+  },
+  {
+    "place": 7,
+    "country": "GHA",
+    "mark": "7.30",
+    "name": "Michael Kofi AHEY"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "7.26",
+    "name": "Andrzej STALMACH"
+  },
+  {
+    "place": 9,
+    "country": "JPN",
+    "mark": "7.16",
+    "name": "Hiroomi YAMADA"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "7.15",
+    "name": "Wolfgang KLEIN"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "7.09",
+    "name": "John Michael MORBEY"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "No mark",
+    "name": "Gayle Patrick HOPKINS"
+  },
+  {
+    "place": 13,
+    "country": "UGA",
+    "mark": "Did not start",
+    "name": "William KAMANYI"
+  },
+  {
+    "place": 14,
+    "country": "ROU",
+    "mark": "Did not start",
+    "name": "Constantin BADEA"
+  },
+  {
+    "place": 15,
+    "country": "GHA",
+    "mark": "Did not start",
+    "name": "Joseph KOBINA ADJET"
+  },
+  {
+    "place": 16,
+    "country": "IRQ",
+    "mark": "Did not start",
+    "name": "Samir Ambrose VINCENT"
+  },
+  {
+    "place": 17,
+    "country": "NGR",
+    "mark": "Did not start",
+    "name": "George OGAN"
+  }
+]

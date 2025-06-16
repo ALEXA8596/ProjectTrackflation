@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "GRE",
+    "mark": "52.820",
+    "name": "Fani CHALKIA"
+  },
+  {
+    "place": 2,
+    "country": "ROU",
+    "mark": "53.380",
+    "name": "Ionela TIRLEA-MANOLACHE"
+  },
+  {
+    "place": 3,
+    "country": "UKR",
+    "mark": "53.440",
+    "name": "Tetiana TERESHCHUK-ANTIPOVA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "53.830",
+    "name": "Sheena TOSTA"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "53.920",
+    "name": "Jana PITTMAN"
+  },
+  {
+    "place": 6,
+    "country": "RUS",
+    "mark": "54.180",
+    "name": "Ekaterina BIKERT"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "54.970",
+    "name": "Brenda TAYLOR"
+  },
+  {
+    "place": 8,
+    "country": "RUS",
+    "mark": "55.790",
+    "name": "Yuliya PECHENKINA"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Stephanie KAMPF"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "CUB",
+    "mark": "8.55",
+    "name": "Ivan PEDROSO"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "8.49",
+    "name": "Jai TAURIMA"
+  },
+  {
+    "place": 3,
+    "country": "UKR",
+    "mark": "8.31",
+    "name": "Roman SCHURENKO"
+  },
+  {
+    "place": 4,
+    "country": "UKR",
+    "mark": "8.26",
+    "name": "Oleksiy LUKASHEVYCH"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "8.19",
+    "name": "Kofi Amoah PRAH"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "8.15",
+    "name": "Peter BURGE"
+  },
+  {
+    "place": 7,
+    "country": "CUB",
+    "mark": "8.08",
+    "name": "Luis Felipe MELIZ"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "8.06",
+    "name": "Dwight PHILLIPS"
+  },
+  {
+    "place": 9,
+    "country": "ROU",
+    "mark": "8.00",
+    "name": "Bogdan TARUS"
+  },
+  {
+    "place": 10,
+    "country": "POR",
+    "mark": "7.94",
+    "name": "Carlos CALADO"
+  },
+  {
+    "place": 11,
+    "country": "BUL",
+    "mark": "7.80",
+    "name": "Petar DACHEV"
+  },
+  {
+    "place": 12,
+    "country": "RUS",
+    "mark": "7.67",
+    "name": "Vladimir MALYAVIN"
+  }
+]

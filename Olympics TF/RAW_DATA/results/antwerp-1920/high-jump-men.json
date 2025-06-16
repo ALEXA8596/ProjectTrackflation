@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "1.936",
+    "name": "Richmond LANDON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "1.90",
+    "name": "Harold MULLER"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "1.90",
+    "name": "Bo EKELUND"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "1.85",
+    "name": "Walter Leo WHALEN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "1.85",
+    "name": "John Leonard MURPHY"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "1.85",
+    "name": "Benjamin Howard BAKER"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "1.80",
+    "name": "Pierre LEWDEN"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "1.80",
+    "name": "Einar THULIN"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "1.75",
+    "name": "Timothy CARROLL"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "1.75",
+    "name": "Hans JAGENBURG"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "1.75",
+    "name": "Thorvig SVAHN"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "1.70",
+    "name": "André Jean René LABAT"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Raoul ROUELLÉ"
+  },
+  {
+    "place": 14,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Géo ANDRÉ"
+  }
+]

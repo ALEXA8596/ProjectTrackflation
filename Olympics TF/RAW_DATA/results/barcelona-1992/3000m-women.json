@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "EUN",
+    "mark": "00:08:46.040",
+    "name": "Elena ROMANOVA"
+  },
+  {
+    "place": 2,
+    "country": "EUN",
+    "mark": "00:08:46.850",
+    "name": "Tetyana SAMOLENKO"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "00:08:47.220",
+    "name": "Angela CHALMERS-ESPINOZA"
+  },
+  {
+    "place": 4,
+    "country": "IRL",
+    "mark": "00:08:47.410",
+    "name": "Sonia O'SULLIVAN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:08:48.290",
+    "name": "Patti Sue PLUMER"
+  },
+  {
+    "place": 6,
+    "country": "EUN",
+    "mark": "00:08:49.550",
+    "name": "Ebru KAVAKLIOGLU"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "00:08:52.670",
+    "name": "Shelly STEELY"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "00:08:55.850",
+    "name": "Yvonne MURRAY"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "00:09:00.230",
+    "name": "Alison WYETH"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "00:09:01.260",
+    "name": "Roberta BRUNET"
+  },
+  {
+    "place": 11,
+    "country": "ROU",
+    "mark": "00:09:03.160",
+    "name": "Margareta KESZEG"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Marie-Pierre DUROS"
+  },
+  {
+    "place": 13,
+    "country": "BOL",
+    "mark": "Did not start",
+    "name": "Sandra CORTEZ"
+  }
+]

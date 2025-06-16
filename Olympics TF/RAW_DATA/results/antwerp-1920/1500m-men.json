@@ -1,0 +1,158 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:04:01.800",
+    "name": "Albert HILL"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "4:02.4est / at 3 metres",
+    "name": "Philip John NOEL-BAKER"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "4:04.3est / at 8 metres",
+    "name": "Marion Lawrence SHIELDS"
+  },
+  {
+    "place": 4,
+    "country": "TCH",
+    "mark": "4:08.0est / at 25 metres",
+    "name": "Vaclav VOHRALIK"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "4:12.0est / at 25 metres",
+    "name": "Sven Emil LUNDGREN"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "4:12.2est / at 1 metre",
+    "name": "André AUDINET"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "4:12.4est / at 1 metre",
+    "name": "Arturo PORRO"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "4:13.0est / at 20 metres",
+    "name": "Joseph RAY"
+  },
+  {
+    "place": 9,
+    "country": "BEL",
+    "mark": "4:16.0est / at 20 metres",
+    "name": "Léon M. FOURNEAU"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "00:04:25.000",
+    "name": "René LERAY"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Duncan MCPHEE"
+  },
+  {
+    "place": 12,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "John ZANDER"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "James Joseph CONNOLLY"
+  },
+  {
+    "place": 14,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Carlo MARTINENGHI"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Henri PROTAIS"
+  },
+  {
+    "place": 16,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Georges GUILLON"
+  },
+  {
+    "place": 17,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Tomeichi OHURA"
+  },
+  {
+    "place": 18,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Paavo NURMI"
+  },
+  {
+    "place": 19,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Bevil Gordon D'Urban RUDD"
+  },
+  {
+    "place": 20,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "José Luis GRASSET"
+  },
+  {
+    "place": 21,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Panagiotis RETELAS"
+  },
+  {
+    "place": 22,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Søren NIELSEN"
+  },
+  {
+    "place": 23,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Jaroslav PROCHÁZKA"
+  },
+  {
+    "place": 24,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Arnold JACKSON"
+  },
+  {
+    "place": 25,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Alfred GASCHEN"
+  },
+  {
+    "place": 26,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Ernesto AMBROSINI"
+  }
+]

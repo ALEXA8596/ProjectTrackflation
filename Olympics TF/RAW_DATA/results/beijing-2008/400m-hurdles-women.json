@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "52.640",
+    "name": "Melaine WALKER"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "53.700",
+    "name": "Sheena TOSTA"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "53.840",
+    "name": "Tasha DANVERS"
+  },
+  {
+    "place": 4,
+    "country": "UKR",
+    "mark": "53.960",
+    "name": "Anastasiya RABCHENYUK"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "54.290",
+    "name": "Anna JESIEN"
+  },
+  {
+    "place": 6,
+    "country": "RUS",
+    "mark": "54.960",
+    "name": "Ekaterina BIKERT"
+  },
+  {
+    "place": 7,
+    "country": "CZE",
+    "mark": "54.970",
+    "name": "Zuzana HEJNOVA"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "57.550",
+    "name": "Tiffany WILLIAMS"
+  }
+]

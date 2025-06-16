@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "10.710",
+    "name": "Elaine THOMPSON-HERAH"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.830",
+    "name": "Tori BOWIE"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "10.860",
+    "name": "Shelly-Ann FRASER-PRYCE"
+  },
+  {
+    "place": 4,
+    "country": "CIV",
+    "mark": "10.860",
+    "name": "Marie-Josee TA LOU"
+  },
+  {
+    "place": 5,
+    "country": "NED",
+    "mark": "10.900",
+    "name": "Dafne SCHIPPERS"
+  },
+  {
+    "place": 6,
+    "country": "TTO",
+    "mark": "10.920",
+    "name": "Michelle-Lee AHYE"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "10.940",
+    "name": "English GARDNER"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "11.800",
+    "name": "Christania WILLIAMS"
+  },
+  {
+    "place": 9,
+    "country": "UKR",
+    "mark": "Disqualified",
+    "name": "Olesya POVKH"
+  }
+]

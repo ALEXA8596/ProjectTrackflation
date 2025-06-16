@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "12.350",
+    "name": "Sally PEARSON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "12.370",
+    "name": "Dawn HARPER"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "12.480",
+    "name": "Kellie WELLS"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "12.580",
+    "name": "Lolo JONES"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "12.650",
+    "name": "Phylicia GEORGE"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "12.690",
+    "name": "Jessica ZELINKA"
+  },
+  {
+    "place": 7,
+    "country": "AUT",
+    "mark": "13.070",
+    "name": "Beate SCHROTT"
+  },
+  {
+    "place": 8,
+    "country": "MLI",
+    "mark": "Disqualified",
+    "name": "Rahamatou DRAME"
+  },
+  {
+    "place": 9,
+    "country": "BLR",
+    "mark": "Disqualified",
+    "name": "Ekaterina POPLAVSKAYA"
+  },
+  {
+    "place": 10,
+    "country": "TUR",
+    "mark": "Disqualified",
+    "name": "Nevin YANIT"
+  },
+  {
+    "place": 11,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Ekaterina GALITSKAYA"
+  },
+  {
+    "place": 12,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Yuliya KONDAKOVA"
+  },
+  {
+    "place": 13,
+    "country": "KAZ",
+    "mark": "Disqualified",
+    "name": "Natalya IVONINSKAYA"
+  },
+  {
+    "place": 14,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Jessica ENNIS-HILL"
+  },
+  {
+    "place": 15,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "Latoya GREAVES"
+  }
+]

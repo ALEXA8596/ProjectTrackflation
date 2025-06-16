@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "NZL",
+    "mark": "00:03:38.100",
+    "name": "Peter SNELL"
+  },
+  {
+    "place": 2,
+    "country": "TCH",
+    "mark": "00:03:39.600",
+    "name": "Josef ODLOZIL"
+  },
+  {
+    "place": 3,
+    "country": "NZL",
+    "mark": "00:03:39.600",
+    "name": "John DAVIES"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "00:03:39.700",
+    "name": "Alan SIMPSON"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:03:40.000",
+    "name": "Dyrol Jay BURLESON"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "00:03:40.300",
+    "name": "Witold BARAN"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "00:03:41.200",
+    "name": "Michel BERNARD"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "00:03:42.400",
+    "name": "John H. WHETTON"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "00:03:45.400",
+    "name": "Jean WADOUX"
+  },
+  {
+    "place": 10,
+    "country": "CHA",
+    "mark": "Did not start",
+    "name": "Ahmet ISSA"
+  },
+  {
+    "place": 11,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Jose G. NEIRA CARVAJAL"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Michel JAZY"
+  },
+  {
+    "place": 13,
+    "country": "MAD",
+    "mark": "Did not start",
+    "name": "Jean RANDRIANJATOVO"
+  },
+  {
+    "place": 14,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Manuel De OLIVEIRA"
+  },
+  {
+    "place": 15,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Muharrem DALKILIC"
+  },
+  {
+    "place": 16,
+    "country": "VIE",
+    "mark": "Did not start",
+    "name": "Nguyen Van LY"
+  }
+]

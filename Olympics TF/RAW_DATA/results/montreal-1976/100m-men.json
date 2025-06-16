@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "TTO",
+    "mark": "10.060",
+    "name": "Hasely CRAWFORD"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "10.080",
+    "name": "Donald QUARRIE"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "10.140",
+    "name": "Valerii BORZOV"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "10.190",
+    "name": "Harvey Edward GLANCE"
+  },
+  {
+    "place": 5,
+    "country": "PAN",
+    "mark": "10.250",
+    "name": "Guy ABRAHAMS"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "10.270",
+    "name": "John Wesley JONES"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "10.310",
+    "name": "Klaus-Dieter KURRAT"
+  },
+  {
+    "place": 8,
+    "country": "BUL",
+    "mark": "10.350",
+    "name": "Peter PETROV"
+  },
+  {
+    "place": 9,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Robert MARTIN"
+  },
+  {
+    "place": 10,
+    "country": "CAF",
+    "mark": "Did not start",
+    "name": "René MBERINGUERER"
+  },
+  {
+    "place": 11,
+    "country": "DOM",
+    "mark": "Did not start",
+    "name": "Félix LÓPEZ"
+  },
+  {
+    "place": 12,
+    "country": "PNG",
+    "mark": "Did not start",
+    "name": "Wavala KALI"
+  }
+]

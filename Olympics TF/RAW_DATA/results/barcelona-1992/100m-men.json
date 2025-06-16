@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "09.960",
+    "name": "Linford CHRISTIE"
+  },
+  {
+    "place": 2,
+    "country": "NAM",
+    "mark": "10.020",
+    "name": "Frankie FREDERICKS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "10.040",
+    "name": "Dennis MITCHELL"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "10.090",
+    "name": "Bruny SURIN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "10.100",
+    "name": "Leroy BURRELL"
+  },
+  {
+    "place": 6,
+    "country": "NGR",
+    "mark": "10.120",
+    "name": "Olapade ADENIKEN"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "10.220",
+    "name": "Ray STEWART"
+  },
+  {
+    "place": 8,
+    "country": "NGR",
+    "mark": "10.260",
+    "name": "Davidson EZINWA"
+  }
+]

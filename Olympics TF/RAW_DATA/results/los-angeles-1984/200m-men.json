@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "19.800",
+    "name": "Carl LEWIS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "19.960",
+    "name": "Kirk BAPTISTE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "20.260",
+    "name": "Thomas Theodore JEFFERSON"
+  },
+  {
+    "place": 4,
+    "country": "BRA",
+    "mark": "20.300",
+    "name": "Joao Batista DA SILVA"
+  },
+  {
+    "place": 5,
+    "country": "FRG",
+    "mark": "20.510",
+    "name": "Ralf LUBKE"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "20.550",
+    "name": "Jean Jacques BOUSSEMART"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "20.550",
+    "name": "Pietro MENNEA"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "20.850",
+    "name": "Adeoye O. MAFE"
+  },
+  {
+    "place": 9,
+    "country": "BOT",
+    "mark": "Did not start",
+    "name": "Kgosiemang KHUMOYARANO"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Allan WELLS"
+  },
+  {
+    "place": 11,
+    "country": "FRG",
+    "mark": "Did not start",
+    "name": "Christian HAAS"
+  },
+  {
+    "place": 12,
+    "country": "TTO",
+    "mark": "Did not start",
+    "name": "Hasely CRAWFORD"
+  }
+]

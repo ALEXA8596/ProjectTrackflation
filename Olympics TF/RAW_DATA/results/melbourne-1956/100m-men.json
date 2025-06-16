@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "10.500",
+    "name": "Bobby MORROW"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.500",
+    "name": "Walter Thane BAKER"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "10.600",
+    "name": "Hec HOGAN"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "10.600",
+    "name": "Ira James MURCHISON"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "10.700",
+    "name": "Manfred GERMAR"
+  },
+  {
+    "place": 6,
+    "country": "TTO",
+    "mark": "10.700",
+    "name": "Michael AGOSTINI"
+  },
+  {
+    "place": 7,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "René FARINE"
+  },
+  {
+    "place": 8,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Walter TSCHUDI"
+  },
+  {
+    "place": 9,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "László KISS"
+  },
+  {
+    "place": 10,
+    "country": "IRQ",
+    "mark": "Did not start",
+    "name": "Ghanim MAHMOUD"
+  },
+  {
+    "place": 11,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Edward SZMIDT"
+  },
+  {
+    "place": 12,
+    "country": "PUR",
+    "mark": "Did not start",
+    "name": "Norberto CRUZ"
+  },
+  {
+    "place": 13,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Fritz VOGELSANG"
+  },
+  {
+    "place": 14,
+    "country": "VEN",
+    "mark": "Did not start",
+    "name": "Alfonso BRUNO"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "4.70",
+    "name": "Donald George BRAGG"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "4.60",
+    "name": "Ronald Hugh MORRIS"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "4.55",
+    "name": "Eeles Enok LANDSTRÖM"
+  },
+  {
+    "place": 4,
+    "country": "PUR",
+    "mark": "4.55",
+    "name": "Rolando CRUZ"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "4.50",
+    "name": "Gunter MALCHER"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "4.50",
+    "name": "Matti SUTINEN"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "4.50",
+    "name": "Igor PETRENKO"
+  },
+  {
+    "place": 8,
+    "country": "TCH",
+    "mark": "4.50",
+    "name": "Rudolf TOMASEK"
+  },
+  {
+    "place": 9,
+    "country": "YUG",
+    "mark": "4.40",
+    "name": "Leo LUKMAN"
+  },
+  {
+    "place": 10,
+    "country": "BUL",
+    "mark": "4.40",
+    "name": "Hristo HRISTOV"
+  },
+  {
+    "place": 11,
+    "country": "BUL",
+    "mark": "4.30",
+    "name": "Dimitre Petrov KHLEBAROV"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "4.30",
+    "name": "Andrzej KRZESINSKI"
+  },
+  {
+    "place": 13,
+    "country": "URS",
+    "mark": "4.30",
+    "name": "Yanis KRASOVSKIS"
+  },
+  {
+    "place": 14,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Günther GRATZER"
+  },
+  {
+    "place": 15,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Vladimir BULATOV"
+  }
+]

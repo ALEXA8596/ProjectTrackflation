@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "ALG",
+    "mark": "00:03:55.300",
+    "name": "Hassiba BOULMERKA"
+  },
+  {
+    "place": 2,
+    "country": "EUN",
+    "mark": "00:03:56.910",
+    "name": "Lyudmila ROGACHOVA"
+  },
+  {
+    "place": 3,
+    "country": "CHN",
+    "mark": "00:03:57.080",
+    "name": "Yunxia QU"
+  },
+  {
+    "place": 4,
+    "country": "EUN",
+    "mark": "00:03:57.920",
+    "name": "Tetyana SAMOLENKO"
+  },
+  {
+    "place": 5,
+    "country": "CHN",
+    "mark": "00:04:00.200",
+    "name": "Li LIU"
+  },
+  {
+    "place": 6,
+    "country": "ESP",
+    "mark": "00:04:00.590",
+    "name": "Maite ZUNIGA DOMINGUEZ"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "00:04:01.910",
+    "name": "Malgorzata RYDZ"
+  },
+  {
+    "place": 8,
+    "country": "EUN",
+    "mark": "00:04:02.030",
+    "name": "Yekaterina PODKOPAYEVA"
+  },
+  {
+    "place": 9,
+    "country": "MOZ",
+    "mark": "00:04:02.600",
+    "name": "Maria MUTOLA"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "00:04:03.420",
+    "name": "Patti Sue PLUMER"
+  },
+  {
+    "place": 11,
+    "country": "ROU",
+    "mark": "00:04:06.440",
+    "name": "Elena FIDATOV"
+  },
+  {
+    "place": 12,
+    "country": "ROU",
+    "mark": "Did not finish",
+    "name": "Doina BESLIU-MELINTE"
+  },
+  {
+    "place": 13,
+    "country": "ECU",
+    "mark": "Did not start",
+    "name": "Janeth CAIZALITIN"
+  },
+  {
+    "place": 14,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Paivi TIKKANEN"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "MAR",
+    "mark": "54.610",
+    "name": "Nawal EL MOUTAWAKEL"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "55.200",
+    "name": "Judith Lynne BROWN"
+  },
+  {
+    "place": 3,
+    "country": "ROU",
+    "mark": "55.410",
+    "name": "Cristina COJOCARU"
+  },
+  {
+    "place": 4,
+    "country": "IND",
+    "mark": "55.420",
+    "name": "PT USHA"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "55.430",
+    "name": "Ann-Louise SKOGLUND"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "56.210",
+    "name": "Deborah FLINTOFF-KING"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "56.550",
+    "name": "Tuija HELANDER"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "57.150",
+    "name": "Sandra FARMER-PATRICK"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "46.500",
+    "name": "Archibald Franklin WILLIAMS"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "46.700",
+    "name": "Arthur Godfrey Kilner BROWN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "46.800",
+    "name": "Jimmy LU VALLE"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "46.800",
+    "name": "William ROBERTS"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "47.800",
+    "name": "William Duncan FRITZ"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "48.200",
+    "name": "John Wilfred LOARING"
+  },
+  {
+    "place": 7,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Janez GABRŠEK"
+  },
+  {
+    "place": 8,
+    "country": "MLT",
+    "mark": "Did not start",
+    "name": "Paul PACE"
+  },
+  {
+    "place": 9,
+    "country": "ROU",
+    "mark": "Did not start",
+    "name": "Eugen KAPPLER"
+  },
+  {
+    "place": 10,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Luis PRATMARSO PARERA"
+  },
+  {
+    "place": 11,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Felix RINNER"
+  },
+  {
+    "place": 12,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Jose Domingo SANCHEZ"
+  },
+  {
+    "place": 13,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Marsilio ROSSI"
+  },
+  {
+    "place": 14,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Otello SPAMPANI"
+  },
+  {
+    "place": 15,
+    "country": "PER",
+    "mark": "Did not start",
+    "name": "Antonio CUBA"
+  },
+  {
+    "place": 16,
+    "country": "PHI",
+    "mark": "Did not start",
+    "name": "Teodoro MALASIG"
+  },
+  {
+    "place": 17,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Klemens BINIAKOWSKI"
+  }
+]

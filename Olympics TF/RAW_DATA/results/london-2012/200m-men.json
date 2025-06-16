@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "19.320",
+    "name": "Usain BOLT"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "19.440",
+    "name": "Yohan BLAKE"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "19.840",
+    "name": "Warren WEIR"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "19.900",
+    "name": "Wallace SPEARMON"
+  },
+  {
+    "place": 5,
+    "country": "NED",
+    "mark": "20.000",
+    "name": "Churandy MARTINA"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "20.190",
+    "name": "Christophe LEMAITRE"
+  },
+  {
+    "place": 7,
+    "country": "ECU",
+    "mark": "20.570",
+    "name": "Alex QUINONEZ"
+  },
+  {
+    "place": 8,
+    "country": "RSA",
+    "mark": "20.690",
+    "name": "Anaso JOBODWANA"
+  },
+  {
+    "place": 9,
+    "country": "PAN",
+    "mark": "Disqualified",
+    "name": "Alonso EDWARD"
+  },
+  {
+    "place": 10,
+    "country": "CIV",
+    "mark": "Did not start",
+    "name": "Ben Youssef MEITE"
+  }
+]

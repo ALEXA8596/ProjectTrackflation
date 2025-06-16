@@ -1,0 +1,116 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "46.700",
+    "name": "Charles Lamont JENKINS"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "46.800",
+    "name": "Karl-Friedrich HAAS"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "47.000",
+    "name": "Voitto Valdemar HELLSTEN"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "47.000",
+    "name": "Ardalion IGNATYEV"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "48.100",
+    "name": "Louis Woodard III JONES"
+  },
+  {
+    "place": 6,
+    "country": "RSA",
+    "mark": "48.300",
+    "name": "Malcolm Clive SPENCE"
+  },
+  {
+    "place": 7,
+    "country": "LBR",
+    "mark": "Did not start",
+    "name": "Joseph NARMAH"
+  },
+  {
+    "place": 8,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Ruben GUEVARA"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Yury BASHLIKOV"
+  },
+  {
+    "place": 10,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Alfonso MUNOZ"
+  },
+  {
+    "place": 11,
+    "country": "MAS",
+    "mark": "Did not start",
+    "name": "Manikavagasam HARICHANDRA"
+  },
+  {
+    "place": 12,
+    "country": "ROU",
+    "mark": "Did not start",
+    "name": "Ilie SAVEL"
+  },
+  {
+    "place": 13,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Rene WEBER"
+  },
+  {
+    "place": 14,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Vaclav JANECEK"
+  },
+  {
+    "place": 15,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Jaroslav JIRASEK"
+  },
+  {
+    "place": 16,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Josef TROUSIL"
+  },
+  {
+    "place": 17,
+    "country": "TTO",
+    "mark": "Did not start",
+    "name": "Michael AGOSTINI"
+  },
+  {
+    "place": 18,
+    "country": "TTO",
+    "mark": "Did not start",
+    "name": "Joe GODDARD"
+  },
+  {
+    "place": 19,
+    "country": "TTO",
+    "mark": "Did not start",
+    "name": "Edmund TURTON"
+  }
+]

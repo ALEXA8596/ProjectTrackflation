@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "NOR",
+    "mark": "90.57",
+    "name": "Andreas THORKILDSEN"
+  },
+  {
+    "place": 2,
+    "country": "LAT",
+    "mark": "86.64",
+    "name": "Ainars KOVALS"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "86.16",
+    "name": "Tero PITKAMAKI"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "83.95",
+    "name": "Tero JARVENPAA"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "83.46",
+    "name": "Teemu WIRKKALA"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "83.45",
+    "name": "Jarrod BANNISTER"
+  },
+  {
+    "place": 7,
+    "country": "RUS",
+    "mark": "83.15",
+    "name": "Ilya KOROTKOV"
+  },
+  {
+    "place": 8,
+    "country": "BLR",
+    "mark": "82.06",
+    "name": "Uladzimir KAZLOU"
+  },
+  {
+    "place": 9,
+    "country": "LAT",
+    "mark": "81.32",
+    "name": "Vadims VASILEVSKIS"
+  },
+  {
+    "place": 10,
+    "country": "CAN",
+    "mark": "80.90",
+    "name": "Scott RUSSELL"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "80.16",
+    "name": "Magnus ARVIDSSON"
+  },
+  {
+    "place": 12,
+    "country": "CZE",
+    "mark": "76.76",
+    "name": "Vitezslav VESELY"
+  }
+]

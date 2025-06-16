@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "19.780",
+    "name": "Usain BOLT"
+  },
+  {
+    "place": 2,
+    "country": "CAN",
+    "mark": "20.020",
+    "name": "Andre DE GRASSE"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "20.120",
+    "name": "Christophe LEMAITRE"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "20.120",
+    "name": "Adam GEMILI"
+  },
+  {
+    "place": 5,
+    "country": "NED",
+    "mark": "20.130",
+    "name": "Churandy MARTINA"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "20.190",
+    "name": "Lashawn MERRITT"
+  },
+  {
+    "place": 7,
+    "country": "PAN",
+    "mark": "20.230",
+    "name": "Alonso EDWARD"
+  },
+  {
+    "place": 8,
+    "country": "TUR",
+    "mark": "20.430",
+    "name": "Ramil GULIYEV"
+  },
+  {
+    "place": 9,
+    "country": "ANT",
+    "mark": "Did not start",
+    "name": "Miguel FRANCIS"
+  },
+  {
+    "place": 10,
+    "country": "KEN",
+    "mark": "Did not start",
+    "name": "Mike Mokamba NYANGAU"
+  }
+]

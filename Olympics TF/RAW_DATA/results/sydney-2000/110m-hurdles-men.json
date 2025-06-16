@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "CUB",
+    "mark": "13.000",
+    "name": "Anier GARCIA"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.160",
+    "name": "Terrence TRAMMELL"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "13.220",
+    "name": "Mark CREAR"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "13.230",
+    "name": "Allen JOHNSON"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "13.280",
+    "name": "Colin JACKSON"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "13.420",
+    "name": "Florian SCHWARTHOFF"
+  },
+  {
+    "place": 7,
+    "country": "HAI",
+    "mark": "13.490",
+    "name": "Dudley DORIVAL"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "13.610",
+    "name": "Robert KRONBERG"
+  },
+  {
+    "place": 9,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Robin KORVING"
+  },
+  {
+    "place": 10,
+    "country": "SVK",
+    "mark": "Did not start",
+    "name": "Igor KOVAC"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "49.300",
+    "name": "Glenn Ashby DAVIS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "49.600",
+    "name": "Clifton Emmett CUSHMAN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "49.700",
+    "name": "Richard Wayne HOWARD"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "49.900",
+    "name": "Helmuth JANZ"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "50.800",
+    "name": "Jussi RINTAMAKI"
+  },
+  {
+    "place": 6,
+    "country": "SUI",
+    "mark": "51.000",
+    "name": "Bruno GALLIKER"
+  },
+  {
+    "place": 7,
+    "country": "INA",
+    "mark": "Did not start",
+    "name": "Soedjanoedji SOEDJANOEDJI"
+  },
+  {
+    "place": 8,
+    "country": "AFG",
+    "mark": "Did not start",
+    "name": "Habib SAYED"
+  }
+]

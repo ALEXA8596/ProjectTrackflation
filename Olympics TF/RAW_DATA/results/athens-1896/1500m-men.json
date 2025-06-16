@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "00:04:33.200",
+    "name": "Edwin FLACK"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "at 2-10 metres",
+    "name": "Arthur BLAKE"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "at 6-15 metres",
+    "name": "Albin LERMUSIAUX"
+  },
+  {
+    "place": 4,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Gyula MALCSINER"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Georges DE LA NÉZIERE"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "George MARSHALL"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Nandor DANI"
+  }
+]

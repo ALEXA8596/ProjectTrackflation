@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "RUS",
+    "mark": "00:01:57.730",
+    "name": "Svetlana MASTERKOVA"
+  },
+  {
+    "place": 2,
+    "country": "CUB",
+    "mark": "00:01:58.110",
+    "name": "Ana Fidelia QUIROT"
+  },
+  {
+    "place": 3,
+    "country": "MOZ",
+    "mark": "00:01:58.710",
+    "name": "Maria MUTOLA"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "00:01:58.810",
+    "name": "Kelly HOLMES"
+  },
+  {
+    "place": 5,
+    "country": "RUS",
+    "mark": "00:01:59.570",
+    "name": "Yelena AFANASYEVA"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "00:01:59.610",
+    "name": "Patricia DJATE-TAILLARD"
+  },
+  {
+    "place": 7,
+    "country": "BLR",
+    "mark": "00:02:00.320",
+    "name": "Natasha DUKHNOVA"
+  },
+  {
+    "place": 8,
+    "country": "NZL",
+    "mark": "00:02:00.540",
+    "name": "Toni HODGKINSON"
+  },
+  {
+    "place": 9,
+    "country": "MOZ",
+    "mark": "Did not start",
+    "name": "Argentina PAULINO"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "13.700",
+    "name": "Harrison DILLARD"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.700",
+    "name": "Jack DAVIS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "14.100",
+    "name": "Arthur BARNARD"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "14.500",
+    "name": "Yevgeny BULANCHIK"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "14.700",
+    "name": "Kenneth Leslie DOUBLEDAY"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "14.800",
+    "name": "Raymond Henry WEINBERG"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Sebastián JUNQUERAS"
+  },
+  {
+    "place": 8,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Mikhail MIKHAIL"
+  },
+  {
+    "place": 9,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Imre RETEZAR"
+  },
+  {
+    "place": 10,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Hakan EPER"
+  },
+  {
+    "place": 11,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Wilson GOMES CARNEIRO"
+  }
+]

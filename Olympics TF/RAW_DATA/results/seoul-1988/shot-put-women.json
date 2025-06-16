@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "22.24",
+    "name": "Natalya LISOVSKAYA"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "21.07",
+    "name": "Kathrin NEIMKE"
+  },
+  {
+    "place": 3,
+    "country": "CHN",
+    "mark": "21.06",
+    "name": "Mei-Su LI"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "20.37",
+    "name": "Ines REICHENBACH-MULLER"
+  },
+  {
+    "place": 5,
+    "country": "FRG",
+    "mark": "20.27",
+    "name": "Claudia LOSCH"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "20.20",
+    "name": "Heike HARTWIG"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "20.13",
+    "name": "Natalia AKHRIMENKO"
+  },
+  {
+    "place": 8,
+    "country": "CHN",
+    "mark": "19.82",
+    "name": "Zhihong HUANG"
+  },
+  {
+    "place": 9,
+    "country": "CHN",
+    "mark": "19.69",
+    "name": "Yu-Zhen CONG"
+  },
+  {
+    "place": 10,
+    "country": "BUL",
+    "mark": "19.09",
+    "name": "Svetla Ivanova MITKOVA"
+  },
+  {
+    "place": 11,
+    "country": "TCH",
+    "mark": "18.86",
+    "name": "Zdenka BARTONOVA-SILHOVA"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "17.60",
+    "name": "Bonnie DASSE"
+  },
+  {
+    "place": 13,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Soňa VAŠÍČKOVÁ"
+  }
+]

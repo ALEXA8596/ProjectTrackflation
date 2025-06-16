@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "84.28",
+    "name": "Tapio KORJUS"
+  },
+  {
+    "place": 2,
+    "country": "TCH",
+    "mark": "84.12",
+    "name": "Jan ŽELEZNÝ"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "83.26",
+    "name": "Seppo Henrik RATY"
+  },
+  {
+    "place": 4,
+    "country": "FRG",
+    "mark": "82.72",
+    "name": "Klaus TAFELMEIER"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "82.32",
+    "name": "Viktor EVSYUKOV"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "81.30",
+    "name": "Gerald WEISS"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "79.12",
+    "name": "Vladimir OVCHINNIKOV"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "78.30",
+    "name": "Dag WENNLUND"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "78.22",
+    "name": "Peter BORGLUND"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "78.04",
+    "name": "Kimmo Paavali KINNUNEN"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "76.96",
+    "name": "David OTTLEY"
+  },
+  {
+    "place": 12,
+    "country": "YUG",
+    "mark": "73.28",
+    "name": "Sejad KRDZALIC"
+  }
+]

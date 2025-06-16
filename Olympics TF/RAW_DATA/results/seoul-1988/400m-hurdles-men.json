@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "47.190",
+    "name": "Andre Lamar PHILLIPS"
+  },
+  {
+    "place": 2,
+    "country": "SEN",
+    "mark": "47.230",
+    "name": "El Hadji Amadou DIA BA"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "47.560",
+    "name": "Edwin MOSES"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "47.940",
+    "name": "Kevin Curtis YOUNG"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "48.040",
+    "name": "Winthrop GRAHAM"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "48.690",
+    "name": "Kriss Kezie Uche AKABUSI"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "48.760",
+    "name": "Harald SCHMID"
+  },
+  {
+    "place": 8,
+    "country": "FRG",
+    "mark": "48.780",
+    "name": "Edgar ITT"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Sven NYLANDER"
+  }
+]

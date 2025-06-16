@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "63.88",
+    "name": "Ruth FUCHS"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "62.54",
+    "name": "Jaqueline TODTEN-HEIN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "59.94",
+    "name": "Kathryn Joan SCHMIDT"
+  },
+  {
+    "place": 4,
+    "country": "BUL",
+    "mark": "59.36",
+    "name": "Lutvian MOLLOVA"
+  },
+  {
+    "place": 5,
+    "country": "YUG",
+    "mark": "59.06",
+    "name": "Natasa URBANCIC"
+  },
+  {
+    "place": 6,
+    "country": "AUT",
+    "mark": "58.56",
+    "name": "Eva JANKO-EGGER"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "57.00",
+    "name": "Ewa GRYZIECKA-KWIECINSKA"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "56.36",
+    "name": "Svetlana KOROLYOVA-BABICH"
+  },
+  {
+    "place": 9,
+    "country": "FRG",
+    "mark": "55.84",
+    "name": "Anneliese GERHARDS-JANSEN"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "54.40",
+    "name": "Maria KUCSERKA"
+  },
+  {
+    "place": 11,
+    "country": "HUN",
+    "mark": "52.36",
+    "name": "Magda PAULANYI"
+  },
+  {
+    "place": 12,
+    "country": "ROU",
+    "mark": "No mark",
+    "name": "Eva Ileana ZORGO-RADULY"
+  },
+  {
+    "place": 13,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Rosa MOLINA"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "48.880",
+    "name": "Marita KOCH"
+  },
+  {
+    "place": 2,
+    "country": "TCH",
+    "mark": "49.460",
+    "name": "Jarmila KRATOHVILOVA"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "49.660",
+    "name": "Christina BREHMER-LATHAN"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "50.070",
+    "name": "Irina NAZAROVA"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "50.170",
+    "name": "Nina ZIUSKOVA"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "51.330",
+    "name": "Gabriele LÖWE"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "51.350",
+    "name": "Pirjo WILMI-HAGGMAN"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "52.400",
+    "name": "Linsey MACDONALD"
+  },
+  {
+    "place": 9,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Rita BOTTIGLIERI"
+  }
+]

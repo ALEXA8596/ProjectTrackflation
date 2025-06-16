@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "1.65",
+    "name": "Jean SHILEY"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "1.65",
+    "name": "Mildred DIDRIKSON"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "1.60",
+    "name": "Eva DAWES-SPINKS"
+  },
+  {
+    "place": 4,
+    "country": "NED",
+    "mark": "1.58",
+    "name": "Carolina Anna GISOLF"
+  },
+  {
+    "place": 5,
+    "country": "RSA",
+    "mark": "1.58",
+    "name": "Marjorie R. CLARK"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "1.58",
+    "name": "Annette Joan ROGERS"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "1.55",
+    "name": "Helma NOTTE"
+  },
+  {
+    "place": 8,
+    "country": "JPN",
+    "mark": "1.50",
+    "name": "Yuriko HIROHASHI"
+  },
+  {
+    "place": 9,
+    "country": "JPN",
+    "mark": "1.50",
+    "name": "Yaeko SAGARA"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "1.41",
+    "name": "Ellen BRAUMÜLLER"
+  }
+]

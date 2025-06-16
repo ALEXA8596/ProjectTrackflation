@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "80.02",
+    "name": "Szymon ZIOLKOWSKI"
+  },
+  {
+    "place": 2,
+    "country": "ITA",
+    "mark": "79.64",
+    "name": "Nicola VIZZONI"
+  },
+  {
+    "place": 3,
+    "country": "BLR",
+    "mark": "79.17",
+    "name": "Igor ASTAPKOVICH"
+  },
+  {
+    "place": 4,
+    "country": "BLR",
+    "mark": "79.17",
+    "name": "Ivan TIKHON"
+  },
+  {
+    "place": 5,
+    "country": "RUS",
+    "mark": "78.56",
+    "name": "Ilya KONOVALOV"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "78.18",
+    "name": "Loris PAOLUZZI"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "77.70",
+    "name": "Tibor GECSEK"
+  },
+  {
+    "place": 8,
+    "country": "CZE",
+    "mark": "77.32",
+    "name": "Vladimir MASKA"
+  },
+  {
+    "place": 9,
+    "country": "JPN",
+    "mark": "76.60",
+    "name": "Koji MUROFUSHI"
+  },
+  {
+    "place": 10,
+    "country": "UKR",
+    "mark": "75.50",
+    "name": "Andriy SKVARUK"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "75.26",
+    "name": "David CHAUSSINAND"
+  },
+  {
+    "place": 12,
+    "country": "GRE",
+    "mark": "73.30",
+    "name": "Alexandros PAPADIMITRIOU"
+  }
+]

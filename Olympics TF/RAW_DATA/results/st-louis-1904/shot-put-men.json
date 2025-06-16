@@ -1,0 +1,32 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "14.81",
+    "name": "Ralph ROSE"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "14.40",
+    "name": "William Wesley COE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "13.37",
+    "name": "Lawrence E. Joseph FEUERBACH"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "12.39",
+    "name": "Martin SHERIDAN"
+  },
+  {
+    "place": 5,
+    "country": "GRE",
+    "mark": "Disqualified",
+    "name": "Nikolaos GEORGANTAS"
+  }
+]

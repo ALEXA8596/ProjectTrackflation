@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "17.29",
+    "name": "Viktor SANEEV"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "17.18",
+    "name": "James A. BUTTS"
+  },
+  {
+    "place": 3,
+    "country": "BRA",
+    "mark": "16.90",
+    "name": "Joao Carlos DE OLIVEIRA"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "16.81",
+    "name": "Pedro PEREZ DUENAS"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "16.78",
+    "name": "Thomas Zarlef HAYNES"
+  },
+  {
+    "place": 6,
+    "country": "FRG",
+    "mark": "16.68",
+    "name": "Wolfgang KOLMSEE"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "16.49",
+    "name": "Eugeniusz BISKUPSKI"
+  },
+  {
+    "place": 8,
+    "country": "ROU",
+    "mark": "16.43",
+    "name": "Carol CORBU"
+  },
+  {
+    "place": 9,
+    "country": "TCH",
+    "mark": "16.28",
+    "name": "Jiri VYCICHLO"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "16.23",
+    "name": "Pentti KUUKASJARVI"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "16.23",
+    "name": "Bernard LAMITIE"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "16.23",
+    "name": "Rayfield Jr. DUPREE"
+  }
+]

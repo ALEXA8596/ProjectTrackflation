@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "13.240",
+    "name": "Rodney Jr. MILBURN"
+  },
+  {
+    "place": 2,
+    "country": "FRA",
+    "mark": "13.340",
+    "name": "Guy DRUT"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "13.480",
+    "name": "Thomas HILL"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "13.500",
+    "name": "Willie DAVENPORT"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "13.710",
+    "name": "Frank SIEBECK"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "13.720",
+    "name": "Leszek WODZYNSKI"
+  },
+  {
+    "place": 7,
+    "country": "TCH",
+    "mark": "13.760",
+    "name": "Lubomir NADENICEK"
+  },
+  {
+    "place": 8,
+    "country": "TCH",
+    "mark": "13.860",
+    "name": "Petr ČECH"
+  }
+]

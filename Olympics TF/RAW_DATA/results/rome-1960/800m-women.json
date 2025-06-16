@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "00:02:04.300",
+    "name": "Lyudmila LYSENKO"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "00:02:04.400",
+    "name": "Brenda JONES-CARR"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "00:02:05.600",
+    "name": "Ursula DONATH"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "00:02:05.900",
+    "name": "Vera KUMMERFELD"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "00:02:06.500",
+    "name": "Antje GLEICHFELD-BRAASCH"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "00:02:07.800",
+    "name": "Joy Wilhelmina JORDAN"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "00:02:08.000",
+    "name": "Gizella SASVARI-CSOKA"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "00:02:11.800",
+    "name": "Beata ZBIKOWSKA"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "2:27est",
+    "name": "Dixie Isobel WILLIS-INGRAM"
+  },
+  {
+    "place": 10,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Tsvetana ISAEVA"
+  },
+  {
+    "place": 11,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Ursula BRODBECK"
+  },
+  {
+    "place": 12,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Sebastiana ALVARADO"
+  },
+  {
+    "place": 13,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Stephanie D'SOUZA"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "00:01:56.100",
+    "name": "Sigrun GRAU"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "00:01:56.640",
+    "name": "Christine WACHTEL"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "00:01:56.910",
+    "name": "Kimberley Ann GALLAGHER"
+  },
+  {
+    "place": 4,
+    "country": "YUG",
+    "mark": "00:01:57.500",
+    "name": "Slobodanska COLOVIC"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:01:58.700",
+    "name": "Delisa Ann WALTON-FLOYD"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "00:01:59.370",
+    "name": "Inna EVSEEVA"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "00:01:59.820",
+    "name": "Maite ZUNIGA DOMINGUEZ"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "00:02:00.770",
+    "name": "Diane MODAHL"
+  },
+  {
+    "place": 9,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Rosa COLORADO"
+  },
+  {
+    "place": 10,
+    "country": "CHN",
+    "mark": "Did not start",
+    "name": "Su-Mei SUN"
+  }
+]

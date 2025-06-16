@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "BRN",
+    "mark": "00:04:10.740",
+    "name": "Maryam Yusuf JAMAL"
+  },
+  {
+    "place": 2,
+    "country": "RUS",
+    "mark": "00:04:10.900",
+    "name": "Tatyana TOMASHOVA"
+  },
+  {
+    "place": 3,
+    "country": "ETH",
+    "mark": "00:04:11.030",
+    "name": "Abeba AREGAWI"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "00:04:11.260",
+    "name": "Shannon ROWBURY"
+  },
+  {
+    "place": 5,
+    "country": "SVK",
+    "mark": "00:04:12.640",
+    "name": "Lucia HRIVNAK KLOCOVA"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "00:04:13.020",
+    "name": "Lisa DOBRISKEY"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "00:04:15.600",
+    "name": "Laura WEIGHTMAN"
+  },
+  {
+    "place": 8,
+    "country": "KEN",
+    "mark": "00:04:16.570",
+    "name": "Hellen Onsando OBIRI"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Morgan UCENY"
+  },
+  {
+    "place": 10,
+    "country": "MAR",
+    "mark": "Did not finish",
+    "name": "Btissam LAKHOUAD"
+  },
+  {
+    "place": 11,
+    "country": "TUR",
+    "mark": "Disqualified",
+    "name": "Gamze BULUT"
+  },
+  {
+    "place": 12,
+    "country": "UKR",
+    "mark": "Disqualified",
+    "name": "Anzhelika SHEVCHENKO"
+  },
+  {
+    "place": 13,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Ekaterina KOSTETSKAYA"
+  },
+  {
+    "place": 14,
+    "country": "BLR",
+    "mark": "Disqualified",
+    "name": "Natallia KAREYVA"
+  },
+  {
+    "place": 15,
+    "country": "TUR",
+    "mark": "Disqualified",
+    "name": "Aslı ÇAKIR"
+  },
+  {
+    "place": 16,
+    "country": "UKR",
+    "mark": "Disqualified",
+    "name": "Anna MISHCHENKO"
+  },
+  {
+    "place": 17,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Ekaterina MARTYNOVA"
+  },
+  {
+    "place": 18,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Ingvill BOVIM"
+  }
+]

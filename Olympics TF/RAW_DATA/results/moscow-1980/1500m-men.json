@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:03:38.400",
+    "name": "Sebastian COE"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "00:03:38.800",
+    "name": "Jürgen STRAUB"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "00:03:39.000",
+    "name": "Steve OVETT"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "00:03:40.200",
+    "name": "Andreas BUSSE"
+  },
+  {
+    "place": 5,
+    "country": "ITA",
+    "mark": "00:03:40.400",
+    "name": "Vittorio FONTANELLA"
+  },
+  {
+    "place": 6,
+    "country": "TCH",
+    "mark": "00:03:40.700",
+    "name": "Jozef PLACHÝ"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "00:03:41.500",
+    "name": "Jose MARAJO"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "00:03:42.000",
+    "name": "Stephen CRAM"
+  },
+  {
+    "place": 9,
+    "country": "YUG",
+    "mark": "00:03:43.100",
+    "name": "Dragan ZDRAVKOVIC"
+  },
+  {
+    "place": 10,
+    "country": "TAN",
+    "mark": "Did not start",
+    "name": "Filbert BAYI"
+  }
+]

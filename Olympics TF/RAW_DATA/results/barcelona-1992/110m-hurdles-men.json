@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "CAN",
+    "mark": "13.120",
+    "name": "Mark MCKOY"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.240",
+    "name": "Tony DEES"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "13.260",
+    "name": "Jack PIERCE"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "13.260",
+    "name": "Tony JARRETT"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "13.290",
+    "name": "Florian SCHWARTHOFF"
+  },
+  {
+    "place": 6,
+    "country": "CUB",
+    "mark": "13.410",
+    "name": "Emilio VALLE"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "13.460",
+    "name": "Colin JACKSON"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "14.000",
+    "name": "Hughie TEAPE"
+  }
+]

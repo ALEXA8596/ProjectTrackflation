@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "20.54",
+    "name": "James Randel MATSON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "20.12",
+    "name": "George Roger WOODS"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "20.09",
+    "name": "Eduard GUSHCHIN"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "20.00",
+    "name": "Dieter HOFFMANN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "19.43",
+    "name": "David L. MAGGARD"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "19.28",
+    "name": "Wladyslaw KOMAR"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "19.03",
+    "name": "Uwe GRABE"
+  },
+  {
+    "place": 8,
+    "country": "FRG",
+    "mark": "18.80",
+    "name": "Heinfried BIRLENBACH"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "18.79",
+    "name": "Pierre COLNARD"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "18.65",
+    "name": "Jeffrey TEALE"
+  },
+  {
+    "place": 11,
+    "country": "NZL",
+    "mark": "18.18",
+    "name": "Leslie Roy MILLS"
+  },
+  {
+    "place": 12,
+    "country": "FRG",
+    "mark": "18.14",
+    "name": "Traugott GLÖCKLER"
+  },
+  {
+    "place": 13,
+    "country": "GDR",
+    "mark": "Did not start",
+    "name": "Dieter PROLLIUS"
+  },
+  {
+    "place": 14,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "George PUCE"
+  },
+  {
+    "place": 15,
+    "country": "IRI",
+    "mark": "Did not start",
+    "name": "Joe KASHMIRI"
+  },
+  {
+    "place": 16,
+    "country": "MAR",
+    "mark": "Did not start",
+    "name": "Lahcen Samsam AKKA"
+  },
+  {
+    "place": 17,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Rickard BRUCH"
+  }
+]

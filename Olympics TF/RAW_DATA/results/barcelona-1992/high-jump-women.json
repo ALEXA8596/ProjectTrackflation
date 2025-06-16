@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "2.02",
+    "name": "Heike HENKEL"
+  },
+  {
+    "place": 2,
+    "country": "ROU",
+    "mark": "2.00",
+    "name": "Alina ASTAFEI"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "1.97",
+    "name": "Ioamnet QUINTERO"
+  },
+  {
+    "place": 4,
+    "country": "BUL",
+    "mark": "1.94",
+    "name": "Stefka KOSTADINOVA"
+  },
+  {
+    "place": 5,
+    "country": "AUT",
+    "mark": "1.94",
+    "name": "Sigrid KIRCHMANN"
+  },
+  {
+    "place": 6,
+    "country": "CUB",
+    "mark": "1.94",
+    "name": "Silvia COSTA ACOSTA"
+  },
+  {
+    "place": 7,
+    "country": "JPN",
+    "mark": "1.91",
+    "name": "Megumi SATO"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "1.91",
+    "name": "Alison INVERARITY"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "1.91",
+    "name": "Debbie MARTI"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "1.88",
+    "name": "Donata JANCEWICZ"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "1.88",
+    "name": "Birgit KÄHLER"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "1.88",
+    "name": "Tanya HUGHES"
+  },
+  {
+    "place": 13,
+    "country": "EUN",
+    "mark": "1.83",
+    "name": "Olga TURCHAK"
+  },
+  {
+    "place": 14,
+    "country": "LAT",
+    "mark": "1.83",
+    "name": "Valentina GOTOVSKA"
+  },
+  {
+    "place": 15,
+    "country": "SLO",
+    "mark": "1.83",
+    "name": "Britta BILAC"
+  },
+  {
+    "place": 16,
+    "country": "EUN",
+    "mark": "1.83",
+    "name": "Tatiana SHEVCHIK"
+  },
+  {
+    "place": 17,
+    "country": "SRI",
+    "mark": "Did not start",
+    "name": "M.A.Sriyani KULAWANSA"
+  }
+]

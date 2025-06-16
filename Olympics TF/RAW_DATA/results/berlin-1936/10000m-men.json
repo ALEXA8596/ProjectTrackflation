@@ -1,0 +1,206 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:30:15.400",
+    "name": "Ilmari SALMINEN"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "00:30:15.600",
+    "name": "Arvo ASKOLA"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "00:30:20.200",
+    "name": "Volmari ISO-HOLLO"
+  },
+  {
+    "place": 4,
+    "country": "JPN",
+    "mark": "00:30:25.000",
+    "name": "Kohei MURAKOSO"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:30:58.200",
+    "name": "James Alexander BURNS"
+  },
+  {
+    "place": 6,
+    "country": "ARG",
+    "mark": "00:31:22.000",
+    "name": "Juan Carlos ZABALA"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "00:31:29.600",
+    "name": "Max GEBHARDT"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:31:39.400",
+    "name": "Don LASH"
+  },
+  {
+    "place": 9,
+    "country": "NOR",
+    "mark": "00:31:40.400",
+    "name": "Odd RASDAL"
+  },
+  {
+    "place": 10,
+    "country": "DEN",
+    "mark": "00:31:52.600",
+    "name": "Harry Johan Carl SIEFERT"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "00:31:57.000",
+    "name": "Giuseppe BEVIACQUA"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "00:32:01.000",
+    "name": "Janos KELEN"
+  },
+  {
+    "place": 13,
+    "country": "SWE",
+    "mark": "00:32:11.800",
+    "name": "Henning SUNDESSON"
+  },
+  {
+    "place": 14,
+    "country": "POL",
+    "mark": "00:32:13.000",
+    "name": "Jozef NOJI"
+  },
+  {
+    "place": 15,
+    "country": "AUT",
+    "mark": "00:32:22.000",
+    "name": "Rudolf WÖBER"
+  },
+  {
+    "place": 16,
+    "country": "USA",
+    "mark": "00:32:23.000",
+    "name": "Eino Isak Walter PENTTI"
+  },
+  {
+    "place": 17,
+    "country": "TCH",
+    "mark": "00:32:24.000",
+    "name": "Ludvik BOMBIK"
+  },
+  {
+    "place": 18,
+    "country": "FRA",
+    "mark": "00:32:24.200",
+    "name": "Lucien TOSTAIN"
+  },
+  {
+    "place": 19,
+    "country": "FRA",
+    "mark": "00:32:25.000",
+    "name": "André SICARD"
+  },
+  {
+    "place": 20,
+    "country": "FRA",
+    "mark": "00:32:58.000",
+    "name": "André LONLAS"
+  },
+  {
+    "place": 21,
+    "country": "GER",
+    "mark": "00:32:59.000",
+    "name": "Walter SCHÖNROCK"
+  },
+  {
+    "place": 22,
+    "country": "IND",
+    "mark": "Did not finish",
+    "name": "Raunak SINGH GILL"
+  },
+  {
+    "place": 23,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "John Henry POTTS"
+  },
+  {
+    "place": 24,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Luis OLIVA"
+  },
+  {
+    "place": 25,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Georg BALABAN"
+  },
+  {
+    "place": 26,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Wilhelm FRIEBE"
+  },
+  {
+    "place": 27,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Harold WEBSTER"
+  },
+  {
+    "place": 28,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Jorge PERRY"
+  },
+  {
+    "place": 29,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Isidoro UNZUETA"
+  },
+  {
+    "place": 30,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Konstantin GHOUTIS"
+  },
+  {
+    "place": 31,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Stelios KYRIAKIDIS"
+  },
+  {
+    "place": 32,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Valentin GONZALES AVILA"
+  },
+  {
+    "place": 33,
+    "country": "NZL",
+    "mark": "Did not start",
+    "name": "Cecil Henry MATTHEWS"
+  },
+  {
+    "place": 34,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Erik PETTERSSON"
+  }
+]

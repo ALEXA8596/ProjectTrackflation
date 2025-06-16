@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "21.340",
+    "name": "Florence GRIFFITH-JOYNER"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "21.720",
+    "name": "Grace JACKSON SMALL"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "21.950",
+    "name": "Heike DRECHSLER"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "21.990",
+    "name": "Merlene OTTEY-PAGE"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "22.090",
+    "name": "Silke MÖLLER"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "22.170",
+    "name": "Gwen TORRENCE"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "22.330",
+    "name": "Maya AZARASHVILI"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "22.420",
+    "name": "Galina MALCHUGINA"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Maree HOLLAND"
+  }
+]

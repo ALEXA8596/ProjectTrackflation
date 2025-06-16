@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "10.900",
+    "name": "Shirley STRICKLAND-DE LA HUNTY"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "11.100",
+    "name": "Mariya GOLUBNICHAYA"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "11.100",
+    "name": "Maria SANDER-DOMAGELLA"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "11.200",
+    "name": "Anneliese SEONBUCHNER"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "11.600",
+    "name": "Jean Catherine DESFORGES"
+  },
+  {
+    "place": 6,
+    "country": "NED",
+    "mark": "Did not finish",
+    "name": "Fanny BLANKERS-KOEN"
+  },
+  {
+    "place": 7,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Gertrud PRUSCHAK"
+  },
+  {
+    "place": 8,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Shirley ECKEL"
+  },
+  {
+    "place": 9,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Rosella THORNE-JOHNSON"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Olga GYARMATI"
+  }
+]

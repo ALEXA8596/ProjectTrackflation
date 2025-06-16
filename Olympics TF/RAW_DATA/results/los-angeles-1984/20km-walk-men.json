@@ -1,0 +1,254 @@
+[
+  {
+    "place": 1,
+    "country": "MEX",
+    "mark": "01:23:13.000",
+    "name": "Ernesto CANTO GUDINO"
+  },
+  {
+    "place": 2,
+    "country": "MEX",
+    "mark": "01:23:20.000",
+    "name": "Raúl GONZÁLEZ"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "01:23:26.000",
+    "name": "Maurizio DAMILANO"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "01:24:29.000",
+    "name": "Guillaume LEBLANC"
+  },
+  {
+    "place": 5,
+    "country": "ITA",
+    "mark": "01:25:07.000",
+    "name": "Carlo MATTIOLI"
+  },
+  {
+    "place": 6,
+    "country": "ESP",
+    "mark": "01:25:32.000",
+    "name": "Jose MARIN SOSPEDRA"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "01:25:42.000",
+    "name": "Marco Ray EVONIUK"
+  },
+  {
+    "place": 8,
+    "country": "NOR",
+    "mark": "01:25:54.000",
+    "name": "Erling ANDERSEN"
+  },
+  {
+    "place": 9,
+    "country": "COL",
+    "mark": "01:26:04.000",
+    "name": "Jose Querubin MORENO MORENO"
+  },
+  {
+    "place": 10,
+    "country": "AUS",
+    "mark": "01:26:48.000",
+    "name": "David SMITH"
+  },
+  {
+    "place": 11,
+    "country": "CAN",
+    "mark": "01:27:06.000",
+    "name": "François LAPOINTE"
+  },
+  {
+    "place": 12,
+    "country": "COL",
+    "mark": "01:27:12.000",
+    "name": "Hector Jose MORENO MORENO"
+  },
+  {
+    "place": 13,
+    "country": "GBR",
+    "mark": "01:27:28.000",
+    "name": "Philip John VESTY"
+  },
+  {
+    "place": 14,
+    "country": "AUS",
+    "mark": "01:27:43.000",
+    "name": "Simon BAKER"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "01:27:50.000",
+    "name": "Gerard LE LIEVRE"
+  },
+  {
+    "place": 16,
+    "country": "AUS",
+    "mark": "01:28:24.000",
+    "name": "Willi SAWALL"
+  },
+  {
+    "place": 17,
+    "country": "MEX",
+    "mark": "01:28:26.000",
+    "name": "Marcelino COLIN"
+  },
+  {
+    "place": 18,
+    "country": "COL",
+    "mark": "01:28:46.000",
+    "name": "Francisco VARGAS"
+  },
+  {
+    "place": 19,
+    "country": "GBR",
+    "mark": "01:28:53.000",
+    "name": "Ian Peter MCCOMBIE"
+  },
+  {
+    "place": 20,
+    "country": "FRA",
+    "mark": "01:29:46.000",
+    "name": "Martial FESSELIER"
+  },
+  {
+    "place": 21,
+    "country": "CAN",
+    "mark": "01:29:49.000",
+    "name": "Marcel JOBIN"
+  },
+  {
+    "place": 22,
+    "country": "IND",
+    "mark": "01:30:06.000",
+    "name": "Chand RAM"
+  },
+  {
+    "place": 23,
+    "country": "USA",
+    "mark": "01:30:20.000",
+    "name": "James Anthony HEIRING"
+  },
+  {
+    "place": 24,
+    "country": "GBR",
+    "mark": "01:30:46.000",
+    "name": "Steven John BARRY"
+  },
+  {
+    "place": 25,
+    "country": "POR",
+    "mark": "01:30:54.000",
+    "name": "Jose PINTO"
+  },
+  {
+    "place": 26,
+    "country": "ALG",
+    "mark": "01:31:24.000",
+    "name": "Abdelouahab FERGUENE"
+  },
+  {
+    "place": 27,
+    "country": "CHN",
+    "mark": "01:32:10.000",
+    "name": "Fu-Xin ZHANG"
+  },
+  {
+    "place": 28,
+    "country": "ITA",
+    "mark": "01:32:27.000",
+    "name": "Alessandro PEZZATINI"
+  },
+  {
+    "place": 29,
+    "country": "AUT",
+    "mark": "01:33:58.000",
+    "name": "Martin TOPOREK"
+  },
+  {
+    "place": 30,
+    "country": "ALG",
+    "mark": "01:34:12.000",
+    "name": "Benamar KECHKOUCHE"
+  },
+  {
+    "place": 31,
+    "country": "HON",
+    "mark": "01:34:47.000",
+    "name": "Santiago FONSECA"
+  },
+  {
+    "place": 32,
+    "country": "KEN",
+    "mark": "01:34:53.000",
+    "name": "Pius MUNYASIA"
+  },
+  {
+    "place": 33,
+    "country": "USA",
+    "mark": "01:35:12.000",
+    "name": "Daniel O'CONNOR"
+  },
+  {
+    "place": 34,
+    "country": "GUA",
+    "mark": "01:35:32.000",
+    "name": "Jose Victor ALONZO ALONZO"
+  },
+  {
+    "place": 35,
+    "country": "SMR",
+    "mark": "01:35:48.000",
+    "name": "Stefano CASALI"
+  },
+  {
+    "place": 36,
+    "country": "BOL",
+    "mark": "01:44:42.000",
+    "name": "Osvaldo MOREJON"
+  },
+  {
+    "place": 37,
+    "country": "ESA",
+    "mark": "01:48:45.000",
+    "name": "Luis CAMPOS"
+  },
+  {
+    "place": 38,
+    "country": "JOR",
+    "mark": "01:49:35.000",
+    "name": "Amjad TAWALBEH"
+  },
+  {
+    "place": 39,
+    "country": "FRG",
+    "mark": "Did not start",
+    "name": "Dieter HOFFMANN"
+  },
+  {
+    "place": 40,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Reima SALONEN"
+  },
+  {
+    "place": 41,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Dominique GUEBEY"
+  },
+  {
+    "place": 42,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Lars Ove MOEN"
+  }
+]

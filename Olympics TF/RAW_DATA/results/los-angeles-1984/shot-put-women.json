@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "FRG",
+    "mark": "20.48",
+    "name": "Claudia LOSCH"
+  },
+  {
+    "place": 2,
+    "country": "ROU",
+    "mark": "20.09",
+    "name": "Mihaela LOGHIN"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "18.34",
+    "name": "Gael MULHALL-MARTIN"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "17.81",
+    "name": "Judith Miriam OAKES"
+  },
+  {
+    "place": 5,
+    "country": "CHN",
+    "mark": "17.19",
+    "name": "Mei-Su LI"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "16.40",
+    "name": "Venissa HEAD"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "17.19",
+    "name": "Carol Therese CADY"
+  },
+  {
+    "place": 8,
+    "country": "ROU",
+    "mark": "17.05",
+    "name": "Florenta TACU-CRAICIUNESCU"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "18.09",
+    "name": "Kenny HARRISON"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "17.88",
+    "name": "Jonathan David EDWARDS"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "17.44",
+    "name": "Yoelbi QUESADA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "17.40",
+    "name": "Mike CONLEY"
+  },
+  {
+    "place": 5,
+    "country": "ARM",
+    "mark": "16.97",
+    "name": "Armen MARTIROSYAN"
+  },
+  {
+    "place": 6,
+    "country": "BER",
+    "mark": "16.95",
+    "name": "Brian P. WELLMAN"
+  },
+  {
+    "place": 7,
+    "country": "BUL",
+    "mark": "16.92",
+    "name": "Galin GEORGIEV"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "16.90",
+    "name": "Robert HOWARD"
+  },
+  {
+    "place": 9,
+    "country": "RUS",
+    "mark": "16.84",
+    "name": "Viktor SOTNIKOV"
+  },
+  {
+    "place": 10,
+    "country": "UKR",
+    "mark": "16.62",
+    "name": "Volodymyr KRAVCHENKO"
+  },
+  {
+    "place": 11,
+    "country": "BAH",
+    "mark": "16.38",
+    "name": "Frank RUTHERFORD"
+  },
+  {
+    "place": 12,
+    "country": "DMA",
+    "mark": "No mark",
+    "name": "Jerome ROMAIN"
+  },
+  {
+    "place": 13,
+    "country": "LAT",
+    "mark": "Did not start",
+    "name": "Maris BRUZIKS"
+  }
+]

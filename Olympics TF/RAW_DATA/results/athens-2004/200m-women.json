@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "22.050",
+    "name": "Veronica CAMPBELL-BROWN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "22.180",
+    "name": "Allyson FELIX"
+  },
+  {
+    "place": 3,
+    "country": "BAH",
+    "mark": "22.300",
+    "name": "Debbie FERGUSON-MCKENZIE"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "22.420",
+    "name": "Aleen BAILEY"
+  },
+  {
+    "place": 5,
+    "country": "BUL",
+    "mark": "22.570",
+    "name": "Ivet LALOVA-COLLIO"
+  },
+  {
+    "place": 6,
+    "country": "BEL",
+    "mark": "22.840",
+    "name": "Kim GEVAERT"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "22.870",
+    "name": "Abiodun OYEPITAN"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "22.870",
+    "name": "Muna LEE"
+  }
+]

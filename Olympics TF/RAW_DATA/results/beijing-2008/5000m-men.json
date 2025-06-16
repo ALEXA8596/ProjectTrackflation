@@ -1,0 +1,116 @@
+[
+  {
+    "place": 1,
+    "country": "ETH",
+    "mark": "00:12:57.820",
+    "name": "Kenenisa BEKELE"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:13:02.800",
+    "name": "Eliud KIPCHOGE"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "00:13:06.220",
+    "name": "Edwin Cheruiyot SOI"
+  },
+  {
+    "place": 4,
+    "country": "UGA",
+    "mark": "00:13:10.560",
+    "name": "Moses KIPSIRO"
+  },
+  {
+    "place": 5,
+    "country": "ETH",
+    "mark": "00:13:16.460",
+    "name": "Abreham CHERKOS"
+  },
+  {
+    "place": 6,
+    "country": "ETH",
+    "mark": "00:13:19.060",
+    "name": "Tariku BEKELE"
+  },
+  {
+    "place": 7,
+    "country": "MEX",
+    "mark": "00:13:19.790",
+    "name": "Juan Luis BARRIOS"
+  },
+  {
+    "place": 8,
+    "country": "QAT",
+    "mark": "00:13:23.480",
+    "name": "James Kwalia C'KURUI"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "00:13:26.890",
+    "name": "Bernard LAGAT"
+  },
+  {
+    "place": 10,
+    "country": "ERI",
+    "mark": "00:13:28.400",
+    "name": "Kidane TADESSE"
+  },
+  {
+    "place": 11,
+    "country": "ESP",
+    "mark": "00:13:30.480",
+    "name": "Aelemayehu BEZABEH"
+  },
+  {
+    "place": 12,
+    "country": "KEN",
+    "mark": "00:13:31.340",
+    "name": "Thomas Pkemei LONGOSIWA"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "00:13:33.130",
+    "name": "Matthew TEGENKAMP"
+  },
+  {
+    "place": 14,
+    "country": "ESP",
+    "mark": "00:13:55.940",
+    "name": "Jesus ESPANA"
+  },
+  {
+    "place": 15,
+    "country": "IRL",
+    "mark": "Did not finish",
+    "name": "Alistair Ian CRAGG"
+  },
+  {
+    "place": 16,
+    "country": "BRN",
+    "mark": "Did not start",
+    "name": "Rashid RAMZI"
+  },
+  {
+    "place": 17,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Selim BAYRAK"
+  },
+  {
+    "place": 18,
+    "country": "BRN",
+    "mark": "Did not start",
+    "name": "Ali Hasan MAHBOOD"
+  },
+  {
+    "place": 19,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "José David GALVÁN"
+  }
+]

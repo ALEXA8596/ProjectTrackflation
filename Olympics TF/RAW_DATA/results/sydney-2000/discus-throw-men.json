@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "LTU",
+    "mark": "69.30",
+    "name": "Virgilijus ALEKNA"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "68.50",
+    "name": "Lars RIEDEL"
+  },
+  {
+    "place": 3,
+    "country": "RSA",
+    "mark": "68.19",
+    "name": "Frantz KRUGER"
+  },
+  {
+    "place": 4,
+    "country": "BLR",
+    "mark": "67.59",
+    "name": "Vasiliy KAPTYUKH"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "66.02",
+    "name": "Adam SETLIFF"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "65.80",
+    "name": "Jason TUNKS"
+  },
+  {
+    "place": 7,
+    "country": "BLR",
+    "mark": "65.13",
+    "name": "Vladimir DUBROVSHCHIK"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "64.41",
+    "name": "Jürgen SCHULT"
+  },
+  {
+    "place": 9,
+    "country": "EST",
+    "mark": "63.25",
+    "name": "Aleksander TAMMERT"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "63.14",
+    "name": "Michael MOELLENBECK"
+  },
+  {
+    "place": 11,
+    "country": "RUS",
+    "mark": "62.65",
+    "name": "Dmitriy SHEVCHENKO"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "59.87",
+    "name": "Tony WASHINGTON"
+  },
+  {
+    "place": 13,
+    "country": "NGR",
+    "mark": "Did not start",
+    "name": "Chima UGWU"
+  }
+]

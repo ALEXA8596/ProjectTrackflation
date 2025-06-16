@@ -1,0 +1,20 @@
+[
+  {
+    "place": 1,
+    "country": "SWE",
+    "mark": "54.83",
+    "name": "Eric LEMMING"
+  },
+  {
+    "place": 2,
+    "country": "NOR",
+    "mark": "50.57",
+    "name": "Arne HALSE"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "47.11",
+    "name": "Otto NILSSON"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "3.30",
+    "name": "William Welles HOYT"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "3.20",
+    "name": "Albert TYLER"
+  },
+  {
+    "place": 3,
+    "country": "GRE",
+    "mark": "2.60",
+    "name": "Evangelos DAMASKOS"
+  },
+  {
+    "place": 4,
+    "country": "GRE",
+    "mark": "2.60",
+    "name": "Ioannis THEODOROPOULOS"
+  },
+  {
+    "place": 5,
+    "country": "GRE",
+    "mark": "2.40",
+    "name": "Vasilios XYDAS"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Fritz TRAUN"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Momcsillo TAPAVICZA"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Alfred FLATOW"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Fritz HOFMANN"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Fritz MANTEUFFEL"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Karl NEUKIRCH"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Hermann WEINGÄRTNER"
+  },
+  {
+    "place": 13,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Gyula KAKAS"
+  },
+  {
+    "place": 14,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Charles CHAMPOFF"
+  },
+  {
+    "place": 15,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Kurt DOERRY"
+  },
+  {
+    "place": 16,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Gustav Felix FLATOW"
+  },
+  {
+    "place": 17,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Karl GALLE"
+  },
+  {
+    "place": 18,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Carl SCHUHMANN"
+  },
+  {
+    "place": 19,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Alajos SZOKOLYI"
+  },
+  {
+    "place": 20,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Dezső WEIN"
+  },
+  {
+    "place": 21,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Charles VANONI"
+  }
+]

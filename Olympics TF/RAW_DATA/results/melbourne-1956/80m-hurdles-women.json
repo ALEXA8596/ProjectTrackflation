@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "10.700",
+    "name": "Shirley STRICKLAND-DE LA HUNTY"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "10.900",
+    "name": "Gisela KÖHLER-BIRKEMEYER"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "11.000",
+    "name": "Norma Claire THROWER-AUSTIN"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "11.000",
+    "name": "Galina BYSTROVA"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "11.300",
+    "name": "Mariya GOLUBNICHAYA"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "11.400",
+    "name": "Gloria Janet COOKE-WIGNEY"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Olga GYARMATI"
+  },
+  {
+    "place": 8,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Mary Leela RAO"
+  },
+  {
+    "place": 9,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Elzbieta DUNSKA-KRZESINSKA"
+  }
+]

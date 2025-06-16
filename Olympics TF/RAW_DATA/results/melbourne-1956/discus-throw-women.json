@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "TCH",
+    "mark": "53.69",
+    "name": "Olga FIKOTOVA-CONNOLLY"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "52.54",
+    "name": "Irina BEGLYAKOVA"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "52.02",
+    "name": "Nina ROMASHKOVA-PONOMAREVA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "51.35",
+    "name": "Earlene Dennis BROWN"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "48.20",
+    "name": "Albina ELKINA"
+  },
+  {
+    "place": 6,
+    "country": "ARG",
+    "mark": "46.73",
+    "name": "Isabel Ercilla AVELLAN DE NEEFE"
+  },
+  {
+    "place": 7,
+    "country": "TCH",
+    "mark": "45.84",
+    "name": "Jiřina NĚMCOVÁ-VOBOŘILOVÁ"
+  },
+  {
+    "place": 8,
+    "country": "TCH",
+    "mark": "45.78",
+    "name": "Stepanka MERTOVA"
+  },
+  {
+    "place": 9,
+    "country": "ROU",
+    "mark": "43.90",
+    "name": "Lia MANOLIU"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "43.34",
+    "name": "Marianne WERNER-SCHULZE-ENTRUP"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "42.83",
+    "name": "Paola PATERNOSTER"
+  },
+  {
+    "place": 12,
+    "country": "YUG",
+    "mark": "42.16",
+    "name": "Nada KOTLUSEK"
+  },
+  {
+    "place": 13,
+    "country": "AUS",
+    "mark": "40.84",
+    "name": "Lois JACKMAN"
+  }
+]

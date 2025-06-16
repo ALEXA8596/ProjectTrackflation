@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "BAH",
+    "mark": "43.85",
+    "name": "Steven GARDINER"
+  },
+  {
+    "place": 2,
+    "country": "COL",
+    "mark": "44.08",
+    "name": "Anthony ZAMBRANO"
+  },
+  {
+    "place": 3,
+    "country": "GRN",
+    "mark": "44.19",
+    "name": "Kirani JAMES"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "44.21",
+    "name": "Michael CHERRY"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "44.31",
+    "name": "Michael NORMAN"
+  },
+  {
+    "place": 6,
+    "country": "JAM",
+    "mark": "44.79",
+    "name": "Christopher TAYLOR"
+  },
+  {
+    "place": 7,
+    "country": "BOT",
+    "mark": "44.94",
+    "name": "Isaac MAKWALA"
+  },
+  {
+    "place": 8,
+    "country": "NED",
+    "mark": "45.07",
+    "name": "Liemarvin BONEVACIA"
+  }
+]

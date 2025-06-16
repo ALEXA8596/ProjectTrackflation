@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "DOM",
+    "mark": "47.630",
+    "name": "Felix SANCHEZ"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "48.110",
+    "name": "Danny MCFARLANE"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "48.260",
+    "name": "Naman KEITA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "48.580",
+    "name": "James CARTER"
+  },
+  {
+    "place": 5,
+    "country": "PAN",
+    "mark": "48.740",
+    "name": "Bayano KAMANI"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "49.000",
+    "name": "Marek PLAWGO"
+  },
+  {
+    "place": 7,
+    "country": "RSA",
+    "mark": "49.070",
+    "name": "Alwyn MYBURGH"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "49.510",
+    "name": "Bennie BRAZELL"
+  }
+]

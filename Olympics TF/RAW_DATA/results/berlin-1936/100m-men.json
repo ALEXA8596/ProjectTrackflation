@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "10.3w",
+    "name": "Jesse OWENS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.4w",
+    "name": "Ralph METCALFE"
+  },
+  {
+    "place": 3,
+    "country": "NED",
+    "mark": "10.5w",
+    "name": "Martinus OSENDARP"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "10.6w",
+    "name": "Frank Clifford WYKOFF"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "10.7w",
+    "name": "Erich BORCHMEYER"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "10.9w",
+    "name": "Lennart STRANDBERG"
+  },
+  {
+    "place": 7,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Alfred LECHNER"
+  },
+  {
+    "place": 8,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Ludwig BERGER"
+  },
+  {
+    "place": 9,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Pascual GUTIERREZ MAZA"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Irvin TERNSTROM"
+  },
+  {
+    "place": 11,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Alfonz KOVAČIĆ"
+  },
+  {
+    "place": 12,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Darko DREMIL"
+  }
+]

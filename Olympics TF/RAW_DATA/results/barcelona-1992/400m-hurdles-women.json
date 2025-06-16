@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "53.230",
+    "name": "Sally Janet Jane GUNNELL"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "53.690",
+    "name": "Sandra FARMER-PATRICK"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "54.310",
+    "name": "Janeene VICKERS"
+  },
+  {
+    "place": 4,
+    "country": "EUN",
+    "mark": "54.310",
+    "name": "Tatiana LEDOVSKAYA"
+  },
+  {
+    "place": 5,
+    "country": "EUN",
+    "mark": "54.830",
+    "name": "Vera ORDINA"
+  },
+  {
+    "place": 6,
+    "country": "EUN",
+    "mark": "54.830",
+    "name": "Margarita PONOMAREVA"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "55.580",
+    "name": "Deon Marie HEMMINGS"
+  },
+  {
+    "place": 8,
+    "country": "RSA",
+    "mark": "Did not finish",
+    "name": "Myrtle BOTHAMA"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Linda KISABAKA"
+  }
+]

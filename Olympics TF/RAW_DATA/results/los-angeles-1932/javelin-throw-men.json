@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "67.93",
+    "name": "Matti Henrik JARVINEN"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "69.80",
+    "name": "Matti Kalervo SIPPALA"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "66.86",
+    "name": "Eino PENTTILA"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "65.24",
+    "name": "Gottfried WEIMANN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "59.55",
+    "name": "Lee Marion BARTLETT"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "x",
+    "name": "Ken CHURCHILL"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Wolrad EBERLE"
+  },
+  {
+    "place": 8,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Harry Balthazar HART"
+  },
+  {
+    "place": 9,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Vilim MESSNER"
+  },
+  {
+    "place": 10,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Doral W. PILLING"
+  },
+  {
+    "place": 11,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Domingos TREVISON"
+  }
+]

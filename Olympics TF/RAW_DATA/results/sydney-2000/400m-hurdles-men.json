@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "47.500",
+    "name": "Angelo TAYLOR"
+  },
+  {
+    "place": 2,
+    "country": "KSA",
+    "mark": "47.530",
+    "name": "Hadi Soua'an AL-SOMAILY"
+  },
+  {
+    "place": 3,
+    "country": "RSA",
+    "mark": "47.810",
+    "name": "Llewellyn HERBERT"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "48.040",
+    "name": "James CARTER"
+  },
+  {
+    "place": 5,
+    "country": "BRA",
+    "mark": "48.340",
+    "name": "Eronilde NUNES DE ARAUJO"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "48.440",
+    "name": "Pawel JANUSZEWSKI"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "48.780",
+    "name": "Fabrizio MORI"
+  },
+  {
+    "place": 8,
+    "country": "UKR",
+    "mark": "49.010",
+    "name": "Hennadiy HORBENKO"
+  }
+]

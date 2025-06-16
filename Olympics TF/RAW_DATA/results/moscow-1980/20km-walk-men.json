@@ -1,0 +1,206 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "01:23:35.500",
+    "name": "Maurizio DAMILANO"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "01:24:45.400",
+    "name": "Pyotr POCHENCHUK"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "01:25:58.200",
+    "name": "Roland WIESER"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "01:26:28.300",
+    "name": "Yevgeniy YEVSYUKOV"
+  },
+  {
+    "place": 5,
+    "country": "ESP",
+    "mark": "01:26:45.600",
+    "name": "Jose MARIN SOSPEDRA"
+  },
+  {
+    "place": 6,
+    "country": "MEX",
+    "mark": "01:27:48.600",
+    "name": "Raúl GONZÁLEZ"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "01:28:36.300",
+    "name": "Bohdan BULAKOWSKI"
+  },
+  {
+    "place": 8,
+    "country": "GDR",
+    "mark": "01:29:21.700",
+    "name": "Karl-Heinz STADTMÜLLER"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "01:31:32.000",
+    "name": "Reima SALONEN"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "01:32:37.800",
+    "name": "Roger MILLS"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "01:33:26.200",
+    "name": "Giorgio DAMILANO"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "01:34:10.500",
+    "name": "Janos SZALAS"
+  },
+  {
+    "place": 13,
+    "country": "SWE",
+    "mark": "01:34:44.000",
+    "name": "Alf BRANDT"
+  },
+  {
+    "place": 14,
+    "country": "TCH",
+    "mark": "01:35:30.800",
+    "name": "Pavel BLAZEK"
+  },
+  {
+    "place": 15,
+    "country": "GRE",
+    "mark": "01:36:53.400",
+    "name": "Aristidis KARAGEORGOS"
+  },
+  {
+    "place": 16,
+    "country": "ETH",
+    "mark": "01:37:16.600",
+    "name": "Hunde TORE"
+  },
+  {
+    "place": 17,
+    "country": "COL",
+    "mark": "01:38:00.000",
+    "name": "Enrique PENA"
+  },
+  {
+    "place": 18,
+    "country": "IND",
+    "mark": "01:38:27.200",
+    "name": "Ranjit SINGH"
+  },
+  {
+    "place": 19,
+    "country": "COL",
+    "mark": "01:42:19.700",
+    "name": "Ernesto ALFARO BERUNDEZ"
+  },
+  {
+    "place": 20,
+    "country": "TCH",
+    "mark": "01:42:52.400",
+    "name": "Jozef PRIBILINEC"
+  },
+  {
+    "place": 21,
+    "country": "AUT",
+    "mark": "01:44:56.000",
+    "name": "Martin TOPOREK"
+  },
+  {
+    "place": 22,
+    "country": "AUT",
+    "mark": "01:45:17.800",
+    "name": "Johann SIEGELE"
+  },
+  {
+    "place": 23,
+    "country": "ETH",
+    "mark": "01:45:45.700",
+    "name": "Tekeste MITIKU"
+  },
+  {
+    "place": 24,
+    "country": "SMR",
+    "mark": "01:49:21.300",
+    "name": "Stefano CASALI"
+  },
+  {
+    "place": 25,
+    "country": "LAO",
+    "mark": "02:20:22.000",
+    "name": "Thipsamay CHANTHAPHONE"
+  },
+  {
+    "place": 26,
+    "country": "LUX",
+    "mark": "Did not finish",
+    "name": "Lucien FABER"
+  },
+  {
+    "place": 27,
+    "country": "AUT",
+    "mark": "Did not finish",
+    "name": "Wilfried SIEGELE"
+  },
+  {
+    "place": 28,
+    "country": "URS",
+    "mark": "Disqualified",
+    "name": "Anatoli SOLOMIN"
+  },
+  {
+    "place": 29,
+    "country": "MEX",
+    "mark": "Disqualified",
+    "name": "Daniel BAUTISTA ROCHA"
+  },
+  {
+    "place": 30,
+    "country": "SWE",
+    "mark": "Disqualified",
+    "name": "Bo GUSTAFSSON"
+  },
+  {
+    "place": 31,
+    "country": "AUS",
+    "mark": "Disqualified",
+    "name": "David SMITH"
+  },
+  {
+    "place": 32,
+    "country": "MEX",
+    "mark": "Disqualified",
+    "name": "Domingo COLIN"
+  },
+  {
+    "place": 33,
+    "country": "TCH",
+    "mark": "Disqualified",
+    "name": "Juraj BENCIK"
+  },
+  {
+    "place": 34,
+    "country": "GDR",
+    "mark": "Disqualified",
+    "name": "Werner HEYER"
+  }
+]

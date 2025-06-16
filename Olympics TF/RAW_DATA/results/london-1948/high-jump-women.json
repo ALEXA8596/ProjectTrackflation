@@ -1,0 +1,134 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "1.68",
+    "name": "Alice Marie COACHMAN"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "1.68",
+    "name": "Dorothy Beatrice J. ODAM-TYLER"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "1.61",
+    "name": "Micheline OSTERMEYER"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "1.58",
+    "name": "Vinton BECKETT"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "1.58",
+    "name": "Doreen M. DREDGE"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "1.58",
+    "name": "Bertha CROWTHER"
+  },
+  {
+    "place": 7,
+    "country": "AUT",
+    "mark": "1.55",
+    "name": "Ilse STEINEGGER"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "1.55",
+    "name": "Dora Kathleen GARDNER"
+  },
+  {
+    "place": 9,
+    "country": "DEN",
+    "mark": "1.50",
+    "name": "Annemarie Rönnov IVERSEN"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "1.50",
+    "name": "Simone RUAS-PEIRONE"
+  },
+  {
+    "place": 11,
+    "country": "JAM",
+    "mark": "1.50",
+    "name": "Carmen PHIPPS"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "1.50",
+    "name": "Cynthia Bernice ROBINSON"
+  },
+  {
+    "place": 13,
+    "country": "CAN",
+    "mark": "1.50",
+    "name": "Shirley GORDON"
+  },
+  {
+    "place": 14,
+    "country": "FRA",
+    "mark": "1.40",
+    "name": "Anne-Marie COLCHEN"
+  },
+  {
+    "place": 15,
+    "country": "USA",
+    "mark": "1.40",
+    "name": "Emma REED"
+  },
+  {
+    "place": 16,
+    "country": "LUX",
+    "mark": "1.40",
+    "name": "Catherine BOURKEL"
+  },
+  {
+    "place": 17,
+    "country": "BRA",
+    "mark": "1.40",
+    "name": "Elisabeth Clara MÜLLER"
+  },
+  {
+    "place": 18,
+    "country": "HUN",
+    "mark": "1.40",
+    "name": "Olga GYARMATI"
+  },
+  {
+    "place": 19,
+    "country": "CAN",
+    "mark": "1.40",
+    "name": "Elaine SILBURN"
+  },
+  {
+    "place": 20,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Noemi SIMONETTO DE PORTELA"
+  },
+  {
+    "place": 21,
+    "country": "LUX",
+    "mark": "Did not start",
+    "name": "Milena LUDWIG"
+  },
+  {
+    "place": 22,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Fanny BLANKERS-KOEN"
+  }
+]

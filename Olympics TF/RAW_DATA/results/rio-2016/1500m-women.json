@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "00:04:08.920",
+    "name": "Faith KIPYEGON"
+  },
+  {
+    "place": 2,
+    "country": "ETH",
+    "mark": "00:04:10.270",
+    "name": "Genzebe DIBABA"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "00:04:10.530",
+    "name": "Jenny BARRINGER-SIMPSON"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "00:04:11.050",
+    "name": "Shannon ROWBURY"
+  },
+  {
+    "place": 5,
+    "country": "NED",
+    "mark": "00:04:11.230",
+    "name": "Sifan HASSAN"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "00:04:12.590",
+    "name": "Meraf BAHTA"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "00:04:12.880",
+    "name": "Laura MUIR"
+  },
+  {
+    "place": 8,
+    "country": "ETH",
+    "mark": "00:04:13.140",
+    "name": "Dawit SEYAUM"
+  },
+  {
+    "place": 9,
+    "country": "ETH",
+    "mark": "00:04:13.580",
+    "name": "Besu SADO"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "00:04:14.720",
+    "name": "Sofia ENNAOUI"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "00:04:14.950",
+    "name": "Laura WEIGHTMAN"
+  },
+  {
+    "place": 12,
+    "country": "MAR",
+    "mark": "00:04:15.160",
+    "name": "Rababe ARAFI"
+  },
+  {
+    "place": 13,
+    "country": "UAE",
+    "mark": "Did not start",
+    "name": "Betlhem DESALEGN"
+  }
+]

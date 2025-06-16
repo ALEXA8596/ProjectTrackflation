@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "13.300",
+    "name": "Willie DAVENPORT"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.400",
+    "name": "Ervin HALL"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "13.400",
+    "name": "Eddy OTTOZ"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "13.600",
+    "name": "Leonard COLEMAN"
+  },
+  {
+    "place": 5,
+    "country": "FRG",
+    "mark": "13.600",
+    "name": "Werner TRZMIEL"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "13.700",
+    "name": "Bo FORSSANDER"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "13.700",
+    "name": "Marcel DURIEZ"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "14.000",
+    "name": "Pierre SCHOEBEL"
+  },
+  {
+    "place": 9,
+    "country": "CHA",
+    "mark": "Did not start",
+    "name": "Bernard KENDER"
+  },
+  {
+    "place": 10,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Werner KUHN"
+  }
+]

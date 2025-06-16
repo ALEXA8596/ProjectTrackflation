@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "44.900",
+    "name": "Otis Crandall DAVIS"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "44.900",
+    "name": "Carl KAUFMANN"
+  },
+  {
+    "place": 3,
+    "country": "RSA",
+    "mark": "45.500",
+    "name": "Malcolm Clive SPENCE"
+  },
+  {
+    "place": 4,
+    "country": "IND",
+    "mark": "45.600",
+    "name": "Milkha SINGH"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "45.900",
+    "name": "Manfred KINDER"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "45.900",
+    "name": "Earl Verdelle YOUNG"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "George Ezekiel KERR"
+  },
+  {
+    "place": 8,
+    "country": "VEN",
+    "mark": "Did not start",
+    "name": "Rafael ROMERO SANDREA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "JPN",
+    "mark": "65.80",
+    "name": "KITAGUCHI Haruka"
+  },
+  {
+    "place": 2,
+    "country": "RSA",
+    "mark": "63.93",
+    "name": "Jo-Ane VAN DYK"
+  },
+  {
+    "place": 3,
+    "country": "CZE",
+    "mark": "63.68",
+    "name": "Nikola OGRODNIKOVA"
+  },
+  {
+    "place": 4,
+    "country": "CRO",
+    "mark": "63.40",
+    "name": "Sara KOLAK"
+  },
+  {
+    "place": 5,
+    "country": "COL",
+    "mark": "63.00",
+    "name": "Flor RUIZ"
+  },
+  {
+    "place": 6,
+    "country": "ESP",
+    "mark": "62.78",
+    "name": "Yulenmis AGUILAR"
+  },
+  {
+    "place": 7,
+    "country": "AUS",
+    "mark": "62.63",
+    "name": "Kathryn MITCHELL"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "62.44",
+    "name": "Maria ANDREJCZYK"
+  },
+  {
+    "place": 9,
+    "country": "GRE",
+    "mark": "61.85",
+    "name": "Elina TZENGKO"
+  },
+  {
+    "place": 10,
+    "country": "JPN",
+    "mark": "61.64",
+    "name": "Momone UEDA"
+  },
+  {
+    "place": 11,
+    "country": "NOR",
+    "mark": "61.14",
+    "name": "Marie-Therese OBST"
+  },
+  {
+    "place": 12,
+    "country": "AUS",
+    "mark": "60.32",
+    "name": "Mackenzie LITTLE"
+  }
+]

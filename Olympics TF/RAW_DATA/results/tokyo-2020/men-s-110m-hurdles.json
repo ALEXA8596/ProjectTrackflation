@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "13.04",
+    "name": "Hansle PARCHMENT"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.09",
+    "name": "Grant HOLLOWAY"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "13.10",
+    "name": "Ronald LEVY"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "13.14",
+    "name": "Devon ALLEN"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "13.16",
+    "name": "Pascal MARTINOT-LAGARDE"
+  },
+  {
+    "place": 6,
+    "country": "ESP",
+    "mark": "13.22",
+    "name": "Asier MARTINEZ"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "13.30",
+    "name": "Andrew POZZI"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "13.38",
+    "name": "Aurel MANGA"
+  }
+]

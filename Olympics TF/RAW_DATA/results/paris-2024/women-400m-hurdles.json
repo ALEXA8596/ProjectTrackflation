@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "50.37",
+    "name": "Sydney MCLAUGHLIN-LEVRONE"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "51.87",
+    "name": "Anna COCKRELL"
+  },
+  {
+    "place": 3,
+    "country": "NED",
+    "mark": "52.15",
+    "name": "Femke BOL"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "52.29",
+    "name": "Jasmine Mari JONES"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "52.68",
+    "name": "Rushell CLAYTON"
+  },
+  {
+    "place": 6,
+    "country": "JAM",
+    "mark": "53.29",
+    "name": "Shiann SALMON"
+  },
+  {
+    "place": 7,
+    "country": "CAN",
+    "mark": "53.88",
+    "name": "Savannah SUTHERLAND"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "54.53",
+    "name": "Louise MARAVAL"
+  }
+]

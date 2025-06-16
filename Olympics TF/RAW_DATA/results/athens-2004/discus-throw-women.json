@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "RUS",
+    "mark": "67.02",
+    "name": "Natalya SADOVA"
+  },
+  {
+    "place": 2,
+    "country": "GRE",
+    "mark": "66.68",
+    "name": "Anastasia KELESIDOU"
+  },
+  {
+    "place": 3,
+    "country": "CZE",
+    "mark": "66.08",
+    "name": "Vera POSPISILOVA-CECHLOVA"
+  },
+  {
+    "place": 4,
+    "country": "UKR",
+    "mark": "65.75",
+    "name": "Olena ANTONOVA"
+  },
+  {
+    "place": 5,
+    "country": "ROU",
+    "mark": "64.92",
+    "name": "Nicoleta GRADINARU"
+  },
+  {
+    "place": 6,
+    "country": "NZL",
+    "mark": "63.45",
+    "name": "Beatrice FAUMUINA"
+  },
+  {
+    "place": 7,
+    "country": "GRE",
+    "mark": "62.37",
+    "name": "Aikaterini VONGOLI"
+  },
+  {
+    "place": 8,
+    "country": "CHN",
+    "mark": "61.05",
+    "name": "Yanfeng LI"
+  },
+  {
+    "place": 9,
+    "country": "POL",
+    "mark": "60.74",
+    "name": "Joanna WISNIEWSKA"
+  },
+  {
+    "place": 10,
+    "country": "GRE",
+    "mark": "59.48",
+    "name": "Stiliani TSIKOUNA"
+  },
+  {
+    "place": 11,
+    "country": "CUB",
+    "mark": "No mark",
+    "name": "Yania FERRALES"
+  },
+  {
+    "place": 12,
+    "country": "BLR",
+    "mark": "Disqualified",
+    "name": "Iryna YATCHENKO"
+  }
+]

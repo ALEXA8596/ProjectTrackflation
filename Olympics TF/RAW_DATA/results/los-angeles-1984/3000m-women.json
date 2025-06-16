@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "ROU",
+    "mark": "00:08:35.960",
+    "name": "Maricica PUICA"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "00:08:39.470",
+    "name": "Wendy SLY"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "00:08:42.140",
+    "name": "Lynn WILLIAMS"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "00:08:42.780",
+    "name": "Cynthia Mae BREMSER"
+  },
+  {
+    "place": 5,
+    "country": "SUI",
+    "mark": "00:08:45.200",
+    "name": "Cornelia BÜRKI"
+  },
+  {
+    "place": 6,
+    "country": "POR",
+    "mark": "00:08:46.370",
+    "name": "Arnaldo CUNHA"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "00:08:48.800",
+    "name": "Zola BUDD"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:08:51.530",
+    "name": "Joan Elizabeth HANSEN"
+  },
+  {
+    "place": 9,
+    "country": "NZL",
+    "mark": "00:08:56.430",
+    "name": "Dianne ZORN-RODGER"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "00:09:10.820",
+    "name": "Agnese POSSAMAI"
+  },
+  {
+    "place": 11,
+    "country": "FRG",
+    "mark": "Did not finish",
+    "name": "Brigitte KRAUS"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Mary SLANEY"
+  },
+  {
+    "place": 13,
+    "country": "LIE",
+    "mark": "Did not start",
+    "name": "Helen RITTER"
+  }
+]

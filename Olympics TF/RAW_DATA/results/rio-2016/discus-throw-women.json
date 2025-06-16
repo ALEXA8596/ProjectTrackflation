@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "CRO",
+    "mark": "69.21",
+    "name": "Sandra PERKOVIC"
+  },
+  {
+    "place": 2,
+    "country": "FRA",
+    "mark": "66.73",
+    "name": "Melina ROBERT MICHON"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "65.34",
+    "name": "Denia CABALLERO"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "64.90",
+    "name": "Dani STEVENS"
+  },
+  {
+    "place": 5,
+    "country": "CHN",
+    "mark": "64.37",
+    "name": "Xinyue SU"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "63.13",
+    "name": "Nadine MULLER"
+  },
+  {
+    "place": 7,
+    "country": "CHN",
+    "mark": "63.11",
+    "name": "Yang CHEN"
+  },
+  {
+    "place": 8,
+    "country": "CHN",
+    "mark": "63.06",
+    "name": "Bin FENG"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "62.67",
+    "name": "Julia FISCHER"
+  },
+  {
+    "place": 10,
+    "country": "LTU",
+    "mark": "61.89",
+    "name": "Zinaida SENDRIUTE"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "59.85",
+    "name": "Shanice CRAFT"
+  },
+  {
+    "place": 12,
+    "country": "CUB",
+    "mark": "No mark",
+    "name": "Yaime PEREZ"
+  }
+]

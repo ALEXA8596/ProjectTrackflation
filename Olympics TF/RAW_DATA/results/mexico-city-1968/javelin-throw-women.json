@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "HUN",
+    "mark": "53.30",
+    "name": "Angela NEMETH-RANKY"
+  },
+  {
+    "place": 2,
+    "country": "ROU",
+    "mark": "x",
+    "name": "Mihaela PENES"
+  },
+  {
+    "place": 3,
+    "country": "AUT",
+    "mark": "58.04",
+    "name": "Eva JANKO-EGGER"
+  },
+  {
+    "place": 4,
+    "country": "HUN",
+    "mark": "52.68",
+    "name": "Marta ANTAL-RUDAS"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "53.20",
+    "name": "Daniela JAWORSKA"
+  },
+  {
+    "place": 6,
+    "country": "YUG",
+    "mark": "-",
+    "name": "Natasa URBANCIC"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "x",
+    "name": "Amelie KOLOSKA-ISERMEYER"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "x",
+    "name": "Kaisa LAUNELA"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "NM",
+    "name": "Erika STRASSER"
+  }
+]

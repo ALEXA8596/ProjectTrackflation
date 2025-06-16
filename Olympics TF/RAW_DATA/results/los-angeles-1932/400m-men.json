@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "46.200",
+    "name": "William Arthur CARR"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "46.400",
+    "name": "Benjamin Bangs EASTMAN"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "47.400",
+    "name": "Alex WILSON"
+  },
+  {
+    "place": 4,
+    "country": "RSA",
+    "mark": "48.200",
+    "name": "William John WALTERS"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "48.200",
+    "name": "James Allen GORDON"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "48.800",
+    "name": "George Augustus GOLDING"
+  },
+  {
+    "place": 7,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Carlos DOS REIS JÚNIOR"
+  },
+  {
+    "place": 8,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Vangelis MOIROPOULOS"
+  },
+  {
+    "place": 9,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Daniel Jacobus JOUBERT"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Marcel MOULINIES"
+  },
+  {
+    "place": 11,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Esmeraldo AZUAGA"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Thomas HAMPSON"
+  }
+]

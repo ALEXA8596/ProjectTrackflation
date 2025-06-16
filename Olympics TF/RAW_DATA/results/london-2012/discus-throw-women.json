@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "CRO",
+    "mark": "69.11",
+    "name": "Sandra PERKOVIC"
+  },
+  {
+    "place": 2,
+    "country": "CHN",
+    "mark": "67.22",
+    "name": "Yanfeng LI"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "66.38",
+    "name": "Yarelys BARRIOS"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "65.94",
+    "name": "Nadine MULLER"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "63.98",
+    "name": "Melina ROBERT MICHON"
+  },
+  {
+    "place": 6,
+    "country": "IND",
+    "mark": "63.62",
+    "name": "Krishna POONIA"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "63.01",
+    "name": "Stephanie BROWN"
+  },
+  {
+    "place": 8,
+    "country": "LTU",
+    "mark": "61.68",
+    "name": "Zinaida SENDRIUTE"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "61.36",
+    "name": "Anna RUH"
+  },
+  {
+    "place": 10,
+    "country": "CHN",
+    "mark": "61.02",
+    "name": "Xuejun MA"
+  },
+  {
+    "place": 11,
+    "country": "AUS",
+    "mark": "60.40",
+    "name": "Dani STEVENS"
+  },
+  {
+    "place": 12,
+    "country": "CHN",
+    "mark": "NM",
+    "name": "Jian TAN"
+  },
+  {
+    "place": 13,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Darya PISHCHALNIKOVA"
+  },
+  {
+    "place": 14,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Vera GANEEVA"
+  }
+]

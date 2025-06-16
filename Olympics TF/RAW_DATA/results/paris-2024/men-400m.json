@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "43.40",
+    "name": "Quincy HALL"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "43.44",
+    "name": "Matthew HUDSON-SMITH"
+  },
+  {
+    "place": 3,
+    "country": "ZAM",
+    "mark": "43.74",
+    "name": "Muzala SAMUKONGA"
+  },
+  {
+    "place": 4,
+    "country": "TTO",
+    "mark": "43.78",
+    "name": "Jereem RICHARDS"
+  },
+  {
+    "place": 5,
+    "country": "GRN",
+    "mark": "43.87",
+    "name": "Kirani JAMES"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "44.58",
+    "name": "Christopher BAILEY"
+  },
+  {
+    "place": 7,
+    "country": "NGR",
+    "mark": "44.73",
+    "name": "Samuel OGAZI"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "45.62",
+    "name": "Michael NORMAN"
+  }
+]

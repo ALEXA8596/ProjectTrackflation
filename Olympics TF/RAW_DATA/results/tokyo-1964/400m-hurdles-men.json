@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "49.600",
+    "name": "Warren (Rex) Jay CAWLEY"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "50.100",
+    "name": "John Hugh COOPER"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "50.100",
+    "name": "Salvatore MORALE"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "50.400",
+    "name": "Gary James KNOKE"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "50.500",
+    "name": "James (Jay) Edward LUCK"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "50.700",
+    "name": "Roberto FRINOLLI"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "51.100",
+    "name": "Vasili ANISIMOV"
+  },
+  {
+    "place": 8,
+    "country": "BEL",
+    "mark": "51.400",
+    "name": "Wilfried GEEROMS"
+  },
+  {
+    "place": 9,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Nikola Dimitrov DAGOROV"
+  }
+]

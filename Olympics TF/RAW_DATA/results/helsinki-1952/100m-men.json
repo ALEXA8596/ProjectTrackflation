@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "10.400",
+    "name": "Lindy REMIGINO"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "10.400",
+    "name": "Herbert MCKENLEY"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "10.400",
+    "name": "Emmanuel Mcdonald BAILEY"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "10.400",
+    "name": "Finis Dean SMITH"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "10.500",
+    "name": "Vladimir SUKHAREV"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "10.500",
+    "name": "John Frank TRELOAR"
+  },
+  {
+    "place": 7,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "Noel FLANAGAN"
+  },
+  {
+    "place": 8,
+    "country": "GHA",
+    "mark": "Did not start",
+    "name": "K. K. KORSAH"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Bo ÅHLEN"
+  },
+  {
+    "place": 10,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Radovan PEJIN"
+  },
+  {
+    "place": 11,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "Louis CROWE"
+  },
+  {
+    "place": 12,
+    "country": "GUA",
+    "mark": "Did not start",
+    "name": "Roy FEARON"
+  },
+  {
+    "place": 13,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Morris Joseph CUROTTA"
+  },
+  {
+    "place": 14,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Raymond Henry WEINBERG"
+  },
+  {
+    "place": 15,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Heinz FÜTTERER"
+  },
+  {
+    "place": 16,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "Les LAING"
+  },
+  {
+    "place": 17,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Neville Graham PRICE"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "7.83",
+    "name": "Gregory Curtis BELL"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "7.68",
+    "name": "John Dale BENNETT"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "7.48",
+    "name": "Jorma Rainer VALKAMA"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "7.44",
+    "name": "Dmitri BONDARENKO"
+  },
+  {
+    "place": 5,
+    "country": "NGR",
+    "mark": "7.36",
+    "name": "Karimu Babalola OLOWU"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "7.30",
+    "name": "Kazimierz KROPIDLOWSKI"
+  },
+  {
+    "place": 7,
+    "country": "RSA",
+    "mark": "7.28",
+    "name": "Neville Graham PRICE"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "7.27",
+    "name": "Oleg FEDOSEEV"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "7.15",
+    "name": "Arthur Roy CRUTTENDEN"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "7.15",
+    "name": "Henryk GRABOWSKI"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "7.14",
+    "name": "Kenneth Stanley D. WILMSHURST"
+  },
+  {
+    "place": 12,
+    "country": "URU",
+    "mark": "6.57",
+    "name": "Fermin W. DONAZAR"
+  },
+  {
+    "place": 13,
+    "country": "URS",
+    "mark": "No mark",
+    "name": "Igor TER-OVANESYAN"
+  },
+  {
+    "place": 14,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Kenneth James BOX"
+  },
+  {
+    "place": 15,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Mohinder SINGH"
+  },
+  {
+    "place": 16,
+    "country": "IRQ",
+    "mark": "Did not start",
+    "name": "Abdul Sattar ABDUL RAZZAK"
+  },
+  {
+    "place": 17,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Hiroshi SHIBATA"
+  },
+  {
+    "place": 18,
+    "country": "BRU",
+    "mark": "Did not start",
+    "name": "Gabuh BIN PIGING"
+  },
+  {
+    "place": 19,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Martin REHAK"
+  },
+  {
+    "place": 20,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Rafer Lewis JOHNSON"
+  },
+  {
+    "place": 21,
+    "country": "VEN",
+    "mark": "Did not start",
+    "name": "Arnoldo DEVONISH"
+  }
+]

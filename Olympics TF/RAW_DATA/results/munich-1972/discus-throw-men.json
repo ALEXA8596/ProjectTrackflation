@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "TCH",
+    "mark": "64.40",
+    "name": "Ludvik DANEK"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "63.50",
+    "name": "L.Jay SILVESTER"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "63.40",
+    "name": "Rickard BRUCH"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "62.82",
+    "name": "John Gates POWELL"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "62.62",
+    "name": "Geza FEJER"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "62.42",
+    "name": "Detlef THORITH"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "60.60",
+    "name": "Ferenc TEGLA"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "60.24",
+    "name": "Timothy William VOLLMER"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "59.66",
+    "name": "Pentti Aatos KAHMA"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "59.34",
+    "name": "Silvano SIMEON"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "59.22",
+    "name": "Jorma Tapani RINNE"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "57.92",
+    "name": "Janos MURANYI"
+  },
+  {
+    "place": 13,
+    "country": "MLI",
+    "mark": "56.48",
+    "name": "Namakoro NIARE"
+  },
+  {
+    "place": 14,
+    "country": "NZL",
+    "mark": "55.86",
+    "name": "Leslie Roy MILLS"
+  },
+  {
+    "place": 15,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Stoyan SLAVKOV"
+  },
+  {
+    "place": 16,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Julio BEQUER"
+  },
+  {
+    "place": 17,
+    "country": "EGY",
+    "mark": "Did not start",
+    "name": "Nagui ASSAAD"
+  },
+  {
+    "place": 18,
+    "country": "CGO",
+    "mark": "Did not start",
+    "name": "Noel MATUBA"
+  }
+]

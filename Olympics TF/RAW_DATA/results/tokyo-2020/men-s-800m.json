@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "1:45.06",
+    "name": "Emmanuel Kipkurui KORIR"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "1:45.23",
+    "name": "Ferguson Cheruiyot ROTICH"
+  },
+  {
+    "place": 3,
+    "country": "POL",
+    "mark": "1:45.39",
+    "name": "Patryk DOBEK"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "1:45.92",
+    "name": "Peter BOL"
+  },
+  {
+    "place": 5,
+    "country": "ESP",
+    "mark": "1:45.96",
+    "name": "Adrian BEN"
+  },
+  {
+    "place": 6,
+    "country": "BIH",
+    "mark": "1:45.98",
+    "name": "Amel TUKA"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "1:46.03",
+    "name": "Gabriel TUAL"
+  },
+  {
+    "place": 8,
+    "country": "BOT",
+    "mark": "1:46.41",
+    "name": "Nijel AMOS"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "1:46.53",
+    "name": "Clayton MURPHY"
+  }
+]

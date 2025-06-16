@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "SWE",
+    "mark": "6.25",
+    "name": "Armand DUPLANTIS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "5.95",
+    "name": "Sam KENDRICKS"
+  },
+  {
+    "place": 3,
+    "country": "GRE",
+    "mark": "5.90",
+    "name": "Emmanouil KARALIS"
+  },
+  {
+    "place": 4,
+    "country": "PHI",
+    "mark": "5.90",
+    "name": "Ernest John OBIENA"
+  },
+  {
+    "place": 5,
+    "country": "TUR",
+    "mark": "5.85",
+    "name": "Ersu SASMA"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "5.85",
+    "name": "Kurtis MARSCHALL"
+  },
+  {
+    "place": 7,
+    "country": "CHN",
+    "mark": "5.80",
+    "name": "Bokai HUANG"
+  },
+  {
+    "place": 8,
+    "country": "NOR",
+    "mark": "5.80",
+    "name": "Sondre GUTTORMSEN"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "5.70",
+    "name": "Bo Kanda LITA BAEHRE"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "5.70",
+    "name": "Oleg ZERNIKEL"
+  },
+  {
+    "place": 11,
+    "country": "NED",
+    "mark": "5.70",
+    "name": "Menno VLOON"
+  },
+  {
+    "place": 12,
+    "country": "LAT",
+    "mark": "5.50",
+    "name": "Valters KREISS"
+  }
+]

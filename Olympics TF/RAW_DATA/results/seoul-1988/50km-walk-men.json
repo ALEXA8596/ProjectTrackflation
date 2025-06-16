@@ -1,0 +1,254 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "03:38:29.000",
+    "name": "Vyacheslav IVANENKO"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "03:38:56.000",
+    "name": "Ronald WEIGEL"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "03:39:45.000",
+    "name": "Hartwig GAUDER"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "03:41:00.000",
+    "name": "Aleksandr POTASHEV"
+  },
+  {
+    "place": 5,
+    "country": "ESP",
+    "mark": "03:43:03.000",
+    "name": "Jose MARIN SOSPEDRA"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "03:44:07.000",
+    "name": "Simon BAKER"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "03:44:49.000",
+    "name": "Bo GUSTAFSSON"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "03:45:43.000",
+    "name": "Raffaello DUCCESCHI"
+  },
+  {
+    "place": 9,
+    "country": "GDR",
+    "mark": "03:46:31.000",
+    "name": "Dietmar MEISCH"
+  },
+  {
+    "place": 10,
+    "country": "TCH",
+    "mark": "03:47:04.000",
+    "name": "Pavel SZIKORA"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "03:47:14.000",
+    "name": "Giovanni PERRICELLI"
+  },
+  {
+    "place": 12,
+    "country": "TCH",
+    "mark": "03:47:31.000",
+    "name": "Pavel BLAZEK"
+  },
+  {
+    "place": 13,
+    "country": "ESP",
+    "mark": "03:48:09.000",
+    "name": "Jorge LLOPART RIBAS"
+  },
+  {
+    "place": 14,
+    "country": "CAN",
+    "mark": "03:48:15.000",
+    "name": "François LAPOINTE"
+  },
+  {
+    "place": 15,
+    "country": "MEX",
+    "mark": "03:49:22.000",
+    "name": "Martin BERMUDEZ"
+  },
+  {
+    "place": 16,
+    "country": "FRA",
+    "mark": "03:50:28.000",
+    "name": "Alain LEMERCIER"
+  },
+  {
+    "place": 17,
+    "country": "TCH",
+    "mark": "03:50:46.000",
+    "name": "Roman MRAZEK"
+  },
+  {
+    "place": 18,
+    "country": "FIN",
+    "mark": "03:51:36.000",
+    "name": "Reima SALONEN"
+  },
+  {
+    "place": 19,
+    "country": "AUS",
+    "mark": "03:53:23.000",
+    "name": "Andrew JACHNO"
+  },
+  {
+    "place": 20,
+    "country": "SWE",
+    "mark": "03:53:34.000",
+    "name": "Stefan JOHANSSON"
+  },
+  {
+    "place": 21,
+    "country": "POR",
+    "mark": "03:55:57.000",
+    "name": "Jose PINTO"
+  },
+  {
+    "place": 22,
+    "country": "USA",
+    "mark": "03:56:55.000",
+    "name": "Marco Ray EVONIUK"
+  },
+  {
+    "place": 23,
+    "country": "USA",
+    "mark": "03:57:44.000",
+    "name": "Carl Francis SCHUELER"
+  },
+  {
+    "place": 24,
+    "country": "POL",
+    "mark": "03:58:31.000",
+    "name": "Jacek BEDNAREK"
+  },
+  {
+    "place": 25,
+    "country": "ESP",
+    "mark": "03:59:13.000",
+    "name": "Manuel IBERN ALCALDE"
+  },
+  {
+    "place": 26,
+    "country": "URS",
+    "mark": "03:59:23.000",
+    "name": "Vitali POPOVYCH"
+  },
+  {
+    "place": 27,
+    "country": "GBR",
+    "mark": "03:59:30.000",
+    "name": "Leslie MORTON"
+  },
+  {
+    "place": 28,
+    "country": "GBR",
+    "mark": "04:00:07.000",
+    "name": "Paul BLAGG"
+  },
+  {
+    "place": 29,
+    "country": "CHN",
+    "mark": "04:00:07.000",
+    "name": "Bao-Jin LI"
+  },
+  {
+    "place": 30,
+    "country": "COL",
+    "mark": "04:01:31.000",
+    "name": "Hector Jose MORENO MORENO"
+  },
+  {
+    "place": 31,
+    "country": "JPN",
+    "mark": "04:03:12.000",
+    "name": "Tadahiro KOSAKA"
+  },
+  {
+    "place": 32,
+    "country": "ITA",
+    "mark": "04:04:56.000",
+    "name": "Sandro BELLUCCI"
+  },
+  {
+    "place": 33,
+    "country": "MEX",
+    "mark": "04:08:08.000",
+    "name": "Arturo BRAVO"
+  },
+  {
+    "place": 34,
+    "country": "USA",
+    "mark": "04:12:49.000",
+    "name": "Andrew John KAESTNER"
+  },
+  {
+    "place": 35,
+    "country": "KEN",
+    "mark": "04:25:24.000",
+    "name": "William SAWE"
+  },
+  {
+    "place": 36,
+    "country": "HUN",
+    "mark": "Did not finish",
+    "name": "Sandor URBANIK"
+  },
+  {
+    "place": 37,
+    "country": "NOR",
+    "mark": "Did not finish",
+    "name": "Erling ANDERSEN"
+  },
+  {
+    "place": 38,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Jan STAF"
+  },
+  {
+    "place": 39,
+    "country": "FRA",
+    "mark": "Disqualified",
+    "name": "Eric NEISSE"
+  },
+  {
+    "place": 40,
+    "country": "FRA",
+    "mark": "Disqualified",
+    "name": "Jean-Marie NEFF"
+  },
+  {
+    "place": 41,
+    "country": "BEL",
+    "mark": "Did not finish",
+    "name": "Godfried DE JONCKHEERE"
+  },
+  {
+    "place": 42,
+    "country": "MEX",
+    "mark": "Disqualified",
+    "name": "Hernan ANDRADE"
+  }
+]

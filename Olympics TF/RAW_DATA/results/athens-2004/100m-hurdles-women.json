@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "12.370",
+    "name": "Joanna HAYES"
+  },
+  {
+    "place": 2,
+    "country": "UKR",
+    "mark": "12.450",
+    "name": "Olena OVCHAROVA-KRASOVSKA"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "12.560",
+    "name": "Melissa MORRISON"
+  },
+  {
+    "place": 4,
+    "country": "RUS",
+    "mark": "12.720",
+    "name": "Mariya KOROTEYEVA"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "12.730",
+    "name": "Lacena GOLDING-CLARKE"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "12.810",
+    "name": "Angela WHYTE"
+  },
+  {
+    "place": 7,
+    "country": "CAN",
+    "mark": "Did not finish",
+    "name": "Perdita FELICIEN"
+  },
+  {
+    "place": 8,
+    "country": "RUS",
+    "mark": "Did not finish",
+    "name": "Irina SHEVCHENKO"
+  },
+  {
+    "place": 9,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Svetla PISHTIKOVA"
+  }
+]

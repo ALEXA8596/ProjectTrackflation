@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "3:27.65",
+    "name": "Cole HOCKER"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "3:27.79",
+    "name": "Josh KERR"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "3:27.80",
+    "name": "Yared NUGUSE"
+  },
+  {
+    "place": 4,
+    "country": "NOR",
+    "mark": "3:28.24",
+    "name": "Jakob INGEBRIGTSEN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "3:29.45",
+    "name": "Hobbs KESSLER"
+  },
+  {
+    "place": 6,
+    "country": "NED",
+    "mark": "3:29.54",
+    "name": "Niels LAROS"
+  },
+  {
+    "place": 7,
+    "country": "NOR",
+    "mark": "3:30.46",
+    "name": "Narve Gilje NORDAS"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "3:30.74",
+    "name": "Pietro ARESE"
+  },
+  {
+    "place": 9,
+    "country": "NED",
+    "mark": "3:30.75",
+    "name": "Stefan NILLESSEN"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "3:30.88",
+    "name": "Neil GOURLEY"
+  },
+  {
+    "place": 11,
+    "country": "KEN",
+    "mark": "3:31.35",
+    "name": "Timothy CHERUIYOT"
+  },
+  {
+    "place": 12,
+    "country": "KEN",
+    "mark": "3:35.59",
+    "name": "Brian KOMEN"
+  }
+]

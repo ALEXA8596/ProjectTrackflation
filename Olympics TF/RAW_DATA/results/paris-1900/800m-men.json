@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:02:01.200",
+    "name": "Alfred TYSOE"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "at 3 yards",
+    "name": "John CREGAN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "at 8 yards",
+    "name": "David HALL"
+  },
+  {
+    "place": 4,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Cornelius VON LUBOWIECKI"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Johannes RUNGE"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "William MOLONEY"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "George WOOD"
+  }
+]

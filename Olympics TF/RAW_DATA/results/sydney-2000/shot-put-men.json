@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "21.29",
+    "name": "Arsi HARJU"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "21.21",
+    "name": "Adam NELSON"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "21.20",
+    "name": "John GODINA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "20.87",
+    "name": "Andrew BLOOM"
+  },
+  {
+    "place": 5,
+    "country": "UKR",
+    "mark": "20.84",
+    "name": "Yuriy BILONOG"
+  },
+  {
+    "place": 6,
+    "country": "ESP",
+    "mark": "20.55",
+    "name": "Manuel MARTINEZ"
+  },
+  {
+    "place": 7,
+    "country": "RSA",
+    "mark": "20.32",
+    "name": "Janus ROBBERTS"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "20.18",
+    "name": "Oliver-Sven BUDER"
+  },
+  {
+    "place": 9,
+    "country": "BLR",
+    "mark": "19.48",
+    "name": "Andrey MIKHNEVICH"
+  },
+  {
+    "place": 10,
+    "country": "CZE",
+    "mark": "19.39",
+    "name": "Miroslav MENC"
+  },
+  {
+    "place": 11,
+    "country": "SVK",
+    "mark": "19.06",
+    "name": "Milan HABORAK"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "18.64",
+    "name": "Timo AALTONEN"
+  }
+]

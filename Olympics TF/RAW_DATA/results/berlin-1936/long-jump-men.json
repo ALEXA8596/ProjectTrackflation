@@ -1,0 +1,134 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "8.06w",
+    "name": "Jesse OWENS"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "7.87w",
+    "name": "Carl Ludwig Luz LONG"
+  },
+  {
+    "place": 3,
+    "country": "JPN",
+    "mark": "7.74w",
+    "name": "Naoto TAJIMA"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "7.73w",
+    "name": "Wilhelm LEICHUM"
+  },
+  {
+    "place": 5,
+    "country": "ITA",
+    "mark": "7.73w",
+    "name": "Arturo MAFFEI"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "7.67w",
+    "name": "Robert Hyatt CLARK"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "7.41w",
+    "name": "John William BROOKS"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "7.34w",
+    "name": "Robert PAUL"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "7.32w",
+    "name": "Arthur BÄUMLE"
+  },
+  {
+    "place": 10,
+    "country": "NOR",
+    "mark": "7.30w",
+    "name": "Otto BERG"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "7.30w",
+    "name": "Ake STENQVIST"
+  },
+  {
+    "place": 12,
+    "country": "ITA",
+    "mark": "7.26w",
+    "name": "Gianni CALDANA"
+  },
+  {
+    "place": 13,
+    "country": "TCH",
+    "mark": "7.18w",
+    "name": "Josef VOSOLOBE"
+  },
+  {
+    "place": 14,
+    "country": "CAN",
+    "mark": "7.13w",
+    "name": "Samuel RICHARDSON"
+  },
+  {
+    "place": 15,
+    "country": "BRA",
+    "mark": "7.05w",
+    "name": "Marcio CASTELLAR DE OLIVEIRA"
+  },
+  {
+    "place": 16,
+    "country": "JPN",
+    "mark": "6.18w",
+    "name": "Kaneyuki TOGAMI"
+  },
+  {
+    "place": 17,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "John Basil DICKINSON"
+  },
+  {
+    "place": 18,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "John Patrick METCALFE"
+  },
+  {
+    "place": 19,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Pedro DEL VECCHIO"
+  },
+  {
+    "place": 20,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Ingvard ANDERSEN"
+  },
+  {
+    "place": 21,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Ignacio SÁNCHEZ"
+  },
+  {
+    "place": 22,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Walter MÄDER"
+  }
+]

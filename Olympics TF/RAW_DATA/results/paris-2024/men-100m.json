@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "9.79",
+    "name": "Noah LYLES"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "9.79",
+    "name": "Kishane THOMPSON"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "9.81",
+    "name": "Fred KERLEY"
+  },
+  {
+    "place": 4,
+    "country": "RSA",
+    "mark": "9.82",
+    "name": "Akani SIMBINE"
+  },
+  {
+    "place": 5,
+    "country": "ITA",
+    "mark": "9.85",
+    "name": "Lamont Marcell JACOBS"
+  },
+  {
+    "place": 6,
+    "country": "BOT",
+    "mark": "9.86",
+    "name": "Letsile TEBOGO"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "9.88",
+    "name": "Kenneth BEDNAREK"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "9.91",
+    "name": "Oblique SEVILLE"
+  }
+]

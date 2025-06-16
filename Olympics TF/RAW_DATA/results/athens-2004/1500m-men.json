@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "MAR",
+    "mark": "00:03:34.180",
+    "name": "Hicham EL GUERROUJ"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:03:34.300",
+    "name": "Bernard LAGAT"
+  },
+  {
+    "place": 3,
+    "country": "POR",
+    "mark": "00:03:34.680",
+    "name": "Rui SILVA"
+  },
+  {
+    "place": 4,
+    "country": "KEN",
+    "mark": "00:03:35.610",
+    "name": "Timothy KIPTANUI"
+  },
+  {
+    "place": 5,
+    "country": "UKR",
+    "mark": "00:03:35.820",
+    "name": "Ivan HESHKO"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "00:03:36.330",
+    "name": "Michael EAST"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "00:03:36.630",
+    "name": "Reyes ESTEVEZ"
+  },
+  {
+    "place": 8,
+    "country": "NED",
+    "mark": "00:03:37.170",
+    "name": "Gert-Jan LIEFERS"
+  },
+  {
+    "place": 9,
+    "country": "MAR",
+    "mark": "00:03:38.260",
+    "name": "Adil KAOUCH"
+  },
+  {
+    "place": 10,
+    "country": "ETH",
+    "mark": "00:03:38.330",
+    "name": "Mulugeta WENDIMU"
+  },
+  {
+    "place": 11,
+    "country": "ALG",
+    "mark": "00:03:39.020",
+    "name": "Kamel BOULAHFANE"
+  },
+  {
+    "place": 12,
+    "country": "KEN",
+    "mark": "00:03:41.720",
+    "name": "Isaac SONGOK"
+  },
+  {
+    "place": 13,
+    "country": "SUD",
+    "mark": "Did not start",
+    "name": "Peter ASHAK"
+  },
+  {
+    "place": 14,
+    "country": "TAN",
+    "mark": "Did not start",
+    "name": "Samwel MWERA"
+  }
+]

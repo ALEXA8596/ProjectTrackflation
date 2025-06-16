@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "BUL",
+    "mark": "15.20",
+    "name": "Tereza MARINOVA"
+  },
+  {
+    "place": 2,
+    "country": "RUS",
+    "mark": "15.00",
+    "name": "Tatyana LEBEDEVA"
+  },
+  {
+    "place": 3,
+    "country": "UKR",
+    "mark": "14.96",
+    "name": "Olena HOVOROVA"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "14.30",
+    "name": "Yamilé ALDAMA"
+  },
+  {
+    "place": 5,
+    "country": "ALG",
+    "mark": "14.17",
+    "name": "Baya RAHOULI"
+  },
+  {
+    "place": 6,
+    "country": "ROU",
+    "mark": "14.17",
+    "name": "Cristina Elena NICOLAU"
+  },
+  {
+    "place": 7,
+    "country": "GRE",
+    "mark": "14.15",
+    "name": "Olga VASDEKI"
+  },
+  {
+    "place": 8,
+    "country": "RUS",
+    "mark": "13.97",
+    "name": "Oksana ROGOVA"
+  },
+  {
+    "place": 9,
+    "country": "SLO",
+    "mark": "13.59",
+    "name": "Anja VALANT"
+  },
+  {
+    "place": 10,
+    "country": "CMR",
+    "mark": "13.53",
+    "name": "Françoise MBANGO ETONE"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "13.44",
+    "name": "Ashia HANSEN"
+  }
+]

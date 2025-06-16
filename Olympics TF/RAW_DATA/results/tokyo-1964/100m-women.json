@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "11.400",
+    "name": "Wyomia TYUS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "11.600",
+    "name": "Edith Marie MCGUIRE"
+  },
+  {
+    "place": 3,
+    "country": "POL",
+    "mark": "11.600",
+    "name": "Ewa KLOBUKOWSKA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "11.600",
+    "name": "Marilyn Elaine WHITE"
+  },
+  {
+    "place": 5,
+    "country": "CUB",
+    "mark": "11.700",
+    "name": "Miguelina COBIAN HECHEVARRIA"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "11.700",
+    "name": "Marilyn Mary BLACK-VASSELLA"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "11.800",
+    "name": "Halina HERRMANN-GORECKA-RICHTER"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "11.900",
+    "name": "Dorothy HYMAN"
+  },
+  {
+    "place": 9,
+    "country": "PAN",
+    "mark": "Did not start",
+    "name": "Jean HOLMES-MITCHELL"
+  }
+]

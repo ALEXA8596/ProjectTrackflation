@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "KAZ",
+    "mark": "12.650",
+    "name": "Olga SHISHIGINA"
+  },
+  {
+    "place": 2,
+    "country": "NGR",
+    "mark": "12.680",
+    "name": "Glory ALOZIE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "12.760",
+    "name": "Melissa MORRISON"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "12.800",
+    "name": "Delloreen ENNIS-LONDON"
+  },
+  {
+    "place": 5,
+    "country": "CUB",
+    "mark": "12.830",
+    "name": "Aliuska LOPEZ"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "12.910",
+    "name": "Nicole RAMALALANIRINA"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "13.110",
+    "name": "Linda FERGA-KHODADIN"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "13.490",
+    "name": "Brigitte FOSTER-HYLTON"
+  }
+]

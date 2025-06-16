@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "7.10",
+    "name": "Tara DAVIS"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "6.98",
+    "name": "Malaika MIHAMBO"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "6.96",
+    "name": "Jasmine MOORE"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "6.87",
+    "name": "Larissa IAPICHINO"
+  },
+  {
+    "place": 5,
+    "country": "NGR",
+    "mark": "6.70",
+    "name": "Ese BRUME"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "6.67",
+    "name": "Monae' NICHOLS"
+  },
+  {
+    "place": 7,
+    "country": "ROU",
+    "mark": "6.67",
+    "name": "Alina ROTARU"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "6.66",
+    "name": "Ackelia SMITH"
+  },
+  {
+    "place": 9,
+    "country": "BUR",
+    "mark": "6.61",
+    "name": "Marthe KOALA"
+  },
+  {
+    "place": 10,
+    "country": "NGR",
+    "mark": "6.58",
+    "name": "Ruth USORO"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "6.56",
+    "name": "Hilary KPATCHA"
+  },
+  {
+    "place": 12,
+    "country": "NGR",
+    "mark": "6.24",
+    "name": "Prestina Oluchi OCHONOGOR"
+  }
+]

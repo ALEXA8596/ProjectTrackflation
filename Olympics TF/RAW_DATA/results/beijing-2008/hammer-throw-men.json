@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "SLO",
+    "mark": "82.02",
+    "name": "Primoz KOZMUS"
+  },
+  {
+    "place": 2,
+    "country": "BLR",
+    "mark": "81.61",
+    "name": "Vadim DEVYATOVSKIY"
+  },
+  {
+    "place": 3,
+    "country": "BLR",
+    "mark": "81.51",
+    "name": "Ivan TIKHON"
+  },
+  {
+    "place": 4,
+    "country": "HUN",
+    "mark": "80.96",
+    "name": "Krisztian PARS"
+  },
+  {
+    "place": 5,
+    "country": "JPN",
+    "mark": "80.71",
+    "name": "Koji MUROFUSHI"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "79.59",
+    "name": "Olli-Pekka KARJALAINEN"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "79.22",
+    "name": "Szymon ZIOLKOWSKI"
+  },
+  {
+    "place": 8,
+    "country": "SVK",
+    "mark": "78.65",
+    "name": "Libor CHARFREITAG"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "77.10",
+    "name": "Markus ESSER"
+  },
+  {
+    "place": 10,
+    "country": "CRO",
+    "mark": "76.58",
+    "name": "Andras HAKLITS"
+  },
+  {
+    "place": 11,
+    "country": "TJK",
+    "mark": "76.54",
+    "name": "Dilshod NAZAROV"
+  },
+  {
+    "place": 12,
+    "country": "CAN",
+    "mark": "75.72",
+    "name": "James STEACY"
+  }
+]

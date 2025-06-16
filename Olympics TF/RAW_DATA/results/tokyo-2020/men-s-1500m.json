@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "NOR",
+    "mark": "3:28.32",
+    "name": "Jakob INGEBRIGTSEN"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "3:29.01",
+    "name": "Timothy CHERUIYOT"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "3:29.05",
+    "name": "Josh KERR"
+  },
+  {
+    "place": 4,
+    "country": "KEN",
+    "mark": "3:29.56",
+    "name": "Abel KIPSANG"
+  },
+  {
+    "place": 5,
+    "country": "ESP",
+    "mark": "3:30.77",
+    "name": "Adel MECHAAL"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "3:31.40",
+    "name": "Cole HOCKER"
+  },
+  {
+    "place": 7,
+    "country": "AUS",
+    "mark": "3:31.91",
+    "name": "Stewart MCSWEYN"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "3:32.67",
+    "name": "Michal ROZMYS"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "3:34.43",
+    "name": "Jake HEYWARD"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "3:35.09",
+    "name": "Jake WIGHTMAN"
+  },
+  {
+    "place": 11,
+    "country": "AUS",
+    "mark": "3:35.79",
+    "name": "Oliver HOARE"
+  },
+  {
+    "place": 12,
+    "country": "LUX",
+    "mark": "3:36.80",
+    "name": "Charles GRETHEN"
+  },
+  {
+    "place": 13,
+    "country": "ESP",
+    "mark": "3:38.56",
+    "name": "Ignacio FONTES"
+  }
+]

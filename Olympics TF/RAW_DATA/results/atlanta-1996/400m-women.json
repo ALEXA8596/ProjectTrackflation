@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "FRA",
+    "mark": "48.250",
+    "name": "Marie-Jose PEREC"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "48.630",
+    "name": "Cathy FREEMAN"
+  },
+  {
+    "place": 3,
+    "country": "NGR",
+    "mark": "49.100",
+    "name": "Falilat OGUNKOYA"
+  },
+  {
+    "place": 4,
+    "country": "BAH",
+    "mark": "49.280",
+    "name": "Pauline Elaine DAVIS"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "49.550",
+    "name": "Jearl MILES CLARK"
+  },
+  {
+    "place": 6,
+    "country": "NGR",
+    "mark": "49.770",
+    "name": "Fatima YUSUF-OLUKOJU"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "50.450",
+    "name": "Alexandra RICHARDS"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "50.710",
+    "name": "Grit BREUER"
+  }
+]

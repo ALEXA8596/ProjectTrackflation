@@ -1,0 +1,200 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "7044",
+    "name": "Jackie JOYNER-KERSEE"
+  },
+  {
+    "place": 2,
+    "country": "EUN",
+    "mark": "6845",
+    "name": "Irina BELOVA"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "6649",
+    "name": "Sabine BRAUN"
+  },
+  {
+    "place": 4,
+    "country": "ROU",
+    "mark": "6619",
+    "name": "Liliana NASTASE"
+  },
+  {
+    "place": 5,
+    "country": "BUL",
+    "mark": "6464",
+    "name": "Svetla PISHTIKOVA"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "6434",
+    "name": "Peggy BEER"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "6388",
+    "name": "Birgit CLARIUS"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "6333",
+    "name": "Urszula WLODARCZYK"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "6300",
+    "name": "Cindy GREINER"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "6263",
+    "name": "Maria KAMROWSKA"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "6256",
+    "name": "Kym CARTER"
+  },
+  {
+    "place": 12,
+    "country": "EUN",
+    "mark": "6251",
+    "name": "Anzhela ATROSHCHENKO"
+  },
+  {
+    "place": 13,
+    "country": "ROU",
+    "mark": "6152",
+    "name": "Petra VAIDIANU"
+  },
+  {
+    "place": 14,
+    "country": "LTU",
+    "mark": "6142",
+    "name": "Remigija NAZAROVIENE"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "6141",
+    "name": "Odile LESAGE"
+  },
+  {
+    "place": 16,
+    "country": "CHN",
+    "mark": "6123",
+    "name": "Yuqing ZHU"
+  },
+  {
+    "place": 17,
+    "country": "EST",
+    "mark": "6095",
+    "name": "Anu KALJURAND"
+  },
+  {
+    "place": 18,
+    "country": "FIN",
+    "mark": "6030",
+    "name": "Helle ARO"
+  },
+  {
+    "place": 19,
+    "country": "GBR",
+    "mark": "5994",
+    "name": "Clova COURT"
+  },
+  {
+    "place": 20,
+    "country": "FIN",
+    "mark": "5993",
+    "name": "Tina Maria RATTYA"
+  },
+  {
+    "place": 21,
+    "country": "CAN",
+    "mark": "5897",
+    "name": "Catherine BOND-MILLS"
+  },
+  {
+    "place": 22,
+    "country": "NOR",
+    "mark": "5869",
+    "name": "Anne Brit SKJAEVELAND"
+  },
+  {
+    "place": 23,
+    "country": "FRA",
+    "mark": "5847",
+    "name": "Nathalie TEPPE"
+  },
+  {
+    "place": 24,
+    "country": "LIE",
+    "mark": "5749",
+    "name": "Manuela MARXER"
+  },
+  {
+    "place": 25,
+    "country": "SYR",
+    "mark": "5278",
+    "name": "Ghada SHOUAA"
+  },
+  {
+    "place": 26,
+    "country": "SLE",
+    "mark": "4530",
+    "name": "Eunice BARBER"
+  },
+  {
+    "place": 27,
+    "country": "ALB",
+    "mark": "Did not finish",
+    "name": "Alma QERAMIXHI"
+  },
+  {
+    "place": 28,
+    "country": "TPE",
+    "mark": "Did not finish",
+    "name": "Chun-Ping MA"
+  },
+  {
+    "place": 29,
+    "country": "HUN",
+    "mark": "Did not finish",
+    "name": "Rita INANCSI"
+  },
+  {
+    "place": 30,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Satu Marianne RUOTSALAINEN"
+  },
+  {
+    "place": 31,
+    "country": "NZL",
+    "mark": "Did not finish",
+    "name": "Joanne Carol HENRY"
+  },
+  {
+    "place": 32,
+    "country": "AUS",
+    "mark": "Did not finish",
+    "name": "Jane Christina FLEMMING"
+  },
+  {
+    "place": 33,
+    "country": "ALG",
+    "mark": "Did not start",
+    "name": "Yasmina AZIZI"
+  }
+]

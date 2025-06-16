@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "6.72",
+    "name": "Angela VOIGT"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "6.66",
+    "name": "Catherine Laverne MCMILLAN"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "6.60",
+    "name": "Lidiya ALFEYEVA"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "6.59",
+    "name": "Siegrun SIEGL"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "6.57",
+    "name": "Ildiko SZABO"
+  },
+  {
+    "place": 6,
+    "country": "TCH",
+    "mark": "6.54",
+    "name": "Jarmila NYGRYNOVA"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "6.39",
+    "name": "Heidemarie WYCISK"
+  },
+  {
+    "place": 8,
+    "country": "ROU",
+    "mark": "6.38",
+    "name": "Ileana VINTILA"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "6.27",
+    "name": "Susan SCOTT-REEVE"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "6.19",
+    "name": "Aniko MILASSIN"
+  },
+  {
+    "place": 11,
+    "country": "CAN",
+    "mark": "6.13",
+    "name": "Diane JONES-KONIHOWSKI"
+  },
+  {
+    "place": 12,
+    "country": "BUL",
+    "mark": "No mark",
+    "name": "Lilyana PANAYOTOVA-IVANOVA"
+  },
+  {
+    "place": 13,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Hannah KLEINPETER"
+  },
+  {
+    "place": 14,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "Andrea BRUCE"
+  }
+]

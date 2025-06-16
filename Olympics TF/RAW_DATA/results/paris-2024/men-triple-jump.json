@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "ESP",
+    "mark": "17.86",
+    "name": "Jordan Alejandro DIAZ FORTUN"
+  },
+  {
+    "place": 2,
+    "country": "POR",
+    "mark": "17.84",
+    "name": "Pedro P. PICHARDO"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "17.64",
+    "name": "Andy DIAZ"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "17.61",
+    "name": "Jaydon HIBBERT"
+  },
+  {
+    "place": 5,
+    "country": "BUR",
+    "mark": "17.50",
+    "name": "Fabrice ZANGO HUGUES"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "17.41",
+    "name": "Salif MANE"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "17.38",
+    "name": "Max HESS"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "17.34",
+    "name": "Lazaro MARTINEZ"
+  },
+  {
+    "place": 9,
+    "country": "ALG",
+    "mark": "17.22",
+    "name": "Yasser TRIKI"
+  },
+  {
+    "place": 10,
+    "country": "CHN",
+    "mark": "16.76",
+    "name": "Yaming ZHU"
+  },
+  {
+    "place": 11,
+    "country": "BRA",
+    "mark": "16.41",
+    "name": "Almir DOS SANTOS"
+  },
+  {
+    "place": 12,
+    "country": "AUS",
+    "mark": "16.30",
+    "name": "Connor MURPHY"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "43.800",
+    "name": "Lee Edward EVANS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "43.900",
+    "name": "George Lawrence JAMES"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "44.400",
+    "name": "Ronald John II FREEMAN"
+  },
+  {
+    "place": 4,
+    "country": "SEN",
+    "mark": "45.000",
+    "name": "Amadou GAKOU"
+  },
+  {
+    "place": 5,
+    "country": "FRG",
+    "mark": "45.300",
+    "name": "Martin JELLINGHAUS"
+  },
+  {
+    "place": 6,
+    "country": "ETH",
+    "mark": "45.400",
+    "name": "Tegegne BEZABEH"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "45.400",
+    "name": "Andrzej BADENSKI"
+  },
+  {
+    "place": 8,
+    "country": "UGA",
+    "mark": "47.600",
+    "name": "Amos OMOLO"
+  }
+]

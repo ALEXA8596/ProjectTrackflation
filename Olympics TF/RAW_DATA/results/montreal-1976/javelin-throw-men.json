@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "HUN",
+    "mark": "94.58",
+    "name": "Miklos NEMETH"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "87.92",
+    "name": "Hannu Juhani SIITONEN"
+  },
+  {
+    "place": 3,
+    "country": "ROU",
+    "mark": "87.16",
+    "name": "Gheorghe MEGELEA"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "86.50",
+    "name": "Piotr BIELCZYK"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "86.16",
+    "name": "Samuel Linn COLSON"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "85.26",
+    "name": "Vasily YERSHOV"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "84.26",
+    "name": "Seppo Juhani HOVINEN"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "80.26",
+    "name": "Yanis LUSIS"
+  },
+  {
+    "place": 9,
+    "country": "FRG",
+    "mark": "79.06",
+    "name": "Michael WESSING"
+  },
+  {
+    "place": 10,
+    "country": "NOR",
+    "mark": "78.24",
+    "name": "Terje THORSLUND"
+  },
+  {
+    "place": 11,
+    "country": "CAN",
+    "mark": "77.70",
+    "name": "Philip OLSEN"
+  },
+  {
+    "place": 12,
+    "country": "PUR",
+    "mark": "75.54",
+    "name": "Amado MORALES"
+  },
+  {
+    "place": 13,
+    "country": "NOR",
+    "mark": "74.88",
+    "name": "Björn GRIMNES"
+  },
+  {
+    "place": 14,
+    "country": "BUL",
+    "mark": "73.88",
+    "name": "Valentin DZHONEV"
+  },
+  {
+    "place": 15,
+    "country": "USA",
+    "mark": "71.70",
+    "name": "Anthony HALL"
+  }
+]

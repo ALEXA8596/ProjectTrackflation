@@ -1,0 +1,26 @@
+[
+  {
+    "place": 1,
+    "country": "JPN",
+    "mark": "14.85",
+    "name": "Chuhei NANBU"
+  },
+  {
+    "place": 2,
+    "country": "SWE",
+    "mark": "x",
+    "name": "Eric SVENSSON"
+  },
+  {
+    "place": 3,
+    "country": "JPN",
+    "mark": "15.12",
+    "name": "Kenkichi OSHIMA"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "NM",
+    "name": "Jack PORTLAND"
+  }
+]

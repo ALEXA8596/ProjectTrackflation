@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "00:01:44.300",
+    "name": "Ralph DOUBELL"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:01:44.500",
+    "name": "Wilson Chuma KIPRUGUT"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "00:01:45.400",
+    "name": "Thomas Francis FARRELL"
+  },
+  {
+    "place": 4,
+    "country": "FRG",
+    "mark": "00:01:45.800",
+    "name": "Walter ADAMS"
+  },
+  {
+    "place": 5,
+    "country": "TCH",
+    "mark": "00:01:45.900",
+    "name": "Jozef PLACHÝ"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "00:01:46.200",
+    "name": "Dieter FROMM"
+  },
+  {
+    "place": 7,
+    "country": "KEN",
+    "mark": "00:01:47.500",
+    "name": "Thomas SAISI"
+  },
+  {
+    "place": 8,
+    "country": "TTO",
+    "mark": "00:01:54.300",
+    "name": "Benedict CAYENNE"
+  }
+]

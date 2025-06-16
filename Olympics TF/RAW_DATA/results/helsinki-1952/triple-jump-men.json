@@ -1,0 +1,128 @@
+[
+  {
+    "place": 1,
+    "country": "BRA",
+    "mark": "16.22",
+    "name": "Adhemar FERREIRA DA SILVA"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "15.98",
+    "name": "Leonid SHCHERBAKOV"
+  },
+  {
+    "place": 3,
+    "country": "VEN",
+    "mark": "15.52",
+    "name": "Arnoldo DEVONISH"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "15.39",
+    "name": "Walter Stuart ASHBAUGH"
+  },
+  {
+    "place": 5,
+    "country": "NOR",
+    "mark": "15.13",
+    "name": "Rune NILSEN"
+  },
+  {
+    "place": 6,
+    "country": "JPN",
+    "mark": "14.99",
+    "name": "Yoshio IIMURO"
+  },
+  {
+    "place": 7,
+    "country": "BRA",
+    "mark": "14.95",
+    "name": "Geraldo DE OLIVEIRA"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "14.89",
+    "name": "Roger NORMAN"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "14.85",
+    "name": "Reino Jaakko Matias HILTUNEN"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "14.76",
+    "name": "Zygfryd WEINBERG"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "14.69",
+    "name": "James Eastman GERHARDT"
+  },
+  {
+    "place": 12,
+    "country": "POR",
+    "mark": "14.69",
+    "name": "Rui RAMOS"
+  },
+  {
+    "place": 13,
+    "country": "DEN",
+    "mark": "14.62",
+    "name": "Preben Kaj LARSEN"
+  },
+  {
+    "place": 14,
+    "country": "JPN",
+    "mark": "14.57",
+    "name": "Tadashi YAMAMOTO"
+  },
+  {
+    "place": 15,
+    "country": "SWE",
+    "mark": "14.05",
+    "name": "Arne AHMAN"
+  },
+  {
+    "place": 16,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Vladimir FILIPPOV"
+  },
+  {
+    "place": 17,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Mikhail MIKHAIL"
+  },
+  {
+    "place": 18,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Óscar SIMÓN"
+  },
+  {
+    "place": 19,
+    "country": "PUR",
+    "mark": "Did not start",
+    "name": "Hector ROMAN SELVA"
+  },
+  {
+    "place": 20,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Neville Graham PRICE"
+  },
+  {
+    "place": 21,
+    "country": "THA",
+    "mark": "Did not start",
+    "name": "Kamtorn SNIDVONGS"
+  }
+]

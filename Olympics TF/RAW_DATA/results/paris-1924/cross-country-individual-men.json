@@ -1,0 +1,332 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:32:54.800",
+    "name": "Paavo NURMI"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "00:34:19.400",
+    "name": "Ville RITOLA"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "00:35:21.000",
+    "name": "Robert Earl JOHNSON"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "00:35:45.400",
+    "name": "Ernest HARPER"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "00:36:44.800",
+    "name": "Henri LAUVAUX"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:36:45.400",
+    "name": "Arthur STUDENROTH"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "00:37:01.000",
+    "name": "Carlo MARTINENGHI"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:37:40.600",
+    "name": "Gus FAGER"
+  },
+  {
+    "place": 9,
+    "country": "RSA",
+    "mark": "00:37:46.000",
+    "name": "Len RICHARDSON"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "00:37:52.000",
+    "name": "Gaston HEUET"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "00:38:00.000",
+    "name": "James P. HENIGAN"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "00:38:18.000",
+    "name": "Heikki LIIMATAINEN"
+  },
+  {
+    "place": 13,
+    "country": "ESP",
+    "mark": "00:39:07.600",
+    "name": "Fabián VELASCO"
+  },
+  {
+    "place": 14,
+    "country": "ESP",
+    "mark": "00:41:34.000",
+    "name": "Miguel PEÑA"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "00:41:48.600",
+    "name": "Maurice NORLAND"
+  },
+  {
+    "place": 16,
+    "country": "ESP",
+    "mark": "Did not finish",
+    "name": "José ANDÍA"
+  },
+  {
+    "place": 17,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Arthur SEWELL"
+  },
+  {
+    "place": 18,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "John GRAY"
+  },
+  {
+    "place": 19,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Robert MARCHAL"
+  },
+  {
+    "place": 20,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Edvin WIDE"
+  },
+  {
+    "place": 21,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Väinö Jeremias SIPILÄ"
+  },
+  {
+    "place": 22,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Sven THURESSON"
+  },
+  {
+    "place": 23,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "John BENHAM"
+  },
+  {
+    "place": 24,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Verne Hobson BOOTH"
+  },
+  {
+    "place": 25,
+    "country": "IRL",
+    "mark": "Did not finish",
+    "name": "J. J. RYAN"
+  },
+  {
+    "place": 26,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Sidon EBELING"
+  },
+  {
+    "place": 27,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Gustaf BERGSTRÖM"
+  },
+  {
+    "place": 28,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Eino RASTAS"
+  },
+  {
+    "place": 29,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "André LAUSEIG"
+  },
+  {
+    "place": 30,
+    "country": "ESP",
+    "mark": "Did not finish",
+    "name": "Jesus DIEGUEZ"
+  },
+  {
+    "place": 31,
+    "country": "ITA",
+    "mark": "Did not finish",
+    "name": "Carlo SPERONI"
+  },
+  {
+    "place": 32,
+    "country": "ESP",
+    "mark": "Did not finish",
+    "name": "Amador PALMA"
+  },
+  {
+    "place": 33,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Eero BERG"
+  },
+  {
+    "place": 34,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Eddie WEBSTER"
+  },
+  {
+    "place": 35,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "L. Lucien DOLQUES"
+  },
+  {
+    "place": 36,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Joseph WILLIAMS"
+  },
+  {
+    "place": 37,
+    "country": "BRA",
+    "mark": "Did not finish",
+    "name": "Alfredo GOMES"
+  },
+  {
+    "place": 38,
+    "country": "ESP",
+    "mark": "Did not finish",
+    "name": "Miguel PALAU CLAVERAS"
+  },
+  {
+    "place": 39,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Georges BERTRAND"
+  },
+  {
+    "place": 40,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Yves CATTELAIN"
+  },
+  {
+    "place": 41,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Léon DE GRANDE"
+  },
+  {
+    "place": 42,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Georges VAN DEN BROELE"
+  },
+  {
+    "place": 43,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Bill COTTERELL"
+  },
+  {
+    "place": 44,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Mereg MANGASCIA"
+  },
+  {
+    "place": 45,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Tacle REDDA"
+  },
+  {
+    "place": 46,
+    "country": "LUX",
+    "mark": "Did not start",
+    "name": "Marcel HOFFMANN"
+  },
+  {
+    "place": 47,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "José Francisco CUEVAS"
+  },
+  {
+    "place": 48,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Harald SKOGSTRÖM"
+  },
+  {
+    "place": 49,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Julien VAN CAMPENHOUT"
+  },
+  {
+    "place": 50,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Camiel VANDEVELDE"
+  },
+  {
+    "place": 51,
+    "country": "ECU",
+    "mark": "Did not start",
+    "name": "Alberto JARRÍN"
+  },
+  {
+    "place": 52,
+    "country": "ECU",
+    "mark": "Did not start",
+    "name": "Belisario VILLACIS"
+  },
+  {
+    "place": 53,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Pedro CURIEL"
+  },
+  {
+    "place": 54,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Juan ESCUTIA"
+  },
+  {
+    "place": 55,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Daniel ESLAVA"
+  }
+]

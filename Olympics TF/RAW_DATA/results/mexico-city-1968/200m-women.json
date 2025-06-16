@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "22.500",
+    "name": "Irena Szewińska"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "22.700",
+    "name": "Raelene Ann BOYLE"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "22.800",
+    "name": "Jennifer LAMY-FRANK"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "22.900",
+    "name": "Barbara Ann FERRELL"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "23.000",
+    "name": "Nicole MONTANDON-PANI"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "23.000",
+    "name": "Wyomia TYUS"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "23.100",
+    "name": "Margaret Johnson BAILES"
+  },
+  {
+    "place": 8,
+    "country": "FRG",
+    "mark": "23.200",
+    "name": "Judith STÖCK"
+  },
+  {
+    "place": 9,
+    "country": "CRC",
+    "mark": "Did not start",
+    "name": "Jean ROBOTHAM"
+  },
+  {
+    "place": 10,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Berit BERTHELSEN-TOIEN"
+  },
+  {
+    "place": 11,
+    "country": "KEN",
+    "mark": "Did not start",
+    "name": "Lydia STEPHENS"
+  }
+]

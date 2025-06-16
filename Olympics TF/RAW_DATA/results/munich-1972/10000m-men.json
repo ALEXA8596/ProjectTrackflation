@@ -1,0 +1,116 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:27:38.350",
+    "name": "Lasse VIRÉN"
+  },
+  {
+    "place": 2,
+    "country": "BEL",
+    "mark": "00:27:39.580",
+    "name": "Emiel PUTTEMANS"
+  },
+  {
+    "place": 3,
+    "country": "ETH",
+    "mark": "00:27:40.960",
+    "name": "Miruts YIFTER"
+  },
+  {
+    "place": 4,
+    "country": "ESP",
+    "mark": "00:27:48.140",
+    "name": "Mariano HARO CISNEROS"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:27:51.320",
+    "name": "Frank Charles SHORTER"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "00:28:05.440",
+    "name": "David Colin BEDFORD"
+  },
+  {
+    "place": 7,
+    "country": "YUG",
+    "mark": "00:28:15.180",
+    "name": "Daniel KORICA"
+  },
+  {
+    "place": 8,
+    "country": "TUN",
+    "mark": "00:28:18.170",
+    "name": "Abdel Kader ZADDEM"
+  },
+  {
+    "place": 9,
+    "country": "TCH",
+    "mark": "00:28:23.590",
+    "name": "Josef JANSKY"
+  },
+  {
+    "place": 10,
+    "country": "MEX",
+    "mark": "00:28:44.080",
+    "name": "Juan Maximo MARTINEZ"
+  },
+  {
+    "place": 11,
+    "country": "URS",
+    "mark": "00:28:46.270",
+    "name": "Pavlo ANDREIEV"
+  },
+  {
+    "place": 12,
+    "country": "ESP",
+    "mark": "00:28:56.380",
+    "name": "Javier ALVAREZ SALGADO"
+  },
+  {
+    "place": 13,
+    "country": "KEN",
+    "mark": "00:29:02.870",
+    "name": "Paul MOSE"
+  },
+  {
+    "place": 14,
+    "country": "BEL",
+    "mark": "00:29:10.150",
+    "name": "Willy POLLEUNIS"
+  },
+  {
+    "place": 15,
+    "country": "TUN",
+    "mark": "Did not finish",
+    "name": "Mohamed GAMMOUDI"
+  },
+  {
+    "place": 16,
+    "country": "SOM",
+    "mark": "Did not start",
+    "name": "Abdi GULET"
+  },
+  {
+    "place": 17,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Edmundo WARNKE"
+  },
+  {
+    "place": 18,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Juha VÄÄTAINEN"
+  },
+  {
+    "place": 19,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Per HALLE"
+  }
+]

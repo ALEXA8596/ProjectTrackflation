@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "CAN",
+    "mark": "84.12",
+    "name": "Ethan KATZBERG"
+  },
+  {
+    "place": 2,
+    "country": "HUN",
+    "mark": "79.97",
+    "name": "Bence HALASZ"
+  },
+  {
+    "place": 3,
+    "country": "UKR",
+    "mark": "79.39",
+    "name": "Mykhaylo KOKHAN"
+  },
+  {
+    "place": 4,
+    "country": "NOR",
+    "mark": "79.18",
+    "name": "Eivind HENRIKSEN"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "78.80",
+    "name": "Pawel FAJDEK"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "77.92",
+    "name": "Rudy WINKLER"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "77.42",
+    "name": "Wojciech NOWICKI"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "77.38",
+    "name": "Yann CHAUSSINAND"
+  },
+  {
+    "place": 9,
+    "country": "CAN",
+    "mark": "76.59",
+    "name": "Rowan HAMILTON"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "76.03",
+    "name": "Merlin HUMMEL"
+  },
+  {
+    "place": 11,
+    "country": "NOR",
+    "mark": "74.25",
+    "name": "Thomas MARDAL"
+  },
+  {
+    "place": 12,
+    "country": "GRE",
+    "mark": "73.34",
+    "name": "Christos FRANTZESKAKIS"
+  }
+]

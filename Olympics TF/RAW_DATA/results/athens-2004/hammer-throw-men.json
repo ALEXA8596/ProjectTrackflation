@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "JPN",
+    "mark": "82.91",
+    "name": "Koji MUROFUSHI"
+  },
+  {
+    "place": 2,
+    "country": "TUR",
+    "mark": "79.51",
+    "name": "Esref APAK"
+  },
+  {
+    "place": 3,
+    "country": "BLR",
+    "mark": "78.82",
+    "name": "Vadim DEVYATOVSKIY"
+  },
+  {
+    "place": 4,
+    "country": "HUN",
+    "mark": "78.73",
+    "name": "Krisztian PARS"
+  },
+  {
+    "place": 5,
+    "country": "SLO",
+    "mark": "78.56",
+    "name": "Primoz KOZMUS"
+  },
+  {
+    "place": 6,
+    "country": "SVK",
+    "mark": "77.54",
+    "name": "Libor CHARFREITAG"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "76.30",
+    "name": "Karsten KOBS"
+  },
+  {
+    "place": 8,
+    "country": "BLR",
+    "mark": "76.22",
+    "name": "Igor ASTAPKOVICH"
+  },
+  {
+    "place": 9,
+    "country": "ITA",
+    "mark": "74.27",
+    "name": "Nicola VIZZONI"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "72.51",
+    "name": "Markus ESSER"
+  },
+  {
+    "place": 11,
+    "country": "BLR",
+    "mark": "Disqualified",
+    "name": "Ivan TIKHON"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "Disqualified",
+    "name": "Adrian ANNUS"
+  }
+]

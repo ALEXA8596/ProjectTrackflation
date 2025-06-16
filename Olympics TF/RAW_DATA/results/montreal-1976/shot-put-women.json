@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "BUL",
+    "mark": "20.19",
+    "name": "Ivanka Mikailova CHRISTOVA-TODOROVA"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "x",
+    "name": "Nadezhda CHIZHOVA"
+  },
+  {
+    "place": 3,
+    "country": "TCH",
+    "mark": "x",
+    "name": "Helena FIBINGEROVA"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "19.50",
+    "name": "Marianne ADAM"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "20.54",
+    "name": "Ilona SCHOKNECHT-SLUPIANEK"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "19.79",
+    "name": "Margitta DROESE-PUFE"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "x",
+    "name": "Eva WILMS"
+  },
+  {
+    "place": 8,
+    "country": "BUL",
+    "mark": "18.61",
+    "name": "Elena STOYANOVA"
+  }
+]

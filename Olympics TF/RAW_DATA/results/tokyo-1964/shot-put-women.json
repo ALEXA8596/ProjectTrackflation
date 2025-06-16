@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "18.14",
+    "name": "Tamara PRESS"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "17.61",
+    "name": "Renate GARISCH-CULMBERGER-BOY"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "17.45",
+    "name": "Galina ZYBINA"
+  },
+  {
+    "place": 4,
+    "country": "NZL",
+    "mark": "17.26",
+    "name": "Valerie Isobel Margaret SLOPER-YOUNG"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "16.91",
+    "name": "Margitta HELMBOLD-GUMMEL"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "16.71",
+    "name": "Iryna PRESS"
+  },
+  {
+    "place": 7,
+    "country": "CAN",
+    "mark": "15.89",
+    "name": "Nancy Cranwell MCCREDIE"
+  },
+  {
+    "place": 8,
+    "country": "ROU",
+    "mark": "15.83",
+    "name": "Ana SALAJAN"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "15.77",
+    "name": "Johanna LÜTTGE-HÜBNER"
+  },
+  {
+    "place": 10,
+    "country": "BUL",
+    "mark": "15.69",
+    "name": "Ivanka Mikailova CHRISTOVA-TODOROVA"
+  },
+  {
+    "place": 11,
+    "country": "HUN",
+    "mark": "15.65",
+    "name": "Judit BOGNAR-LENDVAI"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "14.80",
+    "name": "Earlene Dennis BROWN"
+  },
+  {
+    "place": 13,
+    "country": "MGL",
+    "mark": "Did not start",
+    "name": "Namjilmaa DASJZEVEG"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "BLR",
+    "mark": "10.930",
+    "name": "Yuliya NESTSIARENKA"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.960",
+    "name": "Lauryn WILLIAMS"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "10.970",
+    "name": "Veronica CAMPBELL-BROWN"
+  },
+  {
+    "place": 4,
+    "country": "BUL",
+    "mark": "11.000",
+    "name": "Ivet LALOVA-COLLIO"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "11.050",
+    "name": "Aleen BAILEY"
+  },
+  {
+    "place": 6,
+    "country": "JAM",
+    "mark": "11.070",
+    "name": "Sherone SIMPSON"
+  },
+  {
+    "place": 7,
+    "country": "BAH",
+    "mark": "11.160",
+    "name": "Debbie FERGUSON-MCKENZIE"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "11.180",
+    "name": "LaTasha COLANDER"
+  },
+  {
+    "place": 9,
+    "country": "UKR",
+    "mark": "Disqualified",
+    "name": "Zhanna PINTUSEVYCH"
+  }
+]

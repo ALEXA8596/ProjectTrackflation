@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "49.280",
+    "name": "Irena Szewińska"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "50.510",
+    "name": "Christina BREHMER-LATHAN"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "50.550",
+    "name": "Ellen STROPAHL-STREIDT"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "50.560",
+    "name": "Pirjo WILMI-HAGGMAN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "50.650",
+    "name": "Rosalyn Evette BRYANT"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "50.900",
+    "name": "Sheila Rena INGRAM"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "50.980",
+    "name": "Riitta Liisa SALIN-HAGMAN"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "51.660",
+    "name": "Deborah Elaine SAPENTER"
+  },
+  {
+    "place": 9,
+    "country": "BER",
+    "mark": "Did not start",
+    "name": "Deborah JONES"
+  },
+  {
+    "place": 10,
+    "country": "ISV",
+    "mark": "Did not start",
+    "name": "Rita HENDRICKS"
+  },
+  {
+    "place": 11,
+    "country": "SEN",
+    "mark": "Did not start",
+    "name": "Marieme BOYE"
+  },
+  {
+    "place": 12,
+    "country": "SGP",
+    "mark": "Did not start",
+    "name": "Swee Lee CHEE"
+  }
+]

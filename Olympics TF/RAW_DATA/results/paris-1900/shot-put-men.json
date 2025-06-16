@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "14.10",
+    "name": "Richard SHELDON"
+  },
+  {
+    "place": 2,
+    "country": "HUN",
+    "mark": "12.07",
+    "name": "Rezső CRETTIER"
+  },
+  {
+    "place": 3,
+    "country": "GRE",
+    "mark": "11.52",
+    "name": "Panagiotis PARASKEVOPOULOS"
+  },
+  {
+    "place": 4,
+    "country": "GRE",
+    "mark": "NM",
+    "name": "Sotirios VERSIS"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Emile TORCHEBOEUF"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "John Joseph FLANAGAN"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Lewis Pendleton SHELDON"
+  }
+]

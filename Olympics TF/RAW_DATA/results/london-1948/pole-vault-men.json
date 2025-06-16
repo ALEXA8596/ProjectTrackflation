@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "4.30",
+    "name": "Owen Guinn SMITH"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "4.20",
+    "name": "Erkki Olavi KATAJA"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "4.20",
+    "name": "Bob RICHARDS"
+  },
+  {
+    "place": 4,
+    "country": "NOR",
+    "mark": "4.10",
+    "name": "Erling KAAS"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "4.10",
+    "name": "Ragnar LUNDBERG"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "3.95",
+    "name": "Albert Richmond MORCOM"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "3.95",
+    "name": "Valto Rudolf OLENIUS"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "3.95",
+    "name": "Hugo GÖLLORS"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "3.95",
+    "name": "Victor SILLON"
+  },
+  {
+    "place": 10,
+    "country": "PUR",
+    "mark": "3.95",
+    "name": "Joe BARBOSA"
+  },
+  {
+    "place": 11,
+    "country": "PUR",
+    "mark": "3.95",
+    "name": "José VICENTE"
+  },
+  {
+    "place": 12,
+    "country": "SWE",
+    "mark": "3.80",
+    "name": "Allan LINDBERG"
+  },
+  {
+    "place": 13,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Muhittin AKIN"
+  },
+  {
+    "place": 14,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Armin SCHEURER"
+  }
+]

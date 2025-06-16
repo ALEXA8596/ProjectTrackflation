@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "FRA",
+    "mark": "52.000",
+    "name": "Colette BESSON"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "52.100",
+    "name": "Lillian Barbara BOARD"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "52.200",
+    "name": "Nataliya PECHONKINA-CHISTYAKOVA"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "52.500",
+    "name": "Janet Mary SIMPSON"
+  },
+  {
+    "place": 5,
+    "country": "CUB",
+    "mark": "52.700",
+    "name": "Aurelia Catalina PENTON CONDE"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "52.700",
+    "name": "Jarvis SCOTT"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "52.800",
+    "name": "Helga HENNING"
+  },
+  {
+    "place": 8,
+    "country": "NED",
+    "mark": "53.000",
+    "name": "Hermina Johanna VAN DER HOEVEN-JANSEN"
+  }
+]

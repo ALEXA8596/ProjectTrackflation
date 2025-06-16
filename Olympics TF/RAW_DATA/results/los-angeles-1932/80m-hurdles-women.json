@@ -1,0 +1,38 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "11.700",
+    "name": "Mildred DIDRIKSON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "11.700",
+    "name": "Evelyne Ruth HALL"
+  },
+  {
+    "place": 3,
+    "country": "RSA",
+    "mark": "11.800",
+    "name": "Marjorie R. CLARK"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "11.800",
+    "name": "Simone E. SCHALLER"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "11.900",
+    "name": "Violet B. WEBB"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "12.000",
+    "name": "Alda WILSON"
+  }
+]

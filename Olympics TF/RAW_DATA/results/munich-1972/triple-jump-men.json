@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "17.35w",
+    "name": "Viktor SANEEV"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "17.31",
+    "name": "Jörg DREHMEL"
+  },
+  {
+    "place": 3,
+    "country": "BRA",
+    "mark": "17.05",
+    "name": "Nelson PRUDENCIO"
+  },
+  {
+    "place": 4,
+    "country": "ROU",
+    "mark": "16.85w",
+    "name": "Carol CORBU"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "16.83",
+    "name": "John Melvin CRAFT"
+  },
+  {
+    "place": 6,
+    "country": "SEN",
+    "mark": "16.83w",
+    "name": "Mamsdou Monsour DIA"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "16.69",
+    "name": "Michal JOACHIMOWSKI"
+  },
+  {
+    "place": 8,
+    "country": "NOR",
+    "mark": "16.44",
+    "name": "Kristen FLOGSTAD"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "16.30",
+    "name": "Mikhail BARIBAN"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "16.27w",
+    "name": "Bernard LAMITIE"
+  },
+  {
+    "place": 11,
+    "country": "NGR",
+    "mark": "16.03",
+    "name": "Samuel IGUN"
+  },
+  {
+    "place": 12,
+    "country": "JPN",
+    "mark": "15.88",
+    "name": "Toshiaki INOUE"
+  },
+  {
+    "place": 13,
+    "country": "BEN",
+    "mark": "Did not start",
+    "name": "Christoph CHODATON"
+  },
+  {
+    "place": 14,
+    "country": "TOG",
+    "mark": "Did not start",
+    "name": "Martin ADOUNA"
+  }
+]

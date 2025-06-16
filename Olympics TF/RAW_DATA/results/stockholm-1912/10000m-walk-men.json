@@ -1,0 +1,122 @@
+[
+  {
+    "place": 1,
+    "country": "CAN",
+    "mark": "00:46:28.400",
+    "name": "George GOULDING"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "00:46:50.400",
+    "name": "Ernie WEBB"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "00:47:37.600",
+    "name": "Nando ALTIMANI"
+  },
+  {
+    "place": 4,
+    "country": "DEN",
+    "mark": "00:48:00.000",
+    "name": "Aage RASMUSSEN"
+  },
+  {
+    "place": 5,
+    "country": "DEN",
+    "mark": "Did not finish",
+    "name": "Vilhelm Emanuel Jacob GYLCHE"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "William James PALMER"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "Disqualified",
+    "name": "Thomas Henry DUMBILL"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "Disqualified",
+    "name": "William George YATES"
+  },
+  {
+    "place": 9,
+    "country": "RSA",
+    "mark": "Disqualified",
+    "name": "Arthur ST. NORMAN"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Frederick Henry KAISER"
+  },
+  {
+    "place": 11,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Walery JAWORSKI"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Péter SZABLÁR"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "John KARLSEN"
+  },
+  {
+    "place": 14,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "George MORTON"
+  },
+  {
+    "place": 15,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Peter PAXIÁN"
+  },
+  {
+    "place": 16,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Mario VITALI"
+  },
+  {
+    "place": 17,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "János PATAK"
+  },
+  {
+    "place": 18,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Thomas Edgar HAMMOND"
+  },
+  {
+    "place": 19,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Mihaly FEKETE"
+  },
+  {
+    "place": 20,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Henry Louis SCOTT"
+  }
+]

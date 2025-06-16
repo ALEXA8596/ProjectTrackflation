@@ -1,0 +1,236 @@
+[
+  {
+    "place": 1,
+    "country": "CZE",
+    "mark": "8893",
+    "name": "Roman SEBRLE"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "8820",
+    "name": "Bryan CLAY"
+  },
+  {
+    "place": 3,
+    "country": "KAZ",
+    "mark": "8725",
+    "name": "Dmitriy KARPOV"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "8414",
+    "name": "Dean MACEY"
+  },
+  {
+    "place": 5,
+    "country": "NED",
+    "mark": "8343",
+    "name": "Chiel WARNERS"
+  },
+  {
+    "place": 6,
+    "country": "HUN",
+    "mark": "8287",
+    "name": "Attila ZSIVOCZKY"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "8237",
+    "name": "Laurent HERNU"
+  },
+  {
+    "place": 8,
+    "country": "EST",
+    "mark": "8235",
+    "name": "Erki NOOL"
+  },
+  {
+    "place": 9,
+    "country": "JAM",
+    "mark": "8225",
+    "name": "Claston BERNARD"
+  },
+  {
+    "place": 10,
+    "country": "AUT",
+    "mark": "8102",
+    "name": "Roland SCHWARZL"
+  },
+  {
+    "place": 11,
+    "country": "RUS",
+    "mark": "8084",
+    "name": "Aleksandr POGORELOV"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "8077",
+    "name": "Florian SCHOENBECK"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "8067",
+    "name": "Romain BARRAS"
+  },
+  {
+    "place": 14,
+    "country": "JAM",
+    "mark": "8023",
+    "name": "Maurice SMITH"
+  },
+  {
+    "place": 15,
+    "country": "RUS",
+    "mark": "8021",
+    "name": "Nikolay AVERYANOV"
+  },
+  {
+    "place": 16,
+    "country": "FIN",
+    "mark": "8006",
+    "name": "Jaakko OJANIEMI"
+  },
+  {
+    "place": 17,
+    "country": "UZB",
+    "mark": "7993",
+    "name": "Vitaliy SMIRNOV"
+  },
+  {
+    "place": 18,
+    "country": "CHN",
+    "mark": "7934",
+    "name": "Haifeng QI"
+  },
+  {
+    "place": 19,
+    "country": "GER",
+    "mark": "7926",
+    "name": "Stefan DREWS"
+  },
+  {
+    "place": 20,
+    "country": "BLR",
+    "mark": "7918",
+    "name": "Aleksandr PARKHOMENKO"
+  },
+  {
+    "place": 21,
+    "country": "USA",
+    "mark": "7893",
+    "name": "Paul TEREK"
+  },
+  {
+    "place": 22,
+    "country": "ESP",
+    "mark": "7865",
+    "name": "David GOMEZ"
+  },
+  {
+    "place": 23,
+    "country": "EST",
+    "mark": "7708",
+    "name": "Indrek TURI"
+  },
+  {
+    "place": 24,
+    "country": "ARG",
+    "mark": "7592",
+    "name": "Santiago LORENZO"
+  },
+  {
+    "place": 25,
+    "country": "LAT",
+    "mark": "7583",
+    "name": "Janis KARLIVANS"
+  },
+  {
+    "place": 26,
+    "country": "GRE",
+    "mark": "7573",
+    "name": "Prodromos KORKIZOGLOU"
+  },
+  {
+    "place": 27,
+    "country": "NOR",
+    "mark": "7495",
+    "name": "Hans Olav ULDAL"
+  },
+  {
+    "place": 28,
+    "country": "ITA",
+    "mark": "7404",
+    "name": "Paolo CASARSA"
+  },
+  {
+    "place": 29,
+    "country": "NED",
+    "mark": "7185",
+    "name": "Eugene MARTINEAU"
+  },
+  {
+    "place": 30,
+    "country": "MDA",
+    "mark": "6543",
+    "name": "Victor COVALENCO"
+  },
+  {
+    "place": 31,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Tom PAPPAS"
+  },
+  {
+    "place": 32,
+    "country": "PUR",
+    "mark": "Did not finish",
+    "name": "Luiggy LLANOS"
+  },
+  {
+    "place": 33,
+    "country": "UZB",
+    "mark": "Did not finish",
+    "name": "Pavel ANDREEV"
+  },
+  {
+    "place": 34,
+    "country": "QAT",
+    "mark": "Did not finish",
+    "name": "Ahmad Hassan MOUSSA"
+  },
+  {
+    "place": 35,
+    "country": "GER",
+    "mark": "Did not finish",
+    "name": "Dennis LEYCKES"
+  },
+  {
+    "place": 36,
+    "country": "ISL",
+    "mark": "Did not finish",
+    "name": "Jon Arnar MAGNUSSON"
+  },
+  {
+    "place": 37,
+    "country": "EST",
+    "mark": "Did not finish",
+    "name": "Kristjan RAHNU"
+  },
+  {
+    "place": 38,
+    "country": "RUS",
+    "mark": "Did not finish",
+    "name": "Lev LOBODIN"
+  },
+  {
+    "place": 39,
+    "country": "CZE",
+    "mark": "Did not finish",
+    "name": "Tomas DVORAK"
+  }
+]

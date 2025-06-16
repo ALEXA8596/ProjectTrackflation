@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "64.74",
+    "name": "Stephanie BROWN"
+  },
+  {
+    "place": 2,
+    "country": "UKR",
+    "mark": "62.59",
+    "name": "Olena ANTONOVA"
+  },
+  {
+    "place": 3,
+    "country": "CHN",
+    "mark": "62.20",
+    "name": "Aimin SONG"
+  },
+  {
+    "place": 4,
+    "country": "CZE",
+    "mark": "61.75",
+    "name": "Vera POSPISILOVA-CECHLOVA"
+  },
+  {
+    "place": 5,
+    "country": "BLR",
+    "mark": "60.82",
+    "name": "Ellina ZVEREVA"
+  },
+  {
+    "place": 6,
+    "country": "CHN",
+    "mark": "60.68",
+    "name": "Yanfeng LI"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "60.66",
+    "name": "Melina ROBERT MICHON"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "60.15",
+    "name": "Dani STEVENS"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "59.80",
+    "name": "Aretha THURMOND"
+  },
+  {
+    "place": 10,
+    "country": "BLR",
+    "mark": "59.27",
+    "name": "Iryna YATCHENKO"
+  },
+  {
+    "place": 11,
+    "country": "ROU",
+    "mark": "58.63",
+    "name": "Nicoleta GRADINARU"
+  },
+  {
+    "place": 12,
+    "country": "CUB",
+    "mark": "Disqualified",
+    "name": "Yarelys BARRIOS"
+  }
+]

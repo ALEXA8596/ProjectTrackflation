@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "19.300",
+    "name": "Usain BOLT"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "19.960",
+    "name": "Shawn CRAWFORD"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "19.980",
+    "name": "Walter DIX"
+  },
+  {
+    "place": 4,
+    "country": "ZIM",
+    "mark": "20.220",
+    "name": "Brian DZINGAI"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "20.400",
+    "name": "Christian MALCOLM"
+  },
+  {
+    "place": 6,
+    "country": "SKN",
+    "mark": "20.590",
+    "name": "Kim COLLINS"
+  },
+  {
+    "place": 7,
+    "country": "AHO",
+    "mark": "Disqualified",
+    "name": "Churandy MARTINA"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "Disqualified",
+    "name": "Wallace SPEARMON"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Alex NELSON"
+  },
+  {
+    "place": 10,
+    "country": "QAT",
+    "mark": "Disqualified",
+    "name": "Samuel FRANCIS"
+  },
+  {
+    "place": 11,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Francis OBIKWELU"
+  }
+]

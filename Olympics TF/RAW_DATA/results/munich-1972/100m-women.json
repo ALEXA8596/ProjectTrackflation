@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "11.070",
+    "name": "Renate STECHER"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "11.230",
+    "name": "Raelene Ann BOYLE"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "11.240",
+    "name": "Silvia CHIVAS BARO"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "11.320",
+    "name": "Iris La Verne DAVIS"
+  },
+  {
+    "place": 5,
+    "country": "FRG",
+    "mark": "11.380",
+    "name": "Annegret RICHTER"
+  },
+  {
+    "place": 6,
+    "country": "GHA",
+    "mark": "11.410",
+    "name": "Alice ANNUM"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "11.450",
+    "name": "Barbara Ann FERRELL"
+  },
+  {
+    "place": 8,
+    "country": "TCH",
+    "mark": "12.480",
+    "name": "Eva LEHOCKA-GLESKOVA"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Nadezhda BESFAMILNAYA"
+  }
+]

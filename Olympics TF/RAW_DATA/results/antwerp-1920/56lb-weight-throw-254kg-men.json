@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "11.265",
+    "name": "Pat MCDONALD"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.965",
+    "name": "Paddy RYAN"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "10.255",
+    "name": "Carl Johan LIND"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "10.12",
+    "name": "Archie MCDIARMID"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "9.455",
+    "name": "Malcolm SVENSSON"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "9.375",
+    "name": "Johan Peter PETTERSSON"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Matt MCGRATH"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "FRG",
+    "mark": "66.60",
+    "name": "Rolf DANNEBERG"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "66.30",
+    "name": "Malcolm Maurice WILKINS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "65.46",
+    "name": "John Gates POWELL"
+  },
+  {
+    "place": 4,
+    "country": "NOR",
+    "mark": "65.28",
+    "name": "Knut HJELTNES"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "64.98",
+    "name": "Arthur Leon BURNS"
+  },
+  {
+    "place": 6,
+    "country": "FRG",
+    "mark": "64.72",
+    "name": "Alwin WAGNER"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "63.50",
+    "name": "Luciano ZERBINI"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "63.22",
+    "name": "Stefan FERNHOLM"
+  },
+  {
+    "place": 9,
+    "country": "NED",
+    "mark": "62.32",
+    "name": "Erik DE BRUIN"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "61.36",
+    "name": "Robert B. WEIR"
+  },
+  {
+    "place": 11,
+    "country": "GRE",
+    "mark": "60.30",
+    "name": "Konstantinos GEORGAKOPOULOS"
+  },
+  {
+    "place": 12,
+    "country": "ITA",
+    "mark": "No mark",
+    "name": "Marco MARTINO"
+  },
+  {
+    "place": 13,
+    "country": "ISL",
+    "mark": "Disqualified",
+    "name": "Vesteinn HAFSTEINSSON"
+  },
+  {
+    "place": 14,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Marco BUCCI"
+  }
+]

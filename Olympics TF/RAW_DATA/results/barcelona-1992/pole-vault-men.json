@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "EUN",
+    "mark": "5.80",
+    "name": "Maksim TARASOV"
+  },
+  {
+    "place": 2,
+    "country": "EUN",
+    "mark": "5.80",
+    "name": "Igor TRANDENKOV"
+  },
+  {
+    "place": 3,
+    "country": "ESP",
+    "mark": "5.75",
+    "name": "Javier GARCIA CHICO"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "5.75",
+    "name": "Kory Merrill TARPENNING"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "5.65",
+    "name": "David VOLZ"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "5.60",
+    "name": "Asko Antero PELTONIEMI"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "5.55",
+    "name": "Philippe COLLET"
+  },
+  {
+    "place": 8,
+    "country": "ISR",
+    "mark": "5.40",
+    "name": "Evgeny KRASNOV"
+  },
+  {
+    "place": 9,
+    "country": "HUN",
+    "mark": "5.30",
+    "name": "Istvan BAGYULA"
+  },
+  {
+    "place": 10,
+    "country": "ESP",
+    "mark": "5.30",
+    "name": "Alberto RUIZ BENITO"
+  },
+  {
+    "place": 11,
+    "country": "EUN",
+    "mark": "No mark",
+    "name": "Sergii BUBKA"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "No mark",
+    "name": "Timothy William BRIGHT"
+  },
+  {
+    "place": 13,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Hermann FEHRINGER"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "PAK",
+    "mark": "92.97",
+    "name": "Arshad NADEEM"
+  },
+  {
+    "place": 2,
+    "country": "IND",
+    "mark": "89.45",
+    "name": "Neeraj CHOPRA"
+  },
+  {
+    "place": 3,
+    "country": "GRN",
+    "mark": "88.54",
+    "name": "Anderson PETERS"
+  },
+  {
+    "place": 4,
+    "country": "CZE",
+    "mark": "88.50",
+    "name": "Jakub VADLEJCH"
+  },
+  {
+    "place": 5,
+    "country": "KEN",
+    "mark": "87.72",
+    "name": "Julius YEGO"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "87.40",
+    "name": "Julian WEBER"
+  },
+  {
+    "place": 7,
+    "country": "TTO",
+    "mark": "86.16",
+    "name": "Keshorn WALCOTT"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "84.58",
+    "name": "Lassi ETELATALO"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "82.68",
+    "name": "Oliver HELANDER"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "80.92",
+    "name": "Toni KERANEN"
+  },
+  {
+    "place": 11,
+    "country": "BRA",
+    "mark": "80.67",
+    "name": "Luiz Mauricio DA SILVA"
+  },
+  {
+    "place": 12,
+    "country": "MDA",
+    "mark": "80.10",
+    "name": "Andrian MARDARE"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "00:08:23.640",
+    "name": "Kipchoge KEINO"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:08:24.620",
+    "name": "Benjamin Wabura JIPCHO"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "00:08:24.660",
+    "name": "Tapio KANTANEN"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "00:08:27.920",
+    "name": "Bronislaw MALINOWSKI"
+  },
+  {
+    "place": 5,
+    "country": "TCH",
+    "mark": "00:08:29.060",
+    "name": "Dusan MORAVCIK"
+  },
+  {
+    "place": 6,
+    "country": "KEN",
+    "mark": "00:08:33.480",
+    "name": "Amos Kipwabok BIWOTT"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "00:08:34.640",
+    "name": "Romualdas BITĖ"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "00:08:37.170",
+    "name": "Pekka Johannes PAIVARINTA"
+  },
+  {
+    "place": 9,
+    "country": "JPN",
+    "mark": "00:08:37.660",
+    "name": "Takaharu KOYAMA"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "00:08:41.030",
+    "name": "Mikko Juhani ALA-LEPPILAMPI"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "00:08:46.720",
+    "name": "Jean-Paul VILLAIN"
+  },
+  {
+    "place": 12,
+    "country": "BUL",
+    "mark": "00:09:02.590",
+    "name": "Mihail ZHELEV"
+  }
+]

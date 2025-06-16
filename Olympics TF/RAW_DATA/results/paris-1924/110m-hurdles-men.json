@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "15.000",
+    "name": "Daniel KINSEY"
+  },
+  {
+    "place": 2,
+    "country": "RSA",
+    "mark": "15.000",
+    "name": "Sidney ATKINSON"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "15.400",
+    "name": "Sten PETTERSSON"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "15.500",
+    "name": "Carl-Axel CHRISTIERNSSON"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "Disqualified",
+    "name": "George Phineas GUTHRIE"
+  },
+  {
+    "place": 6,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Jaroslav LIPCIK"
+  },
+  {
+    "place": 7,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Aldo TRAVAGLIA"
+  },
+  {
+    "place": 8,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Bertie HEATHCOTE"
+  },
+  {
+    "place": 9,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Gunnar LARSEN"
+  },
+  {
+    "place": 10,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Eduard WEILHEIM"
+  },
+  {
+    "place": 11,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "José María PEÑA"
+  },
+  {
+    "place": 12,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "René JOANNES-POWELL"
+  },
+  {
+    "place": 13,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Josse RUTH"
+  },
+  {
+    "place": 14,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Eurico DE FREITAS"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Géo ANDRÉ"
+  },
+  {
+    "place": 16,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Daciano COLBACHINI"
+  },
+  {
+    "place": 17,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Phil MACDONALD"
+  }
+]

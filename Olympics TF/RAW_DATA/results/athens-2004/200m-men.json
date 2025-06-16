@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "19.790",
+    "name": "Shawn CRAWFORD"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "20.010",
+    "name": "Bernard WILLIAMS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "20.030",
+    "name": "Justin GATLIN"
+  },
+  {
+    "place": 4,
+    "country": "NAM",
+    "mark": "20.140",
+    "name": "Frankie FREDERICKS"
+  },
+  {
+    "place": 5,
+    "country": "POR",
+    "mark": "20.140",
+    "name": "Francis OBIKWELU"
+  },
+  {
+    "place": 6,
+    "country": "MRI",
+    "mark": "20.240",
+    "name": "Stephane BUCKLAND"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "20.640",
+    "name": "Tobias Benjamin UNGER"
+  },
+  {
+    "place": 8,
+    "country": "KSA",
+    "mark": "Did not start",
+    "name": "Hamed Hamadan AL BISHI"
+  }
+]

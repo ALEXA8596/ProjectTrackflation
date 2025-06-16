@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "IRL",
+    "mark": "53.92",
+    "name": "Pat O'CALLAGHAN"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "51.76",
+    "name": "Frans Wilhelmi PÖRHÖLÄ"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "x",
+    "name": "Peter Timothy ZAREMBA"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "48.75",
+    "name": "Ossian E. SKIÖLD"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "48.79",
+    "name": "Grant MCDOUGALL"
+  },
+  {
+    "place": 6,
+    "country": "ARG",
+    "mark": "47.79",
+    "name": "Federico KLEGER"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "NM",
+    "name": "Frank Norris CONNOR"
+  }
+]

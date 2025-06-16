@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "13.900",
+    "name": "William Franklin III PORTER"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "14.100",
+    "name": "Clyde SCOTT"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "14.100",
+    "name": "Craig DIXON"
+  },
+  {
+    "place": 4,
+    "country": "ARG",
+    "mark": "14.600",
+    "name": "Alberto Ubaldo TRIULZI"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "14.7est",
+    "name": "Peter John GARDNER"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "14.8est",
+    "name": "Hakan LIDMAN"
+  },
+  {
+    "place": 7,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Mustapha BATMAN"
+  },
+  {
+    "place": 8,
+    "country": "PER",
+    "mark": "Did not start",
+    "name": "Santiago FERRANDO DIETZ"
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:27:30.420",
+    "name": "Mohamed FARAH"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "00:27:30.900",
+    "name": "Galen RUPP"
+  },
+  {
+    "place": 3,
+    "country": "ETH",
+    "mark": "00:27:31.430",
+    "name": "Tariku BEKELE"
+  },
+  {
+    "place": 4,
+    "country": "ETH",
+    "mark": "00:27:32.440",
+    "name": "Kenenisa BEKELE"
+  },
+  {
+    "place": 5,
+    "country": "KEN",
+    "mark": "00:27:32.940",
+    "name": "Bedan Karoki MUCHIRI"
+  },
+  {
+    "place": 6,
+    "country": "ERI",
+    "mark": "00:27:33.510",
+    "name": "Zersenay TADESSE"
+  },
+  {
+    "place": 7,
+    "country": "ERI",
+    "mark": "00:27:34.760",
+    "name": "Teklemariam MEDHIN"
+  },
+  {
+    "place": 8,
+    "country": "ETH",
+    "mark": "00:27:36.340",
+    "name": "Gebre Egziabher GEBREMARIAM"
+  },
+  {
+    "place": 9,
+    "country": "TUR",
+    "mark": "00:27:38.810",
+    "name": "Polat Kemboi ARIKAN"
+  },
+  {
+    "place": 10,
+    "country": "UGA",
+    "mark": "00:27:39.220",
+    "name": "Moses KIPSIRO"
+  },
+  {
+    "place": 11,
+    "country": "CAN",
+    "mark": "00:27:40.680",
+    "name": "Cameron LEVINS"
+  },
+  {
+    "place": 12,
+    "country": "KEN",
+    "mark": "00:27:41.340",
+    "name": "Moses Ndiema MASAI"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "00:27:45.890",
+    "name": "Dathan RITZENHEIN"
+  },
+  {
+    "place": 14,
+    "country": "RWA",
+    "mark": "00:27:56.670",
+    "name": "Robert KAJUGA"
+  },
+  {
+    "place": 15,
+    "country": "ERI",
+    "mark": "00:27:56.780",
+    "name": "Nguse AMLOSOM"
+  },
+  {
+    "place": 16,
+    "country": "UGA",
+    "mark": "00:27:58.960",
+    "name": "Thomas AYEKO"
+  },
+  {
+    "place": 17,
+    "country": "KSA",
+    "mark": "00:28:07.250",
+    "name": "Moukheld AL-OUTAIBI"
+  },
+  {
+    "place": 18,
+    "country": "CAN",
+    "mark": "00:28:13.910",
+    "name": "Mohammed AHMED"
+  },
+  {
+    "place": 19,
+    "country": "USA",
+    "mark": "00:28:18.260",
+    "name": "Matthew TEGENKAMP"
+  },
+  {
+    "place": 20,
+    "country": "AUS",
+    "mark": "00:28:32.670",
+    "name": "Ben ST LAWRENCE"
+  },
+  {
+    "place": 21,
+    "country": "MEX",
+    "mark": "00:28:36.190",
+    "name": "Diego ESTRADA"
+  },
+  {
+    "place": 22,
+    "country": "JPN",
+    "mark": "00:28:44.060",
+    "name": "Yuki SATO"
+  },
+  {
+    "place": 23,
+    "country": "ESP",
+    "mark": "00:28:49.850",
+    "name": "Ayad LAMDASSEM"
+  },
+  {
+    "place": 24,
+    "country": "ITA",
+    "mark": "00:28:57.460",
+    "name": "Daniele MEUCCI"
+  },
+  {
+    "place": 25,
+    "country": "GBR",
+    "mark": "00:29:06.140",
+    "name": "Christopher THOMPSON"
+  },
+  {
+    "place": 26,
+    "country": "UKR",
+    "mark": "00:29:32.120",
+    "name": "Mykola LABOVSKYY"
+  },
+  {
+    "place": 27,
+    "country": "KEN",
+    "mark": "Did not finish",
+    "name": "Wilson KIPROP"
+  },
+  {
+    "place": 28,
+    "country": "BRN",
+    "mark": "Did not finish",
+    "name": "Ali Hasan MAHBOOD"
+  },
+  {
+    "place": 29,
+    "country": "ECU",
+    "mark": "Did not finish",
+    "name": "Byron PIEDRA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "NZL",
+    "mark": "2.36",
+    "name": "Hamish KERR"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "2.36",
+    "name": "Shelby MCEWEN"
+  },
+  {
+    "place": 3,
+    "country": "QAT",
+    "mark": "2.34",
+    "name": "Mutaz Essa BARSHIM"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "2.34",
+    "name": "Stefano SOTTILE"
+  },
+  {
+    "place": 5,
+    "country": "JPN",
+    "mark": "2.31",
+    "name": "Ryoichi AKAMATSU"
+  },
+  {
+    "place": 6,
+    "country": "UKR",
+    "mark": "2.31",
+    "name": "Oleh DOROSHCHUK"
+  },
+  {
+    "place": 7,
+    "country": "KOR",
+    "mark": "2.27",
+    "name": "Sanghyeok WOO"
+  },
+  {
+    "place": 8,
+    "country": "BUL",
+    "mark": "2.27",
+    "name": "Tikhomir IVANOV"
+  },
+  {
+    "place": 9,
+    "country": "CZE",
+    "mark": "2.22",
+    "name": "Jan STEFELA"
+  },
+  {
+    "place": 10,
+    "country": "JAM",
+    "mark": "2.22",
+    "name": "Romaine BECKFORD"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "2.22",
+    "name": "Gianmarco TAMBERI"
+  },
+  {
+    "place": 12,
+    "country": "RSA",
+    "mark": "2.17",
+    "name": "Brian RAATS"
+  }
+]

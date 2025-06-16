@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "CHN",
+    "mark": "00:14:59.880",
+    "name": "Junxia WANG"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:15:03.490",
+    "name": "Pauline KONGA"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "00:15:07.520",
+    "name": "Roberta BRUNET"
+  },
+  {
+    "place": 4,
+    "country": "JPN",
+    "mark": "00:15:09.050",
+    "name": "Michiko SHIMIZU"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:15:13.110",
+    "name": "Paula RADCLIFFE"
+  },
+  {
+    "place": 6,
+    "country": "RUS",
+    "mark": "00:15:14.090",
+    "name": "Elena ROMANOVA"
+  },
+  {
+    "place": 7,
+    "country": "ROU",
+    "mark": "00:15:16.710",
+    "name": "Elena FIDATOV"
+  },
+  {
+    "place": 8,
+    "country": "KEN",
+    "mark": "00:15:17.330",
+    "name": "Rose CHERUIYOT"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "00:15:17.500",
+    "name": "Lynn A. JENNINGS"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "00:15:19.770",
+    "name": "Amy RUDOLPH"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "00:15:22.980",
+    "name": "Sara WEDLUND"
+  },
+  {
+    "place": 12,
+    "country": "ETH",
+    "mark": "00:15:28.810",
+    "name": "Ayelech WORKU"
+  },
+  {
+    "place": 13,
+    "country": "NZL",
+    "mark": "00:15:29.110",
+    "name": "Anne HARE"
+  },
+  {
+    "place": 14,
+    "country": "SUI",
+    "mark": "00:15:44.400",
+    "name": "Anita WEYERMANN"
+  },
+  {
+    "place": 15,
+    "country": "IRL",
+    "mark": "Did not finish",
+    "name": "Sonia O'SULLIVAN"
+  },
+  {
+    "place": 16,
+    "country": "USA",
+    "mark": "Disqualified",
+    "name": "Mary SLANEY"
+  },
+  {
+    "place": 17,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Carolyn Jeni SCHUWALOW"
+  },
+  {
+    "place": 18,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Gwen GRIFFITHS"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "NOR",
+    "mark": "45.94",
+    "name": "Karsten WARHOLM"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "46.17",
+    "name": "Rai BENJAMIN"
+  },
+  {
+    "place": 3,
+    "country": "BRA",
+    "mark": "46.72",
+    "name": "Alison DOS SANTOS"
+  },
+  {
+    "place": 4,
+    "country": "IVB",
+    "mark": "47.08",
+    "name": "Kyron MCMASTER"
+  },
+  {
+    "place": 5,
+    "country": "QAT",
+    "mark": "47.12",
+    "name": "Abderrahaman SAMBA"
+  },
+  {
+    "place": 6,
+    "country": "TUR",
+    "mark": "47.81",
+    "name": "Yasmani COPELLO"
+  },
+  {
+    "place": 7,
+    "country": "EST",
+    "mark": "48.11",
+    "name": "Rasmus MAGI"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "48.77",
+    "name": "Alessandro SIBILIO"
+  }
+]

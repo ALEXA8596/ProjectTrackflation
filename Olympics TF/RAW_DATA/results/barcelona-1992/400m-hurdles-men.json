@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "46.780",
+    "name": "Kevin Curtis YOUNG"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "47.660",
+    "name": "Winthrop GRAHAM"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "47.820",
+    "name": "Kriss Kezie Uche AKABUSI"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "48.130",
+    "name": "Stephane DIAGANA"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "48.630",
+    "name": "Niklas WALLENLIND"
+  },
+  {
+    "place": 6,
+    "country": "EUN",
+    "mark": "48.630",
+    "name": "Oleg TVERDOKHLEB"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "48.860",
+    "name": "Stephane CARISTAN"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "49.260",
+    "name": "David PATRICK"
+  },
+  {
+    "place": 9,
+    "country": "TUN",
+    "mark": "Did not start",
+    "name": "Fadhel KHAYATI"
+  },
+  {
+    "place": 10,
+    "country": "SYR",
+    "mark": "Did not start",
+    "name": "Zaid ABOU HAMED"
+  }
+]

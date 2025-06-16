@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "QAT",
+    "mark": "2.37",
+    "name": "Mutaz Essa BARSHIM"
+  },
+  {
+    "place": 2,
+    "country": "ITA",
+    "mark": "2.37",
+    "name": "Gianmarco TAMBERI"
+  },
+  {
+    "place": 3,
+    "country": "BLR",
+    "mark": "2.37",
+    "name": "Maksim NEDASEKAU"
+  },
+  {
+    "place": 4,
+    "country": "KOR",
+    "mark": "2.35",
+    "name": "Sanghyeok WOO"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "2.35",
+    "name": "Brandon STARC"
+  },
+  {
+    "place": 6,
+    "country": "ROC",
+    "mark": "2.33",
+    "name": "Mikhail AKIMENKO"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "2.33",
+    "name": "Juvaughn HARRISON"
+  },
+  {
+    "place": 8,
+    "country": "CAN",
+    "mark": "2.30",
+    "name": "Django LOVETT"
+  },
+  {
+    "place": 9,
+    "country": "ROC",
+    "mark": "2.30",
+    "name": "Ilya IVANYUK"
+  },
+  {
+    "place": 10,
+    "country": "NZL",
+    "mark": "2.30",
+    "name": "Hamish KERR"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "2.27",
+    "name": "Tom GALE"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "2.27",
+    "name": "Shelby MCEWEN"
+  },
+  {
+    "place": 13,
+    "country": "JPN",
+    "mark": "2.24",
+    "name": "Naoto TOBE"
+  }
+]

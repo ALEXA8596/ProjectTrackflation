@@ -1,0 +1,146 @@
+[
+  {
+    "place": 1,
+    "country": "FRA",
+    "mark": "5.97",
+    "name": "Renaud LAVILLENIE"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "5.91",
+    "name": "Bjorn OTTO"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "5.91",
+    "name": "Raphael HOLZDEPPE"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "5.75",
+    "name": "Steven LEWIS"
+  },
+  {
+    "place": 5,
+    "country": "RUS",
+    "mark": "5.75",
+    "name": "Evgeniy LUKYANENKO"
+  },
+  {
+    "place": 6,
+    "country": "GRE",
+    "mark": "5.65",
+    "name": "Konstadinos FILIPPIDIS"
+  },
+  {
+    "place": 7,
+    "country": "CZE",
+    "mark": "5.65",
+    "name": "Jan KUDLICKA"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "5.50",
+    "name": "Romain MESNIL"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "5.50",
+    "name": "Malte MOHR"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "5.50",
+    "name": "Lukasz MICHALSKI"
+  },
+  {
+    "place": 11,
+    "country": "ESP",
+    "mark": "5.50",
+    "name": "Igor BYCHKOV"
+  },
+  {
+    "place": 12,
+    "country": "AUS",
+    "mark": "No mark",
+    "name": "Steve HOOKER"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "No mark",
+    "name": "Brad WALKER"
+  },
+  {
+    "place": 14,
+    "country": "FIN",
+    "mark": "NH",
+    "name": "Jere BERGIUS"
+  },
+  {
+    "place": 15,
+    "country": "BRA",
+    "mark": "NH",
+    "name": "Fabio DA SILVA"
+  },
+  {
+    "place": 16,
+    "country": "SWE",
+    "mark": "NH",
+    "name": "Alhaji JENG"
+  },
+  {
+    "place": 17,
+    "country": "KOR",
+    "mark": "NH",
+    "name": "Yoo Suk KIM"
+  },
+  {
+    "place": 18,
+    "country": "USA",
+    "mark": "NH",
+    "name": "Derek MILES"
+  },
+  {
+    "place": 19,
+    "country": "POL",
+    "mark": "NH",
+    "name": "Pawel WOJCIECHOWSKI"
+  },
+  {
+    "place": 20,
+    "country": "JPN",
+    "mark": "NH",
+    "name": "Seito YAMAMOTO"
+  },
+  {
+    "place": 21,
+    "country": "UKR",
+    "mark": "NH",
+    "name": "Denys YURCHENKO"
+  },
+  {
+    "place": 22,
+    "country": "UKR",
+    "mark": "Disqualified",
+    "name": "Maksym MAZURYK"
+  },
+  {
+    "place": 23,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Dmitry STARODUBTSEV"
+  },
+  {
+    "place": 24,
+    "country": "BLR",
+    "mark": "Disqualified",
+    "name": "Stanislau TSIVONCHYK"
+  }
+]

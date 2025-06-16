@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "NZL",
+    "mark": "00:01:45.100",
+    "name": "Peter SNELL"
+  },
+  {
+    "place": 2,
+    "country": "CAN",
+    "mark": "00:01:45.600",
+    "name": "William Frederick CROTHERS"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "00:01:45.900",
+    "name": "Wilson Chuma KIPRUGUT"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "00:01:45.900",
+    "name": "George Ezekiel KERR"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:01:46.600",
+    "name": "Thomas Francis FARRELL"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:01:47.000",
+    "name": "Jerome Francis SIEBERT"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "00:01:47.200",
+    "name": "Dietrich BOGATZKI"
+  },
+  {
+    "place": 8,
+    "country": "BEL",
+    "mark": "00:01:50.500",
+    "name": "Jacques PENNEWAERT"
+  }
+]

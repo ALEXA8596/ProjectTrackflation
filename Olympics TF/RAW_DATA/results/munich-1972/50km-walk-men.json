@@ -1,0 +1,236 @@
+[
+  {
+    "place": 1,
+    "country": "FRG",
+    "mark": "03:56:11.600",
+    "name": "Bernd KANNENBERG"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "03:58:24.000",
+    "name": "Veniamin SOLDATENKO"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "04:00:46.000",
+    "name": "Lawrence Dean YOUNG"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "04:01:35.400",
+    "name": "Otto BARCH"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "04:04:05.400",
+    "name": "Peter SELZER"
+  },
+  {
+    "place": 6,
+    "country": "FRG",
+    "mark": "04:06:26.000",
+    "name": "Gerhard WEIDNER"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "04:08:31.400",
+    "name": "Vittorio VISINI"
+  },
+  {
+    "place": 8,
+    "country": "MEX",
+    "mark": "04:12:09.000",
+    "name": "Gabriel HERNANDEZ"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "04:14:09.400",
+    "name": "Paul Vincent NIHILL"
+  },
+  {
+    "place": 10,
+    "country": "LUX",
+    "mark": "04:14:21.200",
+    "name": "Charel SOWA"
+  },
+  {
+    "place": 11,
+    "country": "GDR",
+    "mark": "04:14:28.800",
+    "name": "Karl-Heinz STADTMÜLLER"
+  },
+  {
+    "place": 12,
+    "country": "SWE",
+    "mark": "04:16:37.600",
+    "name": "Hans TENGGREN"
+  },
+  {
+    "place": 13,
+    "country": "SWE",
+    "mark": "04:20:00.000",
+    "name": "Daniel BJORKGREN"
+  },
+  {
+    "place": 14,
+    "country": "GDR",
+    "mark": "04:20:43.800",
+    "name": "Christoph HÖHNE"
+  },
+  {
+    "place": 15,
+    "country": "SWE",
+    "mark": "04:21:01.000",
+    "name": "Stefan INGVARSSON"
+  },
+  {
+    "place": 16,
+    "country": "FRG",
+    "mark": "04:21:53.400",
+    "name": "Horst-Rüdiger MAGNOR"
+  },
+  {
+    "place": 17,
+    "country": "USA",
+    "mark": "04:22:52.200",
+    "name": "William Franklin WEIGLE"
+  },
+  {
+    "place": 18,
+    "country": "GBR",
+    "mark": "04:23:21.600",
+    "name": "John WARHURST"
+  },
+  {
+    "place": 19,
+    "country": "ISR",
+    "mark": "04:24:38.600",
+    "name": "Shaul LADANY"
+  },
+  {
+    "place": 20,
+    "country": "MEX",
+    "mark": "04:26:13.400",
+    "name": "Raúl GONZÁLEZ"
+  },
+  {
+    "place": 21,
+    "country": "CAN",
+    "mark": "04:28:42.600",
+    "name": "Alex OAKLEY"
+  },
+  {
+    "place": 22,
+    "country": "HUN",
+    "mark": "04:32:23.200",
+    "name": "Janos DALMATI"
+  },
+  {
+    "place": 23,
+    "country": "ITA",
+    "mark": "04:33:10.600",
+    "name": "Domenico CARPENTIERI"
+  },
+  {
+    "place": 24,
+    "country": "NOR",
+    "mark": "04:34:23.400",
+    "name": "Kjell Georg LUND"
+  },
+  {
+    "place": 25,
+    "country": "GBR",
+    "mark": "04:34:43.800",
+    "name": "Howard William TIMMS"
+  },
+  {
+    "place": 26,
+    "country": "HUN",
+    "mark": "04:34:45.000",
+    "name": "Antal KISS"
+  },
+  {
+    "place": 27,
+    "country": "USA",
+    "mark": "04:36:07.200",
+    "name": "Steven Roy HAYDEN"
+  },
+  {
+    "place": 28,
+    "country": "ARG",
+    "mark": "04:42:41.400",
+    "name": "Adalberto SCORZA"
+  },
+  {
+    "place": 29,
+    "country": "DEN",
+    "mark": "04:57:13.800",
+    "name": "Ole David JENSEN"
+  },
+  {
+    "place": 30,
+    "country": "SUI",
+    "mark": "Did not finish",
+    "name": "Alfred BADEL"
+  },
+  {
+    "place": 31,
+    "country": "POL",
+    "mark": "Did not finish",
+    "name": "Jan ORNOCH"
+  },
+  {
+    "place": 32,
+    "country": "CAN",
+    "mark": "Did not finish",
+    "name": "Karl-Heinz MERSCHENZ"
+  },
+  {
+    "place": 33,
+    "country": "MEX",
+    "mark": "Did not finish",
+    "name": "Jose OLIVEROS DE LA TORRE"
+  },
+  {
+    "place": 34,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Jean Claude DECOSSE"
+  },
+  {
+    "place": 35,
+    "country": "URS",
+    "mark": "Disqualified",
+    "name": "Sergey GRIGORYEV"
+  },
+  {
+    "place": 36,
+    "country": "ITA",
+    "mark": "Disqualified",
+    "name": "Abdon PAMICH"
+  },
+  {
+    "place": 37,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Win NOWOSIELSKI"
+  },
+  {
+    "place": 38,
+    "country": "NCA",
+    "mark": "Did not start",
+    "name": "Yuri PEÑALBA"
+  },
+  {
+    "place": 39,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Ilia POPOV"
+  }
+]

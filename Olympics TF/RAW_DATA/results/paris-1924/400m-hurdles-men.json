@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "52.600",
+    "name": "Frederick Morgan TAYLOR"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "53.800",
+    "name": "Erkka WILÉN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "54.200",
+    "name": "Ivan RILEY"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "56.200",
+    "name": "Géo ANDRÉ"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "Disqualified",
+    "name": "Frederick Joseph BLACKETT"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "Disqualified",
+    "name": "Charles Robert BROOKINS"
+  },
+  {
+    "place": 7,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Bertie HEATHCOTE"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Mario CAVALLERI"
+  },
+  {
+    "place": 9,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Oli GULLI"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Elemer SOMFAY"
+  },
+  {
+    "place": 11,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Will HILDRETH"
+  },
+  {
+    "place": 12,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Cheruvari LAKSHMANAN"
+  },
+  {
+    "place": 13,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Sidney ATKINSON"
+  },
+  {
+    "place": 14,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Erik KJELLSTRÖM"
+  }
+]

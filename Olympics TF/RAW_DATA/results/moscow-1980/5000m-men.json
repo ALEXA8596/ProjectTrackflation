@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "ETH",
+    "mark": "00:13:21.000",
+    "name": "Miruts YIFTER"
+  },
+  {
+    "place": 2,
+    "country": "TAN",
+    "mark": "00:13:21.600",
+    "name": "Suleiman NYAMBUI"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "00:13:22.000",
+    "name": "Kaarlo MAANINKA"
+  },
+  {
+    "place": 4,
+    "country": "IRL",
+    "mark": "00:13:22.800",
+    "name": "Eamonn COGHLAN"
+  },
+  {
+    "place": 5,
+    "country": "SUI",
+    "mark": "00:13:23.100",
+    "name": "Markus RYFFEL"
+  },
+  {
+    "place": 6,
+    "country": "AUT",
+    "mark": "00:13:23.300",
+    "name": "Dietmar MILLONIG"
+  },
+  {
+    "place": 7,
+    "country": "IRL",
+    "mark": "00:13:23.700",
+    "name": "John TREACY"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "00:13:24.100",
+    "name": "Aleksandr FEDOTKIN"
+  },
+  {
+    "place": 9,
+    "country": "TCH",
+    "mark": "00:13:25.000",
+    "name": "Jiri SYKORA"
+  },
+  {
+    "place": 10,
+    "country": "ETH",
+    "mark": "00:13:28.400",
+    "name": "Yohannes MOHAMED"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "00:13:32.100",
+    "name": "Martti VAINIO"
+  },
+  {
+    "place": 12,
+    "country": "ETH",
+    "mark": "00:13:34.200",
+    "name": "Mohamed KEDIR"
+  },
+  {
+    "place": 13,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Lasse VIRÉN"
+  },
+  {
+    "place": 14,
+    "country": "ROU",
+    "mark": "Did not start",
+    "name": "Ilie FLOROIU"
+  }
+]

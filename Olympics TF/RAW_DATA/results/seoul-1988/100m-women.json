@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "10.54w",
+    "name": "Florence GRIFFITH-JOYNER"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.83w",
+    "name": "Evelyn ASHFORD"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "10.85w",
+    "name": "Heike DRECHSLER"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "10.97w",
+    "name": "Grace JACKSON SMALL"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "10.97w",
+    "name": "Gwen TORRENCE"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "11.00w",
+    "name": "Nataliya POMOSHCHNIKOVA-VORONOVA"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "11.26w",
+    "name": "Juliet CUTHBERT"
+  },
+  {
+    "place": 8,
+    "country": "BUL",
+    "mark": "11.49w",
+    "name": "Aneliya VECHERNIKOVA-NUNEVA"
+  }
+]

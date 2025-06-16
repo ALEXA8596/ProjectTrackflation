@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "BLR",
+    "mark": "68.40",
+    "name": "Ellina ZVEREVA"
+  },
+  {
+    "place": 2,
+    "country": "GRE",
+    "mark": "65.71",
+    "name": "Anastasia KELESIDOU"
+  },
+  {
+    "place": 3,
+    "country": "BLR",
+    "mark": "65.20",
+    "name": "Iryna YATCHENKO"
+  },
+  {
+    "place": 4,
+    "country": "RUS",
+    "mark": "65.00",
+    "name": "Natalya SADOVA"
+  },
+  {
+    "place": 5,
+    "country": "GRE",
+    "mark": "64.08",
+    "name": "Stiliani TSIKOUNA"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "63.18",
+    "name": "Franka DIETZSCH"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "63.16",
+    "name": "Ilke WYLUDDA"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "62.57",
+    "name": "Lisa-Marie VIZANIARI"
+  },
+  {
+    "place": 9,
+    "country": "GRE",
+    "mark": "61.57",
+    "name": "Aikaterini VONGOLI"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "59.85",
+    "name": "Seilala SUA"
+  },
+  {
+    "place": 11,
+    "country": "POR",
+    "mark": "59.50",
+    "name": "Teresa MACHADO"
+  },
+  {
+    "place": 12,
+    "country": "NZL",
+    "mark": "58.69",
+    "name": "Beatrice FAUMUINA"
+  },
+  {
+    "place": 13,
+    "country": "CHN",
+    "mark": "58.34",
+    "name": "Xin YU"
+  }
+]

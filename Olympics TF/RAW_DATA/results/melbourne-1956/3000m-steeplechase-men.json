@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:08:41.200",
+    "name": "Christopher William BRASHER"
+  },
+  {
+    "place": 2,
+    "country": "HUN",
+    "mark": "00:08:43.600",
+    "name": "Sandor ROZSNYOI"
+  },
+  {
+    "place": 3,
+    "country": "NOR",
+    "mark": "00:08:44.000",
+    "name": "Ernst LARSEN"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "00:08:44.400",
+    "name": "Heinz LAUFER"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "00:08:44.600",
+    "name": "Semyon RZHISHCHIN"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "00:08:44.600",
+    "name": "John Ivor DISLEY"
+  },
+  {
+    "place": 7,
+    "country": "AUS",
+    "mark": "00:08:50.000",
+    "name": "Neil James ROBBINS"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "00:08:57.000",
+    "name": "Eric SHIRLEY"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "00:09:13.000",
+    "name": "Charles Nicholas JONES"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Jerzy CHROMIK"
+  }
+]

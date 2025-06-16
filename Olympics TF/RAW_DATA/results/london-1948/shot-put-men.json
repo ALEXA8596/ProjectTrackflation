@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "17.12",
+    "name": "Wilbur Marvin THOMPSON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "16.68",
+    "name": "Francis James DELANEY"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "16.42",
+    "name": "James Emanuel FUCHS"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "15.43",
+    "name": "Mieczyslaw LOMOWSKI"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "15.37",
+    "name": "Gösta ARVIDSSON"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "15.05",
+    "name": "Yrjö LEHTILÄ"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "14.59",
+    "name": "Jaakko JOUPPILA-JASKA"
+  },
+  {
+    "place": 8,
+    "country": "TCH",
+    "mark": "14.55",
+    "name": "Karel (Cestmir) KALINA"
+  },
+  {
+    "place": 9,
+    "country": "GRE",
+    "mark": "14.54",
+    "name": "Konstantinos GIATAGANAS"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "14.37",
+    "name": "Witold GERUTTO"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "13.73",
+    "name": "John Alfred GILES"
+  },
+  {
+    "place": 12,
+    "country": "ISL",
+    "mark": "13.66",
+    "name": "Sigfus SIGURDSSON"
+  },
+  {
+    "place": 13,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Aad DE BRUYN"
+  },
+  {
+    "place": 14,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "François LAPICQUE"
+  },
+  {
+    "place": 15,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "K. MERAKLIS"
+  },
+  {
+    "place": 16,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "José Luis TORRES"
+  },
+  {
+    "place": 17,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Leo J. ROININEN"
+  },
+  {
+    "place": 18,
+    "country": "PER",
+    "mark": "Did not start",
+    "name": "Eduardo JULVE CIRIACO"
+  }
+]

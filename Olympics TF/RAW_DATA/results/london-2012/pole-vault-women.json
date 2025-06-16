@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "4.75",
+    "name": "Jennifer SUHR"
+  },
+  {
+    "place": 2,
+    "country": "CUB",
+    "mark": "4.75",
+    "name": "Yarisley SILVA"
+  },
+  {
+    "place": 3,
+    "country": "RUS",
+    "mark": "4.70",
+    "name": "Yelena ISINBAEVA"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "4.65",
+    "name": "Silke SPIEGELBURG"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "4.55",
+    "name": "Martina STRUTZ"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "4.45",
+    "name": "Holly BLEASDALE-BRADSHAW"
+  },
+  {
+    "place": 7,
+    "country": "CZE",
+    "mark": "4.45",
+    "name": "Jirina PTACNIKOVA"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "4.45",
+    "name": "Lisa RYZIH"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "4.45",
+    "name": "Becky HOLLIDAY"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "4.30",
+    "name": "Vanessa BOSLAK"
+  },
+  {
+    "place": 11,
+    "country": "AUS",
+    "mark": "4.30",
+    "name": "Alana BOYD"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "NH",
+    "name": "Anna ROGOWSKA"
+  },
+  {
+    "place": 13,
+    "country": "CUB",
+    "mark": "NH",
+    "name": "Dailis CABALLERO"
+  },
+  {
+    "place": 14,
+    "country": "RUS",
+    "mark": "NH",
+    "name": "Svetlana FEOFANOVA"
+  },
+  {
+    "place": 15,
+    "country": "DEN",
+    "mark": "NH",
+    "name": "Caroline Bonde HOLM"
+  },
+  {
+    "place": 16,
+    "country": "AUS",
+    "mark": "NH",
+    "name": "Liz PARNOV"
+  },
+  {
+    "place": 17,
+    "country": "IRL",
+    "mark": "NH",
+    "name": "Tori PENA"
+  },
+  {
+    "place": 18,
+    "country": "BLR",
+    "mark": "Disqualified",
+    "name": "Anastasiya SHVEDOVA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "21.53",
+    "name": "Elaine THOMPSON-HERAH"
+  },
+  {
+    "place": 2,
+    "country": "NAM",
+    "mark": "21.81",
+    "name": "Christine MBOMA"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "21.87",
+    "name": "Gabrielle THOMAS"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "21.94",
+    "name": "Shelly-Ann FRASER-PRYCE"
+  },
+  {
+    "place": 5,
+    "country": "CIV",
+    "mark": "22.27",
+    "name": "Marie-Josee TA LOU"
+  },
+  {
+    "place": 6,
+    "country": "NAM",
+    "mark": "22.28",
+    "name": "Beatrice MASILINGI"
+  },
+  {
+    "place": 7,
+    "country": "SUI",
+    "mark": "22.30",
+    "name": "Mujinga KAMBUNDJI"
+  },
+  {
+    "place": 8,
+    "country": "BAH",
+    "mark": "24.00",
+    "name": "Shaunae MILLER-UIBO"
+  }
+]

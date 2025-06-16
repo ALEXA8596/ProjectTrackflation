@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "HUN",
+    "mark": "80.59",
+    "name": "Krisztian PARS"
+  },
+  {
+    "place": 2,
+    "country": "SLO",
+    "mark": "79.36",
+    "name": "Primoz KOZMUS"
+  },
+  {
+    "place": 3,
+    "country": "JPN",
+    "mark": "78.71",
+    "name": "Koji MUROFUSHI"
+  },
+  {
+    "place": 4,
+    "country": "UKR",
+    "mark": "78.25",
+    "name": "Oleksiy SOKYRSKYY"
+  },
+  {
+    "place": 5,
+    "country": "CZE",
+    "mark": "77.17",
+    "name": "Lukas MELICH"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "77.10",
+    "name": "Szymon ZIOLKOWSKI"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "76.07",
+    "name": "Nicola VIZZONI"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "74.95",
+    "name": "Kibwe JOHNSON"
+  },
+  {
+    "place": 9,
+    "country": "BLR",
+    "mark": "73.13",
+    "name": "Valery SVIATOKHA"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "72.87",
+    "name": "Alexander SMITH"
+  },
+  {
+    "place": 11,
+    "country": "POL",
+    "mark": "NM",
+    "name": "Pawel FAJDEK"
+  },
+  {
+    "place": 12,
+    "country": "UKR",
+    "mark": "NM",
+    "name": "Artem RUBANKO"
+  },
+  {
+    "place": 13,
+    "country": "CAN",
+    "mark": "NM",
+    "name": "James STEACY"
+  },
+  {
+    "place": 14,
+    "country": "BLR",
+    "mark": "Disqualified",
+    "name": "Pavel KRYVITSKI"
+  },
+  {
+    "place": 15,
+    "country": "UKR",
+    "mark": "Disqualified",
+    "name": "Oleksandr DRYHOL"
+  },
+  {
+    "place": 16,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Kirill IKONNIKOV"
+  },
+  {
+    "place": 17,
+    "country": "TJK",
+    "mark": "Disqualified",
+    "name": "Dilshod NAZAROV"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "1.98",
+    "name": "John WINTER"
+  },
+  {
+    "place": 2,
+    "country": "NOR",
+    "mark": "1.95",
+    "name": "Bjorn Andreas PAULSON"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "1.95",
+    "name": "George Anthony STANICH"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "1.95",
+    "name": "Dike EDDLEMAN"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "1.95",
+    "name": "Geogres Etienne DAMITIO"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "1.90",
+    "name": "Arthur M. JACKES"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "1.90",
+    "name": "Alan Sinclair PATERSON"
+  },
+  {
+    "place": 8,
+    "country": "SUI",
+    "mark": "1.90",
+    "name": "Hans WAHLI"
+  },
+  {
+    "place": 9,
+    "country": "CHI",
+    "mark": "1.90",
+    "name": "Alfredo JADRESIC VARGAS"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "1.90",
+    "name": "Pierre LACAZE"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "1.90",
+    "name": "Göran WIDENFELT"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "1.90",
+    "name": "Prince Adegboyega ADEDOYIN"
+  },
+  {
+    "place": 13,
+    "country": "NOR",
+    "mark": "1.90",
+    "name": "Birger LEIRUD"
+  },
+  {
+    "place": 14,
+    "country": "SGP",
+    "mark": "1.80",
+    "name": "Lloyd VALBERG"
+  },
+  {
+    "place": 15,
+    "country": "URU",
+    "mark": "1.80",
+    "name": "Hercules ASCUNE"
+  },
+  {
+    "place": 16,
+    "country": "USA",
+    "mark": "1.80",
+    "name": "Verne Voorhees Jr. MCGREW"
+  },
+  {
+    "place": 17,
+    "country": "FIN",
+    "mark": "1.80",
+    "name": "Kuuno Ola HONKONEN"
+  },
+  {
+    "place": 18,
+    "country": "IND",
+    "mark": "1.80",
+    "name": "S. GURNAM SINGH"
+  },
+  {
+    "place": 19,
+    "country": "FIN",
+    "mark": "No mark",
+    "name": "Nils Ole NICKLEN"
+  },
+  {
+    "place": 20,
+    "country": "NOR",
+    "mark": "No mark",
+    "name": "Bjørn GUNDERSEN"
+  },
+  {
+    "place": 21,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Thomas Theodore BRUCE"
+  },
+  {
+    "place": 22,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Peter MULLINS"
+  },
+  {
+    "place": 23,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Jorge AGUIRRE"
+  }
+]

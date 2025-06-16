@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "63.19",
+    "name": "Hal CONNOLLY"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "63.03",
+    "name": "Mikhail KRIVONOSOV"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "62.56",
+    "name": "Anatoli SAMOTSVETOV"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "61.96",
+    "name": "Albert William HALL"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "60.70",
+    "name": "Jozsef CSERMAK"
+  },
+  {
+    "place": 6,
+    "country": "YUG",
+    "mark": "60.36",
+    "name": "Kresimir RACIC"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "60.22",
+    "name": "Dmitry YEGOROV"
+  },
+  {
+    "place": 8,
+    "country": "NOR",
+    "mark": "59.21",
+    "name": "Sverre STRANDLI"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "58.00",
+    "name": "Peter Charles ALLDAY"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "57.70",
+    "name": "Alfons NIKLAS"
+  },
+  {
+    "place": 11,
+    "country": "PAK",
+    "mark": "56.97",
+    "name": "Muhammad IQBAL"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "56.72",
+    "name": "Donald William J. ANTHONY"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "55.02",
+    "name": "Guy HUSSON"
+  },
+  {
+    "place": 14,
+    "country": "POL",
+    "mark": "53.43",
+    "name": "Tadeusz RUT"
+  },
+  {
+    "place": 15,
+    "country": "SWE",
+    "mark": "No mark",
+    "name": "Birger ASPLUND"
+  },
+  {
+    "place": 16,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Cliff BLAIR"
+  }
+]

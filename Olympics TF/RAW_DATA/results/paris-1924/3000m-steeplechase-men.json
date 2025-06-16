@@ -1,0 +1,122 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:09:33.600",
+    "name": "Ville RITOLA"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "00:09:44.000",
+    "name": "Elias KATZ"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "00:09:45.200",
+    "name": "Paul BONTEMPS"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "00:09:56.400",
+    "name": "Edward Marvin RICK"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "00:09:57.500",
+    "name": "Karl EBB"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "00:09:58.000",
+    "name": "Edwin Aubrey MONTAGUE"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "00:10:01.000",
+    "name": "Michael Aloysius DEVANEY"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "00:10:14.800",
+    "name": "Albert ISOLA"
+  },
+  {
+    "place": 9,
+    "country": "NED",
+    "mark": "Did not finish",
+    "name": "Jan ZEEGERS"
+  },
+  {
+    "place": 10,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Josef HEJRET"
+  },
+  {
+    "place": 11,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "José Francisco CUEVAS"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Basil IRWIN"
+  },
+  {
+    "place": 13,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Alfredo GOMES"
+  },
+  {
+    "place": 14,
+    "country": "EST",
+    "mark": "Did not start",
+    "name": "Aleksander ANTSON"
+  },
+  {
+    "place": 15,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "J. J. RYAN"
+  },
+  {
+    "place": 16,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Pedro CURIEL"
+  },
+  {
+    "place": 17,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Juan ESCUTIA"
+  },
+  {
+    "place": 18,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Daniel ESLAVA"
+  },
+  {
+    "place": 19,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Charles Edward DAVIS"
+  },
+  {
+    "place": 20,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Edvin WIDE"
+  }
+]

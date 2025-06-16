@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "DOM",
+    "mark": "48.17",
+    "name": "Marileidy PAULINO"
+  },
+  {
+    "place": 2,
+    "country": "BRN",
+    "mark": "48.53",
+    "name": "Salwa Eid NASER"
+  },
+  {
+    "place": 3,
+    "country": "POL",
+    "mark": "48.98",
+    "name": "Natalia KACZMAREK"
+  },
+  {
+    "place": 4,
+    "country": "IRL",
+    "mark": "49.28",
+    "name": "Rhasidat ADELEKE"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "49.29",
+    "name": "Amber ANNING"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "49.77",
+    "name": "Alexis HOLMES"
+  },
+  {
+    "place": 7,
+    "country": "BAR",
+    "mark": "49.83",
+    "name": "Sada WILLIAMS"
+  },
+  {
+    "place": 8,
+    "country": "NOR",
+    "mark": "49.96",
+    "name": "Henriette JAEGER"
+  }
+]

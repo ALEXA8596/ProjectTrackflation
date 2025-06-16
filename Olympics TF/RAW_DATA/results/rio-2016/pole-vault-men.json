@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "BRA",
+    "mark": "6.03",
+    "name": "Thiago BRAZ"
+  },
+  {
+    "place": 2,
+    "country": "FRA",
+    "mark": "5.98",
+    "name": "Renaud LAVILLENIE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "5.85",
+    "name": "Sam KENDRICKS"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "5.75",
+    "name": "Piotr LISEK"
+  },
+  {
+    "place": 5,
+    "country": "CZE",
+    "mark": "5.75",
+    "name": "Jan KUDLICKA"
+  },
+  {
+    "place": 6,
+    "country": "CHN",
+    "mark": "5.65",
+    "name": "Changrui XUE"
+  },
+  {
+    "place": 7,
+    "country": "JPN",
+    "mark": "5.50",
+    "name": "Daichi SAWANO"
+  },
+  {
+    "place": 8,
+    "country": "CZE",
+    "mark": "5.50",
+    "name": "Michal BALNER"
+  },
+  {
+    "place": 9,
+    "country": "GRE",
+    "mark": "5.50",
+    "name": "Konstadinos FILIPPIDIS"
+  },
+  {
+    "place": 10,
+    "country": "CAN",
+    "mark": "5.50",
+    "name": "Shawnacy BARBER"
+  },
+  {
+    "place": 11,
+    "country": "ARG",
+    "mark": "5.50",
+    "name": "German CHIARAVIGLIO"
+  },
+  {
+    "place": 12,
+    "country": "LAT",
+    "mark": "No mark",
+    "name": "Pauls PUJATS"
+  },
+  {
+    "place": 13,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Melker SVARD JACOBSSON"
+  }
+]

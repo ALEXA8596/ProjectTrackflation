@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "21.35",
+    "name": "Vladimir KISELYOV"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "21.08",
+    "name": "Aleksandr BARYSHNIKOV"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "21.06",
+    "name": "Udo BEYER"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "20.82",
+    "name": "Reijo STAHLBERG"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "20.50",
+    "name": "Geoffrey CAPES"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "20.32",
+    "name": "Hans-Jurgen JACOBI"
+  },
+  {
+    "place": 7,
+    "country": "TCH",
+    "mark": "20.24",
+    "name": "Jaromir VLK"
+  },
+  {
+    "place": 8,
+    "country": "YUG",
+    "mark": "20.07",
+    "name": "Vladimir MILIC"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "19.93",
+    "name": "Anatoli YAROSH"
+  },
+  {
+    "place": 10,
+    "country": "ISL",
+    "mark": "19.55",
+    "name": "Hreinn HALLDORSSON"
+  },
+  {
+    "place": 11,
+    "country": "ISL",
+    "mark": "19.07",
+    "name": "Oskar JAKOBSSON"
+  },
+  {
+    "place": 12,
+    "country": "SUI",
+    "mark": "18.90",
+    "name": "Jean-Pierre EGGER"
+  }
+]

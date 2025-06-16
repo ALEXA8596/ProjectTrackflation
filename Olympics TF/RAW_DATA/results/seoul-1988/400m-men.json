@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "43.870",
+    "name": "Steve LEWIS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "43.930",
+    "name": "Harry Butch . REYNOLDS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "44.090",
+    "name": "Daniel EVERETT"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "44.550",
+    "name": "Darren CLARK"
+  },
+  {
+    "place": 5,
+    "country": "NGR",
+    "mark": "44.720",
+    "name": "Innocent EGBUNIKE"
+  },
+  {
+    "place": 6,
+    "country": "JAM",
+    "mark": "44.940",
+    "name": "Bertland CAMERON"
+  },
+  {
+    "place": 7,
+    "country": "TTO",
+    "mark": "44.950",
+    "name": "Ian MORRIS"
+  },
+  {
+    "place": 8,
+    "country": "OMA",
+    "mark": "45.030",
+    "name": "Mohamed AL-MALKY"
+  },
+  {
+    "place": 9,
+    "country": "ANG",
+    "mark": "Did not start",
+    "name": "Luis NETO"
+  },
+  {
+    "place": 10,
+    "country": "COK",
+    "mark": "Did not start",
+    "name": "William TARAMAI"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Derek REDMOND"
+  },
+  {
+    "place": 12,
+    "country": "PAR",
+    "mark": "Did not start",
+    "name": "Porfirio MENDEZ"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "72.30",
+    "name": "Martina HELLMANN"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "71.88",
+    "name": "Diana GANSKY"
+  },
+  {
+    "place": 3,
+    "country": "BUL",
+    "mark": "69.74",
+    "name": "Tzvetanka Pavlova KHRISTOVA"
+  },
+  {
+    "place": 4,
+    "country": "BUL",
+    "mark": "69.14",
+    "name": "Svetla Ivanova MITKOVA"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "68.94",
+    "name": "Ellina ZVEREVA"
+  },
+  {
+    "place": 6,
+    "country": "TCH",
+    "mark": "67.84",
+    "name": "Zdenka BARTONOVA-SILHOVA"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "67.26",
+    "name": "Gabriele REINSCH"
+  },
+  {
+    "place": 8,
+    "country": "CHN",
+    "mark": "65.94",
+    "name": "Xuemei HOU"
+  },
+  {
+    "place": 9,
+    "country": "CHN",
+    "mark": "64.08",
+    "name": "Hourun YU"
+  },
+  {
+    "place": 10,
+    "country": "URS",
+    "mark": "64.08",
+    "name": "Larisa MIKHALCHENKO"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "63.42",
+    "name": "Carol Therese CADY"
+  },
+  {
+    "place": 12,
+    "country": "URS",
+    "mark": "No mark",
+    "name": "Galina MURASHOVA"
+  }
+]

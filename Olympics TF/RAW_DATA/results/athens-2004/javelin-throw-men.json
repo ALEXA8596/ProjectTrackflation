@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "NOR",
+    "mark": "86.50",
+    "name": "Andreas THORKILDSEN"
+  },
+  {
+    "place": 2,
+    "country": "LAT",
+    "mark": "84.95",
+    "name": "Vadims VASILEVSKIS"
+  },
+  {
+    "place": 3,
+    "country": "RUS",
+    "mark": "84.84",
+    "name": "Sergey MAKAROV"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "84.13",
+    "name": "Steve BACKLEY"
+  },
+  {
+    "place": 5,
+    "country": "RUS",
+    "mark": "83.31",
+    "name": "Aleksandr IVANOV"
+  },
+  {
+    "place": 6,
+    "country": "EST",
+    "mark": "83.25",
+    "name": "Andrus VARNIK"
+  },
+  {
+    "place": 7,
+    "country": "LAT",
+    "mark": "83.14",
+    "name": "Eriks RAGS"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "83.01",
+    "name": "Tero PITKAMAKI"
+  },
+  {
+    "place": 9,
+    "country": "CZE",
+    "mark": "80.59",
+    "name": "Jan ŽELEZNÝ"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "80.28",
+    "name": "Matti NARHI"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "79.43",
+    "name": "Esko MIKKOLA"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "74.36",
+    "name": "Breaux GREER"
+  },
+  {
+    "place": 13,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Boris HENRY"
+  }
+]

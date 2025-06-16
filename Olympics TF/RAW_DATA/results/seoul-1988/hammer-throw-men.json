@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "84.80",
+    "name": "Sergey LITVINOV"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "83.76",
+    "name": "Yury SEDYKH"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "81.16",
+    "name": "Juri Augustovitch TAMM"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "80.44",
+    "name": "Rolf HABER"
+  },
+  {
+    "place": 5,
+    "country": "FRG",
+    "mark": "79.16",
+    "name": "Heinrich WEIS"
+  },
+  {
+    "place": 6,
+    "country": "HUN",
+    "mark": "78.36",
+    "name": "Tibor GECSEK"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "77.04",
+    "name": "Imre SZITAS"
+  },
+  {
+    "place": 8,
+    "country": "BUL",
+    "mark": "76.08",
+    "name": "Ivan Krastev TANEV"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "75.38",
+    "name": "Harri HUHTALA"
+  },
+  {
+    "place": 10,
+    "country": "AUT",
+    "mark": "75.36",
+    "name": "Johann LINDNER"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "74.24",
+    "name": "Tore GUSTAFSSON"
+  },
+  {
+    "place": 12,
+    "country": "GDR",
+    "mark": "72.36",
+    "name": "Günther RODEHAU"
+  }
+]

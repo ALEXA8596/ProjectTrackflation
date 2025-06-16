@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "8.72",
+    "name": "Carl LEWIS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "8.49",
+    "name": "Michael Anthony POWELL"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "8.27",
+    "name": "Lawrence Ellwyne MYRICKS"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "8.08w",
+    "name": "Giovanni EVANGELISTI"
+  },
+  {
+    "place": 5,
+    "country": "ESP",
+    "mark": "8.03",
+    "name": "Antonio CORGOS CERVANTES"
+  },
+  {
+    "place": 6,
+    "country": "HUN",
+    "mark": "8.00",
+    "name": "Laszlo SZALMA"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "7.97",
+    "name": "Norbert BRIGE"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "7.89",
+    "name": "Leonid VOLOSHIN"
+  },
+  {
+    "place": 9,
+    "country": "CHN",
+    "mark": "7.86",
+    "name": "Yan PANG"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "7.82",
+    "name": "Jarmo KARNA"
+  },
+  {
+    "place": 11,
+    "country": "NED",
+    "mark": "7.71",
+    "name": "Emiel MELLAARD"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "7.54",
+    "name": "Mark Clifford FORSYTHE"
+  },
+  {
+    "place": 13,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Vladimir OSHKAN"
+  },
+  {
+    "place": 14,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Gary HONEY"
+  }
+]

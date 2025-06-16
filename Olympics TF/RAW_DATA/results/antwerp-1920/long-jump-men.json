@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "SWE",
+    "mark": "7.15",
+    "name": "R. William E. PETERSSON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "7.095",
+    "name": "Carl JOHNSON"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "7.08",
+    "name": "Erik ABRAHAMSSON"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "6.95",
+    "name": "Robert Lyman TEMPLETON"
+  },
+  {
+    "place": 5,
+    "country": "NOR",
+    "mark": "6.885",
+    "name": "Erling AASTAD"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "6.73",
+    "name": "Rolf FRANKSSON"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Alexis SOULIGNAC"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Gustave REMOUET"
+  },
+  {
+    "place": 9,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Adolf RYSLER"
+  },
+  {
+    "place": 10,
+    "country": "EST",
+    "mark": "Did not start",
+    "name": "Aleksander KLUMBERG"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Ossian NYLUND"
+  }
+]

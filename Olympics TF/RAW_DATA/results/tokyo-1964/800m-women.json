@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:02:01.100",
+    "name": "Ann Elizabeth PACKER"
+  },
+  {
+    "place": 2,
+    "country": "FRA",
+    "mark": "00:02:01.900",
+    "name": "Maryvonne DUPUREUR"
+  },
+  {
+    "place": 3,
+    "country": "NZL",
+    "mark": "00:02:02.800",
+    "name": "Ann Marise CHAMBERLAIN"
+  },
+  {
+    "place": 4,
+    "country": "HUN",
+    "mark": "00:02:03.500",
+    "name": "Zsusza NAGY-SZABO"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "00:02:03.900",
+    "name": "Antje GLEICHFELD-BRAASCH"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "00:02:05.100",
+    "name": "Laine ERIK"
+  },
+  {
+    "place": 7,
+    "country": "NED",
+    "mark": "00:02:05.800",
+    "name": "Gerarda Maria KRAAN"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "00:02:05.800",
+    "name": "Anne Rosemary SMITH"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Dixie Isobel WILLIS-INGRAM"
+  }
+]

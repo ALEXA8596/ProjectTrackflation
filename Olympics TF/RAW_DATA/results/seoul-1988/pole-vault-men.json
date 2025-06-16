@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "5.90",
+    "name": "Sergii BUBKA"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "5.85",
+    "name": "Rodion GATAULLIN"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "5.80",
+    "name": "Grigoriy YEGOROV"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "5.70",
+    "name": "Earl Holmes BELL"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "5.70",
+    "name": "Philippe COLLET"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "5.70",
+    "name": "Thierry VIGNERON"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "5.60",
+    "name": "Istvan BAGYULA"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "5.60",
+    "name": "Philippe D'ENCAUSSE"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "5.60",
+    "name": "Asko Antero PELTONIEMI"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "5.50",
+    "name": "Kory Merrill TARPENNING"
+  },
+  {
+    "place": 11,
+    "country": "TCH",
+    "mark": "5.50",
+    "name": "Zdenek LUBENSKY"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "5.50",
+    "name": "William Richard OLSON"
+  },
+  {
+    "place": 13,
+    "country": "AUT",
+    "mark": "5.40",
+    "name": "Hermann FEHRINGER"
+  },
+  {
+    "place": 14,
+    "country": "POL",
+    "mark": "No mark",
+    "name": "Miroslaw CHMARA"
+  },
+  {
+    "place": 15,
+    "country": "POL",
+    "mark": "No mark",
+    "name": "Marian KOLASA"
+  }
+]

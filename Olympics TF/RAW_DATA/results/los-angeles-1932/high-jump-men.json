@@ -1,0 +1,122 @@
+[
+  {
+    "place": 1,
+    "country": "CAN",
+    "mark": "1.97",
+    "name": "Duncan MCNAUGHTON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "1.97",
+    "name": "Robert VAN OSDEL"
+  },
+  {
+    "place": 3,
+    "country": "PHI",
+    "mark": "1.97",
+    "name": "Simeon Galvez TORIBIO"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "1.97",
+    "name": "Cornelius Cooper JOHNSON"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "1.94",
+    "name": "Ilmari REINIKKA"
+  },
+  {
+    "place": 6,
+    "country": "JPN",
+    "mark": "1.94",
+    "name": "Kazuo KIMURA"
+  },
+  {
+    "place": 7,
+    "country": "JPN",
+    "mark": "1.90",
+    "name": "Misao ONO"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "1.90",
+    "name": "Jerzy PLAWCZYK"
+  },
+  {
+    "place": 9,
+    "country": "CAN",
+    "mark": "1.85",
+    "name": "Jack PORTLAND"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "1.85",
+    "name": "Claude Charles MENARD"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "1.85",
+    "name": "George Burton SPITZ"
+  },
+  {
+    "place": 12,
+    "country": "NOR",
+    "mark": "1.85",
+    "name": "Birger HAUG"
+  },
+  {
+    "place": 13,
+    "country": "ITA",
+    "mark": "1.85",
+    "name": "Angelo TOMMASI"
+  },
+  {
+    "place": 14,
+    "country": "SUI",
+    "mark": "1.80",
+    "name": "Paul RIESEN"
+  },
+  {
+    "place": 15,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Nelson LORENZI"
+  },
+  {
+    "place": 16,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Rafael PÉREZ"
+  },
+  {
+    "place": 17,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Carlos WOEBCKEN"
+  },
+  {
+    "place": 18,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Lucio Almeida DE CASTRO GOLCALVES"
+  },
+  {
+    "place": 19,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Nikolaos PAPANIKOLAOU"
+  },
+  {
+    "place": 20,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Mikio ODA"
+  }
+]

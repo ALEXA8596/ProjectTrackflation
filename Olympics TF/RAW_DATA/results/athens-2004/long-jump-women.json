@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "RUS",
+    "mark": "7.07",
+    "name": "Tatyana LEBEDEVA"
+  },
+  {
+    "place": 2,
+    "country": "RUS",
+    "mark": "7.05",
+    "name": "Irina SIMAGINA"
+  },
+  {
+    "place": 3,
+    "country": "RUS",
+    "mark": "7.05",
+    "name": "Tatyana KOTOVA"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "6.96",
+    "name": "Bronwyn THOMPSON"
+  },
+  {
+    "place": 5,
+    "country": "IND",
+    "mark": "6.83",
+    "name": "Anju BOBBY GEORGE"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "6.80",
+    "name": "Jade JOHNSON"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "6.73w",
+    "name": "Tunde VASZI"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "6.66",
+    "name": "Bianca KAPPLER"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "6.64",
+    "name": "Grace UPSHAW"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "6.63",
+    "name": "Carolina KLUFT"
+  },
+  {
+    "place": 11,
+    "country": "KAZ",
+    "mark": "6.53",
+    "name": "Yelena KASHCHEYEVA"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "Disqualified",
+    "name": "Marion JONES"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "67.94",
+    "name": "Heli Orvokki RANTANEN"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "65.54",
+    "name": "Louise MCPAUL"
+  },
+  {
+    "place": 3,
+    "country": "NOR",
+    "mark": "64.98",
+    "name": "Trine HATTESTAD"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "64.68",
+    "name": "Isel LOPEZ"
+  },
+  {
+    "place": 5,
+    "country": "CUB",
+    "mark": "64.48",
+    "name": "Xiomara RIVERO"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "64.18",
+    "name": "Karen FORKEL"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "61.52",
+    "name": "Mikaela INGBERG"
+  },
+  {
+    "place": 8,
+    "country": "CHN",
+    "mark": "60.74",
+    "name": "Lei LI"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "60.20",
+    "name": "Steffi NERIUS"
+  },
+  {
+    "place": 10,
+    "country": "ROU",
+    "mark": "59.94",
+    "name": "Felicia ȚILEA-MOLDOVAN"
+  },
+  {
+    "place": 11,
+    "country": "CUB",
+    "mark": "59.70",
+    "name": "Odelmye PALMA"
+  },
+  {
+    "place": 12,
+    "country": "BLR",
+    "mark": "58.56",
+    "name": "Natalia SHIKOLENKO"
+  },
+  {
+    "place": 13,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Sonya RADICHEVA"
+  }
+]

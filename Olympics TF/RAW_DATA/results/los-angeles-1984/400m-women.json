@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "48.830",
+    "name": "Valerie Ann BRISCO-HOOKS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "49.050",
+    "name": "Chandra Danette CHEESEBOROUGH"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "49.430",
+    "name": "Kathryn SMALLWOOD-COOK"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "49.910",
+    "name": "Marita PAYNE-WIGGINS"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "50.250",
+    "name": "Lillie Mae LEATHERWOOD-KING"
+  },
+  {
+    "place": 6,
+    "country": "FRG",
+    "mark": "50.370",
+    "name": "Ute THIMM-FINGER"
+  },
+  {
+    "place": 7,
+    "country": "CAN",
+    "mark": "50.450",
+    "name": "Charmaine CROOKS"
+  },
+  {
+    "place": 8,
+    "country": "KEN",
+    "mark": "51.560",
+    "name": "Ruth WAITHERA"
+  }
+]

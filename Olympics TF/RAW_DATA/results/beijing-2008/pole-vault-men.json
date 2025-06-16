@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "5.96",
+    "name": "Steve HOOKER"
+  },
+  {
+    "place": 2,
+    "country": "RUS",
+    "mark": "5.85",
+    "name": "Evgeniy LUKYANENKO"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "5.70",
+    "name": "Derek MILES"
+  },
+  {
+    "place": 4,
+    "country": "RUS",
+    "mark": "5.70",
+    "name": "Dmitry STARODUBTSEV"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "5.70",
+    "name": "Daniel ECKER"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "5.60",
+    "name": "Jerome CLAVIER"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "5.60",
+    "name": "Raphael HOLZDEPPE"
+  },
+  {
+    "place": 8,
+    "country": "RUS",
+    "mark": "5.60",
+    "name": "Igor PAVLOV"
+  },
+  {
+    "place": 9,
+    "country": "CZE",
+    "mark": "5.45",
+    "name": "Jan KUDLICKA"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "5.45",
+    "name": "Przemyslaw CZERWINSKI"
+  },
+  {
+    "place": 11,
+    "country": "UZB",
+    "mark": "No mark",
+    "name": "Leonid ANDREEV"
+  },
+  {
+    "place": 12,
+    "country": "ITA",
+    "mark": "No mark",
+    "name": "Giuseppe GIBILISCO"
+  },
+  {
+    "place": 13,
+    "country": "UKR",
+    "mark": "Disqualified",
+    "name": "Denys YURCHENKO"
+  }
+]

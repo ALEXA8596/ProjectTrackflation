@@ -1,0 +1,128 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "56.49",
+    "name": "Karl HEIN"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "55.04",
+    "name": "Erwin BLASK"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "54.83",
+    "name": "Alfred WARNGARD"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "51.90",
+    "name": "Gustaf Alfons KOUTONEN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "51.66",
+    "name": "William John Alfred ROWE"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "51.01",
+    "name": "Donald Emerson FAVOR"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "50.61",
+    "name": "Bernhard GREULICH"
+  },
+  {
+    "place": 8,
+    "country": "EST",
+    "mark": "50.46",
+    "name": "Koit ANNAMAA"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "50.42",
+    "name": "Henry Francis DREYER"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "49.93",
+    "name": "Sulo HEINO"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "49.89",
+    "name": "Frans Wilhelmi PÖRHÖLÄ"
+  },
+  {
+    "place": 12,
+    "country": "SWE",
+    "mark": "49.28",
+    "name": "Gunnar JANSSON"
+  },
+  {
+    "place": 13,
+    "country": "JPN",
+    "mark": "49.01",
+    "name": "Isao ABE"
+  },
+  {
+    "place": 14,
+    "country": "SWE",
+    "mark": "47.61",
+    "name": "Evert LINNE"
+  },
+  {
+    "place": 15,
+    "country": "ITA",
+    "mark": "47.42",
+    "name": "Giovanni CANTAGALLI"
+  },
+  {
+    "place": 16,
+    "country": "FRA",
+    "mark": "45.69",
+    "name": "Joseph WIRTZ"
+  },
+  {
+    "place": 17,
+    "country": "CHI",
+    "mark": "45.23",
+    "name": "Antonio BARTICEVIC"
+  },
+  {
+    "place": 18,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Heinz PISTOR"
+  },
+  {
+    "place": 19,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Robert SAINT-PE"
+  },
+  {
+    "place": 20,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Walter GRÜTTER"
+  },
+  {
+    "place": 21,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Rudolf WEHRLI"
+  }
+]

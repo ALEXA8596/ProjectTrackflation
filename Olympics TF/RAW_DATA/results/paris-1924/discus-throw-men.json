@@ -1,0 +1,146 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "46.155",
+    "name": "Lemuel Clarence HOUSER"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "44.95",
+    "name": "Vilho Aleksander NIITTYMAA"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "44.83",
+    "name": "Thomas John LIEB"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "44.42",
+    "name": "Augustus POPE"
+  },
+  {
+    "place": 5,
+    "country": "NOR",
+    "mark": "43.40",
+    "name": "Ketil ASKILDT"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "42.49",
+    "name": "Glenn HARTRANFT"
+  },
+  {
+    "place": 7,
+    "country": "GRE",
+    "mark": "NM",
+    "name": "Dimitrios KARABATIS"
+  },
+  {
+    "place": 8,
+    "country": "URU",
+    "mark": "Did not start",
+    "name": "David ESTEVEZ"
+  },
+  {
+    "place": 9,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Jan MILDEV"
+  },
+  {
+    "place": 10,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Eduard KLAMBAUER"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Bertil LÜNING"
+  },
+  {
+    "place": 12,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Karlo AMBROZY"
+  },
+  {
+    "place": 13,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Wilhelm SCHWARZINGER"
+  },
+  {
+    "place": 14,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Otakar PŘIDAL"
+  },
+  {
+    "place": 15,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Béla MOLNÁR"
+  },
+  {
+    "place": 16,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Ünvan TAYFUROĞLU"
+  },
+  {
+    "place": 17,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Jack MURDOCH"
+  },
+  {
+    "place": 18,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Khristos VRETTOS"
+  },
+  {
+    "place": 19,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Lajos CSEJTHEY"
+  },
+  {
+    "place": 20,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Aurelio LENZI"
+  },
+  {
+    "place": 21,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Jesus AGUIRRE DELGADO"
+  },
+  {
+    "place": 22,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Antoni CEJZIK"
+  },
+  {
+    "place": 23,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Constant BUCHER"
+  },
+  {
+    "place": 24,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Allan ERIKSSON"
+  }
+]

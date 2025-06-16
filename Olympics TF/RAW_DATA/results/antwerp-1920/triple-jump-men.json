@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "14.505",
+    "name": "Vilho Immanuel TUULOS"
+  },
+  {
+    "place": 2,
+    "country": "SWE",
+    "mark": "14.48",
+    "name": "Folke JANSSON"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "14.27",
+    "name": "Erik ALMLÖF"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "14.175",
+    "name": "Ivar SAHLIN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "14.17",
+    "name": "Sherman George LANDERS"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "14.08",
+    "name": "Dan AHEARN"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Maxime GIRARD"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Eugène COULON"
+  }
+]

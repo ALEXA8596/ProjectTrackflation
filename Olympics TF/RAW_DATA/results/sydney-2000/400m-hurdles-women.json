@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "RUS",
+    "mark": "53.020",
+    "name": "Irina PRIVALOVA"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "53.450",
+    "name": "Deon Marie HEMMINGS"
+  },
+  {
+    "place": 3,
+    "country": "MAR",
+    "mark": "53.570",
+    "name": "Nezha BIDOUANE"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "53.680",
+    "name": "Daimí PERNÍA"
+  },
+  {
+    "place": 5,
+    "country": "UKR",
+    "mark": "53.980",
+    "name": "Tetiana TERESHCHUK-ANTIPOVA"
+  },
+  {
+    "place": 6,
+    "country": "ROU",
+    "mark": "54.350",
+    "name": "Ionela TIRLEA-MANOLACHE"
+  },
+  {
+    "place": 7,
+    "country": "ISL",
+    "mark": "54.630",
+    "name": "Guðrún ARNARDÓTTIR"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "55.000",
+    "name": "Tasha DANVERS"
+  },
+  {
+    "place": 9,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Karlene HAUGHTON"
+  }
+]

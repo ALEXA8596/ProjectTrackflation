@@ -1,0 +1,236 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "6955",
+    "name": "Jessica ENNIS-HILL"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "6649",
+    "name": "Lilli SCHWARZKOPF"
+  },
+  {
+    "place": 3,
+    "country": "LTU",
+    "mark": "6599",
+    "name": "Austra SKUJYTE"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "6576",
+    "name": "Antoinette NANA DJIMOU IDA"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "6480",
+    "name": "Jessica ZELINKA"
+  },
+  {
+    "place": 6,
+    "country": "RUS",
+    "mark": "6452",
+    "name": "Kristina SAVITSKAYA"
+  },
+  {
+    "place": 7,
+    "country": "LAT",
+    "mark": "6414",
+    "name": "Laura IKAUNIECE-ADMIDINA"
+  },
+  {
+    "place": 8,
+    "country": "UKR",
+    "mark": "6392",
+    "name": "Hanna KASYANOVA"
+  },
+  {
+    "place": 9,
+    "country": "CAN",
+    "mark": "6383",
+    "name": "Brianne THEISEN"
+  },
+  {
+    "place": 10,
+    "country": "NED",
+    "mark": "6324",
+    "name": "Dafne SCHIPPERS"
+  },
+  {
+    "place": 11,
+    "country": "NED",
+    "mark": "6319",
+    "name": "Nadine BROERSEN"
+  },
+  {
+    "place": 12,
+    "country": "SWE",
+    "mark": "6300",
+    "name": "Jessica SAMUELSSON"
+  },
+  {
+    "place": 13,
+    "country": "GBR",
+    "mark": "6267",
+    "name": "Katarina JOHNSON-THOMPSON"
+  },
+  {
+    "place": 14,
+    "country": "USA",
+    "mark": "6232",
+    "name": "Sharon DAY"
+  },
+  {
+    "place": 15,
+    "country": "BLR",
+    "mark": "6198",
+    "name": "Yana MAKSIMAVA"
+  },
+  {
+    "place": 16,
+    "country": "CZE",
+    "mark": "6109",
+    "name": "Eliska KLUCINOVA"
+  },
+  {
+    "place": 17,
+    "country": "SUI",
+    "mark": "6107",
+    "name": "Ellen SPRUNGER"
+  },
+  {
+    "place": 18,
+    "country": "RUS",
+    "mark": "6084",
+    "name": "Olga KURBAN"
+  },
+  {
+    "place": 19,
+    "country": "FRA",
+    "mark": "6030",
+    "name": "Marisa DE ANICETO"
+  },
+  {
+    "place": 20,
+    "country": "HUN",
+    "mark": "6013",
+    "name": "Gyorgyi ZSIVOCZKY-FARKAS"
+  },
+  {
+    "place": 21,
+    "country": "EST",
+    "mark": "6013",
+    "name": "Grit SADEIKO"
+  },
+  {
+    "place": 22,
+    "country": "GRE",
+    "mark": "5947",
+    "name": "Sofia YFANTIDOU"
+  },
+  {
+    "place": 23,
+    "country": "AUT",
+    "mark": "5935",
+    "name": "Ivona DADIC"
+  },
+  {
+    "place": 24,
+    "country": "NZL",
+    "mark": "5873",
+    "name": "Sarah COWLEY"
+  },
+  {
+    "place": 25,
+    "country": "GBR",
+    "mark": "5856",
+    "name": "Louise HAZEL"
+  },
+  {
+    "place": 26,
+    "country": "NOR",
+    "mark": "5846",
+    "name": "Ida MARCUSSEN"
+  },
+  {
+    "place": 27,
+    "country": "USA",
+    "mark": "5688",
+    "name": "Chantae MCMILLAN"
+  },
+  {
+    "place": 28,
+    "country": "GER",
+    "mark": "5455",
+    "name": "Jennifer OESER"
+  },
+  {
+    "place": 29,
+    "country": "GER",
+    "mark": "5338",
+    "name": "Julia MACHTIG"
+  },
+  {
+    "place": 30,
+    "country": "KAZ",
+    "mark": "5319",
+    "name": "Irina KARPOVA"
+  },
+  {
+    "place": 31,
+    "country": "BEL",
+    "mark": "Did not finish",
+    "name": "Sara AERTS"
+  },
+  {
+    "place": 32,
+    "country": "LAT",
+    "mark": "Did not finish",
+    "name": "Aiga GRABUSTE"
+  },
+  {
+    "place": 33,
+    "country": "NGR",
+    "mark": "Did not finish",
+    "name": "Uhunoma OSAZUWA"
+  },
+  {
+    "place": 34,
+    "country": "POL",
+    "mark": "Did not finish",
+    "name": "Karolina TYMINSKA"
+  },
+  {
+    "place": 35,
+    "country": "UKR",
+    "mark": "Did not finish",
+    "name": "Natallia DOBRYNSKA"
+  },
+  {
+    "place": 36,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Hyleas FOUNTAIN"
+  },
+  {
+    "place": 37,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Tatyana CHERNOVA"
+  },
+  {
+    "place": 38,
+    "country": "UKR",
+    "mark": "Disqualified",
+    "name": "Liudmyla YOSYPENKO"
+  },
+  {
+    "place": 39,
+    "country": "GHA",
+    "mark": "Did not start",
+    "name": "Margaret SIMPSON"
+  }
+]

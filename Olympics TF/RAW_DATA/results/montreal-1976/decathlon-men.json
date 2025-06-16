@@ -1,0 +1,182 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "714",
+    "name": "William Bruce JENNER"
+  },
+  {
+    "place": 2,
+    "country": "FRG",
+    "mark": "595",
+    "name": "Guido KRATSCHMER"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "614",
+    "name": "Nikolai AVILOV"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "597",
+    "name": "Raimo PIHL"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "590",
+    "name": "Ryszard SKOWRONEK"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "625",
+    "name": "Siegfried STARK"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "724",
+    "name": "Leonid LITVINENKO"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "498",
+    "name": "Lennart HEDMARK"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "527",
+    "name": "Aleksandr GREBENNYUK"
+  },
+  {
+    "place": 10,
+    "country": "FRG",
+    "mark": "604",
+    "name": "Claus MAREK"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "489",
+    "name": "Johannes LAHTI"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "482",
+    "name": "Ryszard KATUS"
+  },
+  {
+    "place": 13,
+    "country": "TCH",
+    "mark": "643",
+    "name": "Ludek PERNICA"
+  },
+  {
+    "place": 14,
+    "country": "FRA",
+    "mark": "410",
+    "name": "Philippe BOBIN"
+  },
+  {
+    "place": 15,
+    "country": "USA",
+    "mark": "523",
+    "name": "Frederick Ameen SAMARA"
+  },
+  {
+    "place": 16,
+    "country": "AUT",
+    "mark": "607",
+    "name": "Georg WERTHNER"
+  },
+  {
+    "place": 17,
+    "country": "FRA",
+    "mark": "577",
+    "name": "Gilles GEMISE-FAREAU"
+  },
+  {
+    "place": 18,
+    "country": "GBR",
+    "mark": "592",
+    "name": "Daley THOMPSON"
+  },
+  {
+    "place": 19,
+    "country": "BEL",
+    "mark": "545",
+    "name": "Roger LESPAGNARD"
+  },
+  {
+    "place": 20,
+    "country": "SWE",
+    "mark": "423",
+    "name": "Runald BECKMAN"
+  },
+  {
+    "place": 21,
+    "country": "FRG",
+    "mark": "606",
+    "name": "Eberhard STROOT"
+  },
+  {
+    "place": 22,
+    "country": "ARG",
+    "mark": "505",
+    "name": "Tito STEINER"
+  },
+  {
+    "place": 23,
+    "country": "USA",
+    "mark": "534",
+    "name": "Frederick DIXON"
+  },
+  {
+    "place": 24,
+    "country": "AUT",
+    "mark": "Did not finish",
+    "name": "Josef ZEILBAUER"
+  },
+  {
+    "place": 25,
+    "country": "BEL",
+    "mark": "Did not finish",
+    "name": "Regis GHESQUIERE"
+  },
+  {
+    "place": 26,
+    "country": "ISL",
+    "mark": "Did not finish",
+    "name": "Elias SVEINSSON"
+  },
+  {
+    "place": 27,
+    "country": "NED",
+    "mark": "Did not finish",
+    "name": "Eltjo M.J. SCHUTTER"
+  },
+  {
+    "place": 28,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Keikki Olavi LEPPANEN"
+  },
+  {
+    "place": 29,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Mike CORDEN"
+  },
+  {
+    "place": 30,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Yves LE ROY"
+  }
+]

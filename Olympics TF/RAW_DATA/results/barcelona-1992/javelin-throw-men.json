@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "TCH",
+    "mark": "89.66",
+    "name": "Jan ŽELEZNÝ"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "86.60",
+    "name": "Seppo Henrik RATY"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "83.38",
+    "name": "Steve BACKLEY"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "82.62",
+    "name": "Kimmo Paavali KINNUNEN"
+  },
+  {
+    "place": 5,
+    "country": "ISL",
+    "mark": "80.34",
+    "name": "Sigurdur EINARSSON"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "79.20",
+    "name": "Juha Lauri LAUKKANEN"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "78.64",
+    "name": "Michael H. BARNETT"
+  },
+  {
+    "place": 8,
+    "country": "EUN",
+    "mark": "77.74",
+    "name": "Andrey SHEVCHUK"
+  },
+  {
+    "place": 9,
+    "country": "NZL",
+    "mark": "77.08",
+    "name": "Gavin Brian LOVEGROVE"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "76.72",
+    "name": "Thomas PUKSTYS"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "75.50",
+    "name": "Michael Christopher HILL"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "75.28",
+    "name": "Volker HADWICH"
+  }
+]

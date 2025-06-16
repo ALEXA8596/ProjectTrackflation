@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "SWE",
+    "mark": "6.02",
+    "name": "Armand DUPLANTIS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "5.97",
+    "name": "Christopher NILSEN"
+  },
+  {
+    "place": 3,
+    "country": "BRA",
+    "mark": "5.87",
+    "name": "Thiago BRAZ"
+  },
+  {
+    "place": 4,
+    "country": "GRE",
+    "mark": "5.80",
+    "name": "Emmanouil KARALIS"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "5.80",
+    "name": "Kc LIGHTFOOT"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "5.80",
+    "name": "Piotr LISEK"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "5.80",
+    "name": "Harry COPPELL"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "5.70",
+    "name": "Renaud LAVILLENIE"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "5.70",
+    "name": "Oleg ZERNIKEL"
+  },
+  {
+    "place": 10,
+    "country": "TUR",
+    "mark": "5.70",
+    "name": "Ersu SASMA"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "5.70",
+    "name": "Bo Kanda LITA BAEHRE"
+  },
+  {
+    "place": 12,
+    "country": "PHI",
+    "mark": "5.70",
+    "name": "Ernest John OBIENA"
+  },
+  {
+    "place": 13,
+    "country": "NED",
+    "mark": "5.55",
+    "name": "Menno VLOON"
+  },
+  {
+    "place": 14,
+    "country": "AUS",
+    "mark": "No mark",
+    "name": "Kurtis MARSCHALL"
+  }
+]

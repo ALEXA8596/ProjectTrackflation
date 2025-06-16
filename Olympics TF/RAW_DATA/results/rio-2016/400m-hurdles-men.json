@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "47.730",
+    "name": "Kerron CLEMENT"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "47.780",
+    "name": "Boniface Mucheru TUMUTI"
+  },
+  {
+    "place": 3,
+    "country": "TUR",
+    "mark": "47.920",
+    "name": "Yasmani COPELLO"
+  },
+  {
+    "place": 4,
+    "country": "IRL",
+    "mark": "47.970",
+    "name": "Thomas BARR"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "48.070",
+    "name": "Annsert WHYTE"
+  },
+  {
+    "place": 6,
+    "country": "EST",
+    "mark": "48.400",
+    "name": "Rasmus MAGI"
+  },
+  {
+    "place": 7,
+    "country": "KEN",
+    "mark": "49.090",
+    "name": "Haron KOECH"
+  },
+  {
+    "place": 8,
+    "country": "PUR",
+    "mark": "Disqualified",
+    "name": "Javier CULSON"
+  }
+]

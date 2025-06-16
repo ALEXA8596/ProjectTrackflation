@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "21.83",
+    "name": "Gabrielle THOMAS"
+  },
+  {
+    "place": 2,
+    "country": "LCA",
+    "mark": "22.08",
+    "name": "Julien ALFRED"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "22.20",
+    "name": "Brittany BROWN"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "22.22",
+    "name": "Dina ASHER-SMITH"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "22.23",
+    "name": "Daryll NEITA"
+  },
+  {
+    "place": 6,
+    "country": "NGR",
+    "mark": "22.24",
+    "name": "Favour OFILI"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "22.42",
+    "name": "McKenzie LONG"
+  },
+  {
+    "place": 8,
+    "country": "CIV",
+    "mark": "22.70",
+    "name": "Jessika GBAI"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "68.27",
+    "name": "Robert HARTING"
+  },
+  {
+    "place": 2,
+    "country": "IRI",
+    "mark": "68.18",
+    "name": "Ehsan HADADI"
+  },
+  {
+    "place": 3,
+    "country": "EST",
+    "mark": "68.03",
+    "name": "Gerd KANTER"
+  },
+  {
+    "place": 4,
+    "country": "LTU",
+    "mark": "67.38",
+    "name": "Virgilijus ALEKNA"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "67.19",
+    "name": "Piotr MALACHOWSKI"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "65.85",
+    "name": "Martin WIERIG"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "65.56",
+    "name": "Frank CASANAS"
+  },
+  {
+    "place": 8,
+    "country": "IND",
+    "mark": "64.79",
+    "name": "Vikas GOWDA"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "63.59",
+    "name": "Benn HARRADINE"
+  },
+  {
+    "place": 10,
+    "country": "NED",
+    "mark": "62.78",
+    "name": "Erik CADEE"
+  },
+  {
+    "place": 11,
+    "country": "CUB",
+    "mark": "62.02",
+    "name": "Jorge FERNANDEZ"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "61.03",
+    "name": "Lawrence OKOYE"
+  }
+]

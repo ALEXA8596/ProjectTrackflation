@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:09:03.800",
+    "name": "Volmari ISO-HOLLO"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "00:09:06.800",
+    "name": "Kaarlo Jalmari TUOMINEN"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "00:09:07.200",
+    "name": "Alfred DOMPERT"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "00:09:09.000",
+    "name": "Martti MATILAINEN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:09:11.200",
+    "name": "Harold William MANNING"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "00:09:16.600",
+    "name": "Lars LARSSON"
+  },
+  {
+    "place": 7,
+    "country": "LAT",
+    "mark": "00:09:18.800",
+    "name": "Voldemārs VĪTOLS"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:09:21.100",
+    "name": "Glen Wilson DAWSON"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "00:09:26.400",
+    "name": "Wilhelm (Willi) HEYN"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "00:09:29.400",
+    "name": "Joseph Paul MCCLUSKEY"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "00:09:40.800",
+    "name": "Roger REROLLE"
+  },
+  {
+    "place": 12,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Harry HOLMQVIST"
+  },
+  {
+    "place": 13,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Ferdinand FRIEBE"
+  },
+  {
+    "place": 14,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "René GEERAERT"
+  },
+  {
+    "place": 15,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Konstantin GHOUTIS"
+  },
+  {
+    "place": 16,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Stavros VELKOPOULOS"
+  },
+  {
+    "place": 17,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Raunak SINGH GILL"
+  }
+]

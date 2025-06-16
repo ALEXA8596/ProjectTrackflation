@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "7.825",
+    "name": "William Samuel STEELE"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "7.555",
+    "name": "Thomas Theodore BRUCE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "7.545",
+    "name": "Herbert Paul Jr. DOUGLAS"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "7.45",
+    "name": "Lorenzo Christopher WRIGHT"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "7.27",
+    "name": "Prince Adegboyega ADEDOYIN"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "7.07",
+    "name": "Geogres Etienne DAMITIO"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "7.03",
+    "name": "Harold WHITTLE"
+  },
+  {
+    "place": 8,
+    "country": "AUT",
+    "mark": "7.00",
+    "name": "Felix WÜRTH"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "6.935",
+    "name": "Henry Edward ASKEW"
+  },
+  {
+    "place": 10,
+    "country": "ARG",
+    "mark": "6.80",
+    "name": "Enrique KISTENMACHER"
+  },
+  {
+    "place": 11,
+    "country": "POL",
+    "mark": "6.735",
+    "name": "Edward ADAMCZYK"
+  },
+  {
+    "place": 12,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Jack PARRY"
+  },
+  {
+    "place": 13,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "George Gordon AVERY"
+  },
+  {
+    "place": 14,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Peter MULLINS"
+  },
+  {
+    "place": 15,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Geraldo DE OLIVEIRA"
+  },
+  {
+    "place": 16,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Lionel Joseph FOURNIER"
+  },
+  {
+    "place": 17,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Rene VALMY"
+  }
+]

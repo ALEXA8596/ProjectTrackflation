@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "00:03:50.000",
+    "name": "Matthew CENTROWITZ"
+  },
+  {
+    "place": 2,
+    "country": "ALG",
+    "mark": "00:03:50.110",
+    "name": "Taoufik MAKHLOUFI"
+  },
+  {
+    "place": 3,
+    "country": "NZL",
+    "mark": "00:03:50.240",
+    "name": "Nick WILLIS"
+  },
+  {
+    "place": 4,
+    "country": "DJI",
+    "mark": "00:03:50.290",
+    "name": "Ayanleh SOULEIMAN"
+  },
+  {
+    "place": 5,
+    "country": "MAR",
+    "mark": "00:03:50.580",
+    "name": "Abdalaati IGUIDER"
+  },
+  {
+    "place": 6,
+    "country": "KEN",
+    "mark": "00:03:50.870",
+    "name": "Asbel KIPROP"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "00:03:51.060",
+    "name": "David BUSTOS"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:03:51.090",
+    "name": "Ben BLANKENSHIP"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "00:03:51.390",
+    "name": "Ryan GREGSON"
+  },
+  {
+    "place": 10,
+    "country": "CAN",
+    "mark": "00:03:51.450",
+    "name": "Nathan BRANNEN"
+  },
+  {
+    "place": 11,
+    "country": "UGA",
+    "mark": "00:03:51.680",
+    "name": "Ronald MUSAGALA"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "00:03:51.730",
+    "name": "Charlie GRICE"
+  },
+  {
+    "place": 13,
+    "country": "KEN",
+    "mark": "00:03:56.760",
+    "name": "Ronald KWEMOI"
+  },
+  {
+    "place": 14,
+    "country": "ETH",
+    "mark": "Did not start",
+    "name": "Aman WOTE"
+  }
+]

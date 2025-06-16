@@ -1,0 +1,134 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "00:13:12.520",
+    "name": "Dieter BAUMANN"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:13:12.710",
+    "name": "Paul BITOK"
+  },
+  {
+    "place": 3,
+    "country": "ETH",
+    "mark": "00:13:13.030",
+    "name": "Fita BAYISSA"
+  },
+  {
+    "place": 4,
+    "country": "MAR",
+    "mark": "00:13:13.270",
+    "name": "Moulay Brahim BOUTAYEB"
+  },
+  {
+    "place": 5,
+    "country": "KEN",
+    "mark": "00:13:17.500",
+    "name": "Yobes ONDIEKI"
+  },
+  {
+    "place": 6,
+    "country": "ETH",
+    "mark": "00:13:23.520",
+    "name": "Worku BIKILA"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "00:13:27.760",
+    "name": "Robert Neil DENMARK"
+  },
+  {
+    "place": 8,
+    "country": "ESP",
+    "mark": "00:13:27.800",
+    "name": "Abel ANTON RODRIGO"
+  },
+  {
+    "place": 9,
+    "country": "MAR",
+    "mark": "00:13:28.970",
+    "name": "Mohamed ISSANGAR"
+  },
+  {
+    "place": 10,
+    "country": "TAN",
+    "mark": "00:13:37.200",
+    "name": "Andrew SAMBU"
+  },
+  {
+    "place": 11,
+    "country": "POR",
+    "mark": "00:13:38.080",
+    "name": "Domingos CASTRO"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "00:13:39.720",
+    "name": "KENNEDY"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "00:13:43.390",
+    "name": "Pascal THIEBAULT"
+  },
+  {
+    "place": 14,
+    "country": "KEN",
+    "mark": "00:13:45.160",
+    "name": "Dominic KIRUI"
+  },
+  {
+    "place": 15,
+    "country": "NED",
+    "mark": "00:13:48.320",
+    "name": "Marcel VERSTEEG"
+  },
+  {
+    "place": 16,
+    "country": "ITA",
+    "mark": "00:14:02.470",
+    "name": "Salvatore ANTIBO"
+  },
+  {
+    "place": 17,
+    "country": "YEM",
+    "mark": "Did not start",
+    "name": "Hussein Salah JOAIM"
+  },
+  {
+    "place": 18,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Antonio Fabian SILIO"
+  },
+  {
+    "place": 19,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Vincent ROUSSEAU"
+  },
+  {
+    "place": 20,
+    "country": "HON",
+    "mark": "Did not start",
+    "name": "Polin BELISLE"
+  },
+  {
+    "place": 21,
+    "country": "FIJ",
+    "mark": "Did not start",
+    "name": "Davendra Prakash SINGH"
+  },
+  {
+    "place": 22,
+    "country": "COD",
+    "mark": "Did not start",
+    "name": "Willy KALOMBO"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "16.20",
+    "name": "Hans WOELLKE"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "16.12",
+    "name": "Sulo BÄRLUND"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "15.66",
+    "name": "Gerhard STÖCK"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "15.45",
+    "name": "Samuel Harrison FRANCIS"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "15.38",
+    "name": "Johan TORRANCE"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "15.32",
+    "name": "Dmitri Nickitovitch ZAITZ"
+  },
+  {
+    "place": 7,
+    "country": "TCH",
+    "mark": "15.28",
+    "name": "Frantisek DOUDA"
+  },
+  {
+    "place": 8,
+    "country": "EST",
+    "mark": "15.23",
+    "name": "Arnold VIIDING"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "15.01",
+    "name": "Gunnar BERGH"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "14.79",
+    "name": "Hans-Heinrich SIEVERT"
+  },
+  {
+    "place": 11,
+    "country": "YUG",
+    "mark": "14.74",
+    "name": "Aleksa KOVACEVIC"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "14.63",
+    "name": "Jozsef DARANYI"
+  },
+  {
+    "place": 13,
+    "country": "FIN",
+    "mark": "14.61",
+    "name": "Risto KUNTSI"
+  },
+  {
+    "place": 14,
+    "country": "HUN",
+    "mark": "14.32",
+    "name": "Istvan HORVATH"
+  },
+  {
+    "place": 15,
+    "country": "TCH",
+    "mark": "14.12",
+    "name": "Karel HOPLICEK"
+  },
+  {
+    "place": 16,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Friedrich COUFAL"
+  },
+  {
+    "place": 17,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Robert VETTER"
+  },
+  {
+    "place": 18,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Johann WOTAPEK"
+  },
+  {
+    "place": 19,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Hans CONRADS"
+  },
+  {
+    "place": 20,
+    "country": "CHN",
+    "mark": "Did not start",
+    "name": "Jie GUO"
+  },
+  {
+    "place": 21,
+    "country": "CHN",
+    "mark": "Did not start",
+    "name": "Peigen LENG"
+  },
+  {
+    "place": 22,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Felix ERAUZQUIN ERAUZQUIN"
+  },
+  {
+    "place": 23,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Paul BOURRON"
+  },
+  {
+    "place": 24,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Horia PIETRARU"
+  },
+  {
+    "place": 25,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Ioannis SERAIDARIS"
+  },
+  {
+    "place": 26,
+    "country": "ISL",
+    "mark": "Did not start",
+    "name": "Kristjan VATTNES"
+  },
+  {
+    "place": 27,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Eiichiro MATSUNO"
+  },
+  {
+    "place": 28,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Zygmunt HELJASZ"
+  },
+  {
+    "place": 29,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Harold ANDERSSON"
+  },
+  {
+    "place": 30,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Ake HEDVALL"
+  },
+  {
+    "place": 31,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Nikola VUČEVIĆ"
+  }
+]

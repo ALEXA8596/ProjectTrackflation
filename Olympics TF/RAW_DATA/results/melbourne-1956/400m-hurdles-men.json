@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "50.100",
+    "name": "Glenn Ashby DAVIS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "50.800",
+    "name": "Silas Edward SOUTHERN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "51.600",
+    "name": "Joshua CULBREATH"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "51.700",
+    "name": "Yury LITUYEV"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "51.800",
+    "name": "David Francis LEAN"
+  },
+  {
+    "place": 6,
+    "country": "RSA",
+    "mark": "56.000",
+    "name": "Gerhardus Cornelius POTGIETER"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Igor ILYIN"
+  },
+  {
+    "place": 8,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Josef KOST"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Helmuth JANZ"
+  },
+  {
+    "place": 10,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Christian WAGLI"
+  }
+]

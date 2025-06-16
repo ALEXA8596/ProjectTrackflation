@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "BLR",
+    "mark": "20.56",
+    "name": "Yanina PRAVALINSKAY-KAROLCHYK"
+  },
+  {
+    "place": 2,
+    "country": "RUS",
+    "mark": "19.92",
+    "name": "Larisa PELESHENKO"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "19.62",
+    "name": "Astrid KUMBERNUSS"
+  },
+  {
+    "place": 4,
+    "country": "RUS",
+    "mark": "19.37",
+    "name": "Svetlana KRIVELYOVA"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "19.18",
+    "name": "Krystyna ZABAWSKA"
+  },
+  {
+    "place": 6,
+    "country": "CUB",
+    "mark": "18.70",
+    "name": "Yumileidi CUMBA"
+  },
+  {
+    "place": 7,
+    "country": "GRE",
+    "mark": "18.63",
+    "name": "Kalliopi OUZOUNI"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "18.49",
+    "name": "Nadine KLEINERT"
+  },
+  {
+    "place": 9,
+    "country": "NED",
+    "mark": "17.96",
+    "name": "Lieja TUNKS"
+  },
+  {
+    "place": 10,
+    "country": "RUS",
+    "mark": "17.85",
+    "name": "Olga RYABINKINA"
+  },
+  {
+    "place": 11,
+    "country": "CHN",
+    "mark": "17.85",
+    "name": "Xiaoyan CHENG"
+  },
+  {
+    "place": 12,
+    "country": "AUT",
+    "mark": "17.14",
+    "name": "Walentina FEDJUSCHINA"
+  }
+]

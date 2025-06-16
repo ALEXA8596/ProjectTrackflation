@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "19.750",
+    "name": "Joseph Nathaniel Jr. DELOACH"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "19.790",
+    "name": "Carl LEWIS"
+  },
+  {
+    "place": 3,
+    "country": "BRA",
+    "mark": "20.040",
+    "name": "Robson DA SILVA"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "20.090",
+    "name": "Linford CHRISTIE"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "20.390",
+    "name": "Atlee MAHORN"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "20.400",
+    "name": "Gilles QUENEHERVE"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "20.510",
+    "name": "Michael ROSSWESS"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "20.580",
+    "name": "Bruno MARIE-ROSE"
+  },
+  {
+    "place": 9,
+    "country": "KEN",
+    "mark": "Did not start",
+    "name": "Simeon KIPKEMBOI"
+  },
+  {
+    "place": 10,
+    "country": "LBR",
+    "mark": "Did not start",
+    "name": "Samuel BIRCH"
+  },
+  {
+    "place": 11,
+    "country": "TOG",
+    "mark": "Did not start",
+    "name": "Boeviyoulou LAWSON"
+  }
+]

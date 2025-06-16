@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "SWE",
+    "mark": "12.580",
+    "name": "Ludmila ENGQUIST"
+  },
+  {
+    "place": 2,
+    "country": "SLO",
+    "mark": "12.590",
+    "name": "Brigitta BUKOVEC"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "12.650",
+    "name": "Patricia GIRARD"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "12.660",
+    "name": "Yolanda Gail DEVERS-ROBERTS"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "12.740",
+    "name": "Dionne Marie ROSE"
+  },
+  {
+    "place": 6,
+    "country": "JAM",
+    "mark": "12.760",
+    "name": "Michele FREEMAN"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "13.110",
+    "name": "Lynda TOLBERT-GOODE"
+  },
+  {
+    "place": 8,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Natalya SHEKHODANOVA"
+  }
+]

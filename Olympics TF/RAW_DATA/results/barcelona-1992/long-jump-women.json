@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "7.14",
+    "name": "Heike DRECHSLER"
+  },
+  {
+    "place": 2,
+    "country": "EUN",
+    "mark": "7.12",
+    "name": "Inessa KRAVETS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "7.07",
+    "name": "Jackie JOYNER-KERSEE"
+  },
+  {
+    "place": 4,
+    "country": "ROU",
+    "mark": "6.71",
+    "name": "Mirela DULGHERU"
+  },
+  {
+    "place": 5,
+    "country": "EUN",
+    "mark": "6.68",
+    "name": "Irina MUCHAILOVA"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "6.66",
+    "name": "Sharon COUCH"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "6.62",
+    "name": "Sheila ECHOLS"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "6.60",
+    "name": "Susen TIEDTKE"
+  },
+  {
+    "place": 9,
+    "country": "ISV",
+    "mark": "6.52",
+    "name": "Flora HYACINTH"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "6.41",
+    "name": "Agata KARCZMAREK"
+  },
+  {
+    "place": 11,
+    "country": "DEN",
+    "mark": "6.06",
+    "name": "Renata NIELSEN"
+  },
+  {
+    "place": 12,
+    "country": "LTU",
+    "mark": "Disqualified",
+    "name": "Nijole MEDVEDEVA"
+  },
+  {
+    "place": 13,
+    "country": "COD",
+    "mark": "Did not start",
+    "name": "Muyegbe MUBALA"
+  }
+]

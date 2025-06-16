@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "LCA",
+    "mark": "10.72",
+    "name": "Julien ALFRED"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.87",
+    "name": "Sha'Carri RICHARDSON"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "10.92",
+    "name": "Melissa JEFFERSON"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "10.96",
+    "name": "Daryll NEITA"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "10.97",
+    "name": "Twanisha TERRY"
+  },
+  {
+    "place": 6,
+    "country": "SUI",
+    "mark": "10.99",
+    "name": "Mujinga KAMBUNDJI"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "11.04",
+    "name": "Tia CLAYTON"
+  },
+  {
+    "place": 8,
+    "country": "CIV",
+    "mark": "13.84",
+    "name": "Marie-Josee TA LOU"
+  }
+]

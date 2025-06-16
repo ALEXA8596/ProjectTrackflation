@@ -1,0 +1,182 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "00:28:45.600",
+    "name": "Vladimir KUTS"
+  },
+  {
+    "place": 2,
+    "country": "HUN",
+    "mark": "00:28:52.400",
+    "name": "Jozsef KOVACS"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "00:28:53.600",
+    "name": "Allan LAWRENCE"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "00:29:05.000",
+    "name": "Zdzislaw KRZYSZKOWIAK"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:29:21.600",
+    "name": "Kenneth Leonard NORRIS"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "00:29:31.600",
+    "name": "Ivan CHERNYAVSKY"
+  },
+  {
+    "place": 7,
+    "country": "AUS",
+    "mark": "00:29:49.200",
+    "name": "David POWER"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "00:29:49.600",
+    "name": "Gordon PIRIE"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "00:30:00.600",
+    "name": "Herbert SCHADE"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "00:30:05.000",
+    "name": "Frank Dennis SANDO"
+  },
+  {
+    "place": 11,
+    "country": "TCH",
+    "mark": "00:30:06.000",
+    "name": "Pavel KANTOREK"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "00:30:18.000",
+    "name": "Alain MIMOUN"
+  },
+  {
+    "place": 13,
+    "country": "GER",
+    "mark": "00:30:30.000",
+    "name": "Walter KONRAD"
+  },
+  {
+    "place": 14,
+    "country": "USA",
+    "mark": "00:30:34.400",
+    "name": "Gordon Edmund MCKENZIE"
+  },
+  {
+    "place": 15,
+    "country": "SWE",
+    "mark": "00:30:57.000",
+    "name": "Rune AHLUND"
+  },
+  {
+    "place": 16,
+    "country": "USA",
+    "mark": "00:31:06.800",
+    "name": "Richard Lewis HART"
+  },
+  {
+    "place": 17,
+    "country": "FIN",
+    "mark": "00:31:10.600",
+    "name": "Ilmari Rikhard TAIPALE"
+  },
+  {
+    "place": 18,
+    "country": "CAN",
+    "mark": "00:31:21.000",
+    "name": "Douglas H. KYLE"
+  },
+  {
+    "place": 19,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Max Edwin TRUEX"
+  },
+  {
+    "place": 20,
+    "country": "MYA",
+    "mark": "Did not finish",
+    "name": "Naw MYINTUNG"
+  },
+  {
+    "place": 21,
+    "country": "ETH",
+    "mark": "Did not start",
+    "name": "Demissie GAMATCHO"
+  },
+  {
+    "place": 22,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Olavi Osvald RINTENPAA"
+  },
+  {
+    "place": 23,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Miklos SZABO"
+  },
+  {
+    "place": 24,
+    "country": "IRI",
+    "mark": "Did not start",
+    "name": "Ali BAGHBANBASHI"
+  },
+  {
+    "place": 25,
+    "country": "KEN",
+    "mark": "Did not start",
+    "name": "Arere ANENTIA"
+  },
+  {
+    "place": 26,
+    "country": "KEN",
+    "mark": "Did not start",
+    "name": "Kanuti SUM"
+  },
+  {
+    "place": 27,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Jerzy CHROMIK"
+  },
+  {
+    "place": 28,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Jan BARNARD"
+  },
+  {
+    "place": 29,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Mercer John DAVIES"
+  },
+  {
+    "place": 30,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Emil ZATOPEK"
+  }
+]

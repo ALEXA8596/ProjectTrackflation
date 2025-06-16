@@ -1,0 +1,116 @@
+[
+  {
+    "place": 1,
+    "country": "BDI",
+    "mark": "00:13:07.960",
+    "name": "Venuste NIYONGABO"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:13:08.160",
+    "name": "Paul BITOK"
+  },
+  {
+    "place": 3,
+    "country": "MAR",
+    "mark": "00:13:08.370",
+    "name": "Khalid BOULAMI"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "00:13:08.810",
+    "name": "Dieter BAUMANN"
+  },
+  {
+    "place": 5,
+    "country": "KEN",
+    "mark": "00:13:12.290",
+    "name": "Tom NYARIKI"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:13:12.350",
+    "name": "KENNEDY"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "00:13:12.910",
+    "name": "Enrique MOLINA"
+  },
+  {
+    "place": 8,
+    "country": "MAR",
+    "mark": "00:13:13.260",
+    "name": "Brahim LAHLAFI"
+  },
+  {
+    "place": 9,
+    "country": "KEN",
+    "mark": "00:13:14.630",
+    "name": "Shem KORORIA"
+  },
+  {
+    "place": 10,
+    "country": "ETH",
+    "mark": "00:13:18.300",
+    "name": "Fita BAYISSA"
+  },
+  {
+    "place": 11,
+    "country": "MAR",
+    "mark": "00:13:22.890",
+    "name": "Ismail SGHYR"
+  },
+  {
+    "place": 12,
+    "country": "ITA",
+    "mark": "00:13:28.360",
+    "name": "Gennaro DI NAPOLI"
+  },
+  {
+    "place": 13,
+    "country": "ALG",
+    "mark": "00:13:42.340",
+    "name": "Reda BENZINE"
+  },
+  {
+    "place": 14,
+    "country": "GER",
+    "mark": "00:13:44.640",
+    "name": "Stephane Oliver FRANKE"
+  },
+  {
+    "place": 15,
+    "country": "ALG",
+    "mark": "00:14:06.520",
+    "name": "Aissa BELAOUT"
+  },
+  {
+    "place": 16,
+    "country": "BDI",
+    "mark": "Did not start",
+    "name": "Aloys NIZIGAMA"
+  },
+  {
+    "place": 17,
+    "country": "ETH",
+    "mark": "Did not start",
+    "name": "Haile GEBRSELASSIE"
+  },
+  {
+    "place": 18,
+    "country": "KSA",
+    "mark": "Did not start",
+    "name": "Alyan AL-QAHTANI"
+  },
+  {
+    "place": 19,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Armando QUINTANILLA"
+  }
+]

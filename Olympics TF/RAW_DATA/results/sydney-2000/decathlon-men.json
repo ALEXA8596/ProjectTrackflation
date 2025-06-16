@@ -1,0 +1,230 @@
+[
+  {
+    "place": 1,
+    "country": "EST",
+    "mark": "8641",
+    "name": "Erki NOOL"
+  },
+  {
+    "place": 2,
+    "country": "CZE",
+    "mark": "8606",
+    "name": "Roman SEBRLE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "8595",
+    "name": "Chris HUFFINS"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "8567",
+    "name": "Dean MACEY"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "8425",
+    "name": "Tom PAPPAS"
+  },
+  {
+    "place": 6,
+    "country": "CZE",
+    "mark": "8385",
+    "name": "Tomas DVORAK"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "8351",
+    "name": "Frank BUSEMANN"
+  },
+  {
+    "place": 8,
+    "country": "HUN",
+    "mark": "8277",
+    "name": "Attila ZSIVOCZKY"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "8206",
+    "name": "Stefan SCHMID"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "8178",
+    "name": "Henrik DAGAARD"
+  },
+  {
+    "place": 11,
+    "country": "HUN",
+    "mark": "8149",
+    "name": "Zsolt KURTOSI"
+  },
+  {
+    "place": 12,
+    "country": "POR",
+    "mark": "8136",
+    "name": "Mario ANIBAL"
+  },
+  {
+    "place": 13,
+    "country": "RUS",
+    "mark": "8071",
+    "name": "Lev LOBODIN"
+  },
+  {
+    "place": 14,
+    "country": "CZE",
+    "mark": "8056",
+    "name": "Jiri RYBA"
+  },
+  {
+    "place": 15,
+    "country": "CUB",
+    "mark": "8054",
+    "name": "Raul DUANY"
+  },
+  {
+    "place": 16,
+    "country": "UKR",
+    "mark": "7993",
+    "name": "Olexandr YURKOV"
+  },
+  {
+    "place": 17,
+    "country": "EST",
+    "mark": "7932",
+    "name": "Indrek KASEORG"
+  },
+  {
+    "place": 18,
+    "country": "AUT",
+    "mark": "7917",
+    "name": "Klaus AMBROSCH"
+  },
+  {
+    "place": 19,
+    "country": "FRA",
+    "mark": "7909",
+    "name": "Laurent HERNU"
+  },
+  {
+    "place": 20,
+    "country": "FRA",
+    "mark": "7821",
+    "name": "Wilfrid BOULINEAU"
+  },
+  {
+    "place": 21,
+    "country": "USA",
+    "mark": "7726",
+    "name": "Kip JANVRIN"
+  },
+  {
+    "place": 22,
+    "country": "UKR",
+    "mark": "7676",
+    "name": "Volodymyr MYKHAYLENKO"
+  },
+  {
+    "place": 23,
+    "country": "UKR",
+    "mark": "7652",
+    "name": "Fedir LAUKHIN"
+  },
+  {
+    "place": 24,
+    "country": "FIN",
+    "mark": "7520",
+    "name": "Eduard HAMALAINEN"
+  },
+  {
+    "place": 25,
+    "country": "GER",
+    "mark": "7228",
+    "name": "Mike MACZEY"
+  },
+  {
+    "place": 26,
+    "country": "CUB",
+    "mark": "Did not finish",
+    "name": "Eugenio BALANQUE"
+  },
+  {
+    "place": 27,
+    "country": "JAM",
+    "mark": "Did not finish",
+    "name": "Claston BERNARD"
+  },
+  {
+    "place": 28,
+    "country": "GRE",
+    "mark": "Did not finish",
+    "name": "Prodromos KORKIZOGLOU"
+  },
+  {
+    "place": 29,
+    "country": "AUS",
+    "mark": "Did not finish",
+    "name": "Scott FERRIER"
+  },
+  {
+    "place": 30,
+    "country": "RUS",
+    "mark": "Did not finish",
+    "name": "Roman RAZBEYKO"
+  },
+  {
+    "place": 31,
+    "country": "CYP",
+    "mark": "Did not finish",
+    "name": "George ANDREOU"
+  },
+  {
+    "place": 32,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Aki HEIKKINEN"
+  },
+  {
+    "place": 33,
+    "country": "NOR",
+    "mark": "Did not finish",
+    "name": "Trond HOEIBY"
+  },
+  {
+    "place": 34,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Sebastien LEVICQ"
+  },
+  {
+    "place": 35,
+    "country": "ISL",
+    "mark": "Did not finish",
+    "name": "Jon Arnar MAGNUSSON"
+  },
+  {
+    "place": 36,
+    "country": "ESP",
+    "mark": "Did not finish",
+    "name": "Francisco Javier BENET"
+  },
+  {
+    "place": 37,
+    "country": "SUI",
+    "mark": "Did not finish",
+    "name": "Philipp HUBER"
+  },
+  {
+    "place": 38,
+    "country": "UZB",
+    "mark": "Did not finish",
+    "name": "Oleg VERETELNIKOV"
+  }
+]

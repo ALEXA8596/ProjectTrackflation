@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "43.500",
+    "name": "Quincy WATTS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "44.210",
+    "name": "Steve LEWIS"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "44.240",
+    "name": "Samson KITUR"
+  },
+  {
+    "place": 4,
+    "country": "TTO",
+    "mark": "44.250",
+    "name": "Ian MORRIS"
+  },
+  {
+    "place": 5,
+    "country": "CUB",
+    "mark": "44.520",
+    "name": "Roberto HERNANDEZ PRENDES"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "44.750",
+    "name": "David Allan GRINDLEY"
+  },
+  {
+    "place": 7,
+    "country": "QAT",
+    "mark": "45.100",
+    "name": "Ibrahim Ismail MUFTAH"
+  },
+  {
+    "place": 8,
+    "country": "JPN",
+    "mark": "45.180",
+    "name": "Susumu TAKANO"
+  },
+  {
+    "place": 9,
+    "country": "VIN",
+    "mark": "Did not start",
+    "name": "Michael WILLIAMS"
+  }
+]

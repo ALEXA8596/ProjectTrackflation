@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "RSA",
+    "mark": "43.030",
+    "name": "Wayde VAN NIEKERK"
+  },
+  {
+    "place": 2,
+    "country": "GRN",
+    "mark": "43.760",
+    "name": "Kirani JAMES"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "43.850",
+    "name": "Lashawn MERRITT"
+  },
+  {
+    "place": 4,
+    "country": "TTO",
+    "mark": "44.010",
+    "name": "Machel CEDENIO"
+  },
+  {
+    "place": 5,
+    "country": "BOT",
+    "mark": "44.250",
+    "name": "Karabo SIBANDA"
+  },
+  {
+    "place": 6,
+    "country": "BRN",
+    "mark": "44.360",
+    "name": "Ali Khamis KHAMIS"
+  },
+  {
+    "place": 7,
+    "country": "GRN",
+    "mark": "44.450",
+    "name": "Bralon TAPLIN"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "44.610",
+    "name": "Matthew HUDSON-SMITH"
+  }
+]

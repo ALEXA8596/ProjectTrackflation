@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "GRE",
+    "mark": "4.85",
+    "name": "Katerina STEFANIDI"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "4.85",
+    "name": "Sandi MORRIS"
+  },
+  {
+    "place": 3,
+    "country": "NZL",
+    "mark": "4.80",
+    "name": "Eliza MCCARTNEY"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "4.80",
+    "name": "Alana BOYD"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "4.70",
+    "name": "Holly BLEASDALE-BRADSHAW"
+  },
+  {
+    "place": 6,
+    "country": "SUI",
+    "mark": "4.70",
+    "name": "Nicole BUCHLER"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "4.60",
+    "name": "Jennifer SUHR"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "4.60",
+    "name": "Yarisley SILVA"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "4.60",
+    "name": "Martina STRUTZ"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "4.50",
+    "name": "Lisa RYZIH"
+  },
+  {
+    "place": 11,
+    "country": "SLO",
+    "mark": "4.50",
+    "name": "Tina SUTEJ"
+  },
+  {
+    "place": 12,
+    "country": "CAN",
+    "mark": "4.50",
+    "name": "Kelsie AHBE"
+  },
+  {
+    "place": 13,
+    "country": "VEN",
+    "mark": "Did not start",
+    "name": "Robeilys PEINADO"
+  },
+  {
+    "place": 14,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Nikoleta KYRIAKOPOULOU"
+  }
+]

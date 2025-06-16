@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "66.64",
+    "name": "Viktor RASHCHUPKIN"
+  },
+  {
+    "place": 2,
+    "country": "TCH",
+    "mark": "66.38",
+    "name": "Imrich BUGAR"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "66.32",
+    "name": "Luis DELIS"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "65.64",
+    "name": "Wolfgang SCHMIDT"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "65.58",
+    "name": "Yuri DUMCHEV"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "64.04",
+    "name": "Igor DUGINETS"
+  },
+  {
+    "place": 7,
+    "country": "BUL",
+    "mark": "63.18",
+    "name": "Emil VLADIMIROV"
+  },
+  {
+    "place": 8,
+    "country": "BUL",
+    "mark": "63.04",
+    "name": "Velko VELEV"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "61.84",
+    "name": "Markku TUOKKO"
+  },
+  {
+    "place": 10,
+    "country": "CUB",
+    "mark": "61.52",
+    "name": "Jose SANTA CRUZ"
+  },
+  {
+    "place": 11,
+    "country": "GDR",
+    "mark": "61.14",
+    "name": "Hilmar HOSSFELD"
+  },
+  {
+    "place": 12,
+    "country": "SWE",
+    "mark": "60.24",
+    "name": "Kenth GARDENKRANS"
+  }
+]

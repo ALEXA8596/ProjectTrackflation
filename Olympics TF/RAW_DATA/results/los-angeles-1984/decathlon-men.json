@@ -1,0 +1,152 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "556",
+    "name": "Daley THOMPSON"
+  },
+  {
+    "place": 2,
+    "country": "FRG",
+    "mark": "641",
+    "name": "Jurgen HINGSEN"
+  },
+  {
+    "place": 3,
+    "country": "FRG",
+    "mark": "563",
+    "name": "Siegfried WENTZ"
+  },
+  {
+    "place": 4,
+    "country": "FRG",
+    "mark": "476",
+    "name": "Guido KRATSCHMER"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "555",
+    "name": "William MOTTI"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "632",
+    "name": "John Harrison CRIST"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "600",
+    "name": "James Dale WOODING"
+  },
+  {
+    "place": 8,
+    "country": "CAN",
+    "mark": "676",
+    "name": "David STEEN"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "685",
+    "name": "Georg WERTHNER"
+  },
+  {
+    "place": 10,
+    "country": "SUI",
+    "mark": "527",
+    "name": "Michele RÜFENACHT"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "623",
+    "name": "Bradley MCSTRAVICK"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "469",
+    "name": "Timothy William BRIGHT"
+  },
+  {
+    "place": 13,
+    "country": "SUI",
+    "mark": "435",
+    "name": "Patrick VETTERLI"
+  },
+  {
+    "place": 14,
+    "country": "AUS",
+    "mark": "617",
+    "name": "Peter HADFIELD"
+  },
+  {
+    "place": 15,
+    "country": "CHN",
+    "mark": "562",
+    "name": "Kang-Qiang WENG"
+  },
+  {
+    "place": 16,
+    "country": "TPE",
+    "mark": "460",
+    "name": "Chin-shui KU"
+  },
+  {
+    "place": 17,
+    "country": "NOR",
+    "mark": "506",
+    "name": "Trond SKRAMSTAD"
+  },
+  {
+    "place": 18,
+    "country": "VEN",
+    "mark": "631",
+    "name": "Douglas FERNANDEZ"
+  },
+  {
+    "place": 19,
+    "country": "TPE",
+    "mark": "489",
+    "name": "Fu-An LEE"
+  },
+  {
+    "place": 20,
+    "country": "GBR",
+    "mark": "573",
+    "name": "Colin Aubrey Geddes BOREHAM"
+  },
+  {
+    "place": 21,
+    "country": "QAT",
+    "mark": "552",
+    "name": "Mohamed Mansour SALAH"
+  },
+  {
+    "place": 22,
+    "country": "ECU",
+    "mark": "369",
+    "name": "Fidel SOLORZANO"
+  },
+  {
+    "place": 23,
+    "country": "GUA",
+    "mark": "615",
+    "name": "Angel DIAZ GRANILLO"
+  },
+  {
+    "place": 24,
+    "country": "MRI",
+    "mark": "614",
+    "name": "Vivian CORALIE"
+  },
+  {
+    "place": 25,
+    "country": "FIJ",
+    "mark": "Did not finish",
+    "name": "Albert Barry MILLER"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "12.950",
+    "name": "Allen JOHNSON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.090",
+    "name": "Mark CREAR"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "13.170",
+    "name": "Florian SCHWARTHOFF"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "13.190",
+    "name": "Colin JACKSON"
+  },
+  {
+    "place": 5,
+    "country": "CUB",
+    "mark": "13.200",
+    "name": "Emilio VALLE"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "13.230",
+    "name": "Eugene SWIFT"
+  },
+  {
+    "place": 7,
+    "country": "AUS",
+    "mark": "13.400",
+    "name": "Kyle VANDER-KUYP"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "13.430",
+    "name": "Erick BATTE"
+  },
+  {
+    "place": 9,
+    "country": "MAS",
+    "mark": "Did not start",
+    "name": "Nurherman MAJID"
+  },
+  {
+    "place": 10,
+    "country": "PAN",
+    "mark": "Did not start",
+    "name": "Curt YOUNG"
+  }
+]

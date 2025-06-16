@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "81.80",
+    "name": "Yury SEDYKH"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "80.64",
+    "name": "Sergey LITVINOV"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "78.96",
+    "name": "Juri Augustovitch TAMM"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "77.54",
+    "name": "Roland STEUK"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "74.60",
+    "name": "Detlef GERSTENBERG"
+  },
+  {
+    "place": 6,
+    "country": "BUL",
+    "mark": "74.04",
+    "name": "Emanuil DYULGEROV"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "73.90",
+    "name": "Gianpaolo URLANDO"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "73.74",
+    "name": "Ireneusz GOLDA"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "71.96",
+    "name": "Harri HUHTALA"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "71.38",
+    "name": "Juha TIAINEN"
+  },
+  {
+    "place": 11,
+    "country": "CUB",
+    "mark": "68.68",
+    "name": "Guillermo OROZCO"
+  },
+  {
+    "place": 12,
+    "country": "TCH",
+    "mark": "68.16",
+    "name": "Jiri CHAMRAD"
+  }
+]

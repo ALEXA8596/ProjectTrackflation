@@ -1,0 +1,224 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "354",
+    "name": "Robert MATHIAS"
+  },
+  {
+    "place": 2,
+    "country": "FRA",
+    "mark": "517",
+    "name": "Ignace HEINRICH"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "426",
+    "name": "Floyd Macon Jr. SIMMONS"
+  },
+  {
+    "place": 4,
+    "country": "ARG",
+    "mark": "478",
+    "name": "Enrique KISTENMACHER"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "589",
+    "name": "Erik P. ANDERSSON"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "321",
+    "name": "Peter MULLINS"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "575",
+    "name": "Per ERIKSSON"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "477",
+    "name": "Igving MONDSCHEIN"
+  },
+  {
+    "place": 9,
+    "country": "POL",
+    "mark": "406",
+    "name": "Edward ADAMCZYK"
+  },
+  {
+    "place": 10,
+    "country": "NOR",
+    "mark": "633",
+    "name": "Godtfred HOLMVANG"
+  },
+  {
+    "place": 11,
+    "country": "NOR",
+    "mark": "373",
+    "name": "Per STAVEM"
+  },
+  {
+    "place": 12,
+    "country": "ISL",
+    "mark": "375",
+    "name": "Örn CLAUSEN"
+  },
+  {
+    "place": 13,
+    "country": "FIN",
+    "mark": "426",
+    "name": "Yrjö MÄKELÄ"
+  },
+  {
+    "place": 14,
+    "country": "FRA",
+    "mark": "589",
+    "name": "Paul SPRECHER"
+  },
+  {
+    "place": 15,
+    "country": "SWE",
+    "mark": "387",
+    "name": "Kjell TANNANDER"
+  },
+  {
+    "place": 16,
+    "country": "POL",
+    "mark": "531",
+    "name": "Waclaw KUZMICKI"
+  },
+  {
+    "place": 17,
+    "country": "FIN",
+    "mark": "404",
+    "name": "Hannes SONCK"
+  },
+  {
+    "place": 18,
+    "country": "YUG",
+    "mark": "443",
+    "name": "Davorin MARCELJA"
+  },
+  {
+    "place": 19,
+    "country": "POL",
+    "mark": "320",
+    "name": "Witold GERUTTO"
+  },
+  {
+    "place": 20,
+    "country": "CHI",
+    "mark": "378",
+    "name": "Hernan FIGUEROA"
+  },
+  {
+    "place": 21,
+    "country": "URU",
+    "mark": "364",
+    "name": "Hercules ASCUNE"
+  },
+  {
+    "place": 22,
+    "country": "FRA",
+    "mark": "306",
+    "name": "Jacques CRETAINE"
+  },
+  {
+    "place": 23,
+    "country": "SUI",
+    "mark": "399",
+    "name": "Fritz NUSSBAUM"
+  },
+  {
+    "place": 24,
+    "country": "CHI",
+    "mark": "445",
+    "name": "Mario RECORDON BURNIER"
+  },
+  {
+    "place": 25,
+    "country": "CAN",
+    "mark": "347",
+    "name": "Lionel Joseph FOURNIER"
+  },
+  {
+    "place": 26,
+    "country": "BEL",
+    "mark": "407",
+    "name": "Albert DAYER"
+  },
+  {
+    "place": 27,
+    "country": "SUI",
+    "mark": "355",
+    "name": "Oskar GERBER"
+  },
+  {
+    "place": 28,
+    "country": "EGY",
+    "mark": "368",
+    "name": "Sayed Ezz El Din MOUKHTAR"
+  },
+  {
+    "place": 29,
+    "country": "IND",
+    "mark": "Did not finish",
+    "name": "Baldev SINGH"
+  },
+  {
+    "place": 30,
+    "country": "LIE",
+    "mark": "Did not finish",
+    "name": "Josef SEGER"
+  },
+  {
+    "place": 31,
+    "country": "YUG",
+    "mark": "Did not finish",
+    "name": "Oto REBULA"
+  },
+  {
+    "place": 32,
+    "country": "PER",
+    "mark": "Did not finish",
+    "name": "Eduardo JULVE CIRIACO"
+  },
+  {
+    "place": 33,
+    "country": "LUX",
+    "mark": "Did not finish",
+    "name": "René KREMER"
+  },
+  {
+    "place": 34,
+    "country": "LIE",
+    "mark": "Did not finish",
+    "name": "Gebhard BÜCHEL"
+  },
+  {
+    "place": 35,
+    "country": "SUI",
+    "mark": "Did not finish",
+    "name": "Armin SCHEURER"
+  },
+  {
+    "place": 36,
+    "country": "EGY",
+    "mark": "Did not start",
+    "name": "Rashad KHADR"
+  },
+  {
+    "place": 37,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Fernando Alex FERNANDES"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "21.600",
+    "name": "Jackson SCHOLZ"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "21.700",
+    "name": "Charles PADDOCK"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "21.900",
+    "name": "Eric Henry LIDDELL"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "22.000",
+    "name": "George Leroy HILL"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "22.000",
+    "name": "Bayes Marshall NORTON"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "22.300",
+    "name": "Harold ABRAHAMS"
+  },
+  {
+    "place": 7,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Fritz BÜRGER"
+  },
+  {
+    "place": 8,
+    "country": "EST",
+    "mark": "Did not start",
+    "name": "Herbert KUTTIM"
+  },
+  {
+    "place": 9,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Mazhar Nazım RESMER"
+  },
+  {
+    "place": 10,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Bohus FLEISCHER"
+  },
+  {
+    "place": 11,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Johannes BROCK"
+  },
+  {
+    "place": 12,
+    "country": "PHI",
+    "mark": "Did not start",
+    "name": "Fortunato CATALON"
+  },
+  {
+    "place": 13,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "E. Emilio CASANOVAS"
+  },
+  {
+    "place": 14,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Narciso Valdares COSTA"
+  },
+  {
+    "place": 15,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Leo Thorkild Oscar JÖRGENSEN"
+  },
+  {
+    "place": 16,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Poul SCHIANG"
+  },
+  {
+    "place": 17,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Hirsch DRISIN"
+  },
+  {
+    "place": 18,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Reijo Edvard HALME"
+  },
+  {
+    "place": 19,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Erkka WILÉN"
+  },
+  {
+    "place": 20,
+    "country": "LAT",
+    "mark": "Did not start",
+    "name": "Arturs GEDVILLO"
+  },
+  {
+    "place": 21,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Karel POTT"
+  },
+  {
+    "place": 22,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Lawrence BETTS"
+  },
+  {
+    "place": 23,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Christopher Lodwijk STEYN"
+  },
+  {
+    "place": 24,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Walter STREBI"
+  },
+  {
+    "place": 25,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Antonin SVOBODA"
+  },
+  {
+    "place": 26,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Henri COCKUYT"
+  }
+]

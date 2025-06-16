@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "00:01:45.860",
+    "name": "Dave WOTTLE"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "00:01:45.890",
+    "name": "Yevgeni ARZHANOV"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "00:01:46.010",
+    "name": "Mike BOIT"
+  },
+  {
+    "place": 4,
+    "country": "FRG",
+    "mark": "00:01:46.500",
+    "name": "Franz-Josef KEMPER"
+  },
+  {
+    "place": 5,
+    "country": "KEN",
+    "mark": "00:01:46.530",
+    "name": "Robert OUKO"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "00:01:46.550",
+    "name": "Andrew William CARTER"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "00:01:47.100",
+    "name": "Andrzej KUPCZYK"
+  },
+  {
+    "place": 8,
+    "country": "GDR",
+    "mark": "00:01:47.960",
+    "name": "Dieter FROMM"
+  },
+  {
+    "place": 9,
+    "country": "KSA",
+    "mark": "Did not start",
+    "name": "Saad Maaz ABDUL RAZAK"
+  },
+  {
+    "place": 10,
+    "country": "MAR",
+    "mark": "Did not start",
+    "name": "Mohamed MAKDOUF"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Francesco ARESE"
+  }
+]

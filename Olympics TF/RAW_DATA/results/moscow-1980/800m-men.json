@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:01:45.400",
+    "name": "Steve OVETT"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "00:01:45.900",
+    "name": "Sebastian COE"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "00:01:46.000",
+    "name": "Nikolai KIROV"
+  },
+  {
+    "place": 4,
+    "country": "BRA",
+    "mark": "00:01:46.200",
+    "name": "Agberto Concei CONCEICAO GUIMARAES"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "00:01:46.900",
+    "name": "Andreas BUSSE"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "00:01:47.000",
+    "name": "Detlef WAGENKNECHT"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "00:01:47.300",
+    "name": "Jose MARAJO"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "00:01:49.300",
+    "name": "David WARREN"
+  }
+]

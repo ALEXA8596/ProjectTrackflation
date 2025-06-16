@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "21.85",
+    "name": "Ilona SCHOKNECHT-SLUPIANEK"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "x",
+    "name": "Esfir DOLZHENKO-KRACHEVSKAYA"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "20.36",
+    "name": "Margitta DROESE-PUFE"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "21.15",
+    "name": "Nunu ABASHIDZE"
+  },
+  {
+    "place": 5,
+    "country": "BUL",
+    "mark": "x",
+    "name": "Verzhinia VESELINOVA"
+  },
+  {
+    "place": 6,
+    "country": "BUL",
+    "mark": "20.18",
+    "name": "Elena STOYANOVA"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "19.28",
+    "name": "Natalia AKHRIMENKO"
+  },
+  {
+    "place": 8,
+    "country": "GDR",
+    "mark": "19.63",
+    "name": "Ines REICHENBACH-MULLER"
+  }
+]

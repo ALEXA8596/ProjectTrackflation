@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "20.700",
+    "name": "Jesse OWENS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "21.100",
+    "name": "Matthew Mackenzie ROBINSON"
+  },
+  {
+    "place": 3,
+    "country": "NED",
+    "mark": "21.300",
+    "name": "Martinus OSENDARP"
+  },
+  {
+    "place": 4,
+    "country": "SUI",
+    "mark": "21.600",
+    "name": "Paul HÄNNI"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "21.600",
+    "name": "Lee Pearce ORR"
+  },
+  {
+    "place": 6,
+    "country": "NED",
+    "mark": "21.900",
+    "name": "Wijnand VAN BEVEREN"
+  },
+  {
+    "place": 7,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Leopold QUITTAN"
+  },
+  {
+    "place": 8,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Elias GUTIERREZ CAMPO"
+  },
+  {
+    "place": 9,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Jose Domingo SANCHEZ"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Cyril Butler HOLMES"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Gianni CALDANA"
+  },
+  {
+    "place": 12,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Bunta SUZUKI"
+  },
+  {
+    "place": 13,
+    "country": "PER",
+    "mark": "Did not start",
+    "name": "Antonio CUBA"
+  },
+  {
+    "place": 14,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Lennart STRANDBERG"
+  },
+  {
+    "place": 15,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Julije BAUER"
+  },
+  {
+    "place": 16,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Alfonz KOVAČIĆ"
+  },
+  {
+    "place": 17,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Darko DREMIL"
+  }
+]

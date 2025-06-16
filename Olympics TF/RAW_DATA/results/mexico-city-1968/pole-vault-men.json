@@ -1,0 +1,116 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "5.40",
+    "name": "Bob SEAGREN"
+  },
+  {
+    "place": 2,
+    "country": "FRG",
+    "mark": "5.40",
+    "name": "Claus SCHIPROWSKI"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "5.40",
+    "name": "Wolfgang NORDWIG"
+  },
+  {
+    "place": 4,
+    "country": "GRE",
+    "mark": "5.35",
+    "name": "Christos PAPANIKOLAOU"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "5.35",
+    "name": "John Thomas PENNELL"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "5.30",
+    "name": "Gennady BLIZNETSOV"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "5.25",
+    "name": "Herve D'ENCAUSSE"
+  },
+  {
+    "place": 8,
+    "country": "FRG",
+    "mark": "5.20",
+    "name": "Heinfried ENGEL"
+  },
+  {
+    "place": 9,
+    "country": "ESP",
+    "mark": "5.20",
+    "name": "Ignacio SOLA CORTABARRIA"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "5.15",
+    "name": "Kjell ISAKSSON"
+  },
+  {
+    "place": 11,
+    "country": "JPN",
+    "mark": "5.15",
+    "name": "Kiyoshi NIWA"
+  },
+  {
+    "place": 12,
+    "country": "URS",
+    "mark": "5.00",
+    "name": "Aleksandr MALYUTIN"
+  },
+  {
+    "place": 13,
+    "country": "GBR",
+    "mark": "5.00",
+    "name": "Michael Anthony BULL"
+  },
+  {
+    "place": 14,
+    "country": "FIN",
+    "mark": "5.00",
+    "name": "Altti ALAROTU"
+  },
+  {
+    "place": 15,
+    "country": "FIN",
+    "mark": "No mark",
+    "name": "Erkki Juhani MUSTAKARI"
+  },
+  {
+    "place": 16,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Aldo RIGHI"
+  },
+  {
+    "place": 17,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Steen SMIDT-JENSEN"
+  },
+  {
+    "place": 18,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Renato DIONISI"
+  },
+  {
+    "place": 19,
+    "country": "MAD",
+    "mark": "Did not start",
+    "name": "Dominique RADUTORAHALAHY"
+  }
+]

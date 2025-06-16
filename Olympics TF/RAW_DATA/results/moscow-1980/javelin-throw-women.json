@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "CUB",
+    "mark": "68.40",
+    "name": "Maria COLON"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "67.76",
+    "name": "Saida GUNBA"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "66.56",
+    "name": "Ute HOMMOLA"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "66.54",
+    "name": "Ute RICHTER"
+  },
+  {
+    "place": 5,
+    "country": "BUL",
+    "mark": "65.38",
+    "name": "Ivanka VANCHEVA"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "65.08",
+    "name": "Tatyana BIRYULINA"
+  },
+  {
+    "place": 7,
+    "country": "ROU",
+    "mark": "64.08",
+    "name": "Eva Ileana ZORGO-RADULY"
+  },
+  {
+    "place": 8,
+    "country": "GDR",
+    "mark": "63.94",
+    "name": "Ruth FUCHS"
+  },
+  {
+    "place": 9,
+    "country": "POL",
+    "mark": "61.46",
+    "name": "Bernadeta BLECHACZ"
+  },
+  {
+    "place": 10,
+    "country": "BUL",
+    "mark": "60.66",
+    "name": "Antoaneta TODOROVA"
+  },
+  {
+    "place": 11,
+    "country": "URS",
+    "mark": "59.94",
+    "name": "Yadviga PUTINIENE"
+  },
+  {
+    "place": 12,
+    "country": "ITA",
+    "mark": "57.52",
+    "name": "Fausta QUINTAVALLA"
+  },
+  {
+    "place": 13,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Tzvetanka RALINSKA"
+  }
+]

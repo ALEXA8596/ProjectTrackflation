@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "CUB",
+    "mark": "12.930",
+    "name": "Dayron ROBLES"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.170",
+    "name": "David PAYNE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "13.180",
+    "name": "David OLIVER"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "13.240",
+    "name": "Ladji DOUCOURE"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "13.360",
+    "name": "Artur NOGA"
+  },
+  {
+    "place": 6,
+    "country": "JAM",
+    "mark": "13.460",
+    "name": "Maurice WIGNALL"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "13.600",
+    "name": "Richard PHILLIPS"
+  },
+  {
+    "place": 8,
+    "country": "ESP",
+    "mark": "13.690",
+    "name": "Jackson QUINONEZ"
+  },
+  {
+    "place": 9,
+    "country": "LAT",
+    "mark": "Did not start",
+    "name": "Stanislavs OLIJARS"
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "place": 1,
+    "country": "UKR",
+    "mark": "6733",
+    "name": "Natallia DOBRYNSKA"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "6619",
+    "name": "Hyleas FOUNTAIN"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "6517",
+    "name": "Kelly SOTHERTON"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "6490",
+    "name": "Jessica ZELINKA"
+  },
+  {
+    "place": 5,
+    "country": "RUS",
+    "mark": "6465",
+    "name": "Anna BOGDANOVA"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "6428",
+    "name": "Karolina TYMINSKA"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "6379",
+    "name": "Lilli SCHWARZKOPF"
+  },
+  {
+    "place": 8,
+    "country": "NED",
+    "mark": "6370",
+    "name": "Jolanda KEIZER"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "6369",
+    "name": "Kylie WHEELER"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "6360",
+    "name": "Jennifer OESER"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "6302",
+    "name": "Marie COLLONVILLE"
+  },
+  {
+    "place": 12,
+    "country": "RUS",
+    "mark": "6192",
+    "name": "Olga KURBAN"
+  },
+  {
+    "place": 13,
+    "country": "UKR",
+    "mark": "6165",
+    "name": "Hanna KASYANOVA"
+  },
+  {
+    "place": 14,
+    "country": "POL",
+    "mark": "6157",
+    "name": "Kamila CHUDZIK"
+  },
+  {
+    "place": 15,
+    "country": "GER",
+    "mark": "6140",
+    "name": "Sonja KESSELSCHLAGER"
+  },
+  {
+    "place": 16,
+    "country": "BRA",
+    "mark": "6076",
+    "name": "Lucimara DA SILVA"
+  },
+  {
+    "place": 17,
+    "country": "FRA",
+    "mark": "6055",
+    "name": "Antoinette NANA DJIMOU IDA"
+  },
+  {
+    "place": 18,
+    "country": "LAT",
+    "mark": "6050",
+    "name": "Aiga GRABUSTE"
+  },
+  {
+    "place": 19,
+    "country": "CHN",
+    "mark": "6041",
+    "name": "Haili LIU"
+  },
+  {
+    "place": 20,
+    "country": "NOR",
+    "mark": "6015",
+    "name": "Ida MARCUSSEN"
+  },
+  {
+    "place": 21,
+    "country": "NZL",
+    "mark": "5989",
+    "name": "Rebecca WARDELL"
+  },
+  {
+    "place": 22,
+    "country": "FIN",
+    "mark": "5911",
+    "name": "Niina KELO"
+  },
+  {
+    "place": 23,
+    "country": "GRE",
+    "mark": "5893",
+    "name": "Aryiro STRATAKI"
+  },
+  {
+    "place": 24,
+    "country": "CUB",
+    "mark": "5830",
+    "name": "Gretchen QUINTANA"
+  },
+  {
+    "place": 25,
+    "country": "UZB",
+    "mark": "5785",
+    "name": "Yuliya TARASOVA"
+  },
+  {
+    "place": 26,
+    "country": "IND",
+    "mark": "5771",
+    "name": "Pramila GUDANDDA GANAPATHY"
+  },
+  {
+    "place": 27,
+    "country": "HUN",
+    "mark": "5760",
+    "name": "Gyorgyi ZSIVOCZKY-FARKAS"
+  },
+  {
+    "place": 28,
+    "country": "IND",
+    "mark": "5749",
+    "name": "J J SHOBHA"
+  },
+  {
+    "place": 29,
+    "country": "SUI",
+    "mark": "5743",
+    "name": "Linda ZUBLIN"
+  },
+  {
+    "place": 30,
+    "country": "GBR",
+    "mark": "5729",
+    "name": "Julie HOLLMAN"
+  },
+  {
+    "place": 31,
+    "country": "IND",
+    "mark": "5705",
+    "name": "Susmita SINGHA ROY"
+  },
+  {
+    "place": 32,
+    "country": "EST",
+    "mark": "5677",
+    "name": "Kaie KAND"
+  },
+  {
+    "place": 33,
+    "country": "BLR",
+    "mark": "4806",
+    "name": "Yana MAKSIMAVA"
+  },
+  {
+    "place": 34,
+    "country": "NED",
+    "mark": "Did not finish",
+    "name": "Laurien HOOS"
+  },
+  {
+    "place": 35,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Jackie JOHNSON"
+  },
+  {
+    "place": 36,
+    "country": "LTU",
+    "mark": "Did not finish",
+    "name": "Austra SKUJYTE"
+  },
+  {
+    "place": 37,
+    "country": "LTU",
+    "mark": "Did not finish",
+    "name": "Viktorija ZEMAITYTE"
+  },
+  {
+    "place": 38,
+    "country": "CZE",
+    "mark": "Did not finish",
+    "name": "Denisa SCERBOVA"
+  },
+  {
+    "place": 39,
+    "country": "THA",
+    "mark": "Did not finish",
+    "name": "Wassana WINATHO"
+  },
+  {
+    "place": 40,
+    "country": "KAZ",
+    "mark": "Did not finish",
+    "name": "Irina KARPOVA"
+  },
+  {
+    "place": 41,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Diana PICKLER"
+  },
+  {
+    "place": 42,
+    "country": "UKR",
+    "mark": "Disqualified",
+    "name": "Lyudmila BLONSKA"
+  },
+  {
+    "place": 43,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Tatyana CHERNOVA"
+  }
+]

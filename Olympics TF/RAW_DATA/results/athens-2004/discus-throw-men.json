@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "LTU",
+    "mark": "69.89",
+    "name": "Virgilijus ALEKNA"
+  },
+  {
+    "place": 2,
+    "country": "HUN",
+    "mark": "67.04",
+    "name": "Zoltan KOVAGO"
+  },
+  {
+    "place": 3,
+    "country": "EST",
+    "mark": "66.66",
+    "name": "Aleksander TAMMERT"
+  },
+  {
+    "place": 4,
+    "country": "BLR",
+    "mark": "65.10",
+    "name": "Vasiliy KAPTYUKH"
+  },
+  {
+    "place": 5,
+    "country": "RSA",
+    "mark": "64.34",
+    "name": "Frantz KRUGER"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "64.33",
+    "name": "Casey MALONE"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "62.80",
+    "name": "Lars RIEDEL"
+  },
+  {
+    "place": 8,
+    "country": "RSA",
+    "mark": "62.58",
+    "name": "Hannes HOPLEY"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "61.18",
+    "name": "Torsten SCHMIDT"
+  },
+  {
+    "place": 10,
+    "country": "CZE",
+    "mark": "58.78",
+    "name": "Libor MALINA"
+  },
+  {
+    "place": 11,
+    "country": "HUN",
+    "mark": "57.84",
+    "name": "Gabor MATE"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "Disqualified",
+    "name": "Robert FAZEKAS"
+  }
+]

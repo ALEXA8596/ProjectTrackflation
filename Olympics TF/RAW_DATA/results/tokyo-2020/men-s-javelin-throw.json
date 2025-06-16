@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "IND",
+    "mark": "87.58",
+    "name": "Neeraj CHOPRA"
+  },
+  {
+    "place": 2,
+    "country": "CZE",
+    "mark": "86.67",
+    "name": "Jakub VADLEJCH"
+  },
+  {
+    "place": 3,
+    "country": "CZE",
+    "mark": "85.44",
+    "name": "Vitezslav VESELY"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "85.30",
+    "name": "Julian WEBER"
+  },
+  {
+    "place": 5,
+    "country": "PAK",
+    "mark": "84.62",
+    "name": "Arshad NADEEM"
+  },
+  {
+    "place": 6,
+    "country": "BLR",
+    "mark": "83.71",
+    "name": "Aliaksei KATKAVETS"
+  },
+  {
+    "place": 7,
+    "country": "MDA",
+    "mark": "83.30",
+    "name": "Andrian MARDARE"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "83.28",
+    "name": "Lassi ETELATALO"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "82.52",
+    "name": "Johannes VETTER"
+  },
+  {
+    "place": 10,
+    "country": "BLR",
+    "mark": "82.28",
+    "name": "Pavel MIALESHKA"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "79.69",
+    "name": "Kim AMB"
+  },
+  {
+    "place": 12,
+    "country": "ROU",
+    "mark": "79.29",
+    "name": "Alexandru Mihaita NOVAC"
+  }
+]

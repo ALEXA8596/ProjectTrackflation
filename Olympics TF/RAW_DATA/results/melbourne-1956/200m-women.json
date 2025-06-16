@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "23.400",
+    "name": "Betty CUTHBERT"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "23.700",
+    "name": "Christa STUBNICK"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "23.800",
+    "name": "Marlene MATHEWS-WILLARD"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "24.000",
+    "name": "Norma Wilson CROOKER-FLEMING"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "24.300",
+    "name": "June FOULDS-PAUL"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "24.300",
+    "name": "Gisela KÖHLER-BIRKEMEYER"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Catherine CAPDEVIELLE"
+  },
+  {
+    "place": 8,
+    "country": "MAS",
+    "mark": "Did not start",
+    "name": "Annie CHOONG"
+  },
+  {
+    "place": 9,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Marja KUSION-BIBRO"
+  }
+]

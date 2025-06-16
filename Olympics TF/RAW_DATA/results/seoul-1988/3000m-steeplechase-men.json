@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "00:08:05.510",
+    "name": "Julius KARIUKI"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:08:06.790",
+    "name": "Peter KOECH"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "00:08:07.960",
+    "name": "Mark Robert ROWLAND"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "00:08:12.170",
+    "name": "Alessandro LAMBRUSCHINI"
+  },
+  {
+    "place": 5,
+    "country": "BEL",
+    "mark": "00:08:13.990",
+    "name": "William VAN DIJCK"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:08:14.390",
+    "name": "Henry Dinwoody MARSH"
+  },
+  {
+    "place": 7,
+    "country": "KEN",
+    "mark": "00:08:15.220",
+    "name": "Patrick SANG"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "00:08:15.970",
+    "name": "Boguslaw MAMINSKI"
+  },
+  {
+    "place": 9,
+    "country": "ITA",
+    "mark": "00:08:17.790",
+    "name": "Francesco PANETTA"
+  },
+  {
+    "place": 10,
+    "country": "GDR",
+    "mark": "00:08:19.820",
+    "name": "Hagen MELZER"
+  },
+  {
+    "place": 11,
+    "country": "CAN",
+    "mark": "00:08:21.730",
+    "name": "Graeme Vincent FELL"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "00:08:23.800",
+    "name": "Raymond PANNIER"
+  },
+  {
+    "place": 13,
+    "country": "ALG",
+    "mark": "00:08:26.680",
+    "name": "Azzeddine BRAHMI"
+  },
+  {
+    "place": 14,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Béla VÁGÓ"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "69.66",
+    "name": "Ilke WYLUDDA"
+  },
+  {
+    "place": 2,
+    "country": "RUS",
+    "mark": "66.48",
+    "name": "Natalya SADOVA"
+  },
+  {
+    "place": 3,
+    "country": "BLR",
+    "mark": "65.64",
+    "name": "Ellina ZVEREVA"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "65.48",
+    "name": "Franka DIETZSCH"
+  },
+  {
+    "place": 5,
+    "country": "CHN",
+    "mark": "64.72",
+    "name": "Yanling XIAO"
+  },
+  {
+    "place": 6,
+    "country": "RUS",
+    "mark": "64.70",
+    "name": "Olga CHERNYAVSKAYA"
+  },
+  {
+    "place": 7,
+    "country": "ROU",
+    "mark": "63.28",
+    "name": "Nicoleta GRADINARU"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "62.48",
+    "name": "Lisa-Marie VIZANIARI"
+  },
+  {
+    "place": 9,
+    "country": "NOR",
+    "mark": "62.28",
+    "name": "Mette BERGMANN"
+  },
+  {
+    "place": 10,
+    "country": "POR",
+    "mark": "61.38",
+    "name": "Teresa MACHADO"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "61.16",
+    "name": "Anja GUENDLER"
+  },
+  {
+    "place": 12,
+    "country": "BLR",
+    "mark": "60.46",
+    "name": "Iryna YATCHENKO"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "328",
+    "name": "Robert MATHIAS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "216",
+    "name": "Milton Gray CAMPBELL"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "309",
+    "name": "Floyd Macon Jr. SIMMONS"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "475",
+    "name": "Vladimir VOLKOV"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "281",
+    "name": "Josef (Sepp) HIPP"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "427",
+    "name": "Göran WIDENFELT"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "281",
+    "name": "Kjell TANNANDER"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "352",
+    "name": "Friedrich (Friedel) SCHIRMER"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "238",
+    "name": "Geoffrey Michael ELLIOTT"
+  },
+  {
+    "place": 10,
+    "country": "URS",
+    "mark": "396",
+    "name": "Sergei KUZNETSOV"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "175",
+    "name": "Hugues FRAYER"
+  },
+  {
+    "place": 12,
+    "country": "VEN",
+    "mark": "336",
+    "name": "Brigido IRIARTE"
+  },
+  {
+    "place": 13,
+    "country": "FIN",
+    "mark": "526",
+    "name": "Olavi REIKKO"
+  },
+  {
+    "place": 14,
+    "country": "FIN",
+    "mark": "255",
+    "name": "Eeles Enok LANDSTRÖM"
+  },
+  {
+    "place": 15,
+    "country": "YUG",
+    "mark": "249",
+    "name": "Oto REBULA"
+  },
+  {
+    "place": 16,
+    "country": "POR",
+    "mark": "441",
+    "name": "Fernando Alex FERNANDES"
+  },
+  {
+    "place": 17,
+    "country": "CHI",
+    "mark": "274",
+    "name": "Hernan FIGUEROA"
+  },
+  {
+    "place": 18,
+    "country": "SUI",
+    "mark": "272",
+    "name": "Max WEHRLI"
+  },
+  {
+    "place": 19,
+    "country": "CAN",
+    "mark": "283",
+    "name": "Bob ADAMS"
+  },
+  {
+    "place": 20,
+    "country": "PUR",
+    "mark": "175",
+    "name": "Hector ROMAN SELVA"
+  },
+  {
+    "place": 21,
+    "country": "PUR",
+    "mark": "321",
+    "name": "Reinaldo Luis OLIVER MARTINEZ"
+  },
+  {
+    "place": 22,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Erkki Johannes HAUTAMAKI"
+  },
+  {
+    "place": 23,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Ignace HEINRICH"
+  },
+  {
+    "place": 24,
+    "country": "CHI",
+    "mark": "Did not finish",
+    "name": "Carlos VERA GUARDIA"
+  },
+  {
+    "place": 25,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Georges BREITMAN"
+  },
+  {
+    "place": 26,
+    "country": "GRE",
+    "mark": "Did not finish",
+    "name": "Fotios KOSMAS"
+  },
+  {
+    "place": 27,
+    "country": "URS",
+    "mark": "Did not finish",
+    "name": "Pyotr KOZHEVNIKOV"
+  },
+  {
+    "place": 28,
+    "country": "AUS",
+    "mark": "Did not finish",
+    "name": "Pat LEANE"
+  },
+  {
+    "place": 29,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Raymond Henry WEINBERG"
+  },
+  {
+    "place": 30,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Edmundo OHACO"
+  },
+  {
+    "place": 31,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Georgios ROUBANIS"
+  },
+  {
+    "place": 32,
+    "country": "ISL",
+    "mark": "Did not start",
+    "name": "Örn CLAUSEN"
+  },
+  {
+    "place": 33,
+    "country": "URU",
+    "mark": "Did not start",
+    "name": "Hercules ASCUNE"
+  }
+]

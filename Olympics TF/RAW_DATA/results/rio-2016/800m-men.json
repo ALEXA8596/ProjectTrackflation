@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "00:01:42.150",
+    "name": "Daniel Lekuta RUDISHA"
+  },
+  {
+    "place": 2,
+    "country": "ALG",
+    "mark": "00:01:42.610",
+    "name": "Taoufik MAKHLOUFI"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "00:01:42.930",
+    "name": "Clayton MURPHY"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "00:01:43.410",
+    "name": "Pierre-Ambroise BOSSE"
+  },
+  {
+    "place": 5,
+    "country": "KEN",
+    "mark": "00:01:43.550",
+    "name": "Ferguson Cheruiyot ROTICH"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "00:01:44.200",
+    "name": "Marcin LEWANDOWSKI"
+  },
+  {
+    "place": 7,
+    "country": "KEN",
+    "mark": "00:01:46.020",
+    "name": "Alfred KIPKETER"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:01:46.150",
+    "name": "Boris BERIAN"
+  },
+  {
+    "place": 9,
+    "country": "QAT",
+    "mark": "Did not start",
+    "name": "Musaeb Abdulrahman BALLA"
+  }
+]

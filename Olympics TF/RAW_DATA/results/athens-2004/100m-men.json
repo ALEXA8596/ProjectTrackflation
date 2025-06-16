@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "09.850",
+    "name": "Justin GATLIN"
+  },
+  {
+    "place": 2,
+    "country": "POR",
+    "mark": "09.860",
+    "name": "Francis OBIKWELU"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "09.870",
+    "name": "Maurice GREENE"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "09.890",
+    "name": "Shawn CRAWFORD"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "09.940",
+    "name": "Asafa POWELL"
+  },
+  {
+    "place": 6,
+    "country": "SKN",
+    "mark": "10.000",
+    "name": "Kim COLLINS"
+  },
+  {
+    "place": 7,
+    "country": "BAR",
+    "mark": "10.100",
+    "name": "Obadele THOMPSON"
+  },
+  {
+    "place": 8,
+    "country": "GHA",
+    "mark": "Did not finish",
+    "name": "Aziz ZAKARI"
+  },
+  {
+    "place": 9,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Khristoforos KHOIDES"
+  },
+  {
+    "place": 10,
+    "country": "CHA",
+    "mark": "Did not start",
+    "name": "Djikoloum MOBELE"
+  }
+]

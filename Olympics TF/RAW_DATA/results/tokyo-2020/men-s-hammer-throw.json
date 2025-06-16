@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "82.52",
+    "name": "Wojciech NOWICKI"
+  },
+  {
+    "place": 2,
+    "country": "NOR",
+    "mark": "81.58",
+    "name": "Eivind HENRIKSEN"
+  },
+  {
+    "place": 3,
+    "country": "POL",
+    "mark": "81.53",
+    "name": "Pawel FAJDEK"
+  },
+  {
+    "place": 4,
+    "country": "UKR",
+    "mark": "80.39",
+    "name": "Mykhaylo KOKHAN"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "79.39",
+    "name": "Quentin BIGOT"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "78.15",
+    "name": "Nick MILLER"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "77.08",
+    "name": "Rudy WINKLER"
+  },
+  {
+    "place": 8,
+    "country": "ROC",
+    "mark": "76.72",
+    "name": "Valeriy PRONKIN"
+  },
+  {
+    "place": 9,
+    "country": "TUR",
+    "mark": "76.71",
+    "name": "Esref APAK"
+  },
+  {
+    "place": 10,
+    "country": "ESP",
+    "mark": "76.30",
+    "name": "Javier CIENFUEGOS"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "76.22",
+    "name": "Daniel HAUGH"
+  },
+  {
+    "place": 12,
+    "country": "MDA",
+    "mark": "75.24",
+    "name": "Serghei MARGHIEV"
+  }
+]

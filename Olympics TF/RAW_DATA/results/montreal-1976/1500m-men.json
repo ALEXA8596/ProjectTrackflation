@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "NZL",
+    "mark": "00:03:39.170",
+    "name": "John WALKER"
+  },
+  {
+    "place": 2,
+    "country": "BEL",
+    "mark": "00:03:39.270",
+    "name": "Ivo VAN DAMME"
+  },
+  {
+    "place": 3,
+    "country": "FRG",
+    "mark": "00:03:39.330",
+    "name": "Paul-Heinz WELLMANN"
+  },
+  {
+    "place": 4,
+    "country": "IRL",
+    "mark": "00:03:39.510",
+    "name": "Eamonn COGHLAN"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:03:39.650",
+    "name": "Frank CLEMENT"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:03:40.640",
+    "name": "Richard Charles WOHLHUTER"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "00:03:40.940",
+    "name": "David MOORCROFT"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "00:03:41.800",
+    "name": "William Graham CROUCH"
+  },
+  {
+    "place": 9,
+    "country": "HUN",
+    "mark": "00:03:43.020",
+    "name": "Janos ZEMEN"
+  },
+  {
+    "place": 10,
+    "country": "MAR",
+    "mark": "Did not start",
+    "name": "Mohamed MAKDOUF"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Carlo GRIPPO"
+  },
+  {
+    "place": 12,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Anders GARDERUD"
+  }
+]

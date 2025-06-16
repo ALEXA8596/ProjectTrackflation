@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "16.005",
+    "name": "Leo Joseph SEXTON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "x",
+    "name": "Harlow Phelps ROTHERT"
+  },
+  {
+    "place": 3,
+    "country": "TCH",
+    "mark": "15.33",
+    "name": "Frantisek DOUDA"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "15.56",
+    "name": "Emil HIRSCHFELD"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "x",
+    "name": "Nelson Alexander GRAY"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "x",
+    "name": "Hans-Heinrich SIEVERT"
+  },
+  {
+    "place": 7,
+    "country": "BRA",
+    "mark": "NM",
+    "name": "Antonio PEREIRA LYRA"
+  },
+  {
+    "place": 8,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Georgios THEODORATOS"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Emil JANAUSCH"
+  },
+  {
+    "place": 10,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Carmine DI GIORGI"
+  },
+  {
+    "place": 11,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "Pat O'CALLAGHAN"
+  },
+  {
+    "place": 12,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Jesus AGUIRRE DELGADO"
+  }
+]

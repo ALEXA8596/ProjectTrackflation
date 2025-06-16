@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "55.98",
+    "name": "Elvira OZOLINA"
+  },
+  {
+    "place": 2,
+    "country": "TCH",
+    "mark": "53.78",
+    "name": "Dana INGROVA-ZATOPKOVA"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "53.45",
+    "name": "Birutė KALĖDIENĖ"
+  },
+  {
+    "place": 4,
+    "country": "TCH",
+    "mark": "52.56",
+    "name": "Vlasta PESKOVA"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "52.33",
+    "name": "Urszula FIGWER"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "51.15",
+    "name": "Anna WOJTASZKEK-PAZERA"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "51.01",
+    "name": "Susan Mary PLATT"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "50.92",
+    "name": "Alevtina SHASTITKO"
+  },
+  {
+    "place": 9,
+    "country": "HUN",
+    "mark": "50.25",
+    "name": "Marta ANTAL-RUDAS"
+  },
+  {
+    "place": 10,
+    "country": "ROU",
+    "mark": "49.56",
+    "name": "Maria DITI-DIACONESCU"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "49.27",
+    "name": "Anneliese GERHARDS-JANSEN"
+  },
+  {
+    "place": 12,
+    "country": "CHI",
+    "mark": "47.53",
+    "name": "Marlene AHRENS"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "46.52",
+    "name": "Karen Linnea ANDERSON-OLDHAM"
+  },
+  {
+    "place": 14,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Elizabeth DAVENPORT"
+  }
+]

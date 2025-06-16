@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "FRA",
+    "mark": "48.830",
+    "name": "Marie-Jose PEREC"
+  },
+  {
+    "place": 2,
+    "country": "EUN",
+    "mark": "49.050",
+    "name": "Olga BRYZGINA"
+  },
+  {
+    "place": 3,
+    "country": "COL",
+    "mark": "49.640",
+    "name": "Ximena RESTREPO GAVIRIA"
+  },
+  {
+    "place": 4,
+    "country": "EUN",
+    "mark": "49.690",
+    "name": "Olga NAZAROVA"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "49.930",
+    "name": "Jillian RICHARDSON-BRISCOE"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "50.110",
+    "name": "Rochelle STEVENS"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "50.190",
+    "name": "Alexandra RICHARDS"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "50.870",
+    "name": "Phylis SMITH"
+  }
+]

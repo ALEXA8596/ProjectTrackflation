@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "SWE",
+    "mark": "00:45:13.200",
+    "name": "John MIKAELSSON"
+  },
+  {
+    "place": 2,
+    "country": "SWE",
+    "mark": "00:45:43.800",
+    "name": "Ingemar JOHANSSON"
+  },
+  {
+    "place": 3,
+    "country": "SUI",
+    "mark": "00:46:00.200",
+    "name": "Erich Arthur Fritz SCHWAB"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "00:46:04.000",
+    "name": "Charles James MORRIS"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:47:28.000",
+    "name": "Harold George CHURCHER"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "00:47:02.800",
+    "name": "Emile MAGGI"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "Disqualified",
+    "name": "Werner HARDMO"
+  }
+]

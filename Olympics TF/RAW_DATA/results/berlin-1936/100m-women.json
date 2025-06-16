@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "11.5w",
+    "name": "Helen Herring STEPHENS"
+  },
+  {
+    "place": 2,
+    "country": "POL",
+    "mark": "11.7w",
+    "name": "Stanislawa WALASIEWICZ"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "11.9w",
+    "name": "Käthe KRAUSS"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "12.0w",
+    "name": "Marie DÖLLINGER"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "12.2w",
+    "name": "Annette Joan ROGERS"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "12.3w",
+    "name": "Emmy ALBUS"
+  },
+  {
+    "place": 7,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Renata ČABRIJAN"
+  }
+]

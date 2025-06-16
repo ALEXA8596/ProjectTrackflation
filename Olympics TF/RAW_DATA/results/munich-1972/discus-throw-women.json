@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "66.62",
+    "name": "Faina MELNIK"
+  },
+  {
+    "place": 2,
+    "country": "ROU",
+    "mark": "65.06",
+    "name": "Argentina MENIS"
+  },
+  {
+    "place": 3,
+    "country": "BUL",
+    "mark": "64.34",
+    "name": "Vassilka STOEVA"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "62.86",
+    "name": "Tamara DANILOVA"
+  },
+  {
+    "place": 5,
+    "country": "FRG",
+    "mark": "62.18",
+    "name": "Liselotte (Liesel) WESTERMANN"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "61.72",
+    "name": "Gabriele HINZMANN"
+  },
+  {
+    "place": 7,
+    "country": "ROU",
+    "mark": "60.42",
+    "name": "Carmen IONESCO"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "59.00",
+    "name": "Lyudmila MURAVYOVA"
+  },
+  {
+    "place": 9,
+    "country": "ROU",
+    "mark": "58.50",
+    "name": "Lia MANOLIU"
+  },
+  {
+    "place": 10,
+    "country": "BUL",
+    "mark": "56.72",
+    "name": "Svetla BOZHKOVA"
+  },
+  {
+    "place": 11,
+    "country": "FRG",
+    "mark": "56.58",
+    "name": "Brigitte BERENDONK"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "56.50",
+    "name": "Christine Rosemary PAYNE"
+  },
+  {
+    "place": 13,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Rosa MOLINA"
+  },
+  {
+    "place": 14,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Jolan KLEIBER-KONTSEK"
+  },
+  {
+    "place": 15,
+    "country": "KOR",
+    "mark": "Did not start",
+    "name": "Ok-ja BAEK"
+  }
+]

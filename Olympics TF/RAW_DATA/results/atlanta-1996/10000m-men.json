@@ -1,0 +1,134 @@
+[
+  {
+    "place": 1,
+    "country": "ETH",
+    "mark": "00:27:07.340",
+    "name": "Haile GEBRSELASSIE"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:27:08.170",
+    "name": "Paul TERGAT"
+  },
+  {
+    "place": 3,
+    "country": "MAR",
+    "mark": "00:27:24.670",
+    "name": "Salah HISSOU"
+  },
+  {
+    "place": 4,
+    "country": "BDI",
+    "mark": "00:27:33.790",
+    "name": "Aloys NIZIGAMA"
+  },
+  {
+    "place": 5,
+    "country": "KEN",
+    "mark": "00:27:35.080",
+    "name": "Josphat MACHUKA"
+  },
+  {
+    "place": 6,
+    "country": "KEN",
+    "mark": "00:27:35.190",
+    "name": "Paul KOECH"
+  },
+  {
+    "place": 7,
+    "country": "MAR",
+    "mark": "00:27:46.980",
+    "name": "Khalid SKAH"
+  },
+  {
+    "place": 8,
+    "country": "RWA",
+    "mark": "00:27:50.730",
+    "name": "Mathias NTAWULIKURA"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "00:27:59.080",
+    "name": "Stephane Oliver FRANKE"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "00:27:59.720",
+    "name": "Jon BROWN"
+  },
+  {
+    "place": 11,
+    "country": "MEX",
+    "mark": "00:28:09.460",
+    "name": "Armando QUINTANILLA"
+  },
+  {
+    "place": 12,
+    "country": "TAN",
+    "mark": "00:28:20.580",
+    "name": "Marko HHAWU"
+  },
+  {
+    "place": 13,
+    "country": "ESP",
+    "mark": "00:28:29.370",
+    "name": "Abel ANTON RODRIGO"
+  },
+  {
+    "place": 14,
+    "country": "ESP",
+    "mark": "00:28:32.110",
+    "name": "Carlos DE LA TORRE"
+  },
+  {
+    "place": 15,
+    "country": "ESP",
+    "mark": "00:28:39.110",
+    "name": "Alejandro GOMEZ CABRAL"
+  },
+  {
+    "place": 16,
+    "country": "HUN",
+    "mark": "00:28:45.480",
+    "name": "Zoltan KALDY"
+  },
+  {
+    "place": 17,
+    "country": "ETH",
+    "mark": "00:28:59.150",
+    "name": "Worku BIKILA"
+  },
+  {
+    "place": 18,
+    "country": "ITA",
+    "mark": "00:29:07.770",
+    "name": "Stefano BALDINI"
+  },
+  {
+    "place": 19,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Paul William EVANS"
+  },
+  {
+    "place": 20,
+    "country": "KSA",
+    "mark": "Did not finish",
+    "name": "Alyan AL-QAHTANI"
+  },
+  {
+    "place": 21,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Yasuyuki WATANABE"
+  },
+  {
+    "place": 22,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Julian PAYNTER"
+  }
+]

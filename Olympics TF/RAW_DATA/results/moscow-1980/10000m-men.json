@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "ETH",
+    "mark": "00:27:42.700",
+    "name": "Miruts YIFTER"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "00:27:44.300",
+    "name": "Kaarlo MAANINKA"
+  },
+  {
+    "place": 3,
+    "country": "ETH",
+    "mark": "00:27:44.700",
+    "name": "Mohamed KEDIR"
+  },
+  {
+    "place": 4,
+    "country": "ETH",
+    "mark": "00:27:46.500",
+    "name": "Tolossa KOTU"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "00:27:50.500",
+    "name": "Lasse VIRÉN"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "00:28:05.600",
+    "name": "Jorg PETER"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "00:28:11.000",
+    "name": "Werner SCHILDHAUER"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "00:28:13.800",
+    "name": "Enn SELLIK"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "00:28:15.100",
+    "name": "Bill SCOTT"
+  },
+  {
+    "place": 10,
+    "country": "ROU",
+    "mark": "00:28:16.300",
+    "name": "Ilie FLOROIU"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "00:28:22.600",
+    "name": "Brendan FOSTER"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "00:28:40.800",
+    "name": "Michael MCLEOD"
+  },
+  {
+    "place": 13,
+    "country": "FIN",
+    "mark": "00:28:46.300",
+    "name": "Martti VAINIO"
+  },
+  {
+    "place": 14,
+    "country": "NED",
+    "mark": "00:28:50.100",
+    "name": "Gerard TEBROKE"
+  },
+  {
+    "place": 15,
+    "country": "ESP",
+    "mark": "Did not finish",
+    "name": "Antonio PRIETO VELASCO"
+  },
+  {
+    "place": 16,
+    "country": "ANG",
+    "mark": "Did not start",
+    "name": "Bernardo MANUEL"
+  },
+  {
+    "place": 17,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Gerard BARRETT"
+  },
+  {
+    "place": 18,
+    "country": "TAN",
+    "mark": "Did not start",
+    "name": "Suleiman NYAMBUI"
+  }
+]

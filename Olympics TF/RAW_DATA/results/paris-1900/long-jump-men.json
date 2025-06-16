@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "7.185",
+    "name": "Alvin KRAENZLEIN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "OR",
+    "name": "Meyer PRINSTEIN"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "6.95",
+    "name": "Patrick Joseph LEAHY"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "6.825",
+    "name": "William Procter REMINGTON"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Albert WITBECK"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Umberto COLOMBO"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Lewis Pendleton SHELDON"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Peter O'CONNOR"
+  }
+]

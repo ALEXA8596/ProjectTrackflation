@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "91.20",
+    "name": "Dainis KULA"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "89.64",
+    "name": "Aleksandr MAKAROV"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "86.72",
+    "name": "Wolfgang HANISCH"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "86.10",
+    "name": "Kheino PUUSTE"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "85.12",
+    "name": "Antero PURANEN"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "84.34",
+    "name": "Pentti SINERSAARI"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "83.50",
+    "name": "Detlef FUHRMANN"
+  },
+  {
+    "place": 8,
+    "country": "HUN",
+    "mark": "82.40",
+    "name": "Miklos NEMETH"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "80.58",
+    "name": "Aimo AHO"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "79.52",
+    "name": "Ferenc PARAGI"
+  },
+  {
+    "place": 11,
+    "country": "BUL",
+    "mark": "79.04",
+    "name": "Stefan STOYKOV"
+  },
+  {
+    "place": 12,
+    "country": "UGA",
+    "mark": "77.34",
+    "name": "Justin AROP"
+  }
+]

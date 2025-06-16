@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "12.980",
+    "name": "Roger KINGDOM"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "13.280",
+    "name": "Colin JACKSON"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "13.380",
+    "name": "Anthony Eugene CAMPBELL"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "13.510",
+    "name": "Vladimir SHISHKIN"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "13.520",
+    "name": "Jonathan Peter RIDGEON"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "13.540",
+    "name": "Tony JARRETT"
+  },
+  {
+    "place": 7,
+    "country": "CAN",
+    "mark": "13.610",
+    "name": "Mark MCKOY"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "13.960",
+    "name": "Arthur J. BLAKE"
+  },
+  {
+    "place": 9,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Lyndon CAMPOS"
+  },
+  {
+    "place": 10,
+    "country": "SLE",
+    "mark": "Did not start",
+    "name": "Benjamin GRANT"
+  }
+]

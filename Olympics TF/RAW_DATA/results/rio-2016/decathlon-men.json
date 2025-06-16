@@ -1,0 +1,194 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "8893",
+    "name": "Ashton EATON"
+  },
+  {
+    "place": 2,
+    "country": "FRA",
+    "mark": "8834",
+    "name": "Kevin MAYER"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "8666",
+    "name": "Damian WARNER"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "8580",
+    "name": "Kai KAZMIREK"
+  },
+  {
+    "place": 5,
+    "country": "ALG",
+    "mark": "8521",
+    "name": "Larbi BOURRADA"
+  },
+  {
+    "place": 6,
+    "country": "CUB",
+    "mark": "8460",
+    "name": "Leonel SUAREZ"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "8392",
+    "name": "Zachery ZIEMEK"
+  },
+  {
+    "place": 8,
+    "country": "BEL",
+    "mark": "8332",
+    "name": "Thomas VAN DER PLAETSEN"
+  },
+  {
+    "place": 9,
+    "country": "GRN",
+    "mark": "8323",
+    "name": "Kurt FELIX"
+  },
+  {
+    "place": 10,
+    "country": "BRA",
+    "mark": "8315",
+    "name": "Luiz Alberto DE ARAUJO"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "8300",
+    "name": "Jeremy TAIWO"
+  },
+  {
+    "place": 12,
+    "country": "CZE",
+    "mark": "8291",
+    "name": "Adam Sebastian HELCELET"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "8064",
+    "name": "Bastien AUZEIL"
+  },
+  {
+    "place": 14,
+    "country": "AUS",
+    "mark": "8024",
+    "name": "Cedric DUBLER"
+  },
+  {
+    "place": 15,
+    "country": "GER",
+    "mark": "8013",
+    "name": "Arthur ABELE"
+  },
+  {
+    "place": 16,
+    "country": "GRN",
+    "mark": "7998",
+    "name": "Lindon VICTOR"
+  },
+  {
+    "place": 17,
+    "country": "ESP",
+    "mark": "7982",
+    "name": "Pau TONNESEN"
+  },
+  {
+    "place": 18,
+    "country": "CUB",
+    "mark": "7961",
+    "name": "Yordani GARCIA"
+  },
+  {
+    "place": 19,
+    "country": "AUT",
+    "mark": "7954",
+    "name": "Dominik DISTELBERGER"
+  },
+  {
+    "place": 20,
+    "country": "JPN",
+    "mark": "7952",
+    "name": "Keisuke USHIRO"
+  },
+  {
+    "place": 21,
+    "country": "POL",
+    "mark": "7784",
+    "name": "Pawel WIESIOLEK"
+  },
+  {
+    "place": 22,
+    "country": "JPN",
+    "mark": "7612",
+    "name": "Akihiko NAKAMURA"
+  },
+  {
+    "place": 23,
+    "country": "EST",
+    "mark": "7223",
+    "name": "Karl Robert SALURI"
+  },
+  {
+    "place": 24,
+    "country": "EST",
+    "mark": "7170",
+    "name": "Maicel UIBO"
+  },
+  {
+    "place": 25,
+    "country": "CZE",
+    "mark": "6237",
+    "name": "Jiri SYKORA"
+  },
+  {
+    "place": 26,
+    "country": "SRB",
+    "mark": "Did not finish",
+    "name": "Mihail DUDAS"
+  },
+  {
+    "place": 27,
+    "country": "UKR",
+    "mark": "Did not finish",
+    "name": "Oleksiy KASYANOV"
+  },
+  {
+    "place": 28,
+    "country": "NED",
+    "mark": "Did not finish",
+    "name": "Pieter BRAUN"
+  },
+  {
+    "place": 29,
+    "country": "GER",
+    "mark": "Did not finish",
+    "name": "Rico FREIMUTH"
+  },
+  {
+    "place": 30,
+    "country": "RSA",
+    "mark": "Did not finish",
+    "name": "Willem COERTZEN"
+  },
+  {
+    "place": 31,
+    "country": "UZB",
+    "mark": "Did not finish",
+    "name": "Leonid ANDREEV"
+  },
+  {
+    "place": 32,
+    "country": "NED",
+    "mark": "Did not finish",
+    "name": "Eelco SINTNICOLAAS"
+  }
+]

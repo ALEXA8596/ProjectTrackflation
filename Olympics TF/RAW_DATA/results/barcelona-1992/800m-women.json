@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "NED",
+    "mark": "00:01:55.540",
+    "name": "Ellen VAN LANGEN"
+  },
+  {
+    "place": 2,
+    "country": "EUN",
+    "mark": "00:01:55.990",
+    "name": "Lilia NURUTDINOVA"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "00:01:56.800",
+    "name": "Ana Fidelia QUIROT"
+  },
+  {
+    "place": 4,
+    "country": "EUN",
+    "mark": "00:01:57.200",
+    "name": "Inna EVSEEVA"
+  },
+  {
+    "place": 5,
+    "country": "MOZ",
+    "mark": "00:01:57.490",
+    "name": "Maria MUTOLA"
+  },
+  {
+    "place": 6,
+    "country": "ROU",
+    "mark": "00:01:57.950",
+    "name": "Ella KOVACS"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "00:01:58.060",
+    "name": "Joetta CLARK"
+  },
+  {
+    "place": 8,
+    "country": "EUN",
+    "mark": "00:01:58.130",
+    "name": "Lyubov GURINA"
+  }
+]

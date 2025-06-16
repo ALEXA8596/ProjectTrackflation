@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "3.30",
+    "name": "Irving BAXTER"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "3.25",
+    "name": "Meredith Bright COLKETT"
+  },
+  {
+    "place": 3,
+    "country": "NOR",
+    "mark": "3.20",
+    "name": "Carl Albert ANDERSEN"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "3.10",
+    "name": "Eric LEMMING"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "3.10",
+    "name": "Jakab KAUSER"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "3.10",
+    "name": "Émile GONTIER"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "2.80",
+    "name": "Karl Gustav STAAF"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "2.60",
+    "name": "August NILSSON"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Alex COLEMAN"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Bascom JOHNSON"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Charles DVORAK"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Daniel HORTON"
+  }
+]

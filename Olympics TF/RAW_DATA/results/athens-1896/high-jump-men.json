@@ -1,0 +1,122 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "1.81",
+    "name": "Ellery CLARK"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "1.65",
+    "name": "Bob GARRETT"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "1.65",
+    "name": "James Brendan CONNOLLY"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "1.60",
+    "name": "Henrik SJÖBERG"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "1.55",
+    "name": "Fritz HOFMANN"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Conrad BÖCKER"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "J. Stanley EDWARDS"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Louis ADLER"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Fritz TRAUN"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Alfred FLATOW"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Fritz MANTEUFFEL"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Gustav SCHUFT"
+  },
+  {
+    "place": 13,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Gyula KAKAS"
+  },
+  {
+    "place": 14,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Harald ARBIN"
+  },
+  {
+    "place": 15,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Kurt DOERRY"
+  },
+  {
+    "place": 16,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Gustav Felix FLATOW"
+  },
+  {
+    "place": 17,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Karl GALLE"
+  },
+  {
+    "place": 18,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Carl SCHUHMANN"
+  },
+  {
+    "place": 19,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Alajos SZOKOLYI"
+  },
+  {
+    "place": 20,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Dezső WEIN"
+  }
+]

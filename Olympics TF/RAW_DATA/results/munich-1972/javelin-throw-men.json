@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "FRG",
+    "mark": "90.48",
+    "name": "Klaus WOLFERMANN"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "90.46",
+    "name": "Yanis LUSIS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "84.42",
+    "name": "William David SCHMIDT"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "84.32",
+    "name": "Hannu Juhani SIITONEN"
+  },
+  {
+    "place": 5,
+    "country": "NOR",
+    "mark": "83.08",
+    "name": "Björn GRIMNES"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "82.08",
+    "name": "Jorma Viljo Palaavi KINNUNEN"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "81.98",
+    "name": "Miklos NEMETH"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "80.06",
+    "name": "Frederick Allen LUKE"
+  },
+  {
+    "place": 9,
+    "country": "GDR",
+    "mark": "79.32",
+    "name": "Manfred STOLLE"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "77.94",
+    "name": "Milton Barry SONSKY"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "76.34",
+    "name": "Lolesio TUITA"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "76.14",
+    "name": "Jozsef CSIK"
+  }
+]

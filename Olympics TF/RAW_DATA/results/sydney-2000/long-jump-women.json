@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "6.99",
+    "name": "Heike DRECHSLER"
+  },
+  {
+    "place": 2,
+    "country": "ITA",
+    "mark": "6.92",
+    "name": "Fiona MAY"
+  },
+  {
+    "place": 3,
+    "country": "RUS",
+    "mark": "6.83",
+    "name": "Tatyana KOTOVA"
+  },
+  {
+    "place": 4,
+    "country": "RUS",
+    "mark": "6.79",
+    "name": "Olga RUBLYOVA"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "6.74",
+    "name": "Susen TIEDTKE"
+  },
+  {
+    "place": 6,
+    "country": "BAH",
+    "mark": "6.59",
+    "name": "Jacqueline EDWARDS"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "6.59",
+    "name": "Tunde VASZI"
+  },
+  {
+    "place": 8,
+    "country": "RUS",
+    "mark": "6.56w",
+    "name": "Lyudmila GALKINA"
+  },
+  {
+    "place": 9,
+    "country": "JAM",
+    "mark": "6.43",
+    "name": "Elva GOULBOURNE"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "6.38",
+    "name": "Dawn BURRELL"
+  },
+  {
+    "place": 11,
+    "country": "UKR",
+    "mark": "6.37",
+    "name": "Olena SHEKHOVTSOVA"
+  },
+  {
+    "place": 12,
+    "country": "CMR",
+    "mark": "Did not start",
+    "name": "Françoise MBANGO ETONE"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "Disqualified for doping",
+    "name": "Marion JONES"
+  }
+]

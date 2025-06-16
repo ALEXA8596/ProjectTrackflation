@@ -1,0 +1,116 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "19.68",
+    "name": "William Henry NIEDER"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "19.11",
+    "name": "Parry O'BRIEN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "19.01",
+    "name": "Dallas Crutcher III LONG"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "17.90",
+    "name": "Viktor LIPSNIS"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "17.80",
+    "name": "Michael Robert LINDSAY"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "17.57",
+    "name": "Alfred SOSGORNIK"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "17.47",
+    "name": "Dietrich (Dieter) URBACH"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "17.43",
+    "name": "Martyn Taylor LUCKING"
+  },
+  {
+    "place": 9,
+    "country": "TCH",
+    "mark": "17.39",
+    "name": "Jiri SKOBLA"
+  },
+  {
+    "place": 10,
+    "country": "TCH",
+    "mark": "17.36",
+    "name": "Jaroslav PLIHAL"
+  },
+  {
+    "place": 11,
+    "country": "NZL",
+    "mark": "17.06",
+    "name": "Leslie Roy MILLS"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "16.98",
+    "name": "Hermann LINGNAU"
+  },
+  {
+    "place": 13,
+    "country": "ITA",
+    "mark": "16.73",
+    "name": "Silvano MECONI"
+  },
+  {
+    "place": 14,
+    "country": "HUN",
+    "mark": "16.67",
+    "name": "Zsigmond NAGY"
+  },
+  {
+    "place": 15,
+    "country": "AUS",
+    "mark": "16.18",
+    "name": "Warren Perrins SELVEY"
+  },
+  {
+    "place": 16,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Bruno GRAF"
+  },
+  {
+    "place": 17,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Todor Artarski TODOROV"
+  },
+  {
+    "place": 18,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Vilmos VARJU"
+  },
+  {
+    "place": 19,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Nuri TURAN"
+  }
+]

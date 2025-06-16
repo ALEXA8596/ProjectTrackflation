@@ -1,0 +1,122 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:27:40.380",
+    "name": "Lasse VIRÉN"
+  },
+  {
+    "place": 2,
+    "country": "POR",
+    "mark": "00:27:45.170",
+    "name": "Carlos LOPES"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "00:27:54.920",
+    "name": "Brendan FOSTER"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "00:27:56.260",
+    "name": "Anthony Derek SIMMONS"
+  },
+  {
+    "place": 5,
+    "country": "ROU",
+    "mark": "00:27:59.930",
+    "name": "Ilie FLOROIU"
+  },
+  {
+    "place": 6,
+    "country": "ESP",
+    "mark": "00:28:00.280",
+    "name": "Mariano HARO CISNEROS"
+  },
+  {
+    "place": 7,
+    "country": "BEL",
+    "mark": "00:28:02.800",
+    "name": "Mark SMET"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "00:28:17.780",
+    "name": "Bernie FORD"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "00:28:24.070",
+    "name": "Jean Paul GOMEZ"
+  },
+  {
+    "place": 10,
+    "country": "NED",
+    "mark": "00:28:25.040",
+    "name": "Josephus J.M. HERMENS"
+  },
+  {
+    "place": 11,
+    "country": "BEL",
+    "mark": "00:28:26.480",
+    "name": "Karel LISMONT"
+  },
+  {
+    "place": 12,
+    "country": "AUS",
+    "mark": "00:28:29.910",
+    "name": "Christopher WARDLAW"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "00:28:38.080",
+    "name": "Garry Brian BJORKLUND"
+  },
+  {
+    "place": 14,
+    "country": "AUS",
+    "mark": "00:29:17.740",
+    "name": "Dave FITZSIMONS"
+  },
+  {
+    "place": 15,
+    "country": "BEL",
+    "mark": "Did not finish",
+    "name": "Emiel PUTTEMANS"
+  },
+  {
+    "place": 16,
+    "country": "NOR",
+    "mark": "Did not finish",
+    "name": "Knut BORO"
+  },
+  {
+    "place": 17,
+    "country": "TUN",
+    "mark": "Did not start",
+    "name": "Adel BOUGUERRA"
+  },
+  {
+    "place": 18,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Mikhail KOUSSIS"
+  },
+  {
+    "place": 19,
+    "country": "TUN",
+    "mark": "Did not start",
+    "name": "Mohamed GAMMOUDI"
+  },
+  {
+    "place": 20,
+    "country": "TUN",
+    "mark": "Did not start",
+    "name": "Abdel Kader ZADDEM"
+  }
+]

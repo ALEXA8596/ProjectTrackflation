@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "20.300",
+    "name": "Henry CARR"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "20.500",
+    "name": "Otis Paul DRAYTON"
+  },
+  {
+    "place": 3,
+    "country": "TTO",
+    "mark": "20.600",
+    "name": "Edwin ROBERTS"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "20.700",
+    "name": "Harry Winston JEROME"
+  },
+  {
+    "place": 5,
+    "country": "ITA",
+    "mark": "20.800",
+    "name": "Livio BERRUTI"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "20.800",
+    "name": "Marian FOIK"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "20.800",
+    "name": "Richard Vaughn STEBBINS"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "20.900",
+    "name": "Sergio OTTOLINA"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Eric James BIGBY"
+  },
+  {
+    "place": 10,
+    "country": "BAH",
+    "mark": "Did not start",
+    "name": "Thomas Augustus ROBINSON"
+  },
+  {
+    "place": 11,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Enrique FIGUEROLA CAMUE"
+  },
+  {
+    "place": 12,
+    "country": "ISR",
+    "mark": "Did not start",
+    "name": "Levi PSAVKIN"
+  },
+  {
+    "place": 13,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "Pablo S. MCNEIL"
+  },
+  {
+    "place": 14,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Hideo IIJIMA"
+  }
+]

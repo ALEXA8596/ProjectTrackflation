@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "NOR",
+    "mark": "00:01:42.580",
+    "name": "Vebjorn RODAL"
+  },
+  {
+    "place": 2,
+    "country": "RSA",
+    "mark": "00:01:42.740",
+    "name": "Hezekiel SEPENG"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "00:01:42.790",
+    "name": "Fred ONYANCHA"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "00:01:42.850",
+    "name": "Norberto TELLEZ"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "00:01:43.910",
+    "name": "Nico MOTCHEBON"
+  },
+  {
+    "place": 6,
+    "country": "KEN",
+    "mark": "00:01:44.190",
+    "name": "David KIPTOO"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "00:01:44.210",
+    "name": "Johnny Lee Jr GRAY"
+  },
+  {
+    "place": 8,
+    "country": "MAR",
+    "mark": "00:01:45.520",
+    "name": "Lahlou BEN YOUNÈS"
+  },
+  {
+    "place": 9,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Roberto PARRA"
+  }
+]

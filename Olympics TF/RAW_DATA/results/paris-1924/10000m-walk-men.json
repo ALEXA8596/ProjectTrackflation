@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "00:47:49.000",
+    "name": "Ugo FRIGERIO"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "00:48:37.900",
+    "name": "Gordon GOODWIN"
+  },
+  {
+    "place": 3,
+    "country": "RSA",
+    "mark": "00:49:08.000",
+    "name": "Cecil Charles MCMASTER"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "00:49:17.000",
+    "name": "Donato PAVESI"
+  },
+  {
+    "place": 5,
+    "country": "SUI",
+    "mark": "00:49:50.000",
+    "name": "Arthur SCHWAB"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "00:49:59.200",
+    "name": "Ernie CLARK"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "00:50:07.000",
+    "name": "Armando VALENTE"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "00:50:09.000",
+    "name": "Luigi BOSATRA"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "00:50:16.800",
+    "name": "Harry Robert HINKEL"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "00:51:41.600",
+    "name": "Henri CLERMONT"
+  },
+  {
+    "place": 11,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "František HAVELKA"
+  },
+  {
+    "place": 12,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "A. TERKOVIĆ"
+  },
+  {
+    "place": 13,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "L. G. FLORES"
+  },
+  {
+    "place": 14,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Eduardo SOLER"
+  },
+  {
+    "place": 15,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "František STETINA"
+  },
+  {
+    "place": 16,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Stefan SZELESTOWSKI"
+  },
+  {
+    "place": 17,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Josef SLEHOFER"
+  }
+]

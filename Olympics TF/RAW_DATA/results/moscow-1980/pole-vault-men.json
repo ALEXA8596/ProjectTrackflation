@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "5.78",
+    "name": "Wladyslaw KOZAKIEWICZ"
+  },
+  {
+    "place": 2,
+    "country": "POL",
+    "mark": "5.65",
+    "name": "Tadeusz SLUSARSKI"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "5.65",
+    "name": "Konstantin VOLKOV"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "5.65",
+    "name": "Philippe HOUVION"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "5.60",
+    "name": "Jean-Michel BELLOT"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "5.55",
+    "name": "Mariusz KLIMCZYK"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "5.45",
+    "name": "Thierry VIGNERON"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "5.45",
+    "name": "Sergei KULIBABA"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "5.45",
+    "name": "Tapani HAAPAKOSKI"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "5.35",
+    "name": "Kazimir ZALAR"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "5.35",
+    "name": "Brian HOOPER"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "5.25",
+    "name": "Rauli PUDAS"
+  }
+]

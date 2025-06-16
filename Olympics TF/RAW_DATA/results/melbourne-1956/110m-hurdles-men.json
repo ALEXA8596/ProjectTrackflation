@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "13.500",
+    "name": "Lee CALHOUN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.500",
+    "name": "Jack DAVIS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "14.100",
+    "name": "Joel SHANKLE"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "14.500",
+    "name": "Martin LAUER"
+  },
+  {
+    "place": 5,
+    "country": "YUG",
+    "mark": "14.500",
+    "name": "Stanko LORGER"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "14.600",
+    "name": "Boris STOLYAROV"
+  },
+  {
+    "place": 7,
+    "country": "PUR",
+    "mark": "Did not start",
+    "name": "Amadeo FRANCIS"
+  }
+]

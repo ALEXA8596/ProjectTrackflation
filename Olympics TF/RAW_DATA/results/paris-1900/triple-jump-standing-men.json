@@ -1,0 +1,32 @@
+[
+  {
+    "place": 1,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Arpád DANOS"
+  },
+  {
+    "place": 2,
+    "country": "CZE",
+    "mark": "Did not start",
+    "name": "Václav NOVÝ"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Eric LEMMING"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "James Brendan CONNOLLY"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Meyer PRINSTEIN"
+  }
+]

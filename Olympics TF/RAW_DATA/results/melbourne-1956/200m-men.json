@@ -1,0 +1,116 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "20.600",
+    "name": "Bobby MORROW"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "20.700",
+    "name": "Andrew William STANFIELD"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "20.900",
+    "name": "Walter Thane BAKER"
+  },
+  {
+    "place": 4,
+    "country": "TTO",
+    "mark": "21.100",
+    "name": "Michael AGOSTINI"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "21.200",
+    "name": "Boris TOKAREV"
+  },
+  {
+    "place": 6,
+    "country": "BRA",
+    "mark": "21.300",
+    "name": "José TELLES DA CONCEIÇÃO"
+  },
+  {
+    "place": 7,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "René FARINE"
+  },
+  {
+    "place": 8,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Bruno URBEN"
+  },
+  {
+    "place": 9,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Stan LEVENSON"
+  },
+  {
+    "place": 10,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Carlos SIERRA"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Voitto Valdemar HELLSTEN"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Geza VARASDI"
+  },
+  {
+    "place": 13,
+    "country": "IRQ",
+    "mark": "Did not start",
+    "name": "Ghanim MAHMOUD"
+  },
+  {
+    "place": 14,
+    "country": "ISL",
+    "mark": "Did not start",
+    "name": "Hilmar ROGNVALDSSON"
+  },
+  {
+    "place": 15,
+    "country": "MAS",
+    "mark": "Did not start",
+    "name": "Sinnayah KARUPPIAH JARABALAN"
+  },
+  {
+    "place": 16,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Zenon BARANOWSKI"
+  },
+  {
+    "place": 17,
+    "country": "PUR",
+    "mark": "Did not start",
+    "name": "Norberto CRUZ"
+  },
+  {
+    "place": 18,
+    "country": "TTO",
+    "mark": "Did not start",
+    "name": "Edmund TURTON"
+  },
+  {
+    "place": 19,
+    "country": "VEN",
+    "mark": "Did not start",
+    "name": "Alfonso BRUNO"
+  }
+]

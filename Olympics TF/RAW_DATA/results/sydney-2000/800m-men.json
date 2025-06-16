@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "00:01:45.080",
+    "name": "Nils SCHUMANN"
+  },
+  {
+    "place": 2,
+    "country": "DEN",
+    "mark": "00:01:45.140",
+    "name": "Wilson KIPKETER"
+  },
+  {
+    "place": 3,
+    "country": "ALG",
+    "mark": "00:01:45.160",
+    "name": "Djabir SAID GUERNI"
+  },
+  {
+    "place": 4,
+    "country": "RSA",
+    "mark": "00:01:45.290",
+    "name": "Hezekiel SEPENG"
+  },
+  {
+    "place": 5,
+    "country": "SUI",
+    "mark": "00:01:45.400",
+    "name": "Andre BUCHER"
+  },
+  {
+    "place": 6,
+    "country": "RUS",
+    "mark": "00:01:45.830",
+    "name": "Yury BORZAKOVSKY"
+  },
+  {
+    "place": 7,
+    "country": "BOT",
+    "mark": "00:01:46.240",
+    "name": "Glody DUBE"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "Disqualified",
+    "name": "Andrea LONGO"
+  },
+  {
+    "place": 9,
+    "country": "SUD",
+    "mark": "Did not start",
+    "name": "Mohamed Babiker YAGOUB"
+  }
+]

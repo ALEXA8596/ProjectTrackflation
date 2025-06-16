@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "45.900",
+    "name": "Vincent George RHODEN"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "45.900",
+    "name": "Herbert MCKENLEY"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "46.800",
+    "name": "Oliver Adrian MATSON"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "47.000",
+    "name": "Karl-Friedrich HAAS"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "47.000",
+    "name": "Arthur WINT"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "47.100",
+    "name": "Malvin Groston WHITFIELD"
+  },
+  {
+    "place": 7,
+    "country": "PAN",
+    "mark": "Did not start",
+    "name": "Cirilo MCSWEEN"
+  },
+  {
+    "place": 8,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Knud SCHIBSBYE"
+  },
+  {
+    "place": 9,
+    "country": "PAN",
+    "mark": "Did not start",
+    "name": "Sam LABEACH"
+  },
+  {
+    "place": 10,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "José FÓRMICA"
+  },
+  {
+    "place": 11,
+    "country": "PAN",
+    "mark": "Did not start",
+    "name": "Clayton CLARK"
+  },
+  {
+    "place": 12,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Gustavo EHLERS TRÖSTEL"
+  },
+  {
+    "place": 13,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Vasilios MAVROIDIS"
+  },
+  {
+    "place": 14,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "Jimmy REARDON"
+  },
+  {
+    "place": 15,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Eitaro OKANO"
+  },
+  {
+    "place": 16,
+    "country": "KOR",
+    "mark": "Did not start",
+    "name": "Pal-yong EOM"
+  },
+  {
+    "place": 17,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Ekrem KOCAK"
+  }
+]

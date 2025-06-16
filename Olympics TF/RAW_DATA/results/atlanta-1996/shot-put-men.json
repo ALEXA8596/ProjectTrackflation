@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "21.62",
+    "name": "Eric Randolph BARNES"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "20.79",
+    "name": "John GODINA"
+  },
+  {
+    "place": 3,
+    "country": "UKR",
+    "mark": "20.75",
+    "name": "Oleksandr BAGACH"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "20.74",
+    "name": "Paolo DAL SOGLIO"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "20.51",
+    "name": "Oliver-Sven BUDER"
+  },
+  {
+    "place": 6,
+    "country": "UKR",
+    "mark": "20.45",
+    "name": "Roman VIRASTYUK"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "20.39",
+    "name": "C.J. HUNTER"
+  },
+  {
+    "place": 8,
+    "country": "SCG",
+    "mark": "20.07",
+    "name": "Dragan PERIC"
+  },
+  {
+    "place": 9,
+    "country": "BLR",
+    "mark": "19.79",
+    "name": "Dzmitry HANCHARUK"
+  },
+  {
+    "place": 10,
+    "country": "QAT",
+    "mark": "19.33",
+    "name": "Bilal Saad MUBARAK"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "19.30",
+    "name": "Corrado FANTINI"
+  },
+  {
+    "place": 12,
+    "country": "UKR",
+    "mark": "No mark",
+    "name": "Alexander KLYMENKO"
+  }
+]

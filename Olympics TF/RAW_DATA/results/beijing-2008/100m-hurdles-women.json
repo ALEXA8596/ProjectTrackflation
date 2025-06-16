@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "12.540",
+    "name": "Dawn HARPER"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "12.640",
+    "name": "Sally PEARSON"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "12.640",
+    "name": "Priscilla LOPES-SCHLIEP"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "12.650",
+    "name": "Damu CHERRY"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "12.650",
+    "name": "Delloreen ENNIS-LONDON"
+  },
+  {
+    "place": 6,
+    "country": "JAM",
+    "mark": "12.660",
+    "name": "Brigitte FOSTER-HYLTON"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "12.720",
+    "name": "Lolo JONES"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "12.940",
+    "name": "Sarah CLAXTON"
+  },
+  {
+    "place": 9,
+    "country": "ESP",
+    "mark": "Disqualified",
+    "name": "Josephine Nnkiruka ONYIA"
+  }
+]

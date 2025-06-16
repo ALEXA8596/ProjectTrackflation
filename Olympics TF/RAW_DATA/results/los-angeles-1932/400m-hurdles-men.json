@@ -1,0 +1,38 @@
+[
+  {
+    "place": 1,
+    "country": "IRL",
+    "mark": "51.800",
+    "name": "Robert Morton Newburgh TISDALL"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "51.900",
+    "name": "Glenn Foster HARDIN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "52.000",
+    "name": "Frederick Morgan TAYLOR"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "52.200",
+    "name": "David George BURGHLEY"
+  },
+  {
+    "place": 5,
+    "country": "ITA",
+    "mark": "53.000",
+    "name": "Luigi FACELLI"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "54.600",
+    "name": "Johan Kellgren ARESKOUG"
+  }
+]

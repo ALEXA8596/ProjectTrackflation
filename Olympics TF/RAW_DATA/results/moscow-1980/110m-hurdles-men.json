@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "13.390",
+    "name": "Thomas MUNKELT"
+  },
+  {
+    "place": 2,
+    "country": "CUB",
+    "mark": "13.400",
+    "name": "Alejandro CASAÑAS"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "13.440",
+    "name": "Aleksandr PUCHKOV"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "13.490",
+    "name": "Andrey PROKOFYEV"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "13.680",
+    "name": "Jan PUSTY"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "13.760",
+    "name": "Arto BRYGGARE"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "13.780",
+    "name": "Javier MORACHO TORRENTE"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "15.800",
+    "name": "Yury CHERVANYOV"
+  }
+]

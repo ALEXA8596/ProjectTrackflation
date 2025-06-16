@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "22.52",
+    "name": "Ryan CROUSER"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "21.78",
+    "name": "Joe KOVACS"
+  },
+  {
+    "place": 3,
+    "country": "NZL",
+    "mark": "21.36",
+    "name": "Tomas WALSH"
+  },
+  {
+    "place": 4,
+    "country": "CGO",
+    "mark": "21.20",
+    "name": "Franck ELEMBA"
+  },
+  {
+    "place": 5,
+    "country": "BRA",
+    "mark": "21.02",
+    "name": "Darlan ROMANI"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "20.72",
+    "name": "Tomasz MAJEWSKI"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "20.64",
+    "name": "David STORL"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "20.64",
+    "name": "Odayne RICHARDS"
+  },
+  {
+    "place": 9,
+    "country": "NZL",
+    "mark": "20.50",
+    "name": "Jacko GILL"
+  },
+  {
+    "place": 10,
+    "country": "AUS",
+    "mark": "20.45",
+    "name": "Damien BIRKINHEAD"
+  },
+  {
+    "place": 11,
+    "country": "CRO",
+    "mark": "20.04",
+    "name": "Stipe ZUNIC"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "No mark",
+    "name": "Konrad BUKOWIECKI"
+  }
+]

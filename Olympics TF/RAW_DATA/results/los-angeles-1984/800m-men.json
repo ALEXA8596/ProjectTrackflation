@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "BRA",
+    "mark": "00:01:43.000",
+    "name": "Joaquim CRUZ"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "00:01:43.640",
+    "name": "Sebastian COE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "00:01:43.830",
+    "name": "Earl JONES"
+  },
+  {
+    "place": 4,
+    "country": "KEN",
+    "mark": "00:01:44.030",
+    "name": "William KONCHELLAH"
+  },
+  {
+    "place": 5,
+    "country": "ITA",
+    "mark": "00:01:44.530",
+    "name": "Donato SABIA"
+  },
+  {
+    "place": 6,
+    "country": "KEN",
+    "mark": "00:01:44.860",
+    "name": "Edwin KOECH"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "00:01:47.890",
+    "name": "Johnny Lee Jr GRAY"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "00:01:52.280",
+    "name": "Steve OVETT"
+  },
+  {
+    "place": 9,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Manuel RAMIREZ CAICEDO"
+  }
+]

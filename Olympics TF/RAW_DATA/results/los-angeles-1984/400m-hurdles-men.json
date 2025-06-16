@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "47.750",
+    "name": "Edwin MOSES"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "48.130",
+    "name": "Daniel Lee HARRIS"
+  },
+  {
+    "place": 3,
+    "country": "FRG",
+    "mark": "48.190",
+    "name": "Harald SCHMID"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "48.970",
+    "name": "Sven NYLANDER"
+  },
+  {
+    "place": 5,
+    "country": "SEN",
+    "mark": "49.280",
+    "name": "El Hadji Amadou DIA BA"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "49.420",
+    "name": "Tranel W. HAWKINS"
+  },
+  {
+    "place": 7,
+    "country": "BEL",
+    "mark": "50.690",
+    "name": "Michel ZIMMERMAN"
+  },
+  {
+    "place": 8,
+    "country": "NGR",
+    "mark": "53.780",
+    "name": "Henry AMIKE"
+  },
+  {
+    "place": 9,
+    "country": "CGO",
+    "mark": "Did not start",
+    "name": "Alphonse MANDONDA"
+  }
+]

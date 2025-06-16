@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "21.26",
+    "name": "Alessandro ANDREI"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "21.09",
+    "name": "Michael D'Andrea CARTER"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "20.97",
+    "name": "David Lester LAUT"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "20.93",
+    "name": "Augustus Louis WOLF"
+  },
+  {
+    "place": 5,
+    "country": "SUI",
+    "mark": "20.28",
+    "name": "Werner GÜNTHÖR"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "19.98",
+    "name": "Marco MONTELATICI"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "19.81",
+    "name": "Soren TALLHEM"
+  },
+  {
+    "place": 8,
+    "country": "NED",
+    "mark": "19.65",
+    "name": "Erik DE BRUIN"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "18.98",
+    "name": "Aulis AKONNIEMI"
+  },
+  {
+    "place": 10,
+    "country": "CHI",
+    "mark": "18.69",
+    "name": "Gert Michel WEIL"
+  },
+  {
+    "place": 11,
+    "country": "CAN",
+    "mark": "18.39",
+    "name": "Bishop DOLEGIEWICZ"
+  },
+  {
+    "place": 12,
+    "country": "FRG",
+    "mark": "18.31",
+    "name": "Karsten STOLZ"
+  },
+  {
+    "place": 13,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Bruno PAULETTO"
+  },
+  {
+    "place": 14,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Kari TÖYRYLÄ"
+  },
+  {
+    "place": 15,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Stefan FERNHOLM"
+  }
+]

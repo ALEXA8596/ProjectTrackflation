@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "00:01:52.900",
+    "name": "John Youie WOODRUFF"
+  },
+  {
+    "place": 2,
+    "country": "ITA",
+    "mark": "00:01:53.300",
+    "name": "Mario LANZI"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "00:01:53.600",
+    "name": "Philip EDWARDS"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "00:01:53.800",
+    "name": "Kazimierz KUCHARSKI"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:01:54.600",
+    "name": "Chuck HORNBOSTEL"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:01:55.800",
+    "name": "Harry Webb WILLIAMSON"
+  },
+  {
+    "place": 7,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Miguel ROBLES CASTRO"
+  },
+  {
+    "place": 8,
+    "country": "CHN",
+    "mark": "Did not start",
+    "name": "Lianren JIA"
+  },
+  {
+    "place": 9,
+    "country": "EGY",
+    "mark": "Did not start",
+    "name": "Abu Al-yazid EL-HALAWANI"
+  },
+  {
+    "place": 10,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Enrique PIFERRER"
+  },
+  {
+    "place": 11,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Luis PRATMARSO PARERA"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Ossian (Ossi) Hans TEILERI"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Rene MOREL"
+  },
+  {
+    "place": 14,
+    "country": "ROU",
+    "mark": "Did not start",
+    "name": "Fransisc NEMES"
+  },
+  {
+    "place": 15,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Fritz SOLLBERGER"
+  },
+  {
+    "place": 16,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Eric NY"
+  },
+  {
+    "place": 17,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Erik WENNBERG"
+  },
+  {
+    "place": 18,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Karlo NIKHAZI"
+  }
+]

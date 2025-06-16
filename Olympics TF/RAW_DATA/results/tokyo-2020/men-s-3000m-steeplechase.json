@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "MAR",
+    "mark": "8:08.90",
+    "name": "Soufiane ELBAKKALI"
+  },
+  {
+    "place": 2,
+    "country": "ETH",
+    "mark": "8:10.38",
+    "name": "Lamecha GIRMA"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "8:11.45",
+    "name": "Benjamin KIGEN"
+  },
+  {
+    "place": 4,
+    "country": "ETH",
+    "mark": "8:14.97",
+    "name": "Getnet WALE"
+  },
+  {
+    "place": 5,
+    "country": "ERI",
+    "mark": "8:15.34",
+    "name": "Yemane HAILESELASSIE"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "8:16.03",
+    "name": "Matthew HUGHES"
+  },
+  {
+    "place": 7,
+    "country": "JPN",
+    "mark": "8:16.90",
+    "name": "Ryuji MIURA"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "8:17.44",
+    "name": "Topi RAITANEN"
+  },
+  {
+    "place": 9,
+    "country": "ITA",
+    "mark": "8:18.50",
+    "name": "Ala ZOGHLAMI"
+  },
+  {
+    "place": 10,
+    "country": "KEN",
+    "mark": "8:19.41",
+    "name": "Abraham KIBIWOT"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "8:22.12",
+    "name": "Benard KETER"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "8:23.14",
+    "name": "Alexis PHELUT"
+  },
+  {
+    "place": 13,
+    "country": "MAR",
+    "mark": "8:23.56",
+    "name": "Mohamed TINDOUFT"
+  },
+  {
+    "place": 14,
+    "country": "ITA",
+    "mark": "8:24.34",
+    "name": "Ahmed ABDELWAHED"
+  },
+  {
+    "place": 15,
+    "country": "CAN",
+    "mark": "8:35.41",
+    "name": "John GAY"
+  }
+]

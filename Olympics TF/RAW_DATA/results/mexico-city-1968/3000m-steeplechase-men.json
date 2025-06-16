@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "00:08:51.000",
+    "name": "Amos Kipwabok BIWOTT"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:08:51.600",
+    "name": "Benjamin KOGO"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "00:08:51.800",
+    "name": "George L. YOUNG"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "00:08:52.000",
+    "name": "Kerry O'BRIEN"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "00:08:55.800",
+    "name": "Aleksandr MOROZOV"
+  },
+  {
+    "place": 6,
+    "country": "BUL",
+    "mark": "00:08:58.400",
+    "name": "Mihail ZHELEV"
+  },
+  {
+    "place": 7,
+    "country": "BEL",
+    "mark": "00:08:59.400",
+    "name": "Gaston ROELANTS"
+  },
+  {
+    "place": 8,
+    "country": "NOR",
+    "mark": "00:09:09.000",
+    "name": "Arne Roald RISA"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "00:09:16.200",
+    "name": "Jean-Paul VILLAIN"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "00:09:20.600",
+    "name": "Bengt PERSSON-WIDMARK"
+  },
+  {
+    "place": 11,
+    "country": "ESP",
+    "mark": "00:09:24.600",
+    "name": "Javier ALVAREZ SALGADO"
+  },
+  {
+    "place": 12,
+    "country": "URS",
+    "mark": "Did not finish",
+    "name": "Viktor KUDINSKY"
+  }
+]

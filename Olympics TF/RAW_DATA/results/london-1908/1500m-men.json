@@ -1,0 +1,200 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "00:04:03.400",
+    "name": "Melvin SHEPPARD"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "4:03.6est",
+    "name": "Harold WILSON"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "4:04.0est",
+    "name": "Norman HALLOWS"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "4:06.8est",
+    "name": "Jack TAIT"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "4:07.6est",
+    "name": "Ian Frank FAIRBAIRN-CRAWFORD"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "4:07.9est",
+    "name": "Joseph Edmund DEAKIN"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Vincent LONEY"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "James P. SULLIVAN"
+  },
+  {
+    "place": 9,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Roger DAUBIN"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Imre VERES"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "John BLANKENAGEL"
+  },
+  {
+    "place": 12,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Guy HASKINS"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Floyd ROWE"
+  },
+  {
+    "place": 14,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Marcel QUILBEUF"
+  },
+  {
+    "place": 15,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "W. A. SHEE"
+  },
+  {
+    "place": 16,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Kálmán BECSKE"
+  },
+  {
+    "place": 17,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "George HOYNES"
+  },
+  {
+    "place": 18,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "George B. BLAKE"
+  },
+  {
+    "place": 19,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Felix KWIETON"
+  },
+  {
+    "place": 20,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Donald Smith BUDDO"
+  },
+  {
+    "place": 21,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "George Newcomen MORPHY"
+  },
+  {
+    "place": 22,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Arthur James ROBERTSON"
+  },
+  {
+    "place": 23,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Antal LOVAS"
+  },
+  {
+    "place": 24,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Hendrik J.W. VAN DER WAL"
+  },
+  {
+    "place": 25,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Charles A. HEFFERON"
+  },
+  {
+    "place": 26,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Carl Nicanor ANDERSSON"
+  },
+  {
+    "place": 27,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "F.Gösta DANIELSON"
+  },
+  {
+    "place": 28,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Kristian HELLSTRÖM"
+  },
+  {
+    "place": 29,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "J. Georg PETERSSON"
+  },
+  {
+    "place": 30,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Johan Fritiof SVANBERG"
+  },
+  {
+    "place": 31,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Gale Albert DULL"
+  },
+  {
+    "place": 32,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Lloyd Peniston JONES"
+  },
+  {
+    "place": 33,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Herbert Lawrence TRUBE"
+  }
+]

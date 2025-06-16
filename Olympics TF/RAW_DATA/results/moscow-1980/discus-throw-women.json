@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "69.96",
+    "name": "Evelin SCHLAAK-JAHL"
+  },
+  {
+    "place": 2,
+    "country": "BUL",
+    "mark": "67.90",
+    "name": "Maria VERGOVA-PETKOVA"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "67.40",
+    "name": "Tatyana LESOVAYA"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "67.08",
+    "name": "Gisela BEYER"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "66.12",
+    "name": "Margitta DROESE-PUFE"
+  },
+  {
+    "place": 6,
+    "country": "ROU",
+    "mark": "64.38",
+    "name": "Florenta TACU-CRAICIUNESCU"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "63.84",
+    "name": "Galina MURASHOVA"
+  },
+  {
+    "place": 8,
+    "country": "BUL",
+    "mark": "63.14",
+    "name": "Svetla BOZHKOVA"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "61.16",
+    "name": "Margaret RITCHIE"
+  },
+  {
+    "place": 10,
+    "country": "CUB",
+    "mark": "60.86",
+    "name": "Carmen ROMERO FERRER"
+  },
+  {
+    "place": 11,
+    "country": "TCH",
+    "mark": "57.78",
+    "name": "Zdenka BARTONOVA-SILHOVA"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "55.06",
+    "name": "Agnes HERCZEG"
+  },
+  {
+    "place": 13,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Ulla LUNDHOLM"
+  }
+]

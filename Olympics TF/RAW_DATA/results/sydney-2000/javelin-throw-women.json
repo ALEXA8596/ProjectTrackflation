@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "NOR",
+    "mark": "68.91",
+    "name": "Trine HATTESTAD"
+  },
+  {
+    "place": 2,
+    "country": "GRE",
+    "mark": "67.51",
+    "name": "Mirella MANIANI-TZELILI"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "66.18",
+    "name": "Osleidys MENENDEZ"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "64.84",
+    "name": "Steffi NERIUS"
+  },
+  {
+    "place": 5,
+    "country": "CUB",
+    "mark": "63.26",
+    "name": "Sonia BISSET"
+  },
+  {
+    "place": 6,
+    "country": "CUB",
+    "mark": "62.92",
+    "name": "Xiomara RIVERO"
+  },
+  {
+    "place": 7,
+    "country": "RUS",
+    "mark": "62.91",
+    "name": "Tatiana SHIKOLENKO"
+  },
+  {
+    "place": 8,
+    "country": "CZE",
+    "mark": "62.10",
+    "name": "Nikola BREJCHOVA"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "58.56",
+    "name": "Mikaela INGBERG"
+  },
+  {
+    "place": 10,
+    "country": "CHN",
+    "mark": "58.33",
+    "name": "Jianhua WEI"
+  },
+  {
+    "place": 11,
+    "country": "CHN",
+    "mark": "56.83",
+    "name": "Lei LI"
+  },
+  {
+    "place": 12,
+    "country": "ITA",
+    "mark": "56.74",
+    "name": "Claudia COSLOVICH"
+  }
+]

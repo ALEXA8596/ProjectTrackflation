@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "53.295",
+    "name": "Frederick Delmont TOOTELL"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "50.84",
+    "name": "Matt MCGRATH"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "48.875",
+    "name": "Malcolm Cuthbert NOKES"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "48.74",
+    "name": "Erik G. ERIKSSON"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "45.285",
+    "name": "Ossian E. SKIÖLD"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "45.225",
+    "name": "James MAC EACHERN"
+  },
+  {
+    "place": 7,
+    "country": "NED",
+    "mark": "NM",
+    "name": "Hendrik KAMERBEEK"
+  },
+  {
+    "place": 8,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Rudolf PŘIDAL"
+  },
+  {
+    "place": 9,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "William HAGEMEISTER"
+  },
+  {
+    "place": 10,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "José GALIMBERTI"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Thomas Rae NICOLSON"
+  }
+]

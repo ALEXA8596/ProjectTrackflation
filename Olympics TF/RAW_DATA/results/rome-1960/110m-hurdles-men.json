@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "13.800",
+    "name": "Lee CALHOUN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "13.800",
+    "name": "William Lee MAY"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "14.000",
+    "name": "Hayes JONES"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "14.000",
+    "name": "Martin LAUER"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "14.400",
+    "name": "Keith Alvin Saint GARDNER"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "14.600",
+    "name": "Valentin CHISTYAKOV"
+  },
+  {
+    "place": 7,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Evert KAMERBEEK"
+  }
+]

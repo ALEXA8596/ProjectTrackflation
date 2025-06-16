@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "VEN",
+    "mark": "15.67",
+    "name": "Yulimar ROJAS"
+  },
+  {
+    "place": 2,
+    "country": "POR",
+    "mark": "15.01",
+    "name": "Patricia MAMONA"
+  },
+  {
+    "place": 3,
+    "country": "ESP",
+    "mark": "14.87",
+    "name": "Ana PELETEIRO"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "14.84",
+    "name": "Shanieka THOMAS"
+  },
+  {
+    "place": 5,
+    "country": "CUB",
+    "mark": "14.70",
+    "name": "Liadagmis POVEA"
+  },
+  {
+    "place": 6,
+    "country": "ISR",
+    "mark": "14.60",
+    "name": "Hanna KNYAZYEVA-MINENKO"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "14.59",
+    "name": "Keturah ORJI"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "14.51",
+    "name": "Kimberly WILLIAMS"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "14.38",
+    "name": "Rouguy DIALLO"
+  },
+  {
+    "place": 10,
+    "country": "COL",
+    "mark": "14.25",
+    "name": "Caterine IBARGUEN"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "14.17",
+    "name": "Kristiina MAKELA"
+  },
+  {
+    "place": 12,
+    "country": "DMA",
+    "mark": "12.57",
+    "name": "Thea LAFOND"
+  }
+]

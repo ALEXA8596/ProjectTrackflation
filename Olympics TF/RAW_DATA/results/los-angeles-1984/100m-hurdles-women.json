@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "12.840",
+    "name": "Benita FITZGERALD-BROWN"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "12.880",
+    "name": "Shirley STRONG"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "13.060",
+    "name": "Michele CHARDONNET"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "13.060",
+    "name": "Kim TURNER"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "13.200",
+    "name": "Glyniss Leanne NUNN-SAUNDERS-CEARNS"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "13.280",
+    "name": "Marie-Noelle SAVIGNY"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "13.320",
+    "name": "Ulrike DENK"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "13.400",
+    "name": "Pam PAGE"
+  },
+  {
+    "place": 9,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Esmeralda DE JESUS FREITAS GARCIA"
+  },
+  {
+    "place": 10,
+    "country": "FIJ",
+    "mark": "Did not start",
+    "name": "Miriama TUISORISORI-CHAMBAULT"
+  },
+  {
+    "place": 11,
+    "country": "GUA",
+    "mark": "Did not start",
+    "name": "Christa SCHUMANN LOTTMAN"
+  }
+]

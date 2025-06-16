@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "00:08:09.700",
+    "name": "Bronislaw MALINOWSKI"
+  },
+  {
+    "place": 2,
+    "country": "TAN",
+    "mark": "00:08:12.500",
+    "name": "Filbert BAYI"
+  },
+  {
+    "place": 3,
+    "country": "ETH",
+    "mark": "00:08:13.600",
+    "name": "Eshetu TURA"
+  },
+  {
+    "place": 4,
+    "country": "ESP",
+    "mark": "00:08:15.800",
+    "name": "Domingo RAMON MENARGUES"
+  },
+  {
+    "place": 5,
+    "country": "ESP",
+    "mark": "00:08:18.000",
+    "name": "Francisco SANCHEZ"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "00:08:18.500",
+    "name": "Giuseppe GERBI"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "00:08:19.500",
+    "name": "Boguslaw MAMINSKI"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "00:08:19.800",
+    "name": "Anatoli DIMOV"
+  },
+  {
+    "place": 9,
+    "country": "ROU",
+    "mark": "00:08:23.900",
+    "name": "Vasile BICHEA"
+  },
+  {
+    "place": 10,
+    "country": "TCH",
+    "mark": "00:08:29.100",
+    "name": "Dusan MORAVCIK"
+  },
+  {
+    "place": 11,
+    "country": "ALG",
+    "mark": "00:08:31.800",
+    "name": "Lahcene BABACI"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "00:08:40.900",
+    "name": "Tommy EKBLOM"
+  },
+  {
+    "place": 13,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Tapio KANTANEN"
+  }
+]

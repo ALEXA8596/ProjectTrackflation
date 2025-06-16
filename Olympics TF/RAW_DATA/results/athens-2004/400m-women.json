@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "BAH",
+    "mark": "49.410",
+    "name": "Tonique WILLIAMS-DARLING"
+  },
+  {
+    "place": 2,
+    "country": "MEX",
+    "mark": "49.560",
+    "name": "Ana GUEVARA"
+  },
+  {
+    "place": 3,
+    "country": "RUS",
+    "mark": "49.890",
+    "name": "Natalya ANTYUKH"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "49.970",
+    "name": "Monique HENNAGAN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "50.000",
+    "name": "DeeDee TROTTER"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "50.190",
+    "name": "Sanya RICHARDS-ROSS"
+  },
+  {
+    "place": 7,
+    "country": "BAH",
+    "mark": "50.370",
+    "name": "Christine AMERTIL"
+  },
+  {
+    "place": 8,
+    "country": "RUS",
+    "mark": "50.650",
+    "name": "Natalya NAZAROVA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "RUS",
+    "mark": "00:01:44.450",
+    "name": "Yury BORZAKOVSKY"
+  },
+  {
+    "place": 2,
+    "country": "RSA",
+    "mark": "00:01:44.610",
+    "name": "Mbulaeni MULAUDZI"
+  },
+  {
+    "place": 3,
+    "country": "DEN",
+    "mark": "00:01:44.650",
+    "name": "Wilson KIPKETER"
+  },
+  {
+    "place": 4,
+    "country": "MAR",
+    "mark": "00:01:45.160",
+    "name": "Mouhssin CHEHIBI"
+  },
+  {
+    "place": 5,
+    "country": "KEN",
+    "mark": "00:01:45.310",
+    "name": "Wilfred BUNGEI"
+  },
+  {
+    "place": 6,
+    "country": "RSA",
+    "mark": "00:01:45.530",
+    "name": "Hezekiel SEPENG"
+  },
+  {
+    "place": 7,
+    "country": "ALG",
+    "mark": "00:01:45.610",
+    "name": "Djabir SAID GUERNI"
+  },
+  {
+    "place": 8,
+    "country": "SUD",
+    "mark": "00:01:52.490",
+    "name": "Ismail Ahmed ISMAIL"
+  }
+]

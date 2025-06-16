@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "BUL",
+    "mark": "12.380",
+    "name": "Yordanka DONKOVA"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "12.610",
+    "name": "Gloria SIEBERT"
+  },
+  {
+    "place": 3,
+    "country": "FRG",
+    "mark": "12.750",
+    "name": "Claudia ZACZKIEWICZ-REIDICK"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "12.790",
+    "name": "Nataliya HRYGOR'IEVA"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "12.980",
+    "name": "Florence COLLE"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "12.990",
+    "name": "Julie BAUMANN"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "13.140",
+    "name": "Monique EWANJE-EPEE-TOURRET"
+  },
+  {
+    "place": 8,
+    "country": "GDR",
+    "mark": "13.730",
+    "name": "Cornelia OSCHKENAT"
+  },
+  {
+    "place": 9,
+    "country": "VIN",
+    "mark": "Did not start",
+    "name": "Michelle JOHNSON"
+  }
+]

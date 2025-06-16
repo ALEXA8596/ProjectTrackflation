@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:01:53.400",
+    "name": "Albert HILL"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "00:01:53.600",
+    "name": "Earl EBY"
+  },
+  {
+    "place": 3,
+    "country": "RSA",
+    "mark": "1:53.6est",
+    "name": "Bevil Gordon D'Urban RUDD"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "1:53.7est",
+    "name": "Edgar Donald MOUNTAIN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "1:54.6est",
+    "name": "Don SCOTT"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "1:55.4est",
+    "name": "Bryan Albert SPROTT"
+  },
+  {
+    "place": 7,
+    "country": "NED",
+    "mark": "00:01:56.300",
+    "name": "Adriaan PAULEN"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "00:01:58.600",
+    "name": "Jean Paul ESPARBES"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Tom CAMPBELL"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Henri Auguste ARNAUD"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "André DÉSFARGES"
+  },
+  {
+    "place": 12,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Panagiotis RETELAS"
+  },
+  {
+    "place": 13,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Erkka WILÉN"
+  }
+]

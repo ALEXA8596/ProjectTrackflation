@@ -1,0 +1,530 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "2:27:20",
+    "name": "Peres JEPCHIRCHIR"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "2:27:36",
+    "name": "Brigid KOSGEI"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "2:27:46",
+    "name": "Molly SEIDEL"
+  },
+  {
+    "place": 4,
+    "country": "ETH",
+    "mark": "2:28:38",
+    "name": "Roza DEREJE"
+  },
+  {
+    "place": 5,
+    "country": "BLR",
+    "mark": "2:29:06",
+    "name": "Volha MAZURONAK"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "2:29:16",
+    "name": "Melat Yisak KEJETA"
+  },
+  {
+    "place": 7,
+    "country": "BRN",
+    "mark": "2:29:36",
+    "name": "Eunice Chebichii CHUMBA"
+  },
+  {
+    "place": 8,
+    "country": "JPN",
+    "mark": "2:30:13",
+    "name": "Mao ICHIYAMA"
+  },
+  {
+    "place": 9,
+    "country": "CAN",
+    "mark": "2:30:59",
+    "name": "Malindi ELMORE"
+  },
+  {
+    "place": 10,
+    "country": "AUS",
+    "mark": "2:31:14",
+    "name": "Sinead DIVER"
+  },
+  {
+    "place": 11,
+    "country": "NAM",
+    "mark": "2:31:22",
+    "name": "Helalia JOHANNES"
+  },
+  {
+    "place": 12,
+    "country": "SUI",
+    "mark": "2:31:36",
+    "name": "Fabienne SCHLUMPF"
+  },
+  {
+    "place": 13,
+    "country": "CAN",
+    "mark": "2:31:41",
+    "name": "Natasha WODAK"
+  },
+  {
+    "place": 14,
+    "country": "POL",
+    "mark": "2:32:04",
+    "name": "Karolina NADOLSKA"
+  },
+  {
+    "place": 15,
+    "country": "RSA",
+    "mark": "2:32:10",
+    "name": "Gerda STEYN"
+  },
+  {
+    "place": 16,
+    "country": "UGA",
+    "mark": "2:32:23",
+    "name": "Immaculate CHEMUTAI"
+  },
+  {
+    "place": 17,
+    "country": "USA",
+    "mark": "2:32:53",
+    "name": "Sally Jepkosgei KIPYEGO"
+  },
+  {
+    "place": 18,
+    "country": "GER",
+    "mark": "2:33:08",
+    "name": "Deborah SCHONEBORN"
+  },
+  {
+    "place": 19,
+    "country": "JPN",
+    "mark": "2:33:14",
+    "name": "Ayuko SUZUKI"
+  },
+  {
+    "place": 20,
+    "country": "LES",
+    "mark": "2:33:15",
+    "name": "Neheng KHATALA"
+  },
+  {
+    "place": 21,
+    "country": "CRO",
+    "mark": "2:33:18",
+    "name": "Matea PARLOV KOSTRO"
+  },
+  {
+    "place": 22,
+    "country": "SWE",
+    "mark": "2:33:19",
+    "name": "Carolina WIKSTROM"
+  },
+  {
+    "place": 23,
+    "country": "AUS",
+    "mark": "2:33:39",
+    "name": "Ellie PASHLEY"
+  },
+  {
+    "place": 24,
+    "country": "TAN",
+    "mark": "2:33:58",
+    "name": "Failuna MATANGA"
+  },
+  {
+    "place": 25,
+    "country": "IRL",
+    "mark": "2:34:09",
+    "name": "Fionnuala MCCORMACK"
+  },
+  {
+    "place": 26,
+    "country": "AUS",
+    "mark": "2:34:19",
+    "name": "Lisa Jane WEIGHTMAN"
+  },
+  {
+    "place": 27,
+    "country": "PER",
+    "mark": "2:34:21",
+    "name": "Gladys TEJEDA"
+  },
+  {
+    "place": 28,
+    "country": "BEL",
+    "mark": "2:34:24",
+    "name": "Mieke GORISSEN"
+  },
+  {
+    "place": 29,
+    "country": "ESP",
+    "mark": "2:34:38",
+    "name": "Elena LOYO"
+  },
+  {
+    "place": 30,
+    "country": "POR",
+    "mark": "2:34:52",
+    "name": "Carla Salome ROCHA"
+  },
+  {
+    "place": 31,
+    "country": "GER",
+    "mark": "2:35:00",
+    "name": "Katharina STEINRUCK"
+  },
+  {
+    "place": 32,
+    "country": "ITA",
+    "mark": "2:35:09",
+    "name": "Giovanna EPIS"
+  },
+  {
+    "place": 33,
+    "country": "JPN",
+    "mark": "2:35:28",
+    "name": "Honami MAEDA"
+  },
+  {
+    "place": 34,
+    "country": "KOR",
+    "mark": "2:35:33",
+    "name": "Kyungsun CHOI"
+  },
+  {
+    "place": 35,
+    "country": "POL",
+    "mark": "2:35:33",
+    "name": "Aleksandra LISOWSKA"
+  },
+  {
+    "place": 36,
+    "country": "KGZ",
+    "mark": "2:35:35",
+    "name": "Darya MASLOVA"
+  },
+  {
+    "place": 37,
+    "country": "ESP",
+    "mark": "2:35:39",
+    "name": "Marta GALIMANY"
+  },
+  {
+    "place": 38,
+    "country": "FRA",
+    "mark": "2:36:29",
+    "name": "Susan JEPTOOO"
+  },
+  {
+    "place": 39,
+    "country": "GBR",
+    "mark": "2:36:33",
+    "name": "Stephanie DAVIS"
+  },
+  {
+    "place": 40,
+    "country": "PER",
+    "mark": "2:36:38",
+    "name": "Jovana DE LA CRUZ"
+  },
+  {
+    "place": 41,
+    "country": "ECU",
+    "mark": "2:36:44",
+    "name": "Rosa CHACHA"
+  },
+  {
+    "place": 42,
+    "country": "UKR",
+    "mark": "2:36:47",
+    "name": "Yevheniya PROKOFYEVA"
+  },
+  {
+    "place": 43,
+    "country": "ERI",
+    "mark": "2:37:01",
+    "name": "Nazret WELDU"
+  },
+  {
+    "place": 44,
+    "country": "NED",
+    "mark": "2:37:05",
+    "name": "Andrea DEELSTRA"
+  },
+  {
+    "place": 45,
+    "country": "MGL",
+    "mark": "2:37:08",
+    "name": "Munkhzaya BAYARTSOGT"
+  },
+  {
+    "place": 46,
+    "country": "KAZ",
+    "mark": "2:37:42",
+    "name": "Zhanna MAMAZHANOVA"
+  },
+  {
+    "place": 47,
+    "country": "CHN",
+    "mark": "2:37:45",
+    "name": "Deshun ZHANG"
+  },
+  {
+    "place": 48,
+    "country": "ISR",
+    "mark": "2:37:52",
+    "name": "Maor TIYOURI"
+  },
+  {
+    "place": 49,
+    "country": "BEL",
+    "mark": "2:38:03",
+    "name": "Hanne VERBRUGGEN"
+  },
+  {
+    "place": 50,
+    "country": "BLR",
+    "mark": "2:38:41",
+    "name": "Nina SAVINA"
+  },
+  {
+    "place": 51,
+    "country": "SUI",
+    "mark": "2:39:25",
+    "name": "Martina STRAHL"
+  },
+  {
+    "place": 52,
+    "country": "CZE",
+    "mark": "2:39:29",
+    "name": "Marcela JOGLOVA"
+  },
+  {
+    "place": 53,
+    "country": "CRO",
+    "mark": "2:39:32",
+    "name": "Bojana BJELJAC"
+  },
+  {
+    "place": 54,
+    "country": "MDA",
+    "mark": "2:39:59",
+    "name": "Lilia FISIKOWICI"
+  },
+  {
+    "place": 55,
+    "country": "COL",
+    "mark": "2:40:04",
+    "name": "Angie ORJUELA"
+  },
+  {
+    "place": 56,
+    "country": "MAR",
+    "mark": "2:40:10",
+    "name": "Rkia EL MOUKIM"
+  },
+  {
+    "place": 57,
+    "country": "KOR",
+    "mark": "2:41:11",
+    "name": "Seulki AN"
+  },
+  {
+    "place": 58,
+    "country": "CZE",
+    "mark": "2:42:25",
+    "name": "Tereza HROCHOVA"
+  },
+  {
+    "place": 59,
+    "country": "POL",
+    "mark": "2:42:26",
+    "name": "Angelika MACH"
+  },
+  {
+    "place": 60,
+    "country": "ECU",
+    "mark": "2:43:30",
+    "name": "Andrea Paola BONILLA"
+  },
+  {
+    "place": 61,
+    "country": "ARG",
+    "mark": "2:44:09",
+    "name": "Marcela Cristina GOMEZ"
+  },
+  {
+    "place": 62,
+    "country": "CHN",
+    "mark": "2:45:23",
+    "name": "Zhixuan LI"
+  },
+  {
+    "place": 63,
+    "country": "NED",
+    "mark": "2:45:27",
+    "name": "Jill HOLTERMAN"
+  },
+  {
+    "place": 64,
+    "country": "MEX",
+    "mark": "2:45:45",
+    "name": "Ursula Patricia SANCHEZ"
+  },
+  {
+    "place": 65,
+    "country": "MEX",
+    "mark": "2:47:15",
+    "name": "Daniela TORRES"
+  },
+  {
+    "place": 66,
+    "country": "ISR",
+    "mark": "2:48:31",
+    "name": "Lonah Chemtai SALPETER"
+  },
+  {
+    "place": 67,
+    "country": "CHN",
+    "mark": "2:49:21",
+    "name": "Li BAI"
+  },
+  {
+    "place": 68,
+    "country": "GBR",
+    "mark": "2:53:26",
+    "name": "Stephanie TWELL"
+  },
+  {
+    "place": 69,
+    "country": "UGA",
+    "mark": "2:53:40",
+    "name": "Juliet CHEKWEL"
+  },
+  {
+    "place": 70,
+    "country": "POR",
+    "mark": "2:55:01",
+    "name": "Catarina RIBEIRO"
+  },
+  {
+    "place": 71,
+    "country": "GBR",
+    "mark": "2:55:39",
+    "name": "Jess PIASECKI"
+  },
+  {
+    "place": 72,
+    "country": "SOL",
+    "mark": "3:02:10",
+    "name": "Sharon FIRISUA"
+  },
+  {
+    "place": 73,
+    "country": "CAN",
+    "mark": "3:03:10",
+    "name": "Dayna PIDHORESKY"
+  },
+  {
+    "place": 74,
+    "country": "MEX",
+    "mark": "Did not finish",
+    "name": "Andrea Soraya RAMIREZ LIMON"
+  },
+  {
+    "place": 75,
+    "country": "KEN",
+    "mark": "Did not finish",
+    "name": "Ruth CHEPNGETICH"
+  },
+  {
+    "place": 76,
+    "country": "ESP",
+    "mark": "Did not finish",
+    "name": "Laura MENDEZ"
+  },
+  {
+    "place": 77,
+    "country": "ETH",
+    "mark": "Did not finish",
+    "name": "Birhane DIBABA"
+  },
+  {
+    "place": 78,
+    "country": "BRN",
+    "mark": "Did not finish",
+    "name": "Tejitu DABA"
+  },
+  {
+    "place": 79,
+    "country": "ERI",
+    "mark": "Did not finish",
+    "name": "Kokob Tesfagaber SOLOMON"
+  },
+  {
+    "place": 80,
+    "country": "UKR",
+    "mark": "Did not finish",
+    "name": "Viktoriia KALIUZHNA"
+  },
+  {
+    "place": 81,
+    "country": "RSA",
+    "mark": "Did not finish",
+    "name": "Irvette VAN ZYL"
+  },
+  {
+    "place": 82,
+    "country": "POR",
+    "mark": "Did not finish",
+    "name": "Sara MOREIRA"
+  },
+  {
+    "place": 83,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Aliphine Chepkerker TULIAMUK"
+  },
+  {
+    "place": 84,
+    "country": "IRL",
+    "mark": "Did not finish",
+    "name": "Aoife COOKE"
+  },
+  {
+    "place": 85,
+    "country": "UKR",
+    "mark": "Did not finish",
+    "name": "Darya MYKHAYLOVA"
+  },
+  {
+    "place": 86,
+    "country": "ETH",
+    "mark": "Did not finish",
+    "name": "Zeineba YIMER"
+  },
+  {
+    "place": 87,
+    "country": "CZE",
+    "mark": "Did not finish",
+    "name": "Eva VRABCOVA - NYVLTOVA"
+  },
+  {
+    "place": 88,
+    "country": "TUR",
+    "mark": "Did not finish",
+    "name": "Meryem ERDOGAN"
+  }
+]

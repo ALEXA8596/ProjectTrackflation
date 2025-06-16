@@ -1,0 +1,260 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "14.21",
+    "name": "Ralph ROSE"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "13.62",
+    "name": "Dennis HORGAN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "13.18",
+    "name": "John Carlyle GARRELS"
+  },
+  {
+    "place": 4,
+    "country": "CZE",
+    "mark": "Did not start",
+    "name": "František VYSKOCIL"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Lajos VERES"
+  },
+  {
+    "place": 6,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "András KOZLA"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Edmond BAILLARD"
+  },
+  {
+    "place": 8,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Karl JANK"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Thomas KIRKWOOD"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "William KRUEGER"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Paul GOUVERT"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "John SCHOMMER"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Ben STEPHENSON"
+  },
+  {
+    "place": 14,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "István SZEKELYHIDY"
+  },
+  {
+    "place": 15,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Kálmán KIRCHHOFFER"
+  },
+  {
+    "place": 16,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Raoul Lucien PAOLI"
+  },
+  {
+    "place": 17,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "H. HUBINEN"
+  },
+  {
+    "place": 18,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Moritz RASMUSSEN"
+  },
+  {
+    "place": 19,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Hans TRONNER"
+  },
+  {
+    "place": 20,
+    "country": "CZE",
+    "mark": "Did not start",
+    "name": "František SOUČEK"
+  },
+  {
+    "place": 21,
+    "country": "CZE",
+    "mark": "Did not start",
+    "name": "Miroslav SUSTERA"
+  },
+  {
+    "place": 22,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Con WALSH"
+  },
+  {
+    "place": 23,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Svend LANGKJAER"
+  },
+  {
+    "place": 24,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Evert Brynolf JAKOBSSON"
+  },
+  {
+    "place": 25,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Jarl Gustav Anian JAKOBSSON"
+  },
+  {
+    "place": 26,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Johan Valdemar KEMP"
+  },
+  {
+    "place": 27,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Lauri PIHKALA"
+  },
+  {
+    "place": 28,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Aarne SALOVAARA"
+  },
+  {
+    "place": 29,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Lauri WILSKMAN"
+  },
+  {
+    "place": 30,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Henri Alphonse JARDIN"
+  },
+  {
+    "place": 31,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Ferenc JESINA"
+  },
+  {
+    "place": 32,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "György LUNZER"
+  },
+  {
+    "place": 33,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Imre MUDIN"
+  },
+  {
+    "place": 34,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Umberto AVATTANEO"
+  },
+  {
+    "place": 35,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "David Douglas STUPART"
+  },
+  {
+    "place": 36,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Eric LEMMING"
+  },
+  {
+    "place": 37,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Theodor NEIJSTRÖM"
+  },
+  {
+    "place": 38,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Otto NILSSON"
+  },
+  {
+    "place": 39,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "John Joseph FLANAGAN"
+  },
+  {
+    "place": 40,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Simon Patrick GILLIS"
+  },
+  {
+    "place": 41,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "André DÉSFARGES"
+  },
+  {
+    "place": 42,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Mihály DÁVID"
+  },
+  {
+    "place": 43,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Otto FRANKE"
+  }
+]

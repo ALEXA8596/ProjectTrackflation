@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "09.630",
+    "name": "Usain BOLT"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "09.750",
+    "name": "Yohan BLAKE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "09.790",
+    "name": "Justin GATLIN"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "09.880",
+    "name": "Ryan BAILEY"
+  },
+  {
+    "place": 5,
+    "country": "NED",
+    "mark": "09.940",
+    "name": "Churandy MARTINA"
+  },
+  {
+    "place": 6,
+    "country": "TTO",
+    "mark": "09.980",
+    "name": "Richard THOMPSON"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "11.990",
+    "name": "Asafa POWELL"
+  },
+  {
+    "place": 8,
+    "country": "CMR",
+    "mark": "Did not finish",
+    "name": "Idrissa ADAM"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "Disqualified",
+    "name": "Tyson GAY"
+  },
+  {
+    "place": 10,
+    "country": "SKN",
+    "mark": "Did not start",
+    "name": "Kim COLLINS"
+  }
+]

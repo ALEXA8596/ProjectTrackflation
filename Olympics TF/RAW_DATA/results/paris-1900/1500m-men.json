@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:04:06.200",
+    "name": "Charles BENNETT"
+  },
+  {
+    "place": 2,
+    "country": "FRA",
+    "mark": "at 5 yards",
+    "name": "Henry DELOGE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "at 20 yards",
+    "name": "John BRAY"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "at 2 yards",
+    "name": "David HALL"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "George WOOD"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "George ORTON"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Johannes RUNGE"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Emilio BANFI"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Wilbur Gordon BURROUGHS"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "John CREGAN"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Alex GRANT"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Edward MECHLING"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Arthur NEWTON"
+  },
+  {
+    "place": 14,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Harrison SMITH"
+  }
+]

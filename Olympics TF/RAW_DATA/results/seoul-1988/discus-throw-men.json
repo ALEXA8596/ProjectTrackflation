@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "68.82",
+    "name": "Jürgen SCHULT"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "67.48",
+    "name": "Romas UBARTAS"
+  },
+  {
+    "place": 3,
+    "country": "FRG",
+    "mark": "67.38",
+    "name": "Rolf DANNEBERG"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "66.42",
+    "name": "Yuri DUMCHEV"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "65.90",
+    "name": "Malcolm Maurice WILKINS"
+  },
+  {
+    "place": 6,
+    "country": "TCH",
+    "mark": "65.80",
+    "name": "Gejza VALENT"
+  },
+  {
+    "place": 7,
+    "country": "NOR",
+    "mark": "64.94",
+    "name": "Knut HJELTNES"
+  },
+  {
+    "place": 8,
+    "country": "FRG",
+    "mark": "63.28",
+    "name": "Alois HANNECKER"
+  },
+  {
+    "place": 9,
+    "country": "NED",
+    "mark": "63.06",
+    "name": "Erik DE BRUIN"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "62.46",
+    "name": "Michael BUNCIC"
+  },
+  {
+    "place": 11,
+    "country": "BUL",
+    "mark": "61.24",
+    "name": "Georgi GEORGIEV"
+  },
+  {
+    "place": 12,
+    "country": "TCH",
+    "mark": "60.88",
+    "name": "Imrich BUGAR"
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "place": 1,
+    "country": "JPN",
+    "mark": "16.00",
+    "name": "Naoto TAJIMA"
+  },
+  {
+    "place": 2,
+    "country": "JPN",
+    "mark": "15.66",
+    "name": "Masao HARADA"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "15.50",
+    "name": "John Patrick METCALFE"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "15.27",
+    "name": "Heinz WÖLLNER"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "15.08",
+    "name": "Roland Lee ROMERO"
+  },
+  {
+    "place": 6,
+    "country": "JPN",
+    "mark": "15.07",
+    "name": "Kenkichi OSHIMA"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "14.88",
+    "name": "Erich JOCH"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "14.83",
+    "name": "Dudley Griffin WILKINS"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "14.72",
+    "name": "Olavi Akseli SUOMELA"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "14.62",
+    "name": "Carl Ludwig Luz LONG"
+  },
+  {
+    "place": 11,
+    "country": "POL",
+    "mark": "14.61",
+    "name": "Edward LUCKHAUS"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "14.60",
+    "name": "Lajos SOMLO"
+  },
+  {
+    "place": 13,
+    "country": "FIN",
+    "mark": "14.59",
+    "name": "Onni Rafael RAJASAARI"
+  },
+  {
+    "place": 14,
+    "country": "NOR",
+    "mark": "14.56",
+    "name": "Karl Eugen HAUGLAND"
+  },
+  {
+    "place": 15,
+    "country": "NED",
+    "mark": "14.55",
+    "name": "Maarten KLASEMA"
+  },
+  {
+    "place": 16,
+    "country": "AUS",
+    "mark": "14.48",
+    "name": "John Basil DICKINSON"
+  },
+  {
+    "place": 17,
+    "country": "USA",
+    "mark": "14.36",
+    "name": "Billy BROWN"
+  },
+  {
+    "place": 18,
+    "country": "SWE",
+    "mark": "14.35",
+    "name": "Bo LJUNGBERG"
+  },
+  {
+    "place": 19,
+    "country": "SWE",
+    "mark": "14.26",
+    "name": "Lennart ANDERSSON-AGNRED"
+  },
+  {
+    "place": 20,
+    "country": "CAN",
+    "mark": "14.21",
+    "name": "Samuel RICHARDSON"
+  },
+  {
+    "place": 21,
+    "country": "YUG",
+    "mark": "13.90",
+    "name": "Jovan MIKIC"
+  },
+  {
+    "place": 22,
+    "country": "ISL",
+    "mark": "13.58",
+    "name": "Sigurður SIGURÐSSON"
+  },
+  {
+    "place": 23,
+    "country": "AUT",
+    "mark": "13.15",
+    "name": "Karl KOTRATSCHEK"
+  },
+  {
+    "place": 24,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Erich PULTAR"
+  },
+  {
+    "place": 25,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Ingvard ANDERSEN"
+  },
+  {
+    "place": 26,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Ignacio SÁNCHEZ"
+  },
+  {
+    "place": 27,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Kalle ILOVAARA"
+  },
+  {
+    "place": 28,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "André FRANCQUENELLE"
+  },
+  {
+    "place": 29,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Stevan MIOKOVIĆ"
+  }
+]

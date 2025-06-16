@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "23.000",
+    "name": "Edith Marie MCGUIRE"
+  },
+  {
+    "place": 2,
+    "country": "POL",
+    "mark": "23.100",
+    "name": "Irena Szewińska"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "23.100",
+    "name": "Marilyn Mary BLACK-VASSELLA"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "23.500",
+    "name": "Una L. MORRIS"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "23.500",
+    "name": "Lyudmila IGNATYEVA-SAMOTESOVA"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "23.900",
+    "name": "Barbara LERCZAK-JANISZEWSKA"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "23.900",
+    "name": "Janet Mary SIMPSON"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "24.000",
+    "name": "Daphne ARDEN"
+  },
+  {
+    "place": 9,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Halina HERRMANN-GORECKA-RICHTER"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Margit MARKÓ-NEMESHÁZI"
+  },
+  {
+    "place": 11,
+    "country": "NGR",
+    "mark": "Did not start",
+    "name": "Clarice AHANOTU"
+  },
+  {
+    "place": 12,
+    "country": "PAN",
+    "mark": "Did not start",
+    "name": "Jean HOLMES-MITCHELL"
+  },
+  {
+    "place": 13,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Ulla-Britt WIESLANDER"
+  },
+  {
+    "place": 14,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Mariya ITKINA"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "FRA",
+    "mark": "5.92",
+    "name": "Jean GALFIONE"
+  },
+  {
+    "place": 2,
+    "country": "RUS",
+    "mark": "5.92",
+    "name": "Igor TRANDENKOV"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "5.92",
+    "name": "Andrej TIWONTSCHIK"
+  },
+  {
+    "place": 4,
+    "country": "KAZ",
+    "mark": "5.86",
+    "name": "Igor POTAPOVICH"
+  },
+  {
+    "place": 5,
+    "country": "RUS",
+    "mark": "5.86",
+    "name": "Pyotr BOCHKARYOV"
+  },
+  {
+    "place": 6,
+    "country": "BLR",
+    "mark": "5.86",
+    "name": "Dmitri MARKOV"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "5.80",
+    "name": "Tim LOBINGER"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "5.70",
+    "name": "Lawrence JOHNSON"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "5.70",
+    "name": "Alain ANDJI"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "5.70",
+    "name": "Michael STOLLE"
+  },
+  {
+    "place": 11,
+    "country": "ISR",
+    "mark": "5.60",
+    "name": "Evgeny KRASNOV"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "5.60",
+    "name": "Jeff HARTWIG"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "5.60",
+    "name": "Scott HUFFMAN"
+  },
+  {
+    "place": 14,
+    "country": "RSA",
+    "mark": "5.60",
+    "name": "Riaan BOTHA"
+  },
+  {
+    "place": 15,
+    "country": "UKR",
+    "mark": "Did not start",
+    "name": "Sergii BUBKA"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "place": 1,
+    "country": "HUN",
+    "mark": "1.60",
+    "name": "Ibolya CSAK"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "1.60",
+    "name": "Dorothy Beatrice J. ODAM-TYLER"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "1.60",
+    "name": "Elfriede KAUN"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "1.58",
+    "name": "Dora RATJEN"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "1.58",
+    "name": "Marguerite NICOLAS"
+  },
+  {
+    "place": 6,
+    "country": "NED",
+    "mark": "1.55",
+    "name": "Fanny BLANKERS-KOEN"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "1.55",
+    "name": "Annette Joan ROGERS"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "1.55",
+    "name": "Doris Jessie CARTER"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "1.50",
+    "name": "Alice Jean ARDEN"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "1.50",
+    "name": "Kathlyn KELLY"
+  },
+  {
+    "place": 11,
+    "country": "CAN",
+    "mark": "1.50",
+    "name": "Margaret Mary BELL-GIBSON"
+  },
+  {
+    "place": 12,
+    "country": "AUT",
+    "mark": "1.50",
+    "name": "Wanda NOWAK"
+  },
+  {
+    "place": 13,
+    "country": "GBR",
+    "mark": "1.50",
+    "name": "Helen (Nellie) CARRINGTON"
+  },
+  {
+    "place": 14,
+    "country": "BEL",
+    "mark": "1.40",
+    "name": "Catherine STEVENS"
+  },
+  {
+    "place": 15,
+    "country": "NED",
+    "mark": "1.40",
+    "name": "Jantina Maria KOOPMANS"
+  },
+  {
+    "place": 16,
+    "country": "JPN",
+    "mark": "1.40",
+    "name": "Junko NISHIDA"
+  },
+  {
+    "place": 17,
+    "country": "FIN",
+    "mark": "1.30",
+    "name": "Irja Salli Maria LIPASTI"
+  },
+  {
+    "place": 18,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Alice LEISSNER"
+  },
+  {
+    "place": 19,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Ismene LANITIS"
+  },
+  {
+    "place": 20,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Zulejca STEFANINI"
+  }
+]

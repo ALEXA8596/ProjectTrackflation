@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "00:03:34.900",
+    "name": "Kipchoge KEINO"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "00:03:37.800",
+    "name": "James Ronald RYUN"
+  },
+  {
+    "place": 3,
+    "country": "FRG",
+    "mark": "00:03:39.000",
+    "name": "Bodo TÜMMLER"
+  },
+  {
+    "place": 4,
+    "country": "FRG",
+    "mark": "00:03:42.500",
+    "name": "Harald NORPOTH"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:03:43.800",
+    "name": "John H. WHETTON"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "00:03:46.600",
+    "name": "Jacques BOXBERGER"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "00:03:46.600",
+    "name": "Henryk SZORDYKOWSKI"
+  },
+  {
+    "place": 8,
+    "country": "TCH",
+    "mark": "00:03:48.600",
+    "name": "Josef ODLOZIL"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "00:03:49.200",
+    "name": "Tom VON RUDEN"
+  },
+  {
+    "place": 10,
+    "country": "KEN",
+    "mark": "00:03:51.200",
+    "name": "Benjamin Wabura JIPCHO"
+  },
+  {
+    "place": 11,
+    "country": "BEL",
+    "mark": "00:03:53.600",
+    "name": "Andre DE HERTOGHE"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "00:04:18.200",
+    "name": "Martin William LIQUORI"
+  },
+  {
+    "place": 13,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Blagoi KOSTOV"
+  },
+  {
+    "place": 14,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Jean WADOUX"
+  },
+  {
+    "place": 15,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Guillermo CUELLO"
+  }
+]

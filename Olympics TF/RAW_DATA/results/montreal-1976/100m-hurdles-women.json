@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "12.770",
+    "name": "Johanna SCHALLER-KLIER"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "12.780",
+    "name": "Tatiana ANISIMOVA"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "12.800",
+    "name": "Natalya LEBEDEVA"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "12.820",
+    "name": "Gudrun BEHREND"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "12.960",
+    "name": "Grazyna RABSZTYN"
+  },
+  {
+    "place": 6,
+    "country": "ISR",
+    "mark": "13.040",
+    "name": "Esther SHAKHAMOROV-ROTH"
+  },
+  {
+    "place": 7,
+    "country": "ROU",
+    "mark": "13.350",
+    "name": "Valeria BUFANU-STEFANESCU"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "13.510",
+    "name": "Ileana ONGAR"
+  },
+  {
+    "place": 9,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Anne PIRA"
+  },
+  {
+    "place": 10,
+    "country": "FIJ",
+    "mark": "Did not start",
+    "name": "Miriama TUISORISORI-CHAMBAULT"
+  }
+]

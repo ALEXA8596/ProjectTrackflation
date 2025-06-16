@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "19.800",
+    "name": "Thomas C. SMITH"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "20.000",
+    "name": "Peter George NORMAN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "20.000",
+    "name": "John Wesley CARLOS"
+  },
+  {
+    "place": 4,
+    "country": "TTO",
+    "mark": "20.300",
+    "name": "Edwin ROBERTS"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "20.500",
+    "name": "Roger BAMBUCK"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "20.600",
+    "name": "Lawrence Ronald QUESTAD"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "20.600",
+    "name": "Mike FRAY"
+  },
+  {
+    "place": 8,
+    "country": "FRG",
+    "mark": "20.600",
+    "name": "Joachim EIGENHERR"
+  },
+  {
+    "place": 9,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Pablo MONTES CASANOVA"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Ito GIANI"
+  },
+  {
+    "place": 11,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "Lennox MILLER"
+  },
+  {
+    "place": 12,
+    "country": "MAR",
+    "mark": "Did not start",
+    "name": "Hassan EL-MECH"
+  }
+]

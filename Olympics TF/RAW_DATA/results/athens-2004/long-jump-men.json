@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "8.59",
+    "name": "Dwight PHILLIPS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "8.47",
+    "name": "John MOFFITT"
+  },
+  {
+    "place": 3,
+    "country": "ESP",
+    "mark": "8.32",
+    "name": "Joan Lino MARTINEZ"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "8.31",
+    "name": "James BECKFORD"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "8.25",
+    "name": "Christopher TOMLINSON"
+  },
+  {
+    "place": 6,
+    "country": "GHA",
+    "mark": "8.24",
+    "name": "Ignisious GAISAH"
+  },
+  {
+    "place": 7,
+    "country": "CUB",
+    "mark": "8.23",
+    "name": "Ivan PEDROSO"
+  },
+  {
+    "place": 8,
+    "country": "ROU",
+    "mark": "8.21",
+    "name": "Bogdan TARUS"
+  },
+  {
+    "place": 9,
+    "country": "RUS",
+    "mark": "8.04",
+    "name": "Vitaliy SHKURLATOV"
+  },
+  {
+    "place": 10,
+    "country": "MRI",
+    "mark": "8.03",
+    "name": "Jonathan CHIMIER"
+  },
+  {
+    "place": 11,
+    "country": "ESP",
+    "mark": "7.98",
+    "name": "Yago LAMELA"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "7.94",
+    "name": "Salim SDIRI"
+  },
+  {
+    "place": 13,
+    "country": "UKR",
+    "mark": "Did not start",
+    "name": "Oleksiy LUKASHEVYCH"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "11.500",
+    "name": "Betty CUTHBERT"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "11.700",
+    "name": "Christa STUBNICK"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "11.700",
+    "name": "Marlene MATHEWS-WILLARD"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "11.800",
+    "name": "Isabelle Francis DANIELS"
+  },
+  {
+    "place": 5,
+    "country": "ITA",
+    "mark": "11.900",
+    "name": "Giuseppina LEONE"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "12.000",
+    "name": "Heather Joy ARMITAGE"
+  },
+  {
+    "place": 7,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Julia Bertha DIAZ HERNANDEZ"
+  },
+  {
+    "place": 8,
+    "country": "PHI",
+    "mark": "Did not start",
+    "name": "Manolita CINCO"
+  },
+  {
+    "place": 9,
+    "country": "PHI",
+    "mark": "Did not start",
+    "name": "Francisca SANOPAL"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "4.90",
+    "name": "Katie MOON"
+  },
+  {
+    "place": 2,
+    "country": "ROC",
+    "mark": "4.85",
+    "name": "Anzhelika SIDOROVA"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "4.85",
+    "name": "Holly BLEASDALE-BRADSHAW"
+  },
+  {
+    "place": 4,
+    "country": "GRE",
+    "mark": "4.80",
+    "name": "Katerina STEFANIDI"
+  },
+  {
+    "place": 5,
+    "country": "UKR",
+    "mark": "4.50",
+    "name": "Maryna KYLYPKO"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "4.50",
+    "name": "Wilma MURTO"
+  },
+  {
+    "place": 7,
+    "country": "SLO",
+    "mark": "4.50",
+    "name": "Tina SUTEJ"
+  },
+  {
+    "place": 8,
+    "country": "GRE",
+    "mark": "4.50",
+    "name": "Nikoleta KYRIAKOPOULOU"
+  },
+  {
+    "place": 9,
+    "country": "VEN",
+    "mark": "4.50",
+    "name": "Robeilys PEINADO"
+  },
+  {
+    "place": 10,
+    "country": "CUB",
+    "mark": "4.50",
+    "name": "Yarisley SILVA"
+  },
+  {
+    "place": 11,
+    "country": "CHN",
+    "mark": "4.50",
+    "name": "Huiqin XU"
+  },
+  {
+    "place": 12,
+    "country": "BLR",
+    "mark": "4.50",
+    "name": "Iryna ZHUK"
+  },
+  {
+    "place": 13,
+    "country": "SWE",
+    "mark": "4.50",
+    "name": "Angelica BENGTSSON"
+  },
+  {
+    "place": 14,
+    "country": "USA",
+    "mark": "No mark",
+    "name": "Morgan LELEUX"
+  },
+  {
+    "place": 15,
+    "country": "CAN",
+    "mark": "No mark",
+    "name": "Anicka NEWELL"
+  }
+]

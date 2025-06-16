@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "HUN",
+    "mark": "73.36",
+    "name": "Gyula ZSIVOTZKY"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "73.28",
+    "name": "Romuald KLIM"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "69.78",
+    "name": "Lazar LOVASZ"
+  },
+  {
+    "place": 4,
+    "country": "JPN",
+    "mark": "69.78",
+    "name": "Takeo SUGAWARA"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "69.46",
+    "name": "Sándor ECKSCHMIEDT"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "69.08",
+    "name": "Gennadi KONDRASHOV"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "68.84",
+    "name": "Reinhard THEIMER"
+  },
+  {
+    "place": 8,
+    "country": "GDR",
+    "mark": "68.26",
+    "name": "Helmut BAUMANN"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "67.74",
+    "name": "Anatoli SHCHUPLYAKOV"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "67.62",
+    "name": "Andrew Howard PAYNE"
+  },
+  {
+    "place": 11,
+    "country": "FRG",
+    "mark": "66.36",
+    "name": "Hans FAHSL"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "65.72",
+    "name": "Edward Andrew BURKE"
+  },
+  {
+    "place": 13,
+    "country": "JPN",
+    "mark": "65.04",
+    "name": "Yoshihisa ISHIDA"
+  },
+  {
+    "place": 14,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Frangiskos POLITIS"
+  }
+]

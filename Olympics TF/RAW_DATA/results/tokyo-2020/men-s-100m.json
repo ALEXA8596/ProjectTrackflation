@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "9.80",
+    "name": "Lamont Marcell JACOBS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "9.84",
+    "name": "Fred KERLEY"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "9.89",
+    "name": "Andre DE GRASSE"
+  },
+  {
+    "place": 4,
+    "country": "RSA",
+    "mark": "9.93",
+    "name": "Akani SIMBINE"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "9.95",
+    "name": "Ronnie BAKER"
+  },
+  {
+    "place": 6,
+    "country": "CHN",
+    "mark": "9.98",
+    "name": "Bingtian SU"
+  },
+  {
+    "place": 7,
+    "country": "NGR",
+    "mark": "Did not finish",
+    "name": "Enoch ADEGOKE"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "Disqualified",
+    "name": "Zharnel HUGHES"
+  }
+]

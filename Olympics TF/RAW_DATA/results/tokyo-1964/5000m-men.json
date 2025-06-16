@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "00:13:48.800",
+    "name": "Robert Keyser SCHUL"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "00:13:49.600",
+    "name": "Harald NORPOTH"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "00:13:49.800",
+    "name": "William Solon DELLINGER"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "00:13:49.800",
+    "name": "Michel JAZY"
+  },
+  {
+    "place": 5,
+    "country": "KEN",
+    "mark": "00:13:50.400",
+    "name": "Kipchoge KEINO"
+  },
+  {
+    "place": 6,
+    "country": "NZL",
+    "mark": "00:13:51.000",
+    "name": "William David BAILLIE"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "00:13:53.800",
+    "name": "Nikolay DUTOV"
+  },
+  {
+    "place": 8,
+    "country": "NOR",
+    "mark": "00:13:57.000",
+    "name": "Thorulf HELLAND"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "00:13:58.000",
+    "name": "Ronald CLARKE"
+  },
+  {
+    "place": 10,
+    "country": "URS",
+    "mark": "00:14:11.200",
+    "name": "Stepan BAYDYUK"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "00:14:20.800",
+    "name": "Michael Edwin WIGGS"
+  },
+  {
+    "place": 12,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Gaston ROELANTS"
+  },
+  {
+    "place": 13,
+    "country": "ETH",
+    "mark": "Did not start",
+    "name": "Mamo WOLDE"
+  },
+  {
+    "place": 14,
+    "country": "IRI",
+    "mark": "Did not start",
+    "name": "Ibrahim YAZDAN PANAH"
+  },
+  {
+    "place": 15,
+    "country": "MAR",
+    "mark": "Did not start",
+    "name": "Ben Assou EL-GHAZI"
+  },
+  {
+    "place": 16,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Manuel De OLIVEIRA"
+  },
+  {
+    "place": 17,
+    "country": "TAN",
+    "mark": "Did not start",
+    "name": "Pascal MFYOMI"
+  }
+]

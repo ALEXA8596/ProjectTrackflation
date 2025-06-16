@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "20.000",
+    "name": "Valerii BORZOV"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "20.190",
+    "name": "Lawrence J. BLACK"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "20.300",
+    "name": "Pietro MENNEA"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "20.370",
+    "name": "Lawrence Godfrey BURTON"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "20.550",
+    "name": "Charles Kenneth SMITH"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "20.560",
+    "name": "Siegfried SCHENKE"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "20.650",
+    "name": "Martin JELLINGHAUS"
+  },
+  {
+    "place": 8,
+    "country": "GDR",
+    "mark": "21.050",
+    "name": "Hans-Joachim ZENK"
+  },
+  {
+    "place": 9,
+    "country": "PAR",
+    "mark": "Did not start",
+    "name": "Rodolfo RIEDER"
+  },
+  {
+    "place": 10,
+    "country": "CAM",
+    "mark": "Did not start",
+    "name": "Mao SAMPHON"
+  },
+  {
+    "place": 11,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Charlie FRANCIS"
+  },
+  {
+    "place": 12,
+    "country": "CIV",
+    "mark": "Did not start",
+    "name": "Amadou MÉITÉ"
+  },
+  {
+    "place": 13,
+    "country": "KUW",
+    "mark": "Did not start",
+    "name": "Abdul Aziz ABDUL KAREEM"
+  },
+  {
+    "place": 14,
+    "country": "MAD",
+    "mark": "Did not start",
+    "name": "Jean-louis RAVELOMANANTSOA"
+  },
+  {
+    "place": 15,
+    "country": "NGR",
+    "mark": "Did not start",
+    "name": "Benedict MAJEKODUNMI"
+  },
+  {
+    "place": 16,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Zenon NOWOSZ"
+  },
+  {
+    "place": 17,
+    "country": "ZAM",
+    "mark": "Did not start",
+    "name": "Larmeck MUKONDE"
+  }
+]

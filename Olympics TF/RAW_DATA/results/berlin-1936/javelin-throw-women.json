@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "42.19",
+    "name": "Mathilde (Tilly) FLEISCHER"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "42.96",
+    "name": "Luise KRÜGER"
+  },
+  {
+    "place": 3,
+    "country": "POL",
+    "mark": "37.77",
+    "name": "Marja Jadwiga KWASNIEWSKA-MALESZEWSKA"
+  },
+  {
+    "place": 4,
+    "country": "AUT",
+    "mark": "39.73",
+    "name": "Hermine (Herma) BAUMA"
+  },
+  {
+    "place": 5,
+    "country": "JPN",
+    "mark": "41.45",
+    "name": "Sadako YAMAMOTO"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "40.68",
+    "name": "Lydia EBERHARDT"
+  },
+  {
+    "place": 7,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Štefánie PEKAROVÁ"
+  },
+  {
+    "place": 8,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Zulejca STEFANINI"
+  }
+]

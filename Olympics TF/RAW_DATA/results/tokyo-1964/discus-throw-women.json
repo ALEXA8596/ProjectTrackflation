@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "57.27",
+    "name": "Tamara PRESS"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "57.21",
+    "name": "Ingrid LOTZ"
+  },
+  {
+    "place": 3,
+    "country": "ROU",
+    "mark": "56.97",
+    "name": "Lia MANOLIU"
+  },
+  {
+    "place": 4,
+    "country": "BUL",
+    "mark": "56.70",
+    "name": "Virzhiniya MIHAYLOVA"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "55.17",
+    "name": "Yevgeniya KUZNETSOVA"
+  },
+  {
+    "place": 6,
+    "country": "HUN",
+    "mark": "54.87",
+    "name": "Jolan KLEIBER-KONTSEK"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "53.81",
+    "name": "Kriemhild LIMBERG-HAUSMANN"
+  },
+  {
+    "place": 8,
+    "country": "ROU",
+    "mark": "53.08",
+    "name": "Olimpia CATARAMA"
+  },
+  {
+    "place": 9,
+    "country": "TCH",
+    "mark": "52.80",
+    "name": "Jiřina NĚMCOVÁ-VOBOŘILOVÁ"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "52.52",
+    "name": "Judit STUGNER"
+  },
+  {
+    "place": 11,
+    "country": "URS",
+    "mark": "52.48",
+    "name": "Nina ROMASHKOVA-PONOMAREVA"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "51.58",
+    "name": "Olga FIKOTOVA-CONNOLLY"
+  },
+  {
+    "place": 13,
+    "country": "NZL",
+    "mark": "49.59",
+    "name": "Valerie Isobel Margaret SLOPER-YOUNG"
+  },
+  {
+    "place": 14,
+    "country": "GER",
+    "mark": "45.63",
+    "name": "Doris MÜLLER-LORENZ"
+  },
+  {
+    "place": 15,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Judit BOGNAR-LENDVAI"
+  }
+]

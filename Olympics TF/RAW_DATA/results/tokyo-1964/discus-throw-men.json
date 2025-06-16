@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "61.00",
+    "name": "Alfred OERTER"
+  },
+  {
+    "place": 2,
+    "country": "TCH",
+    "mark": "60.52",
+    "name": "Ludvik DANEK"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "59.49",
+    "name": "David Lawson WEILL"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "59.09",
+    "name": "L.Jay SILVESTER"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "57.23",
+    "name": "Jozsef SZECSENYI"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "57.06",
+    "name": "Zenon BEGIER"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "55.81",
+    "name": "Edmund PIATKOWSKI"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "54.78",
+    "name": "Vladimir TRUSENEV"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "54.38",
+    "name": "Kim BUKHANTSOV"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "53.87",
+    "name": "Roy Anselm HOLLINGSWORTH"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "52.08",
+    "name": "Hartmut LOSCH"
+  },
+  {
+    "place": 12,
+    "country": "URS",
+    "mark": "51.96",
+    "name": "Viktor KOMPANEETS"
+  },
+  {
+    "place": 13,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Valko KOSTOV"
+  }
+]

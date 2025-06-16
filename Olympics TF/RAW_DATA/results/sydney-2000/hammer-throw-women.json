@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "71.16",
+    "name": "Kamila SKOLIMOWSKA"
+  },
+  {
+    "place": 2,
+    "country": "RUS",
+    "mark": "69.77",
+    "name": "Olga KUZENKOVA"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "69.28",
+    "name": "Kirsten MUENCHOW"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "68.33",
+    "name": "Yipsi MORENO"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "67.95",
+    "name": "Deborah SOSIMENKO"
+  },
+  {
+    "place": 6,
+    "country": "BLR",
+    "mark": "67.08",
+    "name": "Lyudmila GUBKINA"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "66.80",
+    "name": "Dawn ELLERBE"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "66.15",
+    "name": "Amy PALMER"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "64.27",
+    "name": "Lorraine SHAW"
+  },
+  {
+    "place": 10,
+    "country": "BLR",
+    "mark": "64.21",
+    "name": "Svetlana SUDAK"
+  },
+  {
+    "place": 11,
+    "country": "CRO",
+    "mark": "63.20",
+    "name": "Ivana BRKLJACIC"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "62.49",
+    "name": "Sini POYRY"
+  }
+]

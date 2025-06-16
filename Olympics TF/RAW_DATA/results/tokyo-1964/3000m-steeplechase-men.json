@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "BEL",
+    "mark": "00:08:30.800",
+    "name": "Gaston ROELANTS"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "00:08:32.400",
+    "name": "Maurice HERRIOTT"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "00:08:33.800",
+    "name": "Ivan BELYAEV"
+  },
+  {
+    "place": 4,
+    "country": "POR",
+    "mark": "00:08:36.200",
+    "name": "Manuel De OLIVEIRA"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:08:38.200",
+    "name": "George L. YOUNG"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "00:08:38.600",
+    "name": "Guy TEXEREAU"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "00:08:39.000",
+    "name": "Adolfas ALEKSEYUNAS"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "00:08:41.800",
+    "name": "Lars-Erik GUSTAFSSON"
+  },
+  {
+    "place": 9,
+    "country": "MAR",
+    "mark": "00:08:43.600",
+    "name": "Ben Assou EL-GHAZI"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "00:08:43.800",
+    "name": "Ernest POMFRET"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Bengt PERSSON-WIDMARK"
+  }
+]

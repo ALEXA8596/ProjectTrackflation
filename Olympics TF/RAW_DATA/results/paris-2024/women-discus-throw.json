@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "69.50",
+    "name": "Valarie ALLMAN"
+  },
+  {
+    "place": 2,
+    "country": "CHN",
+    "mark": "67.51",
+    "name": "Bin FENG"
+  },
+  {
+    "place": 3,
+    "country": "CRO",
+    "mark": "67.51",
+    "name": "Sandra PERKOVIC"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "65.37",
+    "name": "Marike STEINACKER"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "65.05",
+    "name": "Vanessa KAMGA"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "63.62",
+    "name": "Claudine VITA"
+  },
+  {
+    "place": 7,
+    "country": "NED",
+    "mark": "63.35",
+    "name": "Jorinde VAN KLINKEN"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "63.11",
+    "name": "Daisy OSAKUE"
+  },
+  {
+    "place": 9,
+    "country": "POR",
+    "mark": "61.19",
+    "name": "Irina RODRIGUES"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "60.38",
+    "name": "Kristin PUDENZ"
+  },
+  {
+    "place": 11,
+    "country": "MDA",
+    "mark": "58.08",
+    "name": "Alexandra EMILIANOV"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "57.03",
+    "name": "Melina ROBERT MICHON"
+  }
+]

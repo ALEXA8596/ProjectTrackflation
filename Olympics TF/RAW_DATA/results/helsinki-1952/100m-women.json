@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "11.500",
+    "name": "Marjorie JACKSON"
+  },
+  {
+    "place": 2,
+    "country": "RSA",
+    "mark": "11.800",
+    "name": "Daphne Lilian Evelyn ROBB-HASENJÄGER"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "11.900",
+    "name": "Shirley STRICKLAND-DE LA HUNTY"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "11.900",
+    "name": "Winsome CRIPPS-DENNIS"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "12.000",
+    "name": "Maria SANDER-DOMAGELLA"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "12.100",
+    "name": "Mae Heriwentha FAGGS"
+  },
+  {
+    "place": 7,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Adriana MILLARD PACHECO"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Maire Alexandra OSTERDAHL"
+  },
+  {
+    "place": 9,
+    "country": "ISR",
+    "mark": "Did not start",
+    "name": "Leah HOROWITZ"
+  }
+]

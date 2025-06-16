@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "FRG",
+    "mark": "11.080",
+    "name": "Annegret RICHTER"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "11.130",
+    "name": "Renate STECHER"
+  },
+  {
+    "place": 3,
+    "country": "FRG",
+    "mark": "11.170",
+    "name": "Inge HELTEN"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "11.230",
+    "name": "Raelene Ann BOYLE"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "11.240",
+    "name": "Evelyn ASHFORD"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "11.310",
+    "name": "Chandra Danette CHEESEBOROUGH"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "11.320",
+    "name": "Andrea Joan Caron LYNCH"
+  },
+  {
+    "place": 8,
+    "country": "GDR",
+    "mark": "11.340",
+    "name": "Marlies OELSNER-GÖHR"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Sonia LANNAMAN"
+  }
+]

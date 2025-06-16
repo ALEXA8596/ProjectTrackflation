@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "10.800",
+    "name": "Charles PADDOCK"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.9est / at ½ metre",
+    "name": "Morris KIRKSEY"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "10.9est / chest behind",
+    "name": "Harry EDWARD"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "10.9est / chest behind",
+    "name": "Jackson SCHOLZ"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "11.2est / at 2 metres",
+    "name": "Émile ALI KHAN"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "11.2est / close behind",
+    "name": "Loren MURCHISON"
+  },
+  {
+    "place": 7,
+    "country": "EST",
+    "mark": "Did not start",
+    "name": "Reinhold SAULMANN"
+  },
+  {
+    "place": 8,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Carlos PAJARÓN"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "René CASTE"
+  },
+  {
+    "place": 10,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "František SKOKAN"
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "8824",
+    "name": "Dan O'BRIEN"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "8706",
+    "name": "Frank BUSEMANN"
+  },
+  {
+    "place": 3,
+    "country": "CZE",
+    "mark": "8664",
+    "name": "Tomas DVORAK"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "8644",
+    "name": "Steve FRITZ"
+  },
+  {
+    "place": 5,
+    "country": "BLR",
+    "mark": "8613",
+    "name": "Eduard HAMALAINEN"
+  },
+  {
+    "place": 6,
+    "country": "EST",
+    "mark": "8543",
+    "name": "Erki NOOL"
+  },
+  {
+    "place": 7,
+    "country": "CZE",
+    "mark": "8422",
+    "name": "Robert ZMELIK"
+  },
+  {
+    "place": 8,
+    "country": "UZB",
+    "mark": "8318",
+    "name": "Ramil GANIYEV"
+  },
+  {
+    "place": 9,
+    "country": "ESP",
+    "mark": "8307",
+    "name": "Antonio PENALVER ASENSIO"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "8300",
+    "name": "Chris HUFFINS"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "8282",
+    "name": "Christian PLAZIAT"
+  },
+  {
+    "place": 12,
+    "country": "ISL",
+    "mark": "8274",
+    "name": "Jon Arnar MAGNUSSON"
+  },
+  {
+    "place": 13,
+    "country": "CAN",
+    "mark": "8271",
+    "name": "Michael Cameron SMITH"
+  },
+  {
+    "place": 14,
+    "country": "GER",
+    "mark": "8253",
+    "name": "Frank MÜLLER"
+  },
+  {
+    "place": 15,
+    "country": "POL",
+    "mark": "8249",
+    "name": "Sebastian CHMARA"
+  },
+  {
+    "place": 16,
+    "country": "CZE",
+    "mark": "8229",
+    "name": "Kamil DAMASEK"
+  },
+  {
+    "place": 17,
+    "country": "FRA",
+    "mark": "8192",
+    "name": "Sebastien LEVICQ"
+  },
+  {
+    "place": 18,
+    "country": "NED",
+    "mark": "8111",
+    "name": "Marcel DOST"
+  },
+  {
+    "place": 19,
+    "country": "ESP",
+    "mark": "8107",
+    "name": "Francisco Javier BENET"
+  },
+  {
+    "place": 20,
+    "country": "GER",
+    "mark": "8045",
+    "name": "Dirk-Achim PAJONK"
+  },
+  {
+    "place": 21,
+    "country": "NED",
+    "mark": "8035",
+    "name": "Jack ROSENDAAL"
+  },
+  {
+    "place": 22,
+    "country": "UKR",
+    "mark": "8025",
+    "name": "Vitaliy KOLPAKOV"
+  },
+  {
+    "place": 23,
+    "country": "LAT",
+    "mark": "7994",
+    "name": "Rojs PIZIKS"
+  },
+  {
+    "place": 24,
+    "country": "NZL",
+    "mark": "7961",
+    "name": "Doug PIRINI"
+  },
+  {
+    "place": 25,
+    "country": "CUB",
+    "mark": "7873",
+    "name": "Eugenio BALANQUE"
+  },
+  {
+    "place": 26,
+    "country": "CUB",
+    "mark": "7802",
+    "name": "Raul DUANY"
+  },
+  {
+    "place": 27,
+    "country": "HUN",
+    "mark": "7755",
+    "name": "Zsolt KURTOSI"
+  },
+  {
+    "place": 28,
+    "country": "SUI",
+    "mark": "7743",
+    "name": "Philipp HUBER"
+  },
+  {
+    "place": 29,
+    "country": "TUR",
+    "mark": "7575",
+    "name": "Alper KASAPOGLU"
+  },
+  {
+    "place": 30,
+    "country": "ITA",
+    "mark": "7013",
+    "name": "Beniamino POSERINA"
+  },
+  {
+    "place": 31,
+    "country": "RUS",
+    "mark": "6711",
+    "name": "Nikolay AFANASYEV"
+  },
+  {
+    "place": 32,
+    "country": "EST",
+    "mark": "Did not finish",
+    "name": "Indrek KASEORG"
+  },
+  {
+    "place": 33,
+    "country": "UKR",
+    "mark": "Did not finish",
+    "name": "Lev LOBODIN"
+  },
+  {
+    "place": 34,
+    "country": "UZB",
+    "mark": "Did not finish",
+    "name": "Oleg VERETELNIKOV"
+  },
+  {
+    "place": 35,
+    "country": "BAR",
+    "mark": "Did not finish",
+    "name": "Victor HOUSTON"
+  },
+  {
+    "place": 36,
+    "country": "AUS",
+    "mark": "Did not finish",
+    "name": "Scott FERRIER"
+  },
+  {
+    "place": 37,
+    "country": "AUS",
+    "mark": "Did not finish",
+    "name": "Peter WINTER"
+  },
+  {
+    "place": 38,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Alexander Eaton KRUGER"
+  },
+  {
+    "place": 39,
+    "country": "EST",
+    "mark": "Did not finish",
+    "name": "Andrey NAZAROV"
+  },
+  {
+    "place": 40,
+    "country": "HUN",
+    "mark": "Did not finish",
+    "name": "Dezso SZABO"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "00:13:14.200",
+    "name": "Ugo FRIGERIO"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "13:21.0est / at 25 metres",
+    "name": "George PARKER"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "13:23.7est / at 10 metres",
+    "name": "Richard Frederick REMER"
+  },
+  {
+    "place": 4,
+    "country": "RSA",
+    "mark": "13:25.1est / at 5 metres",
+    "name": "Cecil Charles MCMASTER"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "13:26.5est / at 5 metres",
+    "name": "Thomas MARONEY"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "13:29.2est / at 10 metres",
+    "name": "Charles DOWSON"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "13:30.6est / at 5 metres",
+    "name": "William HEHIR"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "13:32.0est / at 5 metres",
+    "name": "Winfred ROLKER"
+  },
+  {
+    "place": 9,
+    "country": "BEL",
+    "mark": "13:32.8est / at 3 metres",
+    "name": "Jean SEGHERS"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "13:35.6est / at 10 metres",
+    "name": "Charlie GUNN"
+  },
+  {
+    "place": 11,
+    "country": "DEN",
+    "mark": "13:38.4est / at 10 metres",
+    "name": "Niels PEDERSEN"
+  },
+  {
+    "place": 12,
+    "country": "ITA",
+    "mark": "Disqualified",
+    "name": "Donato PAVESI"
+  },
+  {
+    "place": 13,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Luis MELÉNDEZ"
+  },
+  {
+    "place": 14,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "William PLANT"
+  }
+]

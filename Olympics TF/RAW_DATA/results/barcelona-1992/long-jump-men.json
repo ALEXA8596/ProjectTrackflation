@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "8.67",
+    "name": "Carl LEWIS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "8.64",
+    "name": "Michael Anthony POWELL"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "8.34",
+    "name": "Joe GREENE"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "8.11",
+    "name": "Ivan PEDROSO"
+  },
+  {
+    "place": 5,
+    "country": "CUB",
+    "mark": "8.08",
+    "name": "Jaime JEFFERSON"
+  },
+  {
+    "place": 6,
+    "country": "GRE",
+    "mark": "8.04",
+    "name": "Konstantinos KOUKODIMOS"
+  },
+  {
+    "place": 7,
+    "country": "EUN",
+    "mark": "7.98",
+    "name": "Dmitry BAGRYANOV"
+  },
+  {
+    "place": 8,
+    "country": "CHN",
+    "mark": "7.87",
+    "name": "Geng HUANG"
+  },
+  {
+    "place": 9,
+    "country": "SLO",
+    "mark": "7.76",
+    "name": "Borut BILAC"
+  },
+  {
+    "place": 10,
+    "country": "CHN",
+    "mark": "7.75",
+    "name": "Zunrong CHEN"
+  },
+  {
+    "place": 11,
+    "country": "AUS",
+    "mark": "7.73",
+    "name": "David CULBERT"
+  },
+  {
+    "place": 12,
+    "country": "ROU",
+    "mark": "7.61",
+    "name": "Bogdan TUDOR"
+  },
+  {
+    "place": 13,
+    "country": "SEN",
+    "mark": "Did not start",
+    "name": "Badara MBENGUE"
+  },
+  {
+    "place": 14,
+    "country": "UAE",
+    "mark": "Did not start",
+    "name": "Musabeh AL-HADHRAMI"
+  },
+  {
+    "place": 15,
+    "country": "ANG",
+    "mark": "Did not start",
+    "name": "Afonso FERRAZ"
+  }
+]

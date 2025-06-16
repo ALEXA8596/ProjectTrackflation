@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "20.010",
+    "name": "Michael MARSH"
+  },
+  {
+    "place": 2,
+    "country": "NAM",
+    "mark": "20.130",
+    "name": "Frankie FREDERICKS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "20.380",
+    "name": "Michael D. BATES"
+  },
+  {
+    "place": 4,
+    "country": "BRA",
+    "mark": "20.450",
+    "name": "Robson DA SILVA"
+  },
+  {
+    "place": 5,
+    "country": "NGR",
+    "mark": "20.500",
+    "name": "Olapade ADENIKEN"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "20.550",
+    "name": "John Paul Lyndon REGIS"
+  },
+  {
+    "place": 7,
+    "country": "NGR",
+    "mark": "20.670",
+    "name": "Oluyemi KAYODE"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "20.800",
+    "name": "Marcus ADAM"
+  },
+  {
+    "place": 9,
+    "country": "ANG",
+    "mark": "Did not start",
+    "name": "Afonso FERRAZ"
+  },
+  {
+    "place": 10,
+    "country": "VAN",
+    "mark": "Did not start",
+    "name": "Fletcher WAMILEE"
+  }
+]

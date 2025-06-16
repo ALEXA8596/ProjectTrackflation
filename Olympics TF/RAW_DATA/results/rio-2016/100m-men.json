@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "09.810",
+    "name": "Usain BOLT"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "09.890",
+    "name": "Justin GATLIN"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "09.910",
+    "name": "Andre DE GRASSE"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "09.930",
+    "name": "Yohan BLAKE"
+  },
+  {
+    "place": 5,
+    "country": "RSA",
+    "mark": "09.940",
+    "name": "Akani SIMBINE"
+  },
+  {
+    "place": 6,
+    "country": "CIV",
+    "mark": "09.960",
+    "name": "Ben Youssef MEITE"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "10.040",
+    "name": "Jimmy VICAUT"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "10.060",
+    "name": "Trayvon BROMELL"
+  }
+]

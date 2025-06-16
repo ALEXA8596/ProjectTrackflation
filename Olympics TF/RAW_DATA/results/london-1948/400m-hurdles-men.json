@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "51.100",
+    "name": "Roy Braxton COCHRAN"
+  },
+  {
+    "place": 2,
+    "country": "SRI",
+    "mark": "51.800",
+    "name": "Duncan WHITE"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "52.200",
+    "name": "Rune LARSSON"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "52.400",
+    "name": "Richard Francis AULT"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "53.300",
+    "name": "Yves CROS"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "54.000",
+    "name": "Ottavio MISSONI"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "José Luis RUBIO"
+  },
+  {
+    "place": 8,
+    "country": "PHI",
+    "mark": "Did not start",
+    "name": "Bernabe O. LOVINA"
+  },
+  {
+    "place": 9,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Fernando Alex FERNANDES"
+  },
+  {
+    "place": 10,
+    "country": "PUR",
+    "mark": "Did not start",
+    "name": "Julio SABATER"
+  }
+]

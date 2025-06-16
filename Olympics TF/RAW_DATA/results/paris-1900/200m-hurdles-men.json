@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "25.400",
+    "name": "Alvin KRAENZLEIN"
+  },
+  {
+    "place": 2,
+    "country": "IND",
+    "mark": "at 5 yards",
+    "name": "Norman PRITCHARD"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "at 1 yard",
+    "name": "Walter B. John TEWKSBURY"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Charles GONDOUIN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "George ORTON"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Umberto COLOMBO"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Alex GRANT"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Arthur NEWTON"
+  }
+]

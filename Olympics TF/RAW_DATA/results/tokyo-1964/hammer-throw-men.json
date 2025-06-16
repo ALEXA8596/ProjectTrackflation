@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "69.74",
+    "name": "Romuald KLIM"
+  },
+  {
+    "place": 2,
+    "country": "HUN",
+    "mark": "69.09",
+    "name": "Gyula ZSIVOTZKY"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "68.09",
+    "name": "Uwe BEYER"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "67.69",
+    "name": "Yuri NIKULIN"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "66.72",
+    "name": "Yury BAKARINOV"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "66.65",
+    "name": "Hal CONNOLLY"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "65.66",
+    "name": "Edward Andrew BURKE"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "64.83",
+    "name": "Olgierd CIEPLY"
+  },
+  {
+    "place": 9,
+    "country": "TCH",
+    "mark": "64.59",
+    "name": "Josef MATOUSEK"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "64.52",
+    "name": "Tadeusz RUT"
+  },
+  {
+    "place": 11,
+    "country": "HUN",
+    "mark": "63.83",
+    "name": "Sándor ECKSCHMIEDT"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "63.82",
+    "name": "Albert William HALL"
+  },
+  {
+    "place": 13,
+    "country": "JPN",
+    "mark": "63.69",
+    "name": "Takeo SUGAWARA"
+  },
+  {
+    "place": 14,
+    "country": "POL",
+    "mark": "62.90",
+    "name": "Zdzislaw SMOLINSKI"
+  },
+  {
+    "place": 15,
+    "country": "AUT",
+    "mark": "62.76",
+    "name": "Heinrich THUN"
+  },
+  {
+    "place": 16,
+    "country": "ROU",
+    "mark": "Did not start",
+    "name": "Nicolae MURAFA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "18.17w",
+    "name": "Mike CONLEY"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "17.60",
+    "name": "Charles SIMPKINS"
+  },
+  {
+    "place": 3,
+    "country": "BAH",
+    "mark": "17.36",
+    "name": "Frank RUTHERFORD"
+  },
+  {
+    "place": 4,
+    "country": "EUN",
+    "mark": "17.32",
+    "name": "Leonid VOLOSHIN"
+  },
+  {
+    "place": 5,
+    "country": "BER",
+    "mark": "17.24",
+    "name": "Brian P. WELLMAN"
+  },
+  {
+    "place": 6,
+    "country": "CUB",
+    "mark": "17.18",
+    "name": "Yoelbi QUESADA"
+  },
+  {
+    "place": 7,
+    "country": "EUN",
+    "mark": "17.06",
+    "name": "Alexandre KOVALENKO"
+  },
+  {
+    "place": 8,
+    "country": "CHN",
+    "mark": "17.00",
+    "name": "Sixin ZOU"
+  },
+  {
+    "place": 9,
+    "country": "EUN",
+    "mark": "16.86",
+    "name": "Vassili SOKOV"
+  },
+  {
+    "place": 10,
+    "country": "LAT",
+    "mark": "16.80",
+    "name": "Maris BRUZIKS"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "16.52",
+    "name": "Pierre CAMARA"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "16.23",
+    "name": "Eugeniusz BEDENICZUK"
+  }
+]

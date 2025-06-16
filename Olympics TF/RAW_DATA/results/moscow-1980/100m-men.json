@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "10.250",
+    "name": "Allan WELLS"
+  },
+  {
+    "place": 2,
+    "country": "CUB",
+    "mark": "10.250",
+    "name": "Silvio LEONARD SARRIA"
+  },
+  {
+    "place": 3,
+    "country": "BUL",
+    "mark": "10.390",
+    "name": "Peter PETROV"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "10.420",
+    "name": "Aleksandr AKSININ"
+  },
+  {
+    "place": 5,
+    "country": "CUB",
+    "mark": "10.430",
+    "name": "Osvaldo LARA"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "10.440",
+    "name": "Vladimir MURAVYOV"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "10.460",
+    "name": "Marian WORONIN"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "10.490",
+    "name": "Herman PANZO"
+  }
+]

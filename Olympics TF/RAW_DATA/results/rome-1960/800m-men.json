@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "NZL",
+    "mark": "00:01:46.300",
+    "name": "Peter SNELL"
+  },
+  {
+    "place": 2,
+    "country": "BEL",
+    "mark": "00:01:46.500",
+    "name": "Roger MOENS"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "00:01:47.100",
+    "name": "George Ezekiel KERR"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "00:01:47.600",
+    "name": "Paul SCHMIDT"
+  },
+  {
+    "place": 5,
+    "country": "SUI",
+    "mark": "00:01:48.100",
+    "name": "Christian WAGLI"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "00:01:52.000",
+    "name": "Manfred MATUSCHEWSKI"
+  },
+  {
+    "place": 7,
+    "country": "SOM",
+    "mark": "Did not start",
+    "name": "Abdihamid NUR"
+  },
+  {
+    "place": 8,
+    "country": "BAH",
+    "mark": "Did not start",
+    "name": "Julian BROWN"
+  },
+  {
+    "place": 9,
+    "country": "SUR",
+    "mark": "Did not start",
+    "name": "Wim ESAJAS"
+  },
+  {
+    "place": 10,
+    "country": "AFG",
+    "mark": "Did not start",
+    "name": "Abdul GHAFOORI"
+  },
+  {
+    "place": 11,
+    "country": "PUR",
+    "mark": "Did not start",
+    "name": "Josué DELGADO"
+  }
+]

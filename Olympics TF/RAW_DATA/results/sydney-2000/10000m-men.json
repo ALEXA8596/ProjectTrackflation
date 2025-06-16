@@ -1,0 +1,122 @@
+[
+  {
+    "place": 1,
+    "country": "ETH",
+    "mark": "00:27:18.200",
+    "name": "Haile GEBRSELASSIE"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:27:18.290",
+    "name": "Paul TERGAT"
+  },
+  {
+    "place": 3,
+    "country": "ETH",
+    "mark": "00:27:19.750",
+    "name": "Assefa MEZGEBU"
+  },
+  {
+    "place": 4,
+    "country": "KEN",
+    "mark": "00:27:20.440",
+    "name": "Patrick Mutuku IVUTI"
+  },
+  {
+    "place": 5,
+    "country": "KEN",
+    "mark": "00:27:24.750",
+    "name": "John Cheruiyot KORIR"
+  },
+  {
+    "place": 6,
+    "country": "MAR",
+    "mark": "00:27:37.830",
+    "name": "Said BERIOUI"
+  },
+  {
+    "place": 7,
+    "country": "JPN",
+    "mark": "00:27:40.440",
+    "name": "Toshinari TAKAOKA"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "00:27:44.090",
+    "name": "Karl KESKA"
+  },
+  {
+    "place": 9,
+    "country": "BDI",
+    "mark": "00:27:44.560",
+    "name": "Aloys NIZIGAMA"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "00:27:46.170",
+    "name": "Abdi ABDIRAHMAN"
+  },
+  {
+    "place": 11,
+    "country": "ETH",
+    "mark": "00:27:49.750",
+    "name": "Girma TOLLA"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "00:27:53.630",
+    "name": "Mebrahtom KEFLEZIGHI"
+  },
+  {
+    "place": 13,
+    "country": "MEX",
+    "mark": "00:27:54.560",
+    "name": "José David GALVÁN"
+  },
+  {
+    "place": 14,
+    "country": "POR",
+    "mark": "00:28:07.430",
+    "name": "José RAMOS"
+  },
+  {
+    "place": 15,
+    "country": "JPN",
+    "mark": "00:28:08.110",
+    "name": "Katsuhiko HANADA"
+  },
+  {
+    "place": 16,
+    "country": "ALG",
+    "mark": "00:28:17.250",
+    "name": "Samir MOUSSAOUI"
+  },
+  {
+    "place": 17,
+    "country": "ITA",
+    "mark": "00:28:45.960",
+    "name": "Rachid BERRADI"
+  },
+  {
+    "place": 18,
+    "country": "ESP",
+    "mark": "00:28:50.310",
+    "name": "Jose RIOS"
+  },
+  {
+    "place": 19,
+    "country": "BEL",
+    "mark": "Did not finish",
+    "name": "Mohammed MOURHIT"
+  },
+  {
+    "place": 20,
+    "country": "ESP",
+    "mark": "Did not finish",
+    "name": "Enrique MOLINA"
+  }
+]

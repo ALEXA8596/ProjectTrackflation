@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "RSA",
+    "mark": "00:01:55.280",
+    "name": "Caster SEMENYA"
+  },
+  {
+    "place": 2,
+    "country": "BDI",
+    "mark": "00:01:56.490",
+    "name": "Francine NIYONSABA"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "00:01:56.890",
+    "name": "Margaret Nyairera WAMBUI"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "00:01:57.020",
+    "name": "Melissa BISHOP"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "00:01:57.370",
+    "name": "Joanna JOZWIK"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "00:01:57.690",
+    "name": "Lynsey SHARP"
+  },
+  {
+    "place": 7,
+    "country": "BLR",
+    "mark": "00:01:59.100",
+    "name": "Marina ARZAMASOVA"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "00:01:59.570",
+    "name": "Kate GRACE"
+  },
+  {
+    "place": 9,
+    "country": "UKR",
+    "mark": "Disqualified",
+    "name": "Nataliia LUPU"
+  }
+]

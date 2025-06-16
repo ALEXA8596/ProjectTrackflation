@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "20.190",
+    "name": "Pietro MENNEA"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "20.210",
+    "name": "Allan WELLS"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "20.290",
+    "name": "Donald QUARRIE"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "20.300",
+    "name": "Silvio LEONARD SARRIA"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "20.500",
+    "name": "Bernhard HOFF"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "20.680",
+    "name": "Leszek DUNECKI"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "20.810",
+    "name": "Marian WORONIN"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "21.190",
+    "name": "Osvaldo LARA"
+  },
+  {
+    "place": 9,
+    "country": "CGO",
+    "mark": "Did not start",
+    "name": "Theophile NKONKOU"
+  },
+  {
+    "place": 10,
+    "country": "CMR",
+    "mark": "Did not start",
+    "name": "Emmanuel BITANGA"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Pascal BARRE"
+  },
+  {
+    "place": 12,
+    "country": "KUW",
+    "mark": "Did not start",
+    "name": "Abdulmajeed AL-MOSAWI"
+  },
+  {
+    "place": 13,
+    "country": "PER",
+    "mark": "Did not start",
+    "name": "Jose Luis ELIAS"
+  },
+  {
+    "place": 14,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Vladimir MURAVYOV"
+  }
+]

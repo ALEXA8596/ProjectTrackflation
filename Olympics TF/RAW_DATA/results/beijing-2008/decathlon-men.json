@@ -1,0 +1,242 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "8791",
+    "name": "Bryan CLAY"
+  },
+  {
+    "place": 2,
+    "country": "BLR",
+    "mark": "8551",
+    "name": "Andrei KRAUCHANKA"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "8527",
+    "name": "Leonel SUAREZ"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "8253",
+    "name": "Romain BARRAS"
+  },
+  {
+    "place": 5,
+    "country": "CZE",
+    "mark": "8241",
+    "name": "Roman SEBRLE"
+  },
+  {
+    "place": 6,
+    "country": "UKR",
+    "mark": "8238",
+    "name": "Oleksiy KASYANOV"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "8220",
+    "name": "Andre NIKLAUS"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "8205",
+    "name": "Maurice SMITH"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "8194",
+    "name": "Michael SCHRADER"
+  },
+  {
+    "place": 10,
+    "country": "EST",
+    "mark": "8178",
+    "name": "Mikk PAHAPILL"
+  },
+  {
+    "place": 11,
+    "country": "RUS",
+    "mark": "8154",
+    "name": "Aleksey DROZDOV"
+  },
+  {
+    "place": 12,
+    "country": "EST",
+    "mark": "8118",
+    "name": "Andres RAJA"
+  },
+  {
+    "place": 13,
+    "country": "NED",
+    "mark": "8055",
+    "name": "Eugene MARTINEAU"
+  },
+  {
+    "place": 14,
+    "country": "CUB",
+    "mark": "7992",
+    "name": "Yordani GARCIA"
+  },
+  {
+    "place": 15,
+    "country": "BLR",
+    "mark": "7906",
+    "name": "Mikalai SHUBIANOK"
+  },
+  {
+    "place": 16,
+    "country": "BLR",
+    "mark": "7838",
+    "name": "Aleksandr PARKHOMENKO"
+  },
+  {
+    "place": 17,
+    "country": "CHN",
+    "mark": "7835",
+    "name": "Haifeng QI"
+  },
+  {
+    "place": 18,
+    "country": "CAN",
+    "mark": "7714",
+    "name": "Massimo BERTOCCHI"
+  },
+  {
+    "place": 19,
+    "country": "LBR",
+    "mark": "7665",
+    "name": "Jangy ADDY"
+  },
+  {
+    "place": 20,
+    "country": "GBR",
+    "mark": "7516",
+    "name": "Daniel AWDE"
+  },
+  {
+    "place": 21,
+    "country": "IRI",
+    "mark": "7483",
+    "name": "Hadi SEPEHRZAD"
+  },
+  {
+    "place": 22,
+    "country": "SLO",
+    "mark": "7336",
+    "name": "Damjan SITAR"
+  },
+  {
+    "place": 23,
+    "country": "SVK",
+    "mark": "7021",
+    "name": "Slaven DIZDAREVIC"
+  },
+  {
+    "place": 24,
+    "country": "ESP",
+    "mark": "6876",
+    "name": "David GOMEZ"
+  },
+  {
+    "place": 25,
+    "country": "FIN",
+    "mark": "6486",
+    "name": "Mikko HALVARI"
+  },
+  {
+    "place": 26,
+    "country": "CHI",
+    "mark": "Did not finish",
+    "name": "Gonzalo BARROILHET"
+  },
+  {
+    "place": 27,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Trey HARDEE"
+  },
+  {
+    "place": 28,
+    "country": "LAT",
+    "mark": "Did not finish",
+    "name": "Janis KARLIVANS"
+  },
+  {
+    "place": 29,
+    "country": "RUS",
+    "mark": "Did not finish",
+    "name": "Aleksey SYSOYEV"
+  },
+  {
+    "place": 30,
+    "country": "UZB",
+    "mark": "Did not finish",
+    "name": "Pavel ANDREEV"
+  },
+  {
+    "place": 31,
+    "country": "BRA",
+    "mark": "Did not finish",
+    "name": "Carlos CHININ"
+  },
+  {
+    "place": 32,
+    "country": "MDA",
+    "mark": "Did not finish",
+    "name": "Victor COVALENCO"
+  },
+  {
+    "place": 33,
+    "country": "BEL",
+    "mark": "Did not finish",
+    "name": "Frederic XHONNEUX"
+  },
+  {
+    "place": 34,
+    "country": "GER",
+    "mark": "Did not finish",
+    "name": "Arthur ABELE"
+  },
+  {
+    "place": 35,
+    "country": "BEL",
+    "mark": "Did not finish",
+    "name": "Hans VAN ALPHEN"
+  },
+  {
+    "place": 36,
+    "country": "UZB",
+    "mark": "Did not finish",
+    "name": "Vitaliy SMIRNOV"
+  },
+  {
+    "place": 37,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Tom PAPPAS"
+  },
+  {
+    "place": 38,
+    "country": "HUN",
+    "mark": "Did not finish",
+    "name": "Attila ZSIVOCZKY"
+  },
+  {
+    "place": 39,
+    "country": "KAZ",
+    "mark": "Did not finish",
+    "name": "Dmitriy KARPOV"
+  },
+  {
+    "place": 40,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Aleksandr POGORELOV"
+  }
+]

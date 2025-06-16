@@ -1,0 +1,188 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "2.03",
+    "name": "Cornelius Cooper JOHNSON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "2.00",
+    "name": "David Donald ALBRITTON"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "2.00",
+    "name": "Delos Packard THURBER"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "2.00",
+    "name": "Kalevi KOTKAS"
+  },
+  {
+    "place": 5,
+    "country": "JPN",
+    "mark": "1.97",
+    "name": "Kimio YATA"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "1.94",
+    "name": "Lauri Fredrik Mikael KALIMA"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "1.94",
+    "name": "Gustav WEINKÖTZ"
+  },
+  {
+    "place": 8,
+    "country": "JPN",
+    "mark": "1.94",
+    "name": "Hiroshi TANAKA"
+  },
+  {
+    "place": 9,
+    "country": "JPN",
+    "mark": "1.94",
+    "name": "Yoshiro ASAKUMA"
+  },
+  {
+    "place": 10,
+    "country": "EST",
+    "mark": "1.90",
+    "name": "Aksel KUUSE"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "1.90",
+    "name": "Günther GEHMERT"
+  },
+  {
+    "place": 12,
+    "country": "AUS",
+    "mark": "1.85",
+    "name": "John Patrick METCALFE"
+  },
+  {
+    "place": 13,
+    "country": "CAN",
+    "mark": "1.85",
+    "name": "Joseph Brennan HALEY"
+  },
+  {
+    "place": 14,
+    "country": "DEN",
+    "mark": "1.85",
+    "name": "Poul Emil OTTO"
+  },
+  {
+    "place": 15,
+    "country": "FIN",
+    "mark": "1.85",
+    "name": "Veikko Tuomas PERÄSALO"
+  },
+  {
+    "place": 16,
+    "country": "HUN",
+    "mark": "1.85",
+    "name": "Mihaly BODOSI"
+  },
+  {
+    "place": 17,
+    "country": "NED",
+    "mark": "1.85",
+    "name": "Jan BRASSER"
+  },
+  {
+    "place": 18,
+    "country": "PHI",
+    "mark": "1.85",
+    "name": "Simeon Galvez TORIBIO"
+  },
+  {
+    "place": 19,
+    "country": "RSA",
+    "mark": "1.85",
+    "name": "Edwin Thomas THACKER"
+  },
+  {
+    "place": 20,
+    "country": "SUI",
+    "mark": "1.85",
+    "name": "Rudolf EGGENBERG"
+  },
+  {
+    "place": 21,
+    "country": "SWE",
+    "mark": "1.85",
+    "name": "Ake ÖDMARK"
+  },
+  {
+    "place": 22,
+    "country": "POL",
+    "mark": "1.80",
+    "name": "Jerzy PLAWCZYK"
+  },
+  {
+    "place": 23,
+    "country": "CHN",
+    "mark": "Did not start",
+    "name": "Shih-Lin WANG"
+  },
+  {
+    "place": 24,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Pedro DEL VECCHIO"
+  },
+  {
+    "place": 25,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Christian GILLMANN"
+  },
+  {
+    "place": 26,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "René POIRIER"
+  },
+  {
+    "place": 27,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Louis THIEBERT"
+  },
+  {
+    "place": 28,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Kurt LUNDQVIST"
+  },
+  {
+    "place": 29,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Vladimír GALANDA"
+  },
+  {
+    "place": 30,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Fritz MARTINI"
+  },
+  {
+    "place": 31,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Nikola VUČEVIĆ"
+  }
+]

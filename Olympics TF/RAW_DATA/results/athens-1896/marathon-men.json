@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "GRE",
+    "mark": "02:58:50.000",
+    "name": "Spyridon LOUIS"
+  },
+  {
+    "place": 2,
+    "country": "GRE",
+    "mark": "03:06:03.000",
+    "name": "Kharilaos VASILAKOS"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "03:06:35.000",
+    "name": "Gyula KELLNER"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "Did not finish",
+    "name": "Edwin FLACK"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Albin LERMUSIAUX"
+  },
+  {
+    "place": 6,
+    "country": "GRE",
+    "mark": "Did not finish",
+    "name": "Georgios LAVRENTIS"
+  },
+  {
+    "place": 7,
+    "country": "GRE",
+    "mark": "Did not finish",
+    "name": "Georgios GRIGORIOU"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Arthur BLAKE"
+  },
+  {
+    "place": 9,
+    "country": "GRE",
+    "mark": "Did not finish",
+    "name": "Ilias KAFETZIS"
+  },
+  {
+    "place": 10,
+    "country": "GRE",
+    "mark": "Did not finish",
+    "name": "Dimitrios KHRISTOPOULOS"
+  },
+  {
+    "place": 11,
+    "country": "GRE",
+    "mark": "Disqualified",
+    "name": "Spyridon BELOKAS"
+  },
+  {
+    "place": 12,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Vathis VATHIS"
+  },
+  {
+    "place": 13,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Vanitakis VANITAKIS"
+  },
+  {
+    "place": 14,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Gyula MALCSINER"
+  },
+  {
+    "place": 15,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Carlo AIROLDI"
+  },
+  {
+    "place": 16,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Karl GALLE"
+  }
+]

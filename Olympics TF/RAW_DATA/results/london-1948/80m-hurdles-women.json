@@ -1,0 +1,38 @@
+[
+  {
+    "place": 1,
+    "country": "NED",
+    "mark": "11.200",
+    "name": "Fanny BLANKERS-KOEN"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "11.200",
+    "name": "Maureen Angela Jane GARDNER"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "11.400",
+    "name": "Shirley STRICKLAND-DE LA HUNTY"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "11.8est",
+    "name": "Yvette MONGINOU"
+  },
+  {
+    "place": 5,
+    "country": "AUT",
+    "mark": "11.8est",
+    "name": "Maria OBERBREYER-TRÖSCH"
+  },
+  {
+    "place": 6,
+    "country": "TCH",
+    "mark": "11.9est",
+    "name": "Libuse LOMSKA-GEISLEROVA"
+  }
+]

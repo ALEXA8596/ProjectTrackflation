@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "00:48:06.200",
+    "name": "Ugo FRIGERIO"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "49:20.0est / at 200 metres",
+    "name": "Joseph PEARMAN"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "49:23.0est / at 12 metres",
+    "name": "Charlie GUNN"
+  },
+  {
+    "place": 4,
+    "country": "RSA",
+    "mark": "50:04.0est / at 130 metres",
+    "name": "Cecil Charles MCMASTER"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "50:25.0est / at 70 metres",
+    "name": "William HEHIR"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "50:37.0est / at 40 metres",
+    "name": "Thomas MARONEY"
+  },
+  {
+    "place": 7,
+    "country": "BEL",
+    "mark": "50:45.0est / at 25 metres",
+    "name": "Jean SEGHERS"
+  },
+  {
+    "place": 8,
+    "country": "BEL",
+    "mark": "57:30.0est / at 1000 metres",
+    "name": "Antoine DOYEN"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "Did not finish",
+    "name": "George PARKER"
+  },
+  {
+    "place": 10,
+    "country": "ESP",
+    "mark": "Did not finish",
+    "name": "Luis MELÉNDEZ"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "Disqualified",
+    "name": "Donato PAVESI"
+  },
+  {
+    "place": 12,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "K. JELINEK"
+  },
+  {
+    "place": 13,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Jan PLICHTA"
+  },
+  {
+    "place": 14,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Nando ALTIMANI"
+  },
+  {
+    "place": 15,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Richard Frederick REMER"
+  }
+]

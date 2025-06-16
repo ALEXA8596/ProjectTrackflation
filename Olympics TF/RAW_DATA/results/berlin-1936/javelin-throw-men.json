@@ -1,0 +1,146 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "71.84",
+    "name": "Gerhard STÖCK"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "70.77",
+    "name": "Yrjo Jouko NIKKANEN"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "70.72",
+    "name": "Kaarlo Kalervo TOIVONEN"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "69.20",
+    "name": "Lennart ATTERWALL"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "69.18",
+    "name": "Matti Henrik JARVINEN"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "67.15",
+    "name": "Floy Alton TERRY"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "66.39",
+    "name": "Eugeniusz (Brok) LOKAJSKI"
+  },
+  {
+    "place": 8,
+    "country": "HUN",
+    "mark": "65.30",
+    "name": "Jozsef VARSZEGI"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "63.58",
+    "name": "Gottfried WEIMANN"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "63.36",
+    "name": "Walter TURCZYK"
+  },
+  {
+    "place": 11,
+    "country": "EST",
+    "mark": "63.26",
+    "name": "Gustav SULE"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "61.15",
+    "name": "Lee Marion BARTLETT"
+  },
+  {
+    "place": 13,
+    "country": "LAT",
+    "mark": "60.71",
+    "name": "Otto JURGIS"
+  },
+  {
+    "place": 14,
+    "country": "CAN",
+    "mark": "60.54",
+    "name": "Jim COURTRIGHT"
+  },
+  {
+    "place": 15,
+    "country": "USA",
+    "mark": "58.20",
+    "name": "Malcolm Ward METCALF"
+  },
+  {
+    "place": 16,
+    "country": "NED",
+    "mark": "56.25",
+    "name": "Johan-Frederik VAN DER POLL"
+  },
+  {
+    "place": 17,
+    "country": "GER",
+    "mark": "55.93",
+    "name": "Friedrich GERDES"
+  },
+  {
+    "place": 18,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Franz BUCHER"
+  },
+  {
+    "place": 19,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Roger FRINOT"
+  },
+  {
+    "place": 20,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Saburo NAGAO"
+  },
+  {
+    "place": 21,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Georges VUILLERMOT"
+  },
+  {
+    "place": 22,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Erik H. LUNDQVIST"
+  },
+  {
+    "place": 23,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Josip MILOŠ"
+  },
+  {
+    "place": 24,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Karol SMEJDA"
+  }
+]

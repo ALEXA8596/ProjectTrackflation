@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "24.000",
+    "name": "Wilma RUDOLPH"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "24.400",
+    "name": "Judith (Jutta) HEINE"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "24.700",
+    "name": "Dorothy HYMAN"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "24.700",
+    "name": "Mariya ITKINA"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "24.800",
+    "name": "Barbara LERCZAK-JANISZEWSKA"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "24.900",
+    "name": "Giuseppina LEONE"
+  },
+  {
+    "place": 7,
+    "country": "ROU",
+    "mark": "Did not start",
+    "name": "Maria IONESCU"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Betty CUTHBERT"
+  },
+  {
+    "place": 9,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Snejana Angelova ANGELOVA-KERKOVA"
+  },
+  {
+    "place": 10,
+    "country": "GHA",
+    "mark": "Did not start",
+    "name": "Christiana A. BOATENG"
+  },
+  {
+    "place": 11,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Stephanie D'SOUZA"
+  },
+  {
+    "place": 12,
+    "country": "PAN",
+    "mark": "Did not start",
+    "name": "Carlota GOODEN"
+  },
+  {
+    "place": 13,
+    "country": "PAN",
+    "mark": "Did not start",
+    "name": "Jean HOLMES-MITCHELL"
+  }
+]

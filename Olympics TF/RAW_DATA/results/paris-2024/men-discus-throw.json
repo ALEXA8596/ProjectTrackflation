@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "70.00",
+    "name": "Roje STONA"
+  },
+  {
+    "place": 2,
+    "country": "LTU",
+    "mark": "69.97",
+    "name": "Mykolas ALEKNA"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "69.31",
+    "name": "Matthew DENNY"
+  },
+  {
+    "place": 4,
+    "country": "SLO",
+    "mark": "68.41",
+    "name": "Kristjan CEH"
+  },
+  {
+    "place": 5,
+    "country": "AUT",
+    "mark": "67.54",
+    "name": "Lukas WEISSHAIDINGER"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "67.41",
+    "name": "Clemens PRUFER"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "66.95",
+    "name": "Daniel STAHL"
+  },
+  {
+    "place": 8,
+    "country": "LTU",
+    "mark": "66.55",
+    "name": "Andrius GUDZIUS"
+  },
+  {
+    "place": 9,
+    "country": "JAM",
+    "mark": "65.61",
+    "name": "Ralford MULLINGS"
+  },
+  {
+    "place": 10,
+    "country": "JAM",
+    "mark": "64.97",
+    "name": "Traves SMIKLE"
+  },
+  {
+    "place": 11,
+    "country": "ROU",
+    "mark": "64.45",
+    "name": "Alin Alexandru FIRFIRICA"
+  },
+  {
+    "place": 12,
+    "country": "SAM",
+    "mark": "61.89",
+    "name": "Alex ROSE"
+  }
+]

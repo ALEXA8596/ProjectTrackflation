@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "MAR",
+    "mark": "00:13:14.390",
+    "name": "Hicham EL GUERROUJ"
+  },
+  {
+    "place": 2,
+    "country": "ETH",
+    "mark": "00:13:14.590",
+    "name": "Kenenisa BEKELE"
+  },
+  {
+    "place": 3,
+    "country": "KEN",
+    "mark": "00:13:15.100",
+    "name": "Eliud KIPCHOGE"
+  },
+  {
+    "place": 4,
+    "country": "ETH",
+    "mark": "00:13:15.350",
+    "name": "Gebre Egziabher GEBREMARIAM"
+  },
+  {
+    "place": 5,
+    "country": "ETH",
+    "mark": "00:13:16.920",
+    "name": "Dejene BERHANU"
+  },
+  {
+    "place": 6,
+    "country": "KEN",
+    "mark": "00:13:18.240",
+    "name": "John KIBOWEN"
+  },
+  {
+    "place": 7,
+    "country": "ERI",
+    "mark": "00:13:24.310",
+    "name": "Zersenay TADESSE"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "00:13:25.700",
+    "name": "Craig MOTTRAM"
+  },
+  {
+    "place": 9,
+    "country": "MAR",
+    "mark": "00:13:31.810",
+    "name": "Hicham BELLANI"
+  },
+  {
+    "place": 10,
+    "country": "ALG",
+    "mark": "00:13:32.570",
+    "name": "Ali SAIDI-SIEF"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "00:13:33.060",
+    "name": "Tim BROE"
+  },
+  {
+    "place": 12,
+    "country": "IRL",
+    "mark": "00:13:43.060",
+    "name": "Alistair Ian CRAGG"
+  },
+  {
+    "place": 13,
+    "country": "MAR",
+    "mark": "00:13:47.270",
+    "name": "Abderrahim GOUMRI"
+  },
+  {
+    "place": 14,
+    "country": "ALG",
+    "mark": "00:14:02.010",
+    "name": "Samir MOUSSAOUI"
+  },
+  {
+    "place": 15,
+    "country": "KEN",
+    "mark": "Did not finish",
+    "name": "Abraham CHEBII"
+  }
+]

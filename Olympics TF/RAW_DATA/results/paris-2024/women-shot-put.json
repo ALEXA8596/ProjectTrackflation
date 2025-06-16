@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "20.00",
+    "name": "Yemisi OGUNLEYE"
+  },
+  {
+    "place": 2,
+    "country": "NZL",
+    "mark": "19.86",
+    "name": "Maddison-Lee WESCHE"
+  },
+  {
+    "place": 3,
+    "country": "CHN",
+    "mark": "19.32",
+    "name": "Jiayuan SONG"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "19.28",
+    "name": "Jaida ROSS"
+  },
+  {
+    "place": 5,
+    "country": "CHN",
+    "mark": "19.27",
+    "name": "Lijiao GONG"
+  },
+  {
+    "place": 6,
+    "country": "NED",
+    "mark": "18.91",
+    "name": "Jessica SCHILDER"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "18.78",
+    "name": "Fanny ROOS"
+  },
+  {
+    "place": 8,
+    "country": "POR",
+    "mark": "18.41",
+    "name": "Jessica INCHUDE"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "18.29",
+    "name": "Alina KENZEL"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "18.03",
+    "name": "Axelina JOHANSSON"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "17.79",
+    "name": "Raven SAUNDERS"
+  },
+  {
+    "place": 12,
+    "country": "CAN",
+    "mark": "17.48",
+    "name": "Sarah MITTON"
+  }
+]

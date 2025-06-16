@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "47.250",
+    "name": "Angelo TAYLOR"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "47.980",
+    "name": "Kerron CLEMENT"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "48.060",
+    "name": "Bershawn JACKSON"
+  },
+  {
+    "place": 4,
+    "country": "JAM",
+    "mark": "48.300",
+    "name": "Danny MCFARLANE"
+  },
+  {
+    "place": 5,
+    "country": "RSA",
+    "mark": "48.420",
+    "name": "L.J. VAN ZYL"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "48.520",
+    "name": "Marek PLAWGO"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "48.600",
+    "name": "Markino BUCKLEY"
+  },
+  {
+    "place": 8,
+    "country": "GRE",
+    "mark": "49.960",
+    "name": "Periklis IAKOVAKIS"
+  }
+]

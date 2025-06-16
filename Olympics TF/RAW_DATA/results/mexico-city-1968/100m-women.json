@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "11.000",
+    "name": "Wyomia TYUS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "11.100",
+    "name": "Barbara Ann FERRELL"
+  },
+  {
+    "place": 3,
+    "country": "POL",
+    "mark": "11.100",
+    "name": "Irena Szewińska"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "11.100",
+    "name": "Raelene Ann BOYLE"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "11.300",
+    "name": "Margaret Johnson BAILES"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "11.400",
+    "name": "Dianne Marie BOWERING"
+  },
+  {
+    "place": 7,
+    "country": "TPE",
+    "mark": "11.500",
+    "name": "Cheng CHI"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "11.600",
+    "name": "Miguelina COBIAN HECHEVARRIA"
+  }
+]

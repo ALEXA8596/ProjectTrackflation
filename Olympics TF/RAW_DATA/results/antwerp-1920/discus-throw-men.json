@@ -1,0 +1,128 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "44.685",
+    "name": "Elmer Konstantin NIKLANDER"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "44.19",
+    "name": "Armas Rudolf TAIPALE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "42.13",
+    "name": "Augustus POPE"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "41.07",
+    "name": "Oscar ZALLHAGEN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "40.875",
+    "name": "William Kenneth C. BARTLETT"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "39.41",
+    "name": "Allan ERIKSSON"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Raoul Lucien PAOLI"
+  },
+  {
+    "place": 8,
+    "country": "EST",
+    "mark": "Did not start",
+    "name": "Harald TAMMER"
+  },
+  {
+    "place": 9,
+    "country": "EST",
+    "mark": "Did not start",
+    "name": "Aleksander KLUMBERG"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Fausto ACKE"
+  },
+  {
+    "place": 11,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Luigi ANTOGNINI"
+  },
+  {
+    "place": 12,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Bernard GUGGENHEIM"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Roy EVANS"
+  },
+  {
+    "place": 14,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Benjamin Howard BAKER"
+  },
+  {
+    "place": 15,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Ignacio IZAGUIRRE"
+  },
+  {
+    "place": 16,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Ventura ELIZONDO"
+  },
+  {
+    "place": 17,
+    "country": "LUX",
+    "mark": "Did not start",
+    "name": "Nicolas KANIVE"
+  },
+  {
+    "place": 18,
+    "country": "LUX",
+    "mark": "Did not start",
+    "name": "Alex SERVAIS"
+  },
+  {
+    "place": 19,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Josef KOPECKY"
+  },
+  {
+    "place": 20,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Georgios REVELIOTIS"
+  },
+  {
+    "place": 21,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Gustave Marie WUYTS"
+  }
+]

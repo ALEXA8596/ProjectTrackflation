@@ -1,0 +1,26 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "OR",
+    "name": "Mildred DIDRIKSON"
+  },
+  {
+    "place": 2,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Esmeraldo AZUAGA"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Greta HEUBLEIN"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Stanislawa WALASIEWICZ"
+  }
+]

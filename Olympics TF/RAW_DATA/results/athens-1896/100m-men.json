@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "12.000",
+    "name": "Thomas BURKE"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "at 2 metres",
+    "name": "Fritz HOFMANN"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "at 4 metres",
+    "name": "Alajos SZOKOLYI"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "at 4 metres",
+    "name": "Francis LANE"
+  },
+  {
+    "place": 5,
+    "country": "GRE",
+    "mark": "at 4 metres",
+    "name": "Alexandros KHALKOKONDYLIS"
+  },
+  {
+    "place": 6,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Luis SUBERCASEAUX"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Leonidasz MANNO"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Jean TOURNOIS"
+  },
+  {
+    "place": 9,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Konstantinos MOURATIS"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "István ZACHAR"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Ralph DERR"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Louis ADLER"
+  },
+  {
+    "place": 13,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Alfred FLATOW"
+  },
+  {
+    "place": 14,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Harald ARBIN"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Alexandre TUFFERI"
+  },
+  {
+    "place": 16,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Nandor DANI"
+  },
+  {
+    "place": 17,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Charles VANONI"
+  }
+]

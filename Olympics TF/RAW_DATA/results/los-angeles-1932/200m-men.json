@@ -1,0 +1,128 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "21.200",
+    "name": "Eddie TOLAN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "21.400",
+    "name": "George Sidney SIMPSON"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "21.500",
+    "name": "Ralph METCALFE"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "21.500",
+    "name": "Arthur JONATH"
+  },
+  {
+    "place": 5,
+    "country": "ARG",
+    "mark": "21.600",
+    "name": "Carlos BIANCHI"
+  },
+  {
+    "place": 6,
+    "country": "RSA",
+    "mark": "21.900",
+    "name": "William John WALTERS"
+  },
+  {
+    "place": 7,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Jose XAVIER DE ALMEIDA"
+  },
+  {
+    "place": 8,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Angelos LAMBROU"
+  },
+  {
+    "place": 9,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Carlos HOFMEISTER"
+  },
+  {
+    "place": 10,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Leonardo VALDÉS"
+  },
+  {
+    "place": 11,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Fernando ORTIZ"
+  },
+  {
+    "place": 12,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Antonio Cesar RODRIGUES"
+  },
+  {
+    "place": 13,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Percy WILLIAMS"
+  },
+  {
+    "place": 14,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Arnaldo FERRARA"
+  },
+  {
+    "place": 15,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Felix RINNER"
+  },
+  {
+    "place": 16,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "José Alberto TORRIENTE"
+  },
+  {
+    "place": 17,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Renos FRANGOUDIS"
+  },
+  {
+    "place": 18,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Fred REID"
+  },
+  {
+    "place": 19,
+    "country": "HAI",
+    "mark": "Did not start",
+    "name": "André THEARD"
+  },
+  {
+    "place": 20,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Khristos MANTIKAS"
+  },
+  {
+    "place": 21,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Ricardo VAZ GUIMARAES"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "109.42",
+    "name": "Juho Julius SAARISTO"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "101.13",
+    "name": "Väinö SIIKANIEMI"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "100.24",
+    "name": "Urho Pellervo PELTONEN"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "98.59",
+    "name": "Eric LEMMING"
+  },
+  {
+    "place": 5,
+    "country": "NOR",
+    "mark": "96.92",
+    "name": "Arne HALSE"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "93.12",
+    "name": "Richard ABRINK"
+  },
+  {
+    "place": 7,
+    "country": "NOR",
+    "mark": "92.82",
+    "name": "Daniel Victor JOHANSEN"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "88.90",
+    "name": "Otto NILSSON"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "88.54",
+    "name": "Juho HALME"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "87.17",
+    "name": "Arvid OHRLING"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "86.80",
+    "name": "Sten HAGANDER"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "86.39",
+    "name": "Mor KOVACS"
+  },
+  {
+    "place": 13,
+    "country": "SWE",
+    "mark": "85.80",
+    "name": "William KRIGSMAN"
+  },
+  {
+    "place": 14,
+    "country": "SWE",
+    "mark": "84.96",
+    "name": "Hilding SONNE"
+  },
+  {
+    "place": 15,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Harry LOTT"
+  },
+  {
+    "place": 16,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "David NYGREN"
+  },
+  {
+    "place": 17,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Mikhail NOMIKOS"
+  },
+  {
+    "place": 18,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Henry KLAGES"
+  },
+  {
+    "place": 19,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Máté SZÁKALL"
+  },
+  {
+    "place": 20,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Urho AALTONEN"
+  },
+  {
+    "place": 21,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Jim MITCHEL"
+  },
+  {
+    "place": 22,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Kostas TSIKLITIRAS"
+  },
+  {
+    "place": 23,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Istvan MUDIN"
+  },
+  {
+    "place": 24,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Rezső UJLAKI"
+  },
+  {
+    "place": 25,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Vasily MOLOKANOV"
+  },
+  {
+    "place": 26,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Janne DAHL"
+  },
+  {
+    "place": 27,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Algot LARSSON"
+  },
+  {
+    "place": 28,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Bror OLSSON"
+  },
+  {
+    "place": 29,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Hugo K. WIESLANDER"
+  },
+  {
+    "place": 30,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Platt ADAMS"
+  },
+  {
+    "place": 31,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "James August MENAUL"
+  },
+  {
+    "place": 32,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "George Warren PHILBROOK"
+  },
+  {
+    "place": 33,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Laurence Atwood WHITNEY"
+  }
+]

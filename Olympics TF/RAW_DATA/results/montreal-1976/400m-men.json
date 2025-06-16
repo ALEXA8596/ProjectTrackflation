@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "CUB",
+    "mark": "44.260",
+    "name": "Alberto JUANTORENA"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "44.400",
+    "name": "Frederick Vaughn NEWHOUSE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "44.950",
+    "name": "Herman Ronald FRAZIER"
+  },
+  {
+    "place": 4,
+    "country": "BEL",
+    "mark": "45.040",
+    "name": "Alfons BRIJDENBACH"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "45.240",
+    "name": "Maxwell Lander PARKS"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "45.400",
+    "name": "Richard MITCHELL"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "45.570",
+    "name": "David Andrew JENKINS"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "45.630",
+    "name": "Jan WERNER"
+  },
+  {
+    "place": 9,
+    "country": "FIJ",
+    "mark": "Did not start",
+    "name": "Tony MOORE"
+  },
+  {
+    "place": 10,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Stavros TZIORTZIS"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "17.86",
+    "name": "Christian TAYLOR"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "17.76",
+    "name": "Will CLAYE"
+  },
+  {
+    "place": 3,
+    "country": "CHN",
+    "mark": "17.58",
+    "name": "Bin DONG"
+  },
+  {
+    "place": 4,
+    "country": "CHN",
+    "mark": "17.13",
+    "name": "Shuo CAO"
+  },
+  {
+    "place": 5,
+    "country": "COL",
+    "mark": "17.09",
+    "name": "John MURILLO"
+  },
+  {
+    "place": 6,
+    "country": "POR",
+    "mark": "17.03",
+    "name": "Nelson EVORA"
+  },
+  {
+    "place": 7,
+    "country": "GUY",
+    "mark": "16.90",
+    "name": "Troy DORIS"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "16.68",
+    "name": "Lazaro MARTINEZ"
+  },
+  {
+    "place": 9,
+    "country": "MEX",
+    "mark": "16.56",
+    "name": "Alberto ALVAREZ"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "16.54",
+    "name": "Benjamin COMPAORE"
+  },
+  {
+    "place": 11,
+    "country": "CHN",
+    "mark": "16.41",
+    "name": "Xiaolong XU"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "16.31",
+    "name": "Karol HOFFMANN"
+  },
+  {
+    "place": 13,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Pedro P. PICHARDO"
+  }
+]

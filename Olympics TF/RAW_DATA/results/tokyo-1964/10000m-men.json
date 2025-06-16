@@ -1,0 +1,260 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "00:28:24.400",
+    "name": "Billy MILLS"
+  },
+  {
+    "place": 2,
+    "country": "TUN",
+    "mark": "00:28:24.800",
+    "name": "Mohamed GAMMOUDI"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "00:28:25.800",
+    "name": "Ronald CLARKE"
+  },
+  {
+    "place": 4,
+    "country": "ETH",
+    "mark": "00:28:31.800",
+    "name": "Mamo WOLDE"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "00:28:53.200",
+    "name": "Leonid IVANOV"
+  },
+  {
+    "place": 6,
+    "country": "JPN",
+    "mark": "00:28:59.400",
+    "name": "Kokichi TSUBURAYA"
+  },
+  {
+    "place": 7,
+    "country": "NZL",
+    "mark": "00:29:10.800",
+    "name": "Murray Gordon HALBERG"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "00:29:15.800",
+    "name": "Anthony COOK"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "00:29:20.600",
+    "name": "Gerry LINDGREN"
+  },
+  {
+    "place": 10,
+    "country": "YUG",
+    "mark": "00:29:21.000",
+    "name": "Franc CERVAN"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "00:29:27.000",
+    "name": "Siegfried HERRMANN"
+  },
+  {
+    "place": 12,
+    "country": "BEL",
+    "mark": "00:29:29.600",
+    "name": "Henri CLERCKX"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "00:29:30.800",
+    "name": "Jean FAYOLLE"
+  },
+  {
+    "place": 14,
+    "country": "JPN",
+    "mark": "00:29:33.200",
+    "name": "Teruo FUNAI"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "00:29:33.600",
+    "name": "Jean VAILLANT"
+  },
+  {
+    "place": 16,
+    "country": "HUN",
+    "mark": "00:29:43.000",
+    "name": "Jozsef SUTO"
+  },
+  {
+    "place": 17,
+    "country": "TCH",
+    "mark": "00:29:46.400",
+    "name": "Josef TOMAS"
+  },
+  {
+    "place": 18,
+    "country": "GBR",
+    "mark": "00:29:53.000",
+    "name": "Ronald HILL"
+  },
+  {
+    "place": 19,
+    "country": "NOR",
+    "mark": "00:30:00.800",
+    "name": "Pal Sverre BENUM"
+  },
+  {
+    "place": 20,
+    "country": "GER",
+    "mark": "00:30:04.600",
+    "name": "Siegfried ROTHE"
+  },
+  {
+    "place": 21,
+    "country": "GBR",
+    "mark": "00:30:12.000",
+    "name": "Michael John BULLIVANT"
+  },
+  {
+    "place": 22,
+    "country": "GBR",
+    "mark": "00:30:22.400",
+    "name": "Fergus MURRAY"
+  },
+  {
+    "place": 23,
+    "country": "NZL",
+    "mark": "00:30:32.000",
+    "name": "Arthur Barry MAGEE"
+  },
+  {
+    "place": 24,
+    "country": "USA",
+    "mark": "00:30:42.600",
+    "name": "Ron LARRIEU"
+  },
+  {
+    "place": 25,
+    "country": "URS",
+    "mark": "00:30:52.800",
+    "name": "Pyotr BOLOTNIKOV"
+  },
+  {
+    "place": 26,
+    "country": "CAN",
+    "mark": "00:30:56.400",
+    "name": "Bruce KIDD"
+  },
+  {
+    "place": 27,
+    "country": "GER",
+    "mark": "00:30:56.600",
+    "name": "Arthur HANNEMANN"
+  },
+  {
+    "place": 28,
+    "country": "JPN",
+    "mark": "00:31:00.600",
+    "name": "Kazumi WATANABE"
+  },
+  {
+    "place": 29,
+    "country": "SRI",
+    "mark": "00:34:21.200",
+    "name": "Ranatunge J. KARUNANANDA"
+  },
+  {
+    "place": 30,
+    "country": "TAN",
+    "mark": "Did not finish",
+    "name": "Pascal MFYOMI"
+  },
+  {
+    "place": 31,
+    "country": "KEN",
+    "mark": "Did not finish",
+    "name": "Nabiba Naftali TEMU"
+  },
+  {
+    "place": 32,
+    "country": "HUN",
+    "mark": "Did not finish",
+    "name": "Janos PINTER"
+  },
+  {
+    "place": 33,
+    "country": "IRL",
+    "mark": "Did not finish",
+    "name": "James Joseph HOGAN"
+  },
+  {
+    "place": 34,
+    "country": "TUR",
+    "mark": "Did not finish",
+    "name": "Muharrem DALKILIC"
+  },
+  {
+    "place": 35,
+    "country": "ROU",
+    "mark": "Did not finish",
+    "name": "Andrei BARABAS"
+  },
+  {
+    "place": 36,
+    "country": "ESP",
+    "mark": "Did not finish",
+    "name": "Fernando AGUILAR CAMACHO"
+  },
+  {
+    "place": 37,
+    "country": "TUN",
+    "mark": "Did not finish",
+    "name": "Mohamed Hadheb HANNACHI"
+  },
+  {
+    "place": 38,
+    "country": "URS",
+    "mark": "Did not finish",
+    "name": "Nikolay DUTOV"
+  },
+  {
+    "place": 39,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Gaston ROELANTS"
+  },
+  {
+    "place": 40,
+    "country": "COL",
+    "mark": "Did not start",
+    "name": "Alvaro MEJIA FLORES"
+  },
+  {
+    "place": 41,
+    "country": "NZL",
+    "mark": "Did not start",
+    "name": "William David BAILLIE"
+  },
+  {
+    "place": 42,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Armando ALDEGALEGA"
+  },
+  {
+    "place": 43,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Bertil NAJDE"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "10.200",
+    "name": "Armin HARY"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.200",
+    "name": "David SIME"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "10.300",
+    "name": "Peter RADFORD"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "10.300",
+    "name": "Enrique FIGUEROLA CAMUE"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "10.300",
+    "name": "Francis Joseph BUDD"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "10.400",
+    "name": "Otis Ray NORTON"
+  },
+  {
+    "place": 7,
+    "country": "IRI",
+    "mark": "Did not start",
+    "name": "Rouhollah RAHMANI"
+  },
+  {
+    "place": 8,
+    "country": "NGR",
+    "mark": "Did not start",
+    "name": "James OMAGBEMI"
+  }
+]

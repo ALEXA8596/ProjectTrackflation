@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "CAN",
+    "mark": "14.800",
+    "name": "Earl \"Tommy\" THOMSON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "15.1est / at 2 metres",
+    "name": "Harold BARRON"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "15.3est / at 2 metres",
+    "name": "Frederick MURRAY"
+  },
+  {
+    "place": 4,
+    "country": "NZL",
+    "mark": "15.3est / at ½ metres",
+    "name": "Harry WILSON"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "15.3est / close behind",
+    "name": "Walker Breeze SMITH"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "15.5est / at 1 metre",
+    "name": "Carl-Axel CHRISTIERNSSON"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Charles AUDINOT"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Yves DURIER"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Maxime GIRARD"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Géo ANDRÉ"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Marcel ORFIDAN"
+  },
+  {
+    "place": 12,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Attie VAN HEERDEN"
+  },
+  {
+    "place": 13,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Helge Andreas LØVLAND"
+  },
+  {
+    "place": 14,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Josef VOŇAVKA"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "ROU",
+    "mark": "60.54",
+    "name": "Mihaela PENES"
+  },
+  {
+    "place": 2,
+    "country": "HUN",
+    "mark": "58.27",
+    "name": "Marta ANTAL-RUDAS"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "57.06",
+    "name": "Elena GORCHAKOVA"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "56.31",
+    "name": "Birutė KALĖDIENĖ"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "54.81",
+    "name": "Elvira OZOLINA"
+  },
+  {
+    "place": 6,
+    "country": "ROU",
+    "mark": "53.71",
+    "name": "Maria DITI-DIACONESCU"
+  },
+  {
+    "place": 7,
+    "country": "JPN",
+    "mark": "52.48",
+    "name": "Hiroko SATO"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "52.37",
+    "name": "Anneliese GERHARDS-JANSEN"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "48.59",
+    "name": "Susan Mary PLATT"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "47.25",
+    "name": "Michele DEMYS"
+  },
+  {
+    "place": 11,
+    "country": "JPN",
+    "mark": "46.87",
+    "name": "Misako KATAYAMA"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "46.50",
+    "name": "Rosemarie SCHUBERT"
+  }
+]

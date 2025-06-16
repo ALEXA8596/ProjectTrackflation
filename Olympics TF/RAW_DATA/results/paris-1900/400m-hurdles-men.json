@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "57.600",
+    "name": "Walter B. John TEWKSBURY"
+  },
+  {
+    "place": 2,
+    "country": "FRA",
+    "mark": "at 5 yards",
+    "name": "Henri TAUZIN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "at 4 yards",
+    "name": "George ORTON"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Alvin KRAENZLEIN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Fred MOLONEY"
+  },
+  {
+    "place": 6,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Zoltan SPEIDL"
+  },
+  {
+    "place": 7,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Norman PRITCHARD"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Gustav Adolf RAU"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "12.590",
+    "name": "Annelie EHRHARDT"
+  },
+  {
+    "place": 2,
+    "country": "ROU",
+    "mark": "12.840",
+    "name": "Valeria BUFANU-STEFANESCU"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "12.900",
+    "name": "Karin RICHERT-BALZER"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "12.980",
+    "name": "Pam KILBORN-RYAN"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "13.170",
+    "name": "Teresa NOWAK"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "13.180",
+    "name": "Danuta STRASZYNSKA"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "13.270",
+    "name": "Annerose KRUMPHOLZ"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "13.440",
+    "name": "Grazyna RABSZTYN"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Mary PETERS"
+  },
+  {
+    "place": 10,
+    "country": "PER",
+    "mark": "Did not start",
+    "name": "Edith NODING"
+  }
+]

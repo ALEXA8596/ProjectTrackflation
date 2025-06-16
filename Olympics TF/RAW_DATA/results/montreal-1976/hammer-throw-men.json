@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "77.52",
+    "name": "Yury SEDYKH"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "76.08",
+    "name": "Aleksei SPIRIDONOV"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "75.48",
+    "name": "Anatoli BONDARCHUK"
+  },
+  {
+    "place": 4,
+    "country": "FRG",
+    "mark": "75.46",
+    "name": "Karl-Hans RIEHM"
+  },
+  {
+    "place": 5,
+    "country": "FRG",
+    "mark": "74.72",
+    "name": "Walter SCHMIDT"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "74.30",
+    "name": "Jochen SACHSE"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "73.18",
+    "name": "Christopher BLACK"
+  },
+  {
+    "place": 8,
+    "country": "FRG",
+    "mark": "71.34",
+    "name": "Edwin KLEIN"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "70.44",
+    "name": "Jacques ACCAMBRAY"
+  },
+  {
+    "place": 10,
+    "country": "GDR",
+    "mark": "70.02",
+    "name": "Manfred SEIDEL"
+  },
+  {
+    "place": 11,
+    "country": "JPN",
+    "mark": "68.88",
+    "name": "Shigenobu MUROFUSHI"
+  },
+  {
+    "place": 12,
+    "country": "AUS",
+    "mark": "68.00",
+    "name": "Peter FARMER"
+  }
+]

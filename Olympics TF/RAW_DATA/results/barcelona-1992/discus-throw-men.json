@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "LTU",
+    "mark": "65.12",
+    "name": "Romas UBARTAS"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "64.94",
+    "name": "Jürgen SCHULT"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "64.12",
+    "name": "Roberto S. MOYA"
+  },
+  {
+    "place": 4,
+    "country": "ROU",
+    "mark": "62.86",
+    "name": "Costel GRASU"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "62.82",
+    "name": "Attila HORVATH"
+  },
+  {
+    "place": 6,
+    "country": "CUB",
+    "mark": "62.64",
+    "name": "Juan MARTÍNEZ"
+  },
+  {
+    "place": 7,
+    "country": "EUN",
+    "mark": "62.04",
+    "name": "Dmitry KOVTSUN"
+  },
+  {
+    "place": 8,
+    "country": "EUN",
+    "mark": "61.78",
+    "name": "Dmitriy SHEVCHENKO"
+  },
+  {
+    "place": 9,
+    "country": "ESP",
+    "mark": "60.16",
+    "name": "David MARTINEZ"
+  },
+  {
+    "place": 10,
+    "country": "AUS",
+    "mark": "60.12",
+    "name": "Werner REITERER"
+  },
+  {
+    "place": 11,
+    "country": "ISL",
+    "mark": "60.06",
+    "name": "Vesteinn HAFSTEINSSON"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "59.96",
+    "name": "Tony WASHINGTON"
+  }
+]

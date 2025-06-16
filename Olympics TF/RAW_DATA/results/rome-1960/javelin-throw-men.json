@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "84.64",
+    "name": "Viktor TSYBULENKO"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "79.36",
+    "name": "Walter KRÜGER"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "78.57",
+    "name": "Gergely KULCSAR"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "78.40",
+    "name": "Vaino KUISMA"
+  },
+  {
+    "place": 5,
+    "country": "NOR",
+    "mark": "78.36",
+    "name": "Willy Lorang RASMUSSEN"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "78.33",
+    "name": "Knut FREDRIKSSON"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "77.31",
+    "name": "Zbigniew RADZIWONOWICZ"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "76.46",
+    "name": "Janusz SIDLO"
+  },
+  {
+    "place": 9,
+    "country": "ITA",
+    "mark": "75.21",
+    "name": "Carlo LIEVORE"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "74.70",
+    "name": "Al CANTELLO"
+  },
+  {
+    "place": 11,
+    "country": "URS",
+    "mark": "74.56",
+    "name": "Mart PAAMA"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "74.11",
+    "name": "Hermann SALOMON"
+  }
+]

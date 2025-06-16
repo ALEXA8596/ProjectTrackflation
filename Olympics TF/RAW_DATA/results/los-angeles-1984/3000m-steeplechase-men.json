@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "00:08:11.800",
+    "name": "Julius KORIR"
+  },
+  {
+    "place": 2,
+    "country": "FRA",
+    "mark": "00:08:13.310",
+    "name": "Joseph MAHMOUD"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "00:08:14.060",
+    "name": "Brian Lee DIEMER"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "00:08:14.250",
+    "name": "Henry Dinwoody MARSH"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:08:15.480",
+    "name": "Colin REITZ"
+  },
+  {
+    "place": 6,
+    "country": "ESP",
+    "mark": "00:08:17.270",
+    "name": "Domingo RAMON MENARGUES"
+  },
+  {
+    "place": 7,
+    "country": "KEN",
+    "mark": "00:08:17.470",
+    "name": "Julius KARIUKI"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "00:08:21.510",
+    "name": "Pascal DEBACKER"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "00:08:23.950",
+    "name": "Tommy EKBLOM"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "00:08:27.100",
+    "name": "Roger HACKNEY"
+  },
+  {
+    "place": 11,
+    "country": "NZL",
+    "mark": "00:08:29.810",
+    "name": "Peter RENNER"
+  },
+  {
+    "place": 12,
+    "country": "TUN",
+    "mark": "00:08:43.400",
+    "name": "Fethi BACCOUCHE"
+  },
+  {
+    "place": 13,
+    "country": "TAN",
+    "mark": "Did not start",
+    "name": "Filbert BAYI"
+  }
+]

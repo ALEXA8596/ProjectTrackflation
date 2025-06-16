@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "FRA",
+    "mark": "22.120",
+    "name": "Marie-Jose PEREC"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "22.240",
+    "name": "Merlene OTTEY-PAGE"
+  },
+  {
+    "place": 3,
+    "country": "NGR",
+    "mark": "22.380",
+    "name": "Mary ONYALI-OMAGBEMI"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "22.410",
+    "name": "Inger MILLER"
+  },
+  {
+    "place": 5,
+    "country": "RUS",
+    "mark": "22.450",
+    "name": "Galina MALCHUGINA"
+  },
+  {
+    "place": 6,
+    "country": "BAH",
+    "mark": "22.540",
+    "name": "Chandra STURRUP"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "22.600",
+    "name": "Juliet CUTHBERT"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "22.610",
+    "name": "Carlette D. GUIDRY-WHITE"
+  },
+  {
+    "place": 9,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Marina TRANDENKOVA"
+  }
+]

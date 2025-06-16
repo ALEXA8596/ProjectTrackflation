@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "CZE",
+    "mark": "90.17",
+    "name": "Jan ŽELEZNÝ"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "89.85",
+    "name": "Steve BACKLEY"
+  },
+  {
+    "place": 3,
+    "country": "RUS",
+    "mark": "88.67",
+    "name": "Sergey MAKAROV"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "87.76",
+    "name": "Raymond HECHT"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "86.62",
+    "name": "Aki PARVIAINEN"
+  },
+  {
+    "place": 6,
+    "country": "GRE",
+    "mark": "86.53",
+    "name": "Kostas GATSIOUDIS"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "85.78",
+    "name": "Boris HENRY"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "83.33",
+    "name": "Emeterio GONZALEZ"
+  },
+  {
+    "place": 9,
+    "country": "NOR",
+    "mark": "83.04",
+    "name": "Paal Arne FAGERNES"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "82.30",
+    "name": "Dariusz TRAFAS"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "81.00",
+    "name": "Michael Christopher HILL"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "79.91",
+    "name": "Breaux GREER"
+  }
+]

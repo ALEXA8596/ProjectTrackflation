@@ -1,0 +1,224 @@
+[
+  {
+    "place": 1,
+    "country": "ETH",
+    "mark": "00:29:17.450",
+    "name": "Almaz AYANA"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:29:32.530",
+    "name": "Vivian CHERUIYOT"
+  },
+  {
+    "place": 3,
+    "country": "ETH",
+    "mark": "00:29:42.560",
+    "name": "Tirunesh DIBABA"
+  },
+  {
+    "place": 4,
+    "country": "KEN",
+    "mark": "00:29:53.510",
+    "name": "Alice Aprot NAWOWUNA"
+  },
+  {
+    "place": 5,
+    "country": "KEN",
+    "mark": "00:30:07.780",
+    "name": "Betsy SAINA"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:30:13.170",
+    "name": "Molly HUDDLE"
+  },
+  {
+    "place": 7,
+    "country": "TUR",
+    "mark": "00:30:26.410",
+    "name": "Yasemin CAN"
+  },
+  {
+    "place": 8,
+    "country": "ETH",
+    "mark": "00:30:26.660",
+    "name": "Gelete BURKA"
+  },
+  {
+    "place": 9,
+    "country": "NOR",
+    "mark": "00:31:14.070",
+    "name": "Karoline Bjerkeli GROVDAL"
+  },
+  {
+    "place": 10,
+    "country": "AUS",
+    "mark": "00:31:14.940",
+    "name": "Eloise WELLINGS"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "00:31:26.940",
+    "name": "Emily INFELD"
+  },
+  {
+    "place": 12,
+    "country": "SWE",
+    "mark": "00:31:28.430",
+    "name": "Sarah LAHTI"
+  },
+  {
+    "place": 13,
+    "country": "BDI",
+    "mark": "00:31:28.690",
+    "name": "Diane NUKURI"
+  },
+  {
+    "place": 14,
+    "country": "NED",
+    "mark": "00:31:32.430",
+    "name": "Susan KUIJKEN"
+  },
+  {
+    "place": 15,
+    "country": "GBR",
+    "mark": "00:31:33.440",
+    "name": "Jo PAVEY"
+  },
+  {
+    "place": 16,
+    "country": "GBR",
+    "mark": "00:31:35.920",
+    "name": "Jessica ANDREWS"
+  },
+  {
+    "place": 17,
+    "country": "GRE",
+    "mark": "00:31:36.160",
+    "name": "Alexi PAPPAS"
+  },
+  {
+    "place": 18,
+    "country": "JPN",
+    "mark": "00:31:36.440",
+    "name": "Yuka TAKASHIMA"
+  },
+  {
+    "place": 19,
+    "country": "KGZ",
+    "mark": "00:31:36.900",
+    "name": "Darya MASLOVA"
+  },
+  {
+    "place": 20,
+    "country": "JPN",
+    "mark": "00:31:44.440",
+    "name": "Hanami SEKINE"
+  },
+  {
+    "place": 21,
+    "country": "RSA",
+    "mark": "00:31:51.470",
+    "name": "Dominique SCOTT"
+  },
+  {
+    "place": 22,
+    "country": "CAN",
+    "mark": "00:31:53.140",
+    "name": "Natasha WODAK"
+  },
+  {
+    "place": 23,
+    "country": "UAE",
+    "mark": "00:31:56.740",
+    "name": "Alia Saeed MOHAMMED"
+  },
+  {
+    "place": 24,
+    "country": "UZB",
+    "mark": "00:31:57.770",
+    "name": "Sitora HAMIDOVA"
+  },
+  {
+    "place": 25,
+    "country": "CAN",
+    "mark": "00:32:04.210",
+    "name": "Lanni MARCHANT"
+  },
+  {
+    "place": 26,
+    "country": "POR",
+    "mark": "00:32:06.050",
+    "name": "Carla Salome ROCHA"
+  },
+  {
+    "place": 27,
+    "country": "RWA",
+    "mark": "00:32:07.800",
+    "name": "Salome NYIRARUKUNDO"
+  },
+  {
+    "place": 28,
+    "country": "NED",
+    "mark": "00:32:08.920",
+    "name": "Jip VASTENBURG"
+  },
+  {
+    "place": 29,
+    "country": "ESP",
+    "mark": "00:32:09.670",
+    "name": "Trihas GEBRE"
+  },
+  {
+    "place": 30,
+    "country": "ITA",
+    "mark": "00:32:11.670",
+    "name": "Veronica INGLESE"
+  },
+  {
+    "place": 31,
+    "country": "BRA",
+    "mark": "00:32:38.210",
+    "name": "Tatiele Roberta DE CARVALHO"
+  },
+  {
+    "place": 32,
+    "country": "MEX",
+    "mark": "00:32:39.080",
+    "name": "Brenda FLORES"
+  },
+  {
+    "place": 33,
+    "country": "USA",
+    "mark": "00:32:39.320",
+    "name": "Marielle HALL"
+  },
+  {
+    "place": 34,
+    "country": "GBR",
+    "mark": "00:33:04.340",
+    "name": "Beth POTTER"
+  },
+  {
+    "place": 35,
+    "country": "MEX",
+    "mark": "00:35:33.030",
+    "name": "Marisol ROMERO"
+  },
+  {
+    "place": 36,
+    "country": "UGA",
+    "mark": "Did not finish",
+    "name": "Juliet CHEKWEL"
+  },
+  {
+    "place": 37,
+    "country": "UZB",
+    "mark": "Did not finish",
+    "name": "Ekaterina TUNGUSKOVA"
+  }
+]

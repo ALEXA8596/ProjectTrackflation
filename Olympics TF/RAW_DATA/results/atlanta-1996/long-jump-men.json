@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "8.50",
+    "name": "Carl LEWIS"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "8.29",
+    "name": "James BECKFORD"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "8.24",
+    "name": "Joe GREENE"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "8.19",
+    "name": "Emmanuel BANGUE"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "8.17",
+    "name": "Michael Anthony POWELL"
+  },
+  {
+    "place": 6,
+    "country": "SLO",
+    "mark": "8.11",
+    "name": "Gregor CANKAR"
+  },
+  {
+    "place": 7,
+    "country": "BLR",
+    "mark": "8.07",
+    "name": "Aleksandr GLAVATSKIY"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "8.06",
+    "name": "Mattias SUNNEBORN"
+  },
+  {
+    "place": 9,
+    "country": "CHN",
+    "mark": "7.99",
+    "name": "Geng HUANG"
+  },
+  {
+    "place": 10,
+    "country": "RUS",
+    "mark": "7.96",
+    "name": "Yuriy NAUMKIN"
+  },
+  {
+    "place": 11,
+    "country": "RUS",
+    "mark": "7.83",
+    "name": "Andrey IGNATOV"
+  },
+  {
+    "place": 12,
+    "country": "CUB",
+    "mark": "7.75",
+    "name": "Ivan PEDROSO"
+  },
+  {
+    "place": 13,
+    "country": "BEL",
+    "mark": "7.72",
+    "name": "Erik NIJS"
+  },
+  {
+    "place": 14,
+    "country": "BAH",
+    "mark": "Did not start",
+    "name": "Craig Daniel HEPBURN"
+  }
+]

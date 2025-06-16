@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "x",
+    "name": "Edward Lansing GORDON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "7.49",
+    "name": "Charles Lambert REDD"
+  },
+  {
+    "place": 3,
+    "country": "JPN",
+    "mark": "x",
+    "name": "Chuhei NANBU"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "-",
+    "name": "Eric SVENSSON"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "NM",
+    "name": "Len HUTTON"
+  },
+  {
+    "place": 6,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "João DA COSTA"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "József SZABÓ"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Rafael PÉREZ"
+  },
+  {
+    "place": 9,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Carlos WOEBCKEN"
+  },
+  {
+    "place": 10,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "Hermenegildo DEL ROSSO"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Onni Rafael RAJASAARI"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Wolrad EBERLE"
+  },
+  {
+    "place": 13,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Hans-Heinrich SIEVERT"
+  },
+  {
+    "place": 14,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Nikolaos PAPANIKOLAOU"
+  },
+  {
+    "place": 15,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Kenkichi OSHIMA"
+  }
+]

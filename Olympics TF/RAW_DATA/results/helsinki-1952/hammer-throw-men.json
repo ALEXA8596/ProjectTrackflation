@@ -1,0 +1,188 @@
+[
+  {
+    "place": 1,
+    "country": "HUN",
+    "mark": "60.34",
+    "name": "Jozsef CSERMAK"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "58.86",
+    "name": "Karl STORCH"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "57.74",
+    "name": "Imre NEMETH"
+  },
+  {
+    "place": 4,
+    "country": "TCH",
+    "mark": "56.81",
+    "name": "Jiri DADAK"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "56.55",
+    "name": "Nikolai REDKIN"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "56.49",
+    "name": "Karl WOLF"
+  },
+  {
+    "place": 7,
+    "country": "NOR",
+    "mark": "56.36",
+    "name": "Sverre STRANDLI"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "55.03",
+    "name": "Georgy DYBENKO"
+  },
+  {
+    "place": 9,
+    "country": "YUG",
+    "mark": "54.54",
+    "name": "Ivan GUBIJAN"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "54.27",
+    "name": "Teseo TADDIA"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "53.32",
+    "name": "Samuel Morse Jr. FELTON"
+  },
+  {
+    "place": 12,
+    "country": "ROU",
+    "mark": "52.77",
+    "name": "Constantin DUMITRU"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "52.11",
+    "name": "Robert Hudson BACKUS"
+  },
+  {
+    "place": 14,
+    "country": "FIN",
+    "mark": "51.85",
+    "name": "Reino Iisakki KUIVAMÄKI"
+  },
+  {
+    "place": 15,
+    "country": "TCH",
+    "mark": "51.78",
+    "name": "Milos MACA"
+  },
+  {
+    "place": 16,
+    "country": "DEN",
+    "mark": "51.60",
+    "name": "Poul Parno CEDERQUIST"
+  },
+  {
+    "place": 17,
+    "country": "YUG",
+    "mark": "51.37",
+    "name": "Rudolf GALIN"
+  },
+  {
+    "place": 18,
+    "country": "GBR",
+    "mark": "51.07",
+    "name": "Duncan Mcdougall CLARK"
+  },
+  {
+    "place": 19,
+    "country": "FIN",
+    "mark": "50.82",
+    "name": "Oiva Sulo Kalervo HALMETOJA"
+  },
+  {
+    "place": 20,
+    "country": "FIN",
+    "mark": "50.05",
+    "name": "Lauri Esko Olavi TAMMINEN"
+  },
+  {
+    "place": 21,
+    "country": "GBR",
+    "mark": "49.70",
+    "name": "Peter Charles ALLDAY"
+  },
+  {
+    "place": 22,
+    "country": "BEL",
+    "mark": "48.78",
+    "name": "Henri HAEST"
+  },
+  {
+    "place": 23,
+    "country": "FRA",
+    "mark": "46.38",
+    "name": "Pierre Eugene LEGRAIN"
+  },
+  {
+    "place": 24,
+    "country": "URS",
+    "mark": "No mark",
+    "name": "Mikhail KRIVONOSOV"
+  },
+  {
+    "place": 25,
+    "country": "USA",
+    "mark": "No mark",
+    "name": "Martin Stephen ENGEL"
+  },
+  {
+    "place": 26,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Aleksandar BEREČ"
+  },
+  {
+    "place": 27,
+    "country": "ROU",
+    "mark": "Did not start",
+    "name": "Nicolae GURAU"
+  },
+  {
+    "place": 28,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Bogdan MASŁOWSKI"
+  },
+  {
+    "place": 29,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "Charles REIDY"
+  },
+  {
+    "place": 30,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Toma BALCI"
+  },
+  {
+    "place": 31,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Svend Aage FREDERIKSEN"
+  }
+]

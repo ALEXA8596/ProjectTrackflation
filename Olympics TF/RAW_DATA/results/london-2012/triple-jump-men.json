@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "17.81",
+    "name": "Christian TAYLOR"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "17.62",
+    "name": "Will CLAYE"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "17.48",
+    "name": "Fabrizio DONATO"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "17.34",
+    "name": "Daniele GRECO"
+  },
+  {
+    "place": 5,
+    "country": "BAH",
+    "mark": "17.19",
+    "name": "Leevan SANDS"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "17.08",
+    "name": "Benjamin COMPAORE"
+  },
+  {
+    "place": 7,
+    "country": "NGR",
+    "mark": "16.95",
+    "name": "Tosin OKE"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "16.92",
+    "name": "Alexis COPELLO"
+  },
+  {
+    "place": 9,
+    "country": "CHN",
+    "mark": "16.75",
+    "name": "Bin DONG"
+  },
+  {
+    "place": 10,
+    "country": "HAI",
+    "mark": "16.65",
+    "name": "Samyr LAINE"
+  },
+  {
+    "place": 11,
+    "country": "BLR",
+    "mark": "16.19",
+    "name": "Dzmitry PLATNITSKI"
+  },
+  {
+    "place": 12,
+    "country": "IND",
+    "mark": "NM",
+    "name": "Renjith MAHESWARY"
+  },
+  {
+    "place": 13,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Lyukman ADAMS"
+  }
+]

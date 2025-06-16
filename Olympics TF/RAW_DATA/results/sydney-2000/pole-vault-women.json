@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "4.60",
+    "name": "Stacy DRAGILA"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "4.55",
+    "name": "Tatiana GRIGORIEVA"
+  },
+  {
+    "place": 3,
+    "country": "ISL",
+    "mark": "4.50",
+    "name": "Vala FLOSADOTTIR"
+  },
+  {
+    "place": 4,
+    "country": "CZE",
+    "mark": "4.50",
+    "name": "Daniela BARTOVA"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "4.45",
+    "name": "Nicole HUMBERT"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "4.40",
+    "name": "Yvonne BUSCHBAUM"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "4.40",
+    "name": "Monika PYREK"
+  },
+  {
+    "place": 8,
+    "country": "DEN",
+    "mark": "4.35",
+    "name": "Marie RASMUSSEN"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "4.25",
+    "name": "Doris AUER"
+  },
+  {
+    "place": 10,
+    "country": "CHN",
+    "mark": "4.15",
+    "name": "Shuying GAO"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "4.00",
+    "name": "Kellie SUTTLE"
+  },
+  {
+    "place": 12,
+    "country": "RSA",
+    "mark": "No mark",
+    "name": "Elmarie GERRYTS"
+  },
+  {
+    "place": 13,
+    "country": "UKR",
+    "mark": "No mark",
+    "name": "Anzhela BALAKHONOVA"
+  }
+]

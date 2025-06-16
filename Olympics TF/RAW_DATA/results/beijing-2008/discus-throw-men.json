@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "EST",
+    "mark": "68.82",
+    "name": "Gerd KANTER"
+  },
+  {
+    "place": 2,
+    "country": "POL",
+    "mark": "67.82",
+    "name": "Piotr MALACHOWSKI"
+  },
+  {
+    "place": 3,
+    "country": "LTU",
+    "mark": "67.79",
+    "name": "Virgilijus ALEKNA"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "67.09",
+    "name": "Robert HARTING"
+  },
+  {
+    "place": 5,
+    "country": "ESP",
+    "mark": "66.49",
+    "name": "Frank CASANAS"
+  },
+  {
+    "place": 6,
+    "country": "RUS",
+    "mark": "65.88",
+    "name": "Bogdan PISHCHALNIKOV"
+  },
+  {
+    "place": 7,
+    "country": "NED",
+    "mark": "65.39",
+    "name": "Rutger SMITH"
+  },
+  {
+    "place": 8,
+    "country": "HUN",
+    "mark": "63.43",
+    "name": "Robert FAZEKAS"
+  },
+  {
+    "place": 9,
+    "country": "ESP",
+    "mark": "63.42",
+    "name": "Mario PESTANO"
+  },
+  {
+    "place": 10,
+    "country": "QAT",
+    "mark": "62.55",
+    "name": "Rashid Shafi AL-DOSARI"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "61.98",
+    "name": "Frantz KRUGER"
+  },
+  {
+    "place": 12,
+    "country": "EST",
+    "mark": "61.38",
+    "name": "Aleksander TAMMERT"
+  }
+]

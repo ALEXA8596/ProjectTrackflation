@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "JAM",
+    "mark": "10.61",
+    "name": "Elaine THOMPSON-HERAH"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "10.74",
+    "name": "Shelly-Ann FRASER-PRYCE"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "10.76",
+    "name": "Shericka JACKSON"
+  },
+  {
+    "place": 4,
+    "country": "CIV",
+    "mark": "10.91",
+    "name": "Marie-Josee TA LOU"
+  },
+  {
+    "place": 5,
+    "country": "SUI",
+    "mark": "10.97",
+    "name": "Ajla DEL PONTE"
+  },
+  {
+    "place": 6,
+    "country": "SUI",
+    "mark": "10.99",
+    "name": "Mujinga KAMBUNDJI"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "11.02",
+    "name": "Teahna DANIELS"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "11.12",
+    "name": "Daryll NEITA"
+  }
+]

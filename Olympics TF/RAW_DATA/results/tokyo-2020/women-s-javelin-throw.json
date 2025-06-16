@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "CHN",
+    "mark": "66.34",
+    "name": "Shiying LIU"
+  },
+  {
+    "place": 2,
+    "country": "POL",
+    "mark": "64.61",
+    "name": "Maria ANDREJCZYK"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "64.56",
+    "name": "Kelsey-Lee ROBERTS"
+  },
+  {
+    "place": 4,
+    "country": "TUR",
+    "mark": "64.00",
+    "name": "Eda TUGSUZ"
+  },
+  {
+    "place": 5,
+    "country": "CHN",
+    "mark": "63.41",
+    "name": "Huihui LYU"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "61.82",
+    "name": "Kathryn MITCHELL"
+  },
+  {
+    "place": 7,
+    "country": "LTU",
+    "mark": "60.06",
+    "name": "Liveta JASIUNAITE"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "59.96",
+    "name": "Mackenzie LITTLE"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "59.94",
+    "name": "Christin HUSSONG"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "59.82",
+    "name": "Maggie MALONE"
+  },
+  {
+    "place": 11,
+    "country": "LAT",
+    "mark": "58.70",
+    "name": "Madara PALAMEIKA"
+  },
+  {
+    "place": 12,
+    "country": "JPN",
+    "mark": "55.42",
+    "name": "KITAGUCHI Haruka"
+  }
+]

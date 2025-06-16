@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "47.630",
+    "name": "Edwin MOSES"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "48.690",
+    "name": "Michael Lyle SHINE"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "49.450",
+    "name": "Yevgeni GAVRILENKO"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "49.860",
+    "name": "Quentin David WHEELER"
+  },
+  {
+    "place": 5,
+    "country": "POR",
+    "mark": "49.940",
+    "name": "Jose CARVALHO"
+  },
+  {
+    "place": 6,
+    "country": "BUL",
+    "mark": "50.030",
+    "name": "Yanko BRATANOV"
+  },
+  {
+    "place": 7,
+    "country": "CUB",
+    "mark": "50.190",
+    "name": "Damaso Luis ALFONSO REYES"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "51.290",
+    "name": "Alan Peter PASCOE"
+  }
+]

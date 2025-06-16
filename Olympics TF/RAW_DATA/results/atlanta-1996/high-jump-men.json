@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "2.39",
+    "name": "Charles AUSTIN"
+  },
+  {
+    "place": 2,
+    "country": "POL",
+    "mark": "2.37",
+    "name": "Artur PARTYKA"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "2.35",
+    "name": "Stephen James SMITH"
+  },
+  {
+    "place": 4,
+    "country": "SCG",
+    "mark": "2.32",
+    "name": "Dragutin TOPIC"
+  },
+  {
+    "place": 5,
+    "country": "NOR",
+    "mark": "2.32",
+    "name": "Steinar HOEN"
+  },
+  {
+    "place": 6,
+    "country": "GRE",
+    "mark": "2.32",
+    "name": "Lambros PAPAKOSTAS"
+  },
+  {
+    "place": 7,
+    "country": "AUS",
+    "mark": "2.32",
+    "name": "Timothy FORSYTH"
+  },
+  {
+    "place": 8,
+    "country": "KOR",
+    "mark": "2.29",
+    "name": "Jin-Tack LEE"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "2.29",
+    "name": "Wolfgang KREISSIG"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "2.29",
+    "name": "Przemyslaw RADKIEWICZ"
+  },
+  {
+    "place": 11,
+    "country": "CUB",
+    "mark": "2.25",
+    "name": "Javier SOTOMAYOR"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "2.25",
+    "name": "Jaroslaw KOTEWICZ"
+  },
+  {
+    "place": 13,
+    "country": "BAH",
+    "mark": "2.25",
+    "name": "Troy KEMP"
+  },
+  {
+    "place": 14,
+    "country": "CZE",
+    "mark": "2.25",
+    "name": "Tomas JANKU"
+  },
+  {
+    "place": 15,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Patrick SJÖBERG"
+  }
+]

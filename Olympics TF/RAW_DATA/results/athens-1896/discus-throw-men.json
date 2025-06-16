@@ -1,0 +1,38 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "WR",
+    "name": "Bob GARRETT"
+  },
+  {
+    "place": 2,
+    "country": "GRE",
+    "mark": "WR",
+    "name": "Panagiotis PARASKEVOPOULOS"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Louis ADLER"
+  },
+  {
+    "place": 4,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Charles WINCKLER"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Carl SCHUHMANN"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Charles VANONI"
+  }
+]

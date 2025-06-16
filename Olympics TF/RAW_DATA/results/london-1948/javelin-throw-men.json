@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "69.77",
+    "name": "Kaj Tapio RAUTAVAARA"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "67.56",
+    "name": "Stephen Andrew SEYMOUR"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "67.03",
+    "name": "Jozsef VARSZEGI"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "65.89",
+    "name": "Pauli VESTERINEN"
+  },
+  {
+    "place": 5,
+    "country": "NOR",
+    "mark": "65.32",
+    "name": "Odd MAEHLUM"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "65.17",
+    "name": "Martin Broomall BILES"
+  },
+  {
+    "place": 7,
+    "country": "YUG",
+    "mark": "64.89",
+    "name": "Marko VUJACIC"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "64.51",
+    "name": "Bob LIKINS"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "62.80",
+    "name": "Gunnar PETTERSSON"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "62.62",
+    "name": "Per-Arne BERGLUND"
+  },
+  {
+    "place": 11,
+    "country": "TCH",
+    "mark": "60.25",
+    "name": "Ladislav (Lubomir) KIESEWETTER"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "58.05",
+    "name": "Soini Mikael NIKKINEN"
+  },
+  {
+    "place": 13,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Sven DALEFLOD"
+  },
+  {
+    "place": 14,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Erwin PEKTOR"
+  },
+  {
+    "place": 15,
+    "country": "PER",
+    "mark": "Did not start",
+    "name": "Luis GANOZA"
+  },
+  {
+    "place": 16,
+    "country": "PER",
+    "mark": "Did not start",
+    "name": "Jaime PIQUERAS SANCHEZ"
+  }
+]

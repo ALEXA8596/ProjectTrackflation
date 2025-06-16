@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GRE",
+    "mark": "8.41",
+    "name": "Miltiadis TENTOGLOU"
+  },
+  {
+    "place": 2,
+    "country": "CUB",
+    "mark": "8.41",
+    "name": "Juan Miguel ECHEVARRIA"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "8.21",
+    "name": "Maykel MASSO"
+  },
+  {
+    "place": 4,
+    "country": "ESP",
+    "mark": "8.18",
+    "name": "Eusebio CACERES"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "8.15",
+    "name": "Juvaughn HARRISON"
+  },
+  {
+    "place": 6,
+    "country": "JPN",
+    "mark": "8.10",
+    "name": "Yuki HASHIOKA"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "8.08",
+    "name": "Thobias MONTLER"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "7.99",
+    "name": "Filippo RANDAZZO"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "7.92",
+    "name": "Kristian PULLI"
+  },
+  {
+    "place": 10,
+    "country": "CHN",
+    "mark": "7.72",
+    "name": "Changzhou HUANG"
+  },
+  {
+    "place": 11,
+    "country": "JAM",
+    "mark": "7.69",
+    "name": "Tajay GAYLE"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "7.62",
+    "name": "Fabian HEINLE"
+  }
+]

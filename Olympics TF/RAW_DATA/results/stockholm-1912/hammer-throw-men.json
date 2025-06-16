@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "54.74",
+    "name": "Matt MCGRATH"
+  },
+  {
+    "place": 2,
+    "country": "CAN",
+    "mark": "47.24",
+    "name": "Duncan GILLIS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "NM",
+    "name": "Simon Patrick GILLIS"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Erik LARSSON"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Will ZIEGLER"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "John HOOKER"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Harold MARDEN"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Alfred TILLEY"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Hans TRONNER"
+  },
+  {
+    "place": 10,
+    "country": "CZE",
+    "mark": "Did not start",
+    "name": "Miroslav SUSTERA"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Thomas Rae NICOLSON"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Istvan MUDIN"
+  },
+  {
+    "place": 13,
+    "country": "LUX",
+    "mark": "Did not start",
+    "name": "Marcel PELLETIER"
+  }
+]

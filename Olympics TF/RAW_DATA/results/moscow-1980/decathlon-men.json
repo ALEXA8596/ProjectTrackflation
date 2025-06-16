@@ -1,0 +1,128 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "525",
+    "name": "Daley THOMPSON"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "641",
+    "name": "Yuri KUTSENKO"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "606",
+    "name": "Sergei ZHELANOV"
+  },
+  {
+    "place": 4,
+    "country": "AUT",
+    "mark": "635",
+    "name": "Georg WERTHNER"
+  },
+  {
+    "place": 5,
+    "country": "AUT",
+    "mark": "585",
+    "name": "Josef ZEILBAUER"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "591",
+    "name": "Dariusz LUDWIG"
+  },
+  {
+    "place": 7,
+    "country": "BUL",
+    "mark": "595",
+    "name": "Atanas ANDONOV"
+  },
+  {
+    "place": 8,
+    "country": "GDR",
+    "mark": "588",
+    "name": "Steffen GRUMMT"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "560",
+    "name": "Esa JOKINEN"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "495",
+    "name": "Janusz SZCZERKOWSKI"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "500",
+    "name": "Johannes LAHTI"
+  },
+  {
+    "place": 12,
+    "country": "SUI",
+    "mark": "495",
+    "name": "Stefan NIKLAUS"
+  },
+  {
+    "place": 13,
+    "country": "AUS",
+    "mark": "496",
+    "name": "Peter HADFIELD"
+  },
+  {
+    "place": 14,
+    "country": "BUL",
+    "mark": "457",
+    "name": "Razvigor YANKOV"
+  },
+  {
+    "place": 15,
+    "country": "GBR",
+    "mark": "583",
+    "name": "Bradley MCSTRAVICK"
+  },
+  {
+    "place": 16,
+    "country": "SLE",
+    "mark": "293",
+    "name": "Columba BLANGO"
+  },
+  {
+    "place": 17,
+    "country": "PER",
+    "mark": "Did not finish",
+    "name": "Miro RONAC"
+  },
+  {
+    "place": 18,
+    "country": "URS",
+    "mark": "Did not finish",
+    "name": "Valeriu CACEANOV"
+  },
+  {
+    "place": 19,
+    "country": "ITA",
+    "mark": "Did not finish",
+    "name": "Alessandro BROGINI"
+  },
+  {
+    "place": 20,
+    "country": "GDR",
+    "mark": "Did not finish",
+    "name": "Rainer POTTEL"
+  },
+  {
+    "place": 21,
+    "country": "GDR",
+    "mark": "Did not finish",
+    "name": "Siegfried STARK"
+  }
+]

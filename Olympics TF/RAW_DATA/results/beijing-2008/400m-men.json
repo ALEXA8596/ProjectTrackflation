@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "43.750",
+    "name": "Lashawn MERRITT"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "44.740",
+    "name": "Jeremy WARINER"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "44.800",
+    "name": "David NEVILLE"
+  },
+  {
+    "place": 4,
+    "country": "BAH",
+    "mark": "44.840",
+    "name": "Christopher BROWN"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "45.110",
+    "name": "Leslie DJHONE"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "45.120",
+    "name": "Martyn ROONEY"
+  },
+  {
+    "place": 7,
+    "country": "TTO",
+    "mark": "45.220",
+    "name": "Renny QUOW"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "45.390",
+    "name": "Johan WISSMAN"
+  },
+  {
+    "place": 9,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Denis ALEKSEYEV"
+  },
+  {
+    "place": 10,
+    "country": "BOT",
+    "mark": "Did not start",
+    "name": "California MOLEFE"
+  }
+]

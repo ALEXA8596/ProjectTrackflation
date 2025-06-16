@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "14.200",
+    "name": "Forrest Grady TOWNS"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "14.400",
+    "name": "Donald FINLAY"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "14.400",
+    "name": "Frederick Douglas Jr. POLLARD"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "14.400",
+    "name": "Hakan LIDMAN"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "14.700",
+    "name": "John St.Leger THORNTON"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "14.800",
+    "name": "Lawrence Gerard O'CONNOR"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Ignacio SÁNCHEZ"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Pierre BERNARD"
+  },
+  {
+    "place": 9,
+    "country": "PHI",
+    "mark": "Did not start",
+    "name": "Nino RAMIREZ"
+  },
+  {
+    "place": 10,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "James GEMMILL"
+  },
+  {
+    "place": 11,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Ivo BURATOVIC"
+  }
+]

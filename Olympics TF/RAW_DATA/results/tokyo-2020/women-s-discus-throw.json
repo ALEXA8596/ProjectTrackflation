@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "68.98",
+    "name": "Valarie ALLMAN"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "66.86",
+    "name": "Kristin PUDENZ"
+  },
+  {
+    "place": 3,
+    "country": "CUB",
+    "mark": "65.72",
+    "name": "Yaime PEREZ"
+  },
+  {
+    "place": 4,
+    "country": "CRO",
+    "mark": "65.01",
+    "name": "Sandra PERKOVIC"
+  },
+  {
+    "place": 5,
+    "country": "POR",
+    "mark": "63.93",
+    "name": "Liliana CA"
+  },
+  {
+    "place": 6,
+    "country": "IND",
+    "mark": "63.70",
+    "name": "Kamalpreet KAUR"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "62.12",
+    "name": "Shadae LAWRENCE"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "62.02",
+    "name": "Marike STEINACKER"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "61.80",
+    "name": "Claudine VITA"
+  },
+  {
+    "place": 10,
+    "country": "CHN",
+    "mark": "61.57",
+    "name": "Yang CHEN"
+  },
+  {
+    "place": 11,
+    "country": "BRA",
+    "mark": "60.39",
+    "name": "Izabela DA SILVA"
+  },
+  {
+    "place": 12,
+    "country": "ITA",
+    "mark": "59.97",
+    "name": "Daisy OSAKUE"
+  }
+]

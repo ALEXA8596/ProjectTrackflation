@@ -1,0 +1,128 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "75.50",
+    "name": "Anatoli BONDARCHUK"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "74.96",
+    "name": "Jochen SACHSE"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "74.04",
+    "name": "Vasili KHMELEVSKY"
+  },
+  {
+    "place": 4,
+    "country": "FRG",
+    "mark": "71.52",
+    "name": "Uwe BEYER"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "71.38",
+    "name": "Gyula ZSIVOTZKY"
+  },
+  {
+    "place": 6,
+    "country": "HUN",
+    "mark": "71.20",
+    "name": "Sándor ECKSCHMIEDT"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "71.14",
+    "name": "Edwin KLEIN"
+  },
+  {
+    "place": 8,
+    "country": "JPN",
+    "mark": "70.88",
+    "name": "Shigenobu MUROFUSHI"
+  },
+  {
+    "place": 9,
+    "country": "ITA",
+    "mark": "70.58",
+    "name": "Mario VECCHIATO"
+  },
+  {
+    "place": 10,
+    "country": "FRG",
+    "mark": "70.12",
+    "name": "Karl-Hans RIEHM"
+  },
+  {
+    "place": 11,
+    "country": "HUN",
+    "mark": "70.06",
+    "name": "Istvan ENCSI"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "69.50",
+    "name": "Thomas Lewis GAGE"
+  },
+  {
+    "place": 13,
+    "country": "GDR",
+    "mark": "69.16",
+    "name": "Reinhard THEIMER"
+  },
+  {
+    "place": 14,
+    "country": "YUG",
+    "mark": "68.34",
+    "name": "Strecko STIGLIC"
+  },
+  {
+    "place": 15,
+    "country": "GRE",
+    "mark": "68.30",
+    "name": "Stavros MOUTAFTSIDIS"
+  },
+  {
+    "place": 16,
+    "country": "GBR",
+    "mark": "68.18",
+    "name": "Barry WILLIAMS"
+  },
+  {
+    "place": 17,
+    "country": "AUT",
+    "mark": "66.64",
+    "name": "Peter STERNAD"
+  },
+  {
+    "place": 18,
+    "country": "URS",
+    "mark": "66.26",
+    "name": "Iosif GAMSKY"
+  },
+  {
+    "place": 19,
+    "country": "FRA",
+    "mark": "65.06",
+    "name": "Jacques ACCAMBRAY"
+  },
+  {
+    "place": 20,
+    "country": "JPN",
+    "mark": "64.70",
+    "name": "Takeo SUGAWARA"
+  },
+  {
+    "place": 21,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Jorge NÚÑEZ"
+  }
+]

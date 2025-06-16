@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "69.40",
+    "name": "Lars RIEDEL"
+  },
+  {
+    "place": 2,
+    "country": "BLR",
+    "mark": "66.60",
+    "name": "Vladimir DUBROVSHCHIK"
+  },
+  {
+    "place": 3,
+    "country": "BLR",
+    "mark": "65.80",
+    "name": "Vasiliy KAPTYUKH"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "65.42",
+    "name": "Tony WASHINGTON"
+  },
+  {
+    "place": 5,
+    "country": "LTU",
+    "mark": "65.30",
+    "name": "Virgilijus ALEKNA"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "64.62",
+    "name": "Jürgen SCHULT"
+  },
+  {
+    "place": 7,
+    "country": "UKR",
+    "mark": "63.78",
+    "name": "Vitaliy SIDOROV"
+  },
+  {
+    "place": 8,
+    "country": "LTU",
+    "mark": "62.78",
+    "name": "Vaclovas KIDYKAS"
+  },
+  {
+    "place": 9,
+    "country": "CUB",
+    "mark": "62.70",
+    "name": "Alexis ELIZALDE"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "62.28",
+    "name": "Attila HORVATH"
+  },
+  {
+    "place": 11,
+    "country": "RUS",
+    "mark": "60.62",
+    "name": "Sergey LYAKHOV"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "56.30",
+    "name": "Adam SETLIFF"
+  }
+]

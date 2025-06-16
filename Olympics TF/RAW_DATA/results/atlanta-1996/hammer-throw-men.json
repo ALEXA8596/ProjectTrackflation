@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "HUN",
+    "mark": "81.24",
+    "name": "Balazs KISS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "81.12",
+    "name": "Lance Earl DEAL"
+  },
+  {
+    "place": 3,
+    "country": "UKR",
+    "mark": "80.02",
+    "name": "Oleksandr KRYKUN"
+  },
+  {
+    "place": 4,
+    "country": "UKR",
+    "mark": "79.92",
+    "name": "Andriy SKVARUK"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "79.78",
+    "name": "Heinrich WEIS"
+  },
+  {
+    "place": 6,
+    "country": "RUS",
+    "mark": "78.72",
+    "name": "Ilya KONOVALOV"
+  },
+  {
+    "place": 7,
+    "country": "BLR",
+    "mark": "78.20",
+    "name": "Igor ASTAPKOVICH"
+  },
+  {
+    "place": 8,
+    "country": "BLR",
+    "mark": "77.38",
+    "name": "Sergey ALAY"
+  },
+  {
+    "place": 9,
+    "country": "ITA",
+    "mark": "76.98",
+    "name": "Enrico SGRULLETTI"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "76.64",
+    "name": "Szymon ZIOLKOWSKI"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "75.24",
+    "name": "Raphael PIOLANTI"
+  },
+  {
+    "place": 12,
+    "country": "RUS",
+    "mark": "74.68",
+    "name": "Vasiliy SIDORENKO"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "20.33",
+    "name": "Dallas Crutcher III LONG"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "20.20",
+    "name": "James Randel MATSON"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "19.39",
+    "name": "Vilmos VARJU"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "19.20",
+    "name": "Parry O'BRIEN"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "18.88",
+    "name": "Zsigmond NAGY"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "18.86",
+    "name": "Nikolay KARASYOV"
+  },
+  {
+    "place": 7,
+    "country": "NZL",
+    "mark": "18.52",
+    "name": "Leslie Roy MILLS"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "18.41",
+    "name": "Adolfas VARANAUSKAS"
+  },
+  {
+    "place": 9,
+    "country": "POL",
+    "mark": "18.20",
+    "name": "Wladyslaw KOMAR"
+  },
+  {
+    "place": 10,
+    "country": "URS",
+    "mark": "18.11",
+    "name": "Viktor LIPSNIS"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "17.29",
+    "name": "Rudolf LANGER"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "17.11",
+    "name": "Dieter HOFFMANN"
+  },
+  {
+    "place": 13,
+    "country": "GRE",
+    "mark": "16.87",
+    "name": "Georgios TSAKANIKAS"
+  },
+  {
+    "place": 14,
+    "country": "ROU",
+    "mark": "Did not start",
+    "name": "Gheorghe ZEMBRESTEANU"
+  },
+  {
+    "place": 15,
+    "country": "ISR",
+    "mark": "Did not start",
+    "name": "Gideon ARIEL"
+  },
+  {
+    "place": 16,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Edmund PIATKOWSKI"
+  }
+]

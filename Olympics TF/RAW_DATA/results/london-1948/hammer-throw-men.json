@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "HUN",
+    "mark": "56.07",
+    "name": "Imre NEMETH"
+  },
+  {
+    "place": 2,
+    "country": "YUG",
+    "mark": "54.27",
+    "name": "Ivan GUBIJAN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "53.73",
+    "name": "Robert Howard BENNETT"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "53.66",
+    "name": "Samuel Morse Jr. FELTON"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "53.08",
+    "name": "Lauri Esko Olavi TAMMINEN"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "52.98",
+    "name": "Bo ERICSSON"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "51.74",
+    "name": "Teseo TADDIA"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "51.48",
+    "name": "Einar SÖDERQVIST"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "51.37",
+    "name": "Henry Francis DREYER"
+  },
+  {
+    "place": 10,
+    "country": "DEN",
+    "mark": "50.07",
+    "name": "Svend Aage FREDERIKSEN"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "48.35",
+    "name": "Duncan Mcdougall CLARK"
+  },
+  {
+    "place": 12,
+    "country": "NED",
+    "mark": "45.69",
+    "name": "Johan Frederik Marie HOUTZAGER"
+  },
+  {
+    "place": 13,
+    "country": "KOR",
+    "mark": "43.93",
+    "name": "Gang-hwan GIN"
+  },
+  {
+    "place": 14,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Aad DE BRUYN"
+  },
+  {
+    "place": 15,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Lajos PETIKO"
+  },
+  {
+    "place": 16,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Toma BALCI"
+  }
+]

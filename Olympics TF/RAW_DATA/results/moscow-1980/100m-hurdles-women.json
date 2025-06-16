@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "12.560",
+    "name": "Vera KOMISOVA"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "12.630",
+    "name": "Johanna SCHALLER-KLIER"
+  },
+  {
+    "place": 3,
+    "country": "POL",
+    "mark": "12.650",
+    "name": "Lucyna LANGER"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "12.660",
+    "name": "Kerstin CLAUS-KNABE"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "12.740",
+    "name": "Grazyna RABSZTYN"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "12.840",
+    "name": "Irina LITOVCHENKO"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "12.930",
+    "name": "Bettine GARTZ"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "13.080",
+    "name": "Zofia BIELCZYK"
+  },
+  {
+    "place": 9,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Yvonne VON KAUFFUNGEN"
+  },
+  {
+    "place": 10,
+    "country": "ECU",
+    "mark": "Did not start",
+    "name": "Nancy VALLECILLA"
+  }
+]

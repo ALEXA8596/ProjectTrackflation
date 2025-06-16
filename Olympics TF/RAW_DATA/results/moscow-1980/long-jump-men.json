@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "8.54",
+    "name": "Lutz DOMBROWSKI"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "8.21",
+    "name": "Frank PASCHEK"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "8.18",
+    "name": "Valery PODLUZHNY"
+  },
+  {
+    "place": 4,
+    "country": "HUN",
+    "mark": "8.13",
+    "name": "Laszlo SZALMA"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "8.13",
+    "name": "Stanisław JASKUŁKA"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "8.10",
+    "name": "Viktor BELSKI"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "8.09",
+    "name": "Antonio CORGOS CERVANTES"
+  },
+  {
+    "place": 8,
+    "country": "BUL",
+    "mark": "8.02",
+    "name": "Yordan YANEV"
+  },
+  {
+    "place": 9,
+    "country": "SUI",
+    "mark": "7.88",
+    "name": "Rolf BERNHARD"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "7.77",
+    "name": "Philippe DEROCHE"
+  },
+  {
+    "place": 11,
+    "country": "NGR",
+    "mark": "7.49",
+    "name": "Kayode ELEGBEDE"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Olli POUSI"
+  },
+  {
+    "place": 13,
+    "country": "ZAM",
+    "mark": "Did not start",
+    "name": "Bogger MUSAANGA"
+  }
+]

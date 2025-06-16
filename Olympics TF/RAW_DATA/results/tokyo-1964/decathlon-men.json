@@ -1,0 +1,140 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "561",
+    "name": "Willi HOLDORF"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "643",
+    "name": "Rein AUN"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "543",
+    "name": "Hans Joachim WALDE"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "621",
+    "name": "Paul Irvin HERMAN"
+  },
+  {
+    "place": 5,
+    "country": "TPE",
+    "mark": "474",
+    "name": "Chuan-Kwang YANG"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "634",
+    "name": "Horst BEYER"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "394",
+    "name": "Vasili KUZNETSOV"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "404",
+    "name": "Mikhail STOROZHENKO"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "625",
+    "name": "Russell Arden HODGE"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "665",
+    "name": "Richard John EMBERGER"
+  },
+  {
+    "place": 11,
+    "country": "CAN",
+    "mark": "628",
+    "name": "William Douglas GAIRDNER"
+  },
+  {
+    "place": 12,
+    "country": "ISL",
+    "mark": "405",
+    "name": "Valbjorn THORLAKSSON"
+  },
+  {
+    "place": 13,
+    "country": "ITA",
+    "mark": "364",
+    "name": "Franco SAR"
+  },
+  {
+    "place": 14,
+    "country": "LIE",
+    "mark": "599",
+    "name": "Alois BUCHEL"
+  },
+  {
+    "place": 15,
+    "country": "JPN",
+    "mark": "602",
+    "name": "Shosuke SUZUKI"
+  },
+  {
+    "place": 16,
+    "country": "CAN",
+    "mark": "532",
+    "name": "Guerrino MORO"
+  },
+  {
+    "place": 17,
+    "country": "KEN",
+    "mark": "515",
+    "name": "Koech KIPROP"
+  },
+  {
+    "place": 18,
+    "country": "MLI",
+    "mark": "456",
+    "name": "Dranane SEREME"
+  },
+  {
+    "place": 19,
+    "country": "SUI",
+    "mark": "Did not finish",
+    "name": "Werner DUTTWEILER"
+  },
+  {
+    "place": 20,
+    "country": "VEN",
+    "mark": "Did not finish",
+    "name": "Hector THOMAS MARTINEZ"
+  },
+  {
+    "place": 21,
+    "country": "NED",
+    "mark": "Did not finish",
+    "name": "Evert KAMERBEEK"
+  },
+  {
+    "place": 22,
+    "country": "TPE",
+    "mark": "Did not finish",
+    "name": "Ah-min WU"
+  },
+  {
+    "place": 23,
+    "country": "IRQ",
+    "mark": "Did not start",
+    "name": "Samir Ambrose VINCENT"
+  }
+]

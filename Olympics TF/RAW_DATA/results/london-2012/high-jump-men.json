@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "2.33",
+    "name": "Erik KYNARD"
+  },
+  {
+    "place": 2,
+    "country": "QAT",
+    "mark": "2.29",
+    "name": "Mutaz Essa BARSHIM"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "2.29",
+    "name": "Derek DROUIN"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "2.29",
+    "name": "Robert GRABARZ"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "2.29",
+    "name": "Jamie NIETO"
+  },
+  {
+    "place": 6,
+    "country": "UKR",
+    "mark": "2.29",
+    "name": "Bohdan BONDARENKO"
+  },
+  {
+    "place": 7,
+    "country": "CAN",
+    "mark": "2.29",
+    "name": "Michael MASON"
+  },
+  {
+    "place": 8,
+    "country": "COL",
+    "mark": "2.25",
+    "name": "Wanner MILLER"
+  },
+  {
+    "place": 9,
+    "country": "UKR",
+    "mark": "2.25",
+    "name": "Andriy PROTSENKO"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "2.25",
+    "name": "Jesse WILLIAMS"
+  },
+  {
+    "place": 11,
+    "country": "RUS",
+    "mark": "2.25",
+    "name": "Andrey SILNOV"
+  },
+  {
+    "place": 12,
+    "country": "CYP",
+    "mark": "2.20",
+    "name": "Kyriakos IOANNOU"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "2.20",
+    "name": "Mickael HANANY"
+  },
+  {
+    "place": 14,
+    "country": "BLR",
+    "mark": "NM",
+    "name": "Andrei CHURYLA"
+  },
+  {
+    "place": 15,
+    "country": "LCA",
+    "mark": "NM",
+    "name": "Darvin EDWARDS"
+  },
+  {
+    "place": 16,
+    "country": "SRB",
+    "mark": "NM",
+    "name": "Dragutin TOPIC"
+  },
+  {
+    "place": 17,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Ivan UKHOV"
+  }
+]

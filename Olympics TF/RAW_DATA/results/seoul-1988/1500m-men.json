@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "00:03:35.960",
+    "name": "Peter RONO"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "00:03:36.150",
+    "name": "Peter ELLIOTT"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "00:03:36.210",
+    "name": "Jens-Peter HEROLD"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "00:03:36.240",
+    "name": "Stephen CRAM"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:03:36.990",
+    "name": "Steven Michael SCOTT"
+  },
+  {
+    "place": 6,
+    "country": "NED",
+    "mark": "00:03:37.080",
+    "name": "Johanes Nicolaas Maria KULKER"
+  },
+  {
+    "place": 7,
+    "country": "KEN",
+    "mark": "00:03:37.940",
+    "name": "Robert Kipkoech CHERUIYOT"
+  },
+  {
+    "place": 8,
+    "country": "IRL",
+    "mark": "00:03:38.390",
+    "name": "Marcus O'SULLIVAN"
+  },
+  {
+    "place": 9,
+    "country": "POR",
+    "mark": "00:03:38.770",
+    "name": "Mário DA SILVA"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "00:03:40.800",
+    "name": "Jeffrey Patrick ATKINSON"
+  },
+  {
+    "place": 11,
+    "country": "KEN",
+    "mark": "00:03:40.820",
+    "name": "Joseph CHESIRE"
+  },
+  {
+    "place": 12,
+    "country": "SUD",
+    "mark": "00:03:41.070",
+    "name": "Omer KHALIFA"
+  },
+  {
+    "place": 13,
+    "country": "LBR",
+    "mark": "Did not start",
+    "name": "Nimley TWEGBE"
+  }
+]

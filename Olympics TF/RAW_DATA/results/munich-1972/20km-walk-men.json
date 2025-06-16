@@ -1,0 +1,212 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "01:26:42.400",
+    "name": "Peter FRENKEL"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "01:26:55.200",
+    "name": "Vladimir GOLUBNICHY"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "01:27:16.600",
+    "name": "Hans REIMANN"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "01:27:55.000",
+    "name": "Gerhard SPERLING"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "01:28:16.600",
+    "name": "Nikolay SMAGA"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "01:28:44.400",
+    "name": "Paul Vincent NIHILL"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "01:32:01.600",
+    "name": "Jan ORNOCH"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "01:32:30.000",
+    "name": "Vittorio VISINI"
+  },
+  {
+    "place": 9,
+    "country": "MEX",
+    "mark": "01:32:40.600",
+    "name": "Jose OLIVEROS DE LA TORRE"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "01:32:53.400",
+    "name": "Lawrence Dean YOUNG"
+  },
+  {
+    "place": 11,
+    "country": "NOR",
+    "mark": "01:33:03.200",
+    "name": "Jan Arvid ROLSTAD"
+  },
+  {
+    "place": 12,
+    "country": "MEX",
+    "mark": "01:33:05.000",
+    "name": "Pedro AROCHE"
+  },
+  {
+    "place": 13,
+    "country": "FRG",
+    "mark": "01:33:13.800",
+    "name": "Heinz MAYR"
+  },
+  {
+    "place": 14,
+    "country": "GBR",
+    "mark": "01:33:22.200",
+    "name": "Philip Bruce EMBLETON"
+  },
+  {
+    "place": 15,
+    "country": "USA",
+    "mark": "01:34:58.800",
+    "name": "Thomas Robert DOOLEY"
+  },
+  {
+    "place": 16,
+    "country": "FRG",
+    "mark": "01:35:20.600",
+    "name": "Wilfried WESCH"
+  },
+  {
+    "place": 17,
+    "country": "GBR",
+    "mark": "01:35:38.800",
+    "name": "Peter Frederick MARLOW"
+  },
+  {
+    "place": 18,
+    "country": "LUX",
+    "mark": "01:36:23.800",
+    "name": "Charel SOWA"
+  },
+  {
+    "place": 19,
+    "country": "USA",
+    "mark": "01:38:33.600",
+    "name": "Goetz Heinrich KLOPFER"
+  },
+  {
+    "place": 20,
+    "country": "ETH",
+    "mark": "01:43:11.600",
+    "name": "Hunde TORE"
+  },
+  {
+    "place": 21,
+    "country": "NCA",
+    "mark": "01:45:09.400",
+    "name": "Esteban VALLE"
+  },
+  {
+    "place": 22,
+    "country": "MEX",
+    "mark": "01:45:45.400",
+    "name": "Ismael ÁVILA"
+  },
+  {
+    "place": 23,
+    "country": "FRG",
+    "mark": "Did not finish",
+    "name": "Bernd KANNENBERG"
+  },
+  {
+    "place": 24,
+    "country": "URS",
+    "mark": "Disqualified",
+    "name": "Yevgeny IVCHENKO"
+  },
+  {
+    "place": 25,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Tadeusz GORZECHOWSKI"
+  },
+  {
+    "place": 26,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Fernando IELLI"
+  },
+  {
+    "place": 27,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Aram LEVONIAN"
+  },
+  {
+    "place": 28,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Oscar BARLETTA"
+  },
+  {
+    "place": 29,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Janos DALMATI"
+  },
+  {
+    "place": 30,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Antal KISS"
+  },
+  {
+    "place": 31,
+    "country": "ISR",
+    "mark": "Did not start",
+    "name": "Shaul LADANY"
+  },
+  {
+    "place": 32,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Kjell Georg LUND"
+  },
+  {
+    "place": 33,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Daniel BJORKGREN"
+  },
+  {
+    "place": 34,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Stefan INGVARSSON"
+  },
+  {
+    "place": 35,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Hans TENGGREN"
+  }
+]

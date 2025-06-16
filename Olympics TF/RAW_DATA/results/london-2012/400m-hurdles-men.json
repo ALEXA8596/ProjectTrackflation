@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "DOM",
+    "mark": "47.630",
+    "name": "Felix SANCHEZ"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "47.910",
+    "name": "Michael TINSLEY"
+  },
+  {
+    "place": 3,
+    "country": "PUR",
+    "mark": "48.100",
+    "name": "Javier CULSON"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "48.240",
+    "name": "David GREENE"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "48.250",
+    "name": "Angelo TAYLOR"
+  },
+  {
+    "place": 6,
+    "country": "TTO",
+    "mark": "48.860",
+    "name": "Jehue GORDON"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "49.120",
+    "name": "Leford GREEN"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "49.150",
+    "name": "Kerron CLEMENT"
+  },
+  {
+    "place": 9,
+    "country": "JPN",
+    "mark": "Disqualified",
+    "name": "Takayuki KISHIMOTO"
+  },
+  {
+    "place": 10,
+    "country": "JPN",
+    "mark": "Disqualified",
+    "name": "Akihiko NAKAMURA"
+  },
+  {
+    "place": 11,
+    "country": "TOG",
+    "mark": "Disqualified",
+    "name": "Lankantien LAMBONI"
+  },
+  {
+    "place": 12,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Kariem HUSSEIN"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "04:28:07.800",
+    "name": "Giuseppe DORDONI"
+  },
+  {
+    "place": 2,
+    "country": "TCH",
+    "mark": "04:30:17.800",
+    "name": "Josef DOLEZAL"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "04:31:27.200",
+    "name": "Antal ROKA"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "04:32:21.000",
+    "name": "George Bernard Rex WHITLOCK"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "04:32:34.200",
+    "name": "Sergey LOBASTOV"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "04:32:51.600",
+    "name": "Vladimir UKHOV"
+  },
+  {
+    "place": 7,
+    "country": "ROU",
+    "mark": "04:41:05.200",
+    "name": "Dumitru PARASCHIVESCU"
+  },
+  {
+    "place": 8,
+    "country": "ROU",
+    "mark": "04:41:52.800",
+    "name": "Ion BABOE"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "04:43:45.200",
+    "name": "John Artur LJUNGGREN"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "04:44:30.200",
+    "name": "Giuseppe KRESSEVICH"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "04:45:12.600",
+    "name": "Hector Harold WHITLOCK"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "04:45:55.800",
+    "name": "Sandor LASZLO"
+  },
+  {
+    "place": 13,
+    "country": "GER",
+    "mark": "04:47:28.600",
+    "name": "Rudolf LUTTGE"
+  },
+  {
+    "place": 14,
+    "country": "FIN",
+    "mark": "04:49:16.400",
+    "name": "Pekka Oskari VILJANEN"
+  },
+  {
+    "place": 15,
+    "country": "GBR",
+    "mark": "04:50:40.400",
+    "name": "Donald Arthur TUNBRIDGE"
+  },
+  {
+    "place": 16,
+    "country": "FRA",
+    "mark": "04:52:37.800",
+    "name": "Raymond LESAGE"
+  },
+  {
+    "place": 17,
+    "country": "NOR",
+    "mark": "04:52:48.400",
+    "name": "Edgar Helge BRUUN"
+  },
+  {
+    "place": 18,
+    "country": "FRA",
+    "mark": "04:55:28.200",
+    "name": "Claude HUBERT"
+  },
+  {
+    "place": 19,
+    "country": "ITA",
+    "mark": "04:56:46.000",
+    "name": "Salvatore CASCINO"
+  },
+  {
+    "place": 20,
+    "country": "DEN",
+    "mark": "04:57:35.800",
+    "name": "Svend Harry Ejnar Erhard KRISTENSEN"
+  },
+  {
+    "place": 21,
+    "country": "FRA",
+    "mark": "04:59:08.200",
+    "name": "Jean STRUNC"
+  },
+  {
+    "place": 22,
+    "country": "USA",
+    "mark": "05:01:00.400",
+    "name": "Adolph J. WEINACKER"
+  },
+  {
+    "place": 23,
+    "country": "URS",
+    "mark": "05:02:37.800",
+    "name": "Pavel KAZANKOV"
+  },
+  {
+    "place": 24,
+    "country": "SUI",
+    "mark": "05:02:56.200",
+    "name": "Gilbert MARQUIS"
+  },
+  {
+    "place": 25,
+    "country": "CAN",
+    "mark": "05:04:40.400",
+    "name": "Harry Ferdinand HAYWARD"
+  },
+  {
+    "place": 26,
+    "country": "SUI",
+    "mark": "05:08:59.000",
+    "name": "Rene CHARRIERE"
+  },
+  {
+    "place": 27,
+    "country": "NOR",
+    "mark": "05:11:40.200",
+    "name": "Gerhard Ditlev WINTHER"
+  },
+  {
+    "place": 28,
+    "country": "SWE",
+    "mark": "05:30:56.600",
+    "name": "Ake SODERLUND"
+  },
+  {
+    "place": 29,
+    "country": "ARG",
+    "mark": "Did not finish",
+    "name": "Guillermo WELLER"
+  },
+  {
+    "place": 30,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "John Michael DENI"
+  },
+  {
+    "place": 31,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Leo Allen SJOGREN"
+  },
+  {
+    "place": 32,
+    "country": "ROU",
+    "mark": "Did not start",
+    "name": "Baruch ELIAS"
+  },
+  {
+    "place": 33,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Verner LJUNGGREN"
+  }
+]

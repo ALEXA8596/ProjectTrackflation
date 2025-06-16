@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "POR",
+    "mark": "17.67",
+    "name": "Nelson EVORA"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "17.62",
+    "name": "Phillips IDOWU"
+  },
+  {
+    "place": 3,
+    "country": "BAH",
+    "mark": "17.59",
+    "name": "Leevan SANDS"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "17.52",
+    "name": "Arnie David GIRAT"
+  },
+  {
+    "place": 5,
+    "country": "ROU",
+    "mark": "17.22",
+    "name": "Marian OPREA"
+  },
+  {
+    "place": 6,
+    "country": "BRA",
+    "mark": "17.20",
+    "name": "Jadel GREGORIO"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "17.17",
+    "name": "Onochie ACHIKE"
+  },
+  {
+    "place": 8,
+    "country": "UKR",
+    "mark": "16.87",
+    "name": "Viktor KUZNYETSOV"
+  },
+  {
+    "place": 9,
+    "country": "RUS",
+    "mark": "16.79",
+    "name": "Igor SPASOVKHODSKIY"
+  },
+  {
+    "place": 10,
+    "country": "CHN",
+    "mark": "16.77",
+    "name": "Yanxi LI"
+  },
+  {
+    "place": 11,
+    "country": "BUL",
+    "mark": "16.48",
+    "name": "Momchil KARAILIEV"
+  },
+  {
+    "place": 12,
+    "country": "CUB",
+    "mark": "16.28",
+    "name": "Hector FUENTES"
+  }
+]

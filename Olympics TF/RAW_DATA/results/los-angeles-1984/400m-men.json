@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "44.270",
+    "name": "Alonzo C. BABERS"
+  },
+  {
+    "place": 2,
+    "country": "CIV",
+    "mark": "44.540",
+    "name": "Gabriel TIACOH"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "44.710",
+    "name": "Antonio Ricardo MCKAY"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "44.750",
+    "name": "Darren CLARK"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "44.750",
+    "name": "Sunder L. NIX"
+  },
+  {
+    "place": 6,
+    "country": "NGR",
+    "mark": "44.930",
+    "name": "Sunday UTI"
+  },
+  {
+    "place": 7,
+    "country": "NGR",
+    "mark": "45.350",
+    "name": "Innocent EGBUNIKE"
+  }
+]

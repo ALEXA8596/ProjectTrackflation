@@ -1,0 +1,368 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "03:37:09.000",
+    "name": "Alex SCHWAZER"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "03:39:27.000",
+    "name": "Jared TALLENT"
+  },
+  {
+    "place": 3,
+    "country": "RUS",
+    "mark": "03:40:14.000",
+    "name": "Denis NIZHEGORODOV"
+  },
+  {
+    "place": 4,
+    "country": "ESP",
+    "mark": "03:44:08.000",
+    "name": "Jesus Angel GARCIA"
+  },
+  {
+    "place": 5,
+    "country": "NOR",
+    "mark": "03:45:08.000",
+    "name": "Erik TYSSE"
+  },
+  {
+    "place": 6,
+    "country": "MEX",
+    "mark": "03:45:21.000",
+    "name": "Horacio NAVA"
+  },
+  {
+    "place": 7,
+    "country": "JPN",
+    "mark": "03:45:47.000",
+    "name": "Yuki YAMAZAKI"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "03:46:51.000",
+    "name": "Rafal FEDACZYNSKI"
+  },
+  {
+    "place": 9,
+    "country": "POL",
+    "mark": "03:47:18.000",
+    "name": "Grzegorz SUDOL"
+  },
+  {
+    "place": 10,
+    "country": "AUS",
+    "mark": "03:47:45.000",
+    "name": "Luke ADAMS"
+  },
+  {
+    "place": 11,
+    "country": "POR",
+    "mark": "03:48:12.000",
+    "name": "Antonio PEREIRA"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "03:49:52.000",
+    "name": "Andre HOHNE"
+  },
+  {
+    "place": 13,
+    "country": "ESP",
+    "mark": "03:51:30.000",
+    "name": "Mikel ODRIOZOLA"
+  },
+  {
+    "place": 14,
+    "country": "CHN",
+    "mark": "03:52:20.000",
+    "name": "Jianbo LI"
+  },
+  {
+    "place": 15,
+    "country": "FIN",
+    "mark": "03:52:25.000",
+    "name": "Jarkko KINNUNEN"
+  },
+  {
+    "place": 16,
+    "country": "LAT",
+    "mark": "03:52:38.000",
+    "name": "Igors KAZAKEVICS"
+  },
+  {
+    "place": 17,
+    "country": "CHN",
+    "mark": "03:52:58.000",
+    "name": "Tianfeng SI"
+  },
+  {
+    "place": 18,
+    "country": "MEX",
+    "mark": "03:52:58.000",
+    "name": "Jesus SANCHEZ"
+  },
+  {
+    "place": 19,
+    "country": "ITA",
+    "mark": "03:54:47.000",
+    "name": "Marco DE LUCA"
+  },
+  {
+    "place": 20,
+    "country": "FIN",
+    "mark": "03:55:19.000",
+    "name": "Antti KEMPAS"
+  },
+  {
+    "place": 21,
+    "country": "CHN",
+    "mark": "03:56:47.000",
+    "name": "Chengliang ZHAO"
+  },
+  {
+    "place": 22,
+    "country": "GUA",
+    "mark": "03:56:58.000",
+    "name": "Luis Fernando GARCIA"
+  },
+  {
+    "place": 23,
+    "country": "MEX",
+    "mark": "03:58:04.000",
+    "name": "Mario Ivan FLORES"
+  },
+  {
+    "place": 24,
+    "country": "UKR",
+    "mark": "03:58:21.000",
+    "name": "Serhiy BUDZA"
+  },
+  {
+    "place": 25,
+    "country": "ECU",
+    "mark": "03:59:28.000",
+    "name": "Fausto QUINDE"
+  },
+  {
+    "place": 26,
+    "country": "ESP",
+    "mark": "03:59:41.000",
+    "name": "Santiago PEREZ"
+  },
+  {
+    "place": 27,
+    "country": "UKR",
+    "mark": "03:59:46.000",
+    "name": "Oleksiy SHELEST"
+  },
+  {
+    "place": 28,
+    "country": "FRA",
+    "mark": "04:00:49.000",
+    "name": "Eddy RIVA"
+  },
+  {
+    "place": 29,
+    "country": "JPN",
+    "mark": "04:01:37.000",
+    "name": "Takayuki TANII"
+  },
+  {
+    "place": 30,
+    "country": "SRB",
+    "mark": "04:02:16.000",
+    "name": "Nenad FILIPOVIC"
+  },
+  {
+    "place": 31,
+    "country": "KOR",
+    "mark": "04:02:32.000",
+    "name": "Dong-Young KIM"
+  },
+  {
+    "place": 32,
+    "country": "LTU",
+    "mark": "04:02:45.000",
+    "name": "Tadas SUSKEVICIUS"
+  },
+  {
+    "place": 33,
+    "country": "TUN",
+    "mark": "04:03:47.000",
+    "name": "Hatem GHOULA"
+  },
+  {
+    "place": 34,
+    "country": "COL",
+    "mark": "04:03:52.000",
+    "name": "Rodrigo MORENO"
+  },
+  {
+    "place": 35,
+    "country": "SVK",
+    "mark": "04:06:30.000",
+    "name": "Milos BATOVSKY"
+  },
+  {
+    "place": 36,
+    "country": "ECU",
+    "mark": "04:07:04.000",
+    "name": "Xavier MORENO"
+  },
+  {
+    "place": 37,
+    "country": "GRE",
+    "mark": "04:07:53.000",
+    "name": "Konstadinos STEFANOPOULOS"
+  },
+  {
+    "place": 38,
+    "country": "CAN",
+    "mark": "04:08:18.000",
+    "name": "Tim BERRETT"
+  },
+  {
+    "place": 39,
+    "country": "USA",
+    "mark": "04:08:32.000",
+    "name": "Phillip DUNN"
+  },
+  {
+    "place": 40,
+    "country": "POR",
+    "mark": "04:09:00.000",
+    "name": "Augusto CARDOSO"
+  },
+  {
+    "place": 41,
+    "country": "BRA",
+    "mark": "04:10:25.000",
+    "name": "Mario Jose DOS SANTOS JR"
+  },
+  {
+    "place": 42,
+    "country": "LAT",
+    "mark": "04:12:45.000",
+    "name": "Ingus JANEVICS"
+  },
+  {
+    "place": 43,
+    "country": "BLR",
+    "mark": "04:14:09.000",
+    "name": "Andrey STEPANCHUK"
+  },
+  {
+    "place": 44,
+    "country": "IRL",
+    "mark": "04:15:16.000",
+    "name": "Jamie COSTIN"
+  },
+  {
+    "place": 45,
+    "country": "CZE",
+    "mark": "04:18:32.000",
+    "name": "Roman BILEK"
+  },
+  {
+    "place": 46,
+    "country": "HUN",
+    "mark": "04:20:07.000",
+    "name": "Zoltan CZUKOR"
+  },
+  {
+    "place": 47,
+    "country": "SVK",
+    "mark": "04:21:26.000",
+    "name": "Kazimir VERKIN"
+  },
+  {
+    "place": 48,
+    "country": "UKR",
+    "mark": "Did not finish",
+    "name": "Oleksiy KAZANIN"
+  },
+  {
+    "place": 49,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Yohann DINIZ"
+  },
+  {
+    "place": 50,
+    "country": "NOR",
+    "mark": "Did not finish",
+    "name": "Trond NYMARK"
+  },
+  {
+    "place": 51,
+    "country": "LTU",
+    "mark": "Did not finish",
+    "name": "Donatas SKARNULIS"
+  },
+  {
+    "place": 52,
+    "country": "RUS",
+    "mark": "Did not finish",
+    "name": "Sergey KIRDYAPKIN"
+  },
+  {
+    "place": 53,
+    "country": "AUS",
+    "mark": "Did not finish",
+    "name": "Adam RUTTER"
+  },
+  {
+    "place": 54,
+    "country": "SVK",
+    "mark": "Did not finish",
+    "name": "Peter KORCOK"
+  },
+  {
+    "place": 55,
+    "country": "ESA",
+    "mark": "Disqualified",
+    "name": "Salvador MIRA"
+  },
+  {
+    "place": 56,
+    "country": "POL",
+    "mark": "Disqualified",
+    "name": "Artur BRZOZOWSKI"
+  },
+  {
+    "place": 57,
+    "country": "ITA",
+    "mark": "Disqualified",
+    "name": "Diego CAFAGNA"
+  },
+  {
+    "place": 58,
+    "country": "IRL",
+    "mark": "Disqualified",
+    "name": "Colin GRIFFIN"
+  },
+  {
+    "place": 59,
+    "country": "LTU",
+    "mark": "Disqualified",
+    "name": "Darius SKARNULIS"
+  },
+  {
+    "place": 60,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Igor EROKHIN"
+  },
+  {
+    "place": 61,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Joao VIEIRA"
+  }
+]

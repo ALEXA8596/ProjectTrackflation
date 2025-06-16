@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "11.060",
+    "name": "Lyudmila KONDRATYEVA"
+  },
+  {
+    "place": 2,
+    "country": "GDR",
+    "mark": "11.070",
+    "name": "Marlies OELSNER-GÖHR"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "11.140",
+    "name": "Ingrid AUERSWALD-LANGE"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "11.160",
+    "name": "Linda HAGLUND"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "11.160",
+    "name": "Romy MÜLLER"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "11.280",
+    "name": "Kathryn SMALLWOOD-COOK"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "11.320",
+    "name": "Chantal REGA"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "11.340",
+    "name": "Heather HUNTE-OAKES"
+  }
+]

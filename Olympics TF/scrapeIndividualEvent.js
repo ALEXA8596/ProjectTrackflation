@@ -22,11 +22,9 @@ async function sleep(ms) {
       await fs.readFileSync("./RAW_DATA/events-api/" + file)
     );
     // console.log(data);
-    // data.forEach(obj => console.log(obj))
-    await sleep(500);
-    data.forEach(async (obj) => {
-      await obj;
-      console.log(obj.slug)
+    // data.forEach(obj => console.log(obj);
+    for (const obj of data) {
+      await sleep(500);
       try {
         console.log("Fetching " + obj.title);
 
@@ -40,23 +38,16 @@ async function sleep(ms) {
           }
         ).then((res) => res.text());
 
-        if (!fs.existsSync(`${rawDataDir}/results-raw/${obj.slug}`)) {
-          fs.mkdirSync(`${rawDataDir}/results-raw/${obj.slug}`, {
+        if (!fs.existsSync(`${rawDataDir}/results-raw/${olympicName}`)) {
+          fs.mkdirSync(`${rawDataDir}/results-raw/${olympicName}`, {
             recursive: true,
           });
         }
-
-        // console.log({
-        //   slug: obj.slug,
-        //   id: obj.id,
-        // });
 
         fs.writeFileSync(
           `${rawDataDir}/results-raw/${olympicName}/${obj.slug}.html`,
           resp
         );
-
-        // console.log(resp);
 
         const dom = new JSDOM(resp);
         const allRows = dom.window.document.querySelectorAll(
@@ -70,14 +61,11 @@ async function sleep(ms) {
 
         let index = 0;
         for (const row of resultRow) {
-          // get place using index + 1
-          // get country: if slug includes relay, get the textContent of the div that contains data-cy=country-name-row
           const country = obj.slug.includes("relay")
             ? row.querySelector('[data-cy="country-name-row"]')?.textContent
             : row.querySelector(`[data-cy="flag-with-label"]`).lastChild
                 .textContent;
 
-          // get time / measurement:
           const allNodes = row.querySelectorAll("*");
           const resultMark = Array.from(allNodes)
             .filter((el) => el.className?.toString().includes("sc-b22d5ad5-0 hPOQLP"))[0]
@@ -111,6 +99,6 @@ async function sleep(ms) {
         console.log("There was an Error");
         console.log(e);
       }
-    });
+    }
   }
 })();

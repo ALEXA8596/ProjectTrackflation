@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "00:01:53.500",
+    "name": "Nadezhda OLIZARENKO"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "00:01:54.900",
+    "name": "Olga MINEEVA"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "00:01:55.500",
+    "name": "Tatiana PROVIDOKHINA"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "00:01:56.300",
+    "name": "Martina KAMPFERT"
+  },
+  {
+    "place": 5,
+    "country": "GDR",
+    "mark": "00:01:57.200",
+    "name": "Hildegard ULLRICH"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "00:01:58.300",
+    "name": "Jolanta JANUCHTA"
+  },
+  {
+    "place": 7,
+    "country": "BUL",
+    "mark": "00:01:58.800",
+    "name": "Nikolina SHTEREVA"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "00:01:59.200",
+    "name": "Gabriella DORIO"
+  },
+  {
+    "place": 9,
+    "country": "ALG",
+    "mark": "Did not start",
+    "name": "Sakina BOUTAMINE"
+  }
+]

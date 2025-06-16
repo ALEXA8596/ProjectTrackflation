@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "09.990",
+    "name": "Carl LEWIS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.190",
+    "name": "Samuel Louis GRADDY"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "10.220",
+    "name": "Ben JOHNSON"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "10.260",
+    "name": "Ronald James BROWN"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "10.270",
+    "name": "Mike MCFARLANE"
+  },
+  {
+    "place": 6,
+    "country": "JAM",
+    "mark": "10.290",
+    "name": "Ray STEWART"
+  },
+  {
+    "place": 7,
+    "country": "GBR",
+    "mark": "10.330",
+    "name": "Donovan REID"
+  },
+  {
+    "place": 8,
+    "country": "CAN",
+    "mark": "10.350",
+    "name": "Anthony SHARPE"
+  },
+  {
+    "place": 9,
+    "country": "GHA",
+    "mark": "Did not start",
+    "name": "Ernie OBENG"
+  },
+  {
+    "place": 10,
+    "country": "CMR",
+    "mark": "Did not start",
+    "name": "Emmanuel BITANGA"
+  }
+]

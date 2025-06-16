@@ -1,0 +1,122 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "5.10",
+    "name": "Fred HANSEN"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "5.05",
+    "name": "Wolfgang REINHARDT"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "5.00",
+    "name": "Klaus LEHNERTZ"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "5.00",
+    "name": "Manfred PREUSSGER"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "4.95",
+    "name": "Gennady BLIZNETSOV"
+  },
+  {
+    "place": 6,
+    "country": "TCH",
+    "mark": "4.90",
+    "name": "Rudolf TOMASEK"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "4.90",
+    "name": "Pentti Kustaa NIKULA"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "4.80",
+    "name": "William Eugene PEMELTON"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "4.80",
+    "name": "Igor FELD"
+  },
+  {
+    "place": 10,
+    "country": "CAN",
+    "mark": "4.70",
+    "name": "Guerrino MORO"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "4.70",
+    "name": "John Thomas PENNELL"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "4.70",
+    "name": "Risto Antero ANKIO"
+  },
+  {
+    "place": 13,
+    "country": "YUG",
+    "mark": "4.70",
+    "name": "Roman LESEK"
+  },
+  {
+    "place": 14,
+    "country": "FIN",
+    "mark": "4.60",
+    "name": "Taisto Raikas LAITINEN"
+  },
+  {
+    "place": 15,
+    "country": "ESP",
+    "mark": "4.40",
+    "name": "Ignacio SOLA CORTABARRIA"
+  },
+  {
+    "place": 16,
+    "country": "FRA",
+    "mark": "4.40",
+    "name": "Herve D'ENCAUSSE"
+  },
+  {
+    "place": 17,
+    "country": "URS",
+    "mark": "4.40",
+    "name": "Sergey DYOMIN"
+  },
+  {
+    "place": 18,
+    "country": "GRE",
+    "mark": "4.40",
+    "name": "Christos PAPANIKOLAOU"
+  },
+  {
+    "place": 19,
+    "country": "ISL",
+    "mark": "Did not start",
+    "name": "Valbjorn THORLAKSSON"
+  },
+  {
+    "place": 20,
+    "country": "TPE",
+    "mark": "Did not start",
+    "name": "Ah-min WU"
+  }
+]

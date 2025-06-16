@@ -1,0 +1,590 @@
+[
+  {
+    "place": 1,
+    "country": "RSA",
+    "mark": "02:36:54.800",
+    "name": "Ken MCARTHUR"
+  },
+  {
+    "place": 2,
+    "country": "RSA",
+    "mark": "02:37:52.000",
+    "name": "Chris GITSHAM"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "02:38:42.400",
+    "name": "Gaston STROBINO"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "02:42:07.900",
+    "name": "Andrew SOCKALEXIS"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "02:42:18.800",
+    "name": "James DUFFY"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "02:43:24.900",
+    "name": "Sigfrid JACOBSSON"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "02:44:19.400",
+    "name": "John James GALLAGHER"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "02:45:47.200",
+    "name": "Joseph ERXLEBEN"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "02:46:40.700",
+    "name": "Richard Francis PIGGOTT"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "02:49:49.400",
+    "name": "Joe FORSHAW"
+  },
+  {
+    "place": 11,
+    "country": "CAN",
+    "mark": "02:50:36.200",
+    "name": "Ed FABRE"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "02:50:46.600",
+    "name": "Clarence Harrison DE MAR"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "02:51:06.600",
+    "name": "Renon BOISSIÈRE"
+  },
+  {
+    "place": 14,
+    "country": "GBR",
+    "mark": "02:52:11.400",
+    "name": "Henry Harold GREEN"
+  },
+  {
+    "place": 15,
+    "country": "CAN",
+    "mark": "02:52:23.000",
+    "name": "William Charles FORSYTH"
+  },
+  {
+    "place": 16,
+    "country": "USA",
+    "mark": "02:52:41.400",
+    "name": "Lewis TEWANIMA"
+  },
+  {
+    "place": 17,
+    "country": "USA",
+    "mark": "02:52:53.800",
+    "name": "Harry J. SMITH"
+  },
+  {
+    "place": 18,
+    "country": "USA",
+    "mark": "02:59:35.400",
+    "name": "Thomas H. LILLEY"
+  },
+  {
+    "place": 19,
+    "country": "GBR",
+    "mark": "03:00:05.000",
+    "name": "Arthur TOWNSEND"
+  },
+  {
+    "place": 20,
+    "country": "AUT",
+    "mark": "03:00:48.000",
+    "name": "Felix KWIETON"
+  },
+  {
+    "place": 21,
+    "country": "GBR",
+    "mark": "03:01:39.200",
+    "name": "Frederick Thomas LORD"
+  },
+  {
+    "place": 22,
+    "country": "SWE",
+    "mark": "03:02:05.200",
+    "name": "Jacob WESTBERG"
+  },
+  {
+    "place": 23,
+    "country": "NOR",
+    "mark": "03:04:59.400",
+    "name": "Axel G. SIMONSEN"
+  },
+  {
+    "place": 24,
+    "country": "SWE",
+    "mark": "03:06:13.000",
+    "name": "Carl Nicanor ANDERSSON"
+  },
+  {
+    "place": 25,
+    "country": "GBR",
+    "mark": "03:09:25.000",
+    "name": "Edgar William LLOYD"
+  },
+  {
+    "place": 26,
+    "country": "GRE",
+    "mark": "03:11:37.000",
+    "name": "Herkules P. SAKELLAROPOULOS"
+  },
+  {
+    "place": 27,
+    "country": "SWE",
+    "mark": "03:13:32.200",
+    "name": "Hjalmar DAHLBERG"
+  },
+  {
+    "place": 28,
+    "country": "SWE",
+    "mark": "03:16:35.200",
+    "name": "Ivar LUNDBERG"
+  },
+  {
+    "place": 29,
+    "country": "DEN",
+    "mark": "03:21:57.400",
+    "name": "Johannes Laurs CHRISTENSEN"
+  },
+  {
+    "place": 30,
+    "country": "DEN",
+    "mark": "03:21:57.600",
+    "name": "Olaf LODAL"
+  },
+  {
+    "place": 31,
+    "country": "HUN",
+    "mark": "03:25:21.600",
+    "name": "Ödön KARPATI"
+  },
+  {
+    "place": 32,
+    "country": "SWE",
+    "mark": "03:26:56.400",
+    "name": "Carl NILSSON"
+  },
+  {
+    "place": 33,
+    "country": "AUT",
+    "mark": "03:27:03.800",
+    "name": "Emmerich RATH"
+  },
+  {
+    "place": 34,
+    "country": "NOR",
+    "mark": "03:36:35.200",
+    "name": "Otto OSEN"
+  },
+  {
+    "place": 35,
+    "country": "AUS",
+    "mark": "Did not finish",
+    "name": "Stuart POULTER"
+  },
+  {
+    "place": 36,
+    "country": "AUT",
+    "mark": "Did not finish",
+    "name": "Karl HACK"
+  },
+  {
+    "place": 37,
+    "country": "CZE",
+    "mark": "Did not finish",
+    "name": "Boris HONZÁTKO"
+  },
+  {
+    "place": 38,
+    "country": "CZE",
+    "mark": "Did not finish",
+    "name": "Vladimir PENC"
+  },
+  {
+    "place": 39,
+    "country": "CZE",
+    "mark": "Did not finish",
+    "name": "František SLAVÍK"
+  },
+  {
+    "place": 40,
+    "country": "CAN",
+    "mark": "Did not finish",
+    "name": "James CORKERY"
+  },
+  {
+    "place": 41,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Aarne KALLBERG"
+  },
+  {
+    "place": 42,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Taavetti Heikki KOLEHMAINEN"
+  },
+  {
+    "place": 43,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Louis PAUTEX"
+  },
+  {
+    "place": 44,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Henry Fredreick BARRETT"
+  },
+  {
+    "place": 45,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "James George BEALE"
+  },
+  {
+    "place": 46,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Septimus FRANCOM"
+  },
+  {
+    "place": 47,
+    "country": "GBR",
+    "mark": "Did not finish",
+    "name": "Tim KELLAWAY"
+  },
+  {
+    "place": 48,
+    "country": "HUN",
+    "mark": "Did not finish",
+    "name": "Henrik RIPSZAM"
+  },
+  {
+    "place": 49,
+    "country": "ITA",
+    "mark": "Did not finish",
+    "name": "Francesco RUGGERO"
+  },
+  {
+    "place": 50,
+    "country": "ITA",
+    "mark": "Did not finish",
+    "name": "Carlo SPERONI"
+  },
+  {
+    "place": 51,
+    "country": "JPN",
+    "mark": "Did not finish",
+    "name": "Shizo KANAGURI"
+  },
+  {
+    "place": 52,
+    "country": "NOR",
+    "mark": "Did not finish",
+    "name": "Oscar FONBÆK"
+  },
+  {
+    "place": 53,
+    "country": "POR",
+    "mark": "Did not finish",
+    "name": "Francisco LÁZARO"
+  },
+  {
+    "place": 54,
+    "country": "RSA",
+    "mark": "Did not finish",
+    "name": "Arthur ST. NORMAN"
+  },
+  {
+    "place": 55,
+    "country": "RUS",
+    "mark": "Did not finish",
+    "name": "Andrejs KAPMALS"
+  },
+  {
+    "place": 56,
+    "country": "RUS",
+    "mark": "Did not finish",
+    "name": "Andrejs KRUKLINS"
+  },
+  {
+    "place": 57,
+    "country": "RUS",
+    "mark": "Did not finish",
+    "name": "Nikolajs RASSO"
+  },
+  {
+    "place": 58,
+    "country": "RUS",
+    "mark": "Did not finish",
+    "name": "Elmar REIMANN"
+  },
+  {
+    "place": 59,
+    "country": "RUS",
+    "mark": "Did not finish",
+    "name": "Aleksandrs UPMALS"
+  },
+  {
+    "place": 60,
+    "country": "SRB",
+    "mark": "Did not finish",
+    "name": "Dragutin TOMAÅ EVIC"
+  },
+  {
+    "place": 61,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Alexis AHLGREN"
+  },
+  {
+    "place": 62,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "J. Thure BERGVALL"
+  },
+  {
+    "place": 63,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "William GRÜNER"
+  },
+  {
+    "place": 64,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "David GUTTMAN"
+  },
+  {
+    "place": 65,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Ivan LÖNNBERG"
+  },
+  {
+    "place": 66,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Gustaf TÖRNROS"
+  },
+  {
+    "place": 67,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Gavin John Eugene REYNOLDS"
+  },
+  {
+    "place": 68,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Mike RYAN"
+  },
+  {
+    "place": 69,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Jack TAIT"
+  },
+  {
+    "place": 70,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Ali BEN ALLEL"
+  },
+  {
+    "place": 71,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Gaston CAPELLE"
+  },
+  {
+    "place": 72,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Paul COULOND"
+  },
+  {
+    "place": 73,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Jean LESPIELLE"
+  },
+  {
+    "place": 74,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Henri LORGNAT"
+  },
+  {
+    "place": 75,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Edmond NEYRINCK"
+  },
+  {
+    "place": 76,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Ahmed DJEBELIA"
+  },
+  {
+    "place": 77,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Charlie DAVENPORT"
+  },
+  {
+    "place": 78,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "George DAY"
+  },
+  {
+    "place": 79,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Henry LEWIS"
+  },
+  {
+    "place": 80,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Samuel RAYNES"
+  },
+  {
+    "place": 81,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Nino CAZZANIGA"
+  },
+  {
+    "place": 82,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Orlando CESARONI"
+  },
+  {
+    "place": 83,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Alfred NILSEN"
+  },
+  {
+    "place": 84,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Ole OLSEN"
+  },
+  {
+    "place": 85,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Johannes PEDERSEN"
+  },
+  {
+    "place": 86,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Matias DE CARVALHO"
+  },
+  {
+    "place": 87,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Aleksandr KRACHENIN"
+  },
+  {
+    "place": 88,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Iosif ZAYTSEV"
+  },
+  {
+    "place": 89,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "René WILDE"
+  },
+  {
+    "place": 90,
+    "country": "SRB",
+    "mark": "Did not start",
+    "name": "Zivko VASTITSCH"
+  },
+  {
+    "place": 91,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Alexander DECOUTEAU"
+  },
+  {
+    "place": 92,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "George GOULDING"
+  },
+  {
+    "place": 93,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Joe KEEPER"
+  },
+  {
+    "place": 94,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Alfonso SANCHEZ RODRIGUEZ"
+  },
+  {
+    "place": 95,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Gaston HEUET"
+  },
+  {
+    "place": 96,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Len RICHARDSON"
+  },
+  {
+    "place": 97,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Mikhail NIKOLSKY"
+  },
+  {
+    "place": 98,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Nikolay KHORKOV"
+  }
+]

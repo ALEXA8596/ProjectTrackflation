@@ -1,0 +1,248 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "48.200",
+    "name": "Charles Decker REIDPATH"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "48.300",
+    "name": "Hans BRAUN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "48.400",
+    "name": "Ed LINDBERG"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "49.200",
+    "name": "Ted MEREDITH"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "49.500",
+    "name": "Carroll Barse HAFF"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "James HILL"
+  },
+  {
+    "place": 7,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Bernhard VOGEL"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Raymond SALADIN"
+  },
+  {
+    "place": 9,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Alexandre LEAL"
+  },
+  {
+    "place": 10,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Naum FILIMONOV"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Clément MENTREL"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Tivadar KISS"
+  },
+  {
+    "place": 13,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Jack SWEET"
+  },
+  {
+    "place": 14,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Tor ÖSTERLUND"
+  },
+  {
+    "place": 15,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Maurice COLMAN"
+  },
+  {
+    "place": 16,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Ralph CRAIG"
+  },
+  {
+    "place": 17,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Victor JACQUEMIN"
+  },
+  {
+    "place": 18,
+    "country": "CZE",
+    "mark": "Did not start",
+    "name": "Zdenek MESTECKY"
+  },
+  {
+    "place": 19,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "John Armstrong HOWARD"
+  },
+  {
+    "place": 20,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Robert KERR"
+  },
+  {
+    "place": 21,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Federico MUELLER"
+  },
+  {
+    "place": 22,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Leopoldo E. PALMAS"
+  },
+  {
+    "place": 23,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Lauri PIHKALA"
+  },
+  {
+    "place": 24,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Joseph CAULLE"
+  },
+  {
+    "place": 25,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Pierre FAILLIOT"
+  },
+  {
+    "place": 26,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "André FOUSSARD"
+  },
+  {
+    "place": 27,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Gerald Rupert Lawrence ANDERSON"
+  },
+  {
+    "place": 28,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Robert BURTON"
+  },
+  {
+    "place": 29,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Robert Alexander LINDSAY"
+  },
+  {
+    "place": 30,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Duncan MACMILLAN"
+  },
+  {
+    "place": 31,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Karoly RADOCZY"
+  },
+  {
+    "place": 32,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Jan GRIJSEELS"
+  },
+  {
+    "place": 33,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Hermann SOTAAEN"
+  },
+  {
+    "place": 34,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Herberts BAUMANN"
+  },
+  {
+    "place": 35,
+    "country": "RUS",
+    "mark": "Did not start",
+    "name": "Aleksandr SCHULTZ"
+  },
+  {
+    "place": 36,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Erik FRISELL"
+  },
+  {
+    "place": 37,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Karl HAGLUND"
+  },
+  {
+    "place": 38,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Karl August LUTHER"
+  },
+  {
+    "place": 39,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Ture PERSON"
+  },
+  {
+    "place": 40,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Carl Clement COOKE"
+  },
+  {
+    "place": 41,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Hal HEILAND"
+  }
+]

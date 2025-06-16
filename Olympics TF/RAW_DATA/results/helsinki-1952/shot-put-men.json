@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "17.41",
+    "name": "Parry O'BRIEN"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "17.39",
+    "name": "Darrow Clarence HOOPER"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "17.06",
+    "name": "James Emanuel FUCHS"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "16.78",
+    "name": "Otto GRIGALKA"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "16.55",
+    "name": "Roland NILSSON"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "16.19",
+    "name": "John Andrew SAVIDGE"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "16.06",
+    "name": "Georgy FYODOROV"
+  },
+  {
+    "place": 8,
+    "country": "NOR",
+    "mark": "16.02",
+    "name": "Per STAVEM"
+  },
+  {
+    "place": 9,
+    "country": "TCH",
+    "mark": "15.92",
+    "name": "Jiri SKOBLA"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "15.08",
+    "name": "Tadeusz KRZYZANOWSKI"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "14.84",
+    "name": "Lucien GUILLER"
+  },
+  {
+    "place": 12,
+    "country": "ITA",
+    "mark": "14.74",
+    "name": "Angiolo PROFETI"
+  },
+  {
+    "place": 13,
+    "country": "AUT",
+    "mark": "14.45",
+    "name": "Alois SCHWABL"
+  },
+  {
+    "place": 14,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Gino Roy PELLA"
+  },
+  {
+    "place": 15,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Aristidis ROUBANIS"
+  },
+  {
+    "place": 16,
+    "country": "ISL",
+    "mark": "Did not start",
+    "name": "Friðrik GUÐMUNDSSON"
+  },
+  {
+    "place": 17,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Mieczyslaw LOMOWSKI"
+  }
+]

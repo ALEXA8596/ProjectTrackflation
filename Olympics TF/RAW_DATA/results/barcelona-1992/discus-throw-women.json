@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "CUB",
+    "mark": "70.06",
+    "name": "Maritza MARTEN"
+  },
+  {
+    "place": 2,
+    "country": "BUL",
+    "mark": "67.78",
+    "name": "Tzvetanka Pavlova KHRISTOVA"
+  },
+  {
+    "place": 3,
+    "country": "AUS",
+    "mark": "66.24",
+    "name": "Daniela COSTIAN"
+  },
+  {
+    "place": 4,
+    "country": "EUN",
+    "mark": "65.52",
+    "name": "Larisa KOROTKEVICH"
+  },
+  {
+    "place": 5,
+    "country": "EUN",
+    "mark": "64.02",
+    "name": "Olga CHERNYAVSKAYA"
+  },
+  {
+    "place": 6,
+    "country": "CUB",
+    "mark": "63.80",
+    "name": "Hilda Elisa RAMOS MANEZ"
+  },
+  {
+    "place": 7,
+    "country": "EUN",
+    "mark": "63.74",
+    "name": "Iryna YATCHENKO"
+  },
+  {
+    "place": 8,
+    "country": "BUL",
+    "mark": "63.42",
+    "name": "Stefania Svetoslavova SIMOVA"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "62.16",
+    "name": "Ilke WYLUDDA"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "61.22",
+    "name": "Agnese MAFFEIS"
+  },
+  {
+    "place": 11,
+    "country": "CHN",
+    "mark": "60.82",
+    "name": "Chunfeng MIN"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "60.24",
+    "name": "Franka DIETZSCH"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "90.30",
+    "name": "Thomas ROHLER"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "88.24",
+    "name": "Julius YEGO"
+  },
+  {
+    "place": 3,
+    "country": "TTO",
+    "mark": "85.38",
+    "name": "Keshorn WALCOTT"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "85.32",
+    "name": "Johannes VETTER"
+  },
+  {
+    "place": 5,
+    "country": "UKR",
+    "mark": "83.95",
+    "name": "Dmytro KOSYNSKYY"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "83.05",
+    "name": "Antti RUUSKANEN"
+  },
+  {
+    "place": 7,
+    "country": "CZE",
+    "mark": "82.51",
+    "name": "Vitezslav VESELY"
+  },
+  {
+    "place": 8,
+    "country": "CZE",
+    "mark": "82.42",
+    "name": "Jakub VADLEJCH"
+  },
+  {
+    "place": 9,
+    "country": "GER",
+    "mark": "81.36",
+    "name": "Julian WEBER"
+  },
+  {
+    "place": 10,
+    "country": "ARG",
+    "mark": "79.81",
+    "name": "Braian TOLEDO"
+  },
+  {
+    "place": 11,
+    "country": "JPN",
+    "mark": "79.47",
+    "name": "Ryohei ARAI"
+  },
+  {
+    "place": 12,
+    "country": "CZE",
+    "mark": "79.12",
+    "name": "Petr FRYDRYCH"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "CZE",
+    "mark": "71.42",
+    "name": "Barbora SPOTAKOVA"
+  },
+  {
+    "place": 2,
+    "country": "GER",
+    "mark": "66.13",
+    "name": "Christina OBERGFOLL"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "65.75",
+    "name": "Goldie SAYERS"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "65.29",
+    "name": "Steffi NERIUS"
+  },
+  {
+    "place": 5,
+    "country": "CUB",
+    "mark": "63.35",
+    "name": "Osleidys MENENDEZ"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "62.02",
+    "name": "Barbara MADEJCZYK"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "59.64",
+    "name": "Kathrina MOLITOR"
+  },
+  {
+    "place": 8,
+    "country": "ESP",
+    "mark": "58.13",
+    "name": "Mercedes CHILLA"
+  },
+  {
+    "place": 9,
+    "country": "CHN",
+    "mark": "56.14",
+    "name": "Li ZHANG"
+  },
+  {
+    "place": 10,
+    "country": "LAT",
+    "mark": "53.38",
+    "name": "Sinta OZOLINA"
+  },
+  {
+    "place": 11,
+    "country": "ROU",
+    "mark": "53.04",
+    "name": "Felicia ȚILEA-MOLDOVAN"
+  },
+  {
+    "place": 12,
+    "country": "RUS",
+    "mark": "Disqualified",
+    "name": "Maria ABAKUMOVA"
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "TCH",
+    "mark": "50.47",
+    "name": "Dana INGROVA-ZATOPKOVA"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "50.01",
+    "name": "Aleksandra CHUDINA"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "49.76",
+    "name": "Elena GORCHAKOVA"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "48.35",
+    "name": "Galina ZYBINA"
+  },
+  {
+    "place": 5,
+    "country": "DEN",
+    "mark": "46.23",
+    "name": "Lily Marie Louise CARLSTEDT-KELSBY"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "44.37",
+    "name": "Marie-Louise MULLER"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "44.31",
+    "name": "Maria CIACH-MICHALAK"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "44.30",
+    "name": "Judith (Jutta) KRUGER"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "42.54",
+    "name": "Hermine (Herma) BAUMA"
+  },
+  {
+    "place": 10,
+    "country": "URU",
+    "mark": "41.44",
+    "name": "Estrella PUENTE"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "41.20",
+    "name": "Ada TURCI"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "41.16",
+    "name": "Ingeborg (Inge) BAUSENWEIN-PLANK"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "40.58",
+    "name": "Marjorie Lea LARNEY"
+  },
+  {
+    "place": 14,
+    "country": "FIN",
+    "mark": "40.56",
+    "name": "Eeva Anni RAATYA"
+  },
+  {
+    "place": 15,
+    "country": "GBR",
+    "mark": "40.17",
+    "name": "Diana COATES"
+  },
+  {
+    "place": 16,
+    "country": "FIN",
+    "mark": "39.82",
+    "name": "Kaisa PARVIAINEN"
+  },
+  {
+    "place": 17,
+    "country": "FIN",
+    "mark": "39.58",
+    "name": "Elsa Lempi TORIKKA"
+  }
+]

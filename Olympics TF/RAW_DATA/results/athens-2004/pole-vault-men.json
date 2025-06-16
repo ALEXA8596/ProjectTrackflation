@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "5.95",
+    "name": "Timothy MACK"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "5.90",
+    "name": "Toby STEVENSON"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "5.85",
+    "name": "Giuseppe GIBILISCO"
+  },
+  {
+    "place": 4,
+    "country": "RUS",
+    "mark": "5.80",
+    "name": "Igor PAVLOV"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "5.75",
+    "name": "Daniel ECKER"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "5.75",
+    "name": "Lars BOERGELING"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "5.75",
+    "name": "Derek MILES"
+  },
+  {
+    "place": 8,
+    "country": "ISR",
+    "mark": "5.65",
+    "name": "Alexander AVERBUKH"
+  },
+  {
+    "place": 9,
+    "country": "NED",
+    "mark": "5.65",
+    "name": "Rens BLOM"
+  },
+  {
+    "place": 10,
+    "country": "UKR",
+    "mark": "5.65",
+    "name": "Denys YURCHENKO"
+  },
+  {
+    "place": 11,
+    "country": "AUS",
+    "mark": "5.55",
+    "name": "Paul BURGESS"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "5.55",
+    "name": "Tim LOBINGER"
+  },
+  {
+    "place": 13,
+    "country": "JPN",
+    "mark": "5.55",
+    "name": "Daichi SAWANO"
+  },
+  {
+    "place": 14,
+    "country": "RUS",
+    "mark": "5.55",
+    "name": "Pavel GERASIMOV"
+  },
+  {
+    "place": 15,
+    "country": "UKR",
+    "mark": "5.55",
+    "name": "Ruslan YEREMENKO"
+  },
+  {
+    "place": 16,
+    "country": "UKR",
+    "mark": "5.55",
+    "name": "Oleksandr KORCHMID"
+  },
+  {
+    "place": 17,
+    "country": "UZB",
+    "mark": "Did not start",
+    "name": "Leonid ANDREEV"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "BUL",
+    "mark": "17.61",
+    "name": "Khristo Gantchev MARKOV"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "17.52",
+    "name": "Igor LAPSHIN"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "17.42",
+    "name": "Alexandre KOVALENKO"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "17.38",
+    "name": "Oleg PROTSENKO"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "17.29",
+    "name": "Charles SIMPKINS"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "17.03",
+    "name": "William Augustus III BANKS"
+  },
+  {
+    "place": 7,
+    "country": "TCH",
+    "mark": "16.75",
+    "name": "Ivan SLAMAR"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "16.72",
+    "name": "Jacek PASTUSINSKI"
+  },
+  {
+    "place": 9,
+    "country": "NGR",
+    "mark": "16.46",
+    "name": "Joseph TAIWO"
+  },
+  {
+    "place": 10,
+    "country": "BAH",
+    "mark": "16.19",
+    "name": "Norbert ELLIOTT"
+  },
+  {
+    "place": 11,
+    "country": "BEL",
+    "mark": "16.17",
+    "name": "Didier FALISE"
+  },
+  {
+    "place": 12,
+    "country": "JPN",
+    "mark": "15.62",
+    "name": "Norifumi YAMASHITA"
+  },
+  {
+    "place": 13,
+    "country": "ANT",
+    "mark": "Did not start",
+    "name": "James BROWNE"
+  },
+  {
+    "place": 14,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Bela BAKOSI"
+  }
+]

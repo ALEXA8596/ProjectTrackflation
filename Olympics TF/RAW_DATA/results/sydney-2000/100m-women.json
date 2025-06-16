@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "GRE",
+    "mark": "11.120",
+    "name": "Aikaterini THANOU"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "11.180",
+    "name": "Tanya LAWRENCE"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "11.190",
+    "name": "Merlene OTTEY-PAGE"
+  },
+  {
+    "place": 4,
+    "country": "UKR",
+    "mark": "11.200",
+    "name": "Zhanna PINTUSEVYCH"
+  },
+  {
+    "place": 5,
+    "country": "BAH",
+    "mark": "11.210",
+    "name": "Chandra STURRUP"
+  },
+  {
+    "place": 6,
+    "country": "BAH",
+    "mark": "11.220",
+    "name": "Sevatheda FYNES"
+  },
+  {
+    "place": 7,
+    "country": "BAH",
+    "mark": "11.290",
+    "name": "Debbie FERGUSON-MCKENZIE"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "Disqualified",
+    "name": "Marion JONES"
+  }
+]

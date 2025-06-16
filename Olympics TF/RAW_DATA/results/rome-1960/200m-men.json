@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "20.500",
+    "name": "Livio BERRUTI"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "20.600",
+    "name": "Les CARNEY"
+  },
+  {
+    "place": 3,
+    "country": "FRA",
+    "mark": "20.700",
+    "name": "Abdoulaye SEYE"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "20.800",
+    "name": "Marian FOIK"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "20.800",
+    "name": "Stone Edward JOHNSON"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "20.900",
+    "name": "Otis Ray NORTON"
+  },
+  {
+    "place": 7,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Harry Winston JEROME"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Enrique FIGUEROLA CAMUE"
+  },
+  {
+    "place": 9,
+    "country": "ETH",
+    "mark": "Did not start",
+    "name": "Abebe HAILOU"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Armin HARY"
+  },
+  {
+    "place": 11,
+    "country": "ISL",
+    "mark": "Did not start",
+    "name": "Hilmar ROGNVALDSSON"
+  },
+  {
+    "place": 12,
+    "country": "LBR",
+    "mark": "Did not start",
+    "name": "Emmanuel Gbecy PUTU"
+  },
+  {
+    "place": 13,
+    "country": "PAK",
+    "mark": "Did not start",
+    "name": "Iftikhar SHAH"
+  },
+  {
+    "place": 14,
+    "country": "THA",
+    "mark": "Did not start",
+    "name": "Suthi MANYAKAS"
+  }
+]

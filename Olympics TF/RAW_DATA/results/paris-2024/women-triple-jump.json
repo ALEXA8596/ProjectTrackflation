@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "DMA",
+    "mark": "15.02",
+    "name": "Thea LAFOND"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "14.87",
+    "name": "Shanieka THOMAS"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "14.67",
+    "name": "Jasmine MOORE"
+  },
+  {
+    "place": 4,
+    "country": "CUB",
+    "mark": "14.64",
+    "name": "Liadagmis POVEA"
+  },
+  {
+    "place": 5,
+    "country": "CUB",
+    "mark": "14.62",
+    "name": "Leyanis PEREZ"
+  },
+  {
+    "place": 6,
+    "country": "ESP",
+    "mark": "14.59",
+    "name": "Ana PELETEIRO"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "14.42",
+    "name": "Ackelia SMITH"
+  },
+  {
+    "place": 8,
+    "country": "ITA",
+    "mark": "14.14",
+    "name": "Dariya DERKACH"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "14.05",
+    "name": "Keturah ORJI"
+  },
+  {
+    "place": 10,
+    "country": "ROU",
+    "mark": "14.03",
+    "name": "Elena Andreea TALOS"
+  },
+  {
+    "place": 11,
+    "country": "UKR",
+    "mark": "13.98",
+    "name": "Maryna BEKH-ROMANCHUK"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "13.78",
+    "name": "Ilionis GUILLAUME"
+  }
+]

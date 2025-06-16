@@ -1,0 +1,158 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "2.12",
+    "name": "Charles Everett DUMAS"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "2.10",
+    "name": "Charles Michael PORTER"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "2.08",
+    "name": "Igor KASHKAROV"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "2.06",
+    "name": "Stig PETTERSSON"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "2.03",
+    "name": "Kenneth E. MONEY"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "2.00",
+    "name": "Vladimir SITKIN"
+  },
+  {
+    "place": 7,
+    "country": "AUS",
+    "mark": "2.00",
+    "name": "Colon Edwin RIDGEWAY"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "2.00",
+    "name": "Philip Martin REAVIS"
+  },
+  {
+    "place": 9,
+    "country": "NGR",
+    "mark": "2.00",
+    "name": "Julius Obiefuna CHIGBOLU"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "2.00",
+    "name": "Vernon Troylee WILSON"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "1.96",
+    "name": "Maurice FOURNIER"
+  },
+  {
+    "place": 12,
+    "country": "JPN",
+    "mark": "1.96",
+    "name": "Yukio ISHIKAWA"
+  },
+  {
+    "place": 13,
+    "country": "UGA",
+    "mark": "1.96",
+    "name": "Patrick ETOLU"
+  },
+  {
+    "place": 14,
+    "country": "IND",
+    "mark": "1.96",
+    "name": "Ajit SINGH"
+  },
+  {
+    "place": 15,
+    "country": "JAM",
+    "mark": "1.96",
+    "name": "Ernest Leighton HAISLEY"
+  },
+  {
+    "place": 16,
+    "country": "GBR",
+    "mark": "1.96",
+    "name": "Peter WELLS"
+  },
+  {
+    "place": 17,
+    "country": "PHI",
+    "mark": "1.92",
+    "name": "Ciriaco BARONDA"
+  },
+  {
+    "place": 18,
+    "country": "KEN",
+    "mark": "1.92",
+    "name": "Joseph LERESAE"
+  },
+  {
+    "place": 19,
+    "country": "NGR",
+    "mark": "1.92",
+    "name": "Vincent Ikechuka GABRIEL"
+  },
+  {
+    "place": 20,
+    "country": "TPE",
+    "mark": "1.86",
+    "name": "Chuan-Kwang YANG"
+  },
+  {
+    "place": 21,
+    "country": "BRA",
+    "mark": "1.86",
+    "name": "José TELLES DA CONCEIÇÃO"
+  },
+  {
+    "place": 22,
+    "country": "SRI",
+    "mark": "1.86",
+    "name": "Nagalingam ETHIRVEERASINGAM"
+  },
+  {
+    "place": 23,
+    "country": "PUR",
+    "mark": "Did not start",
+    "name": "Víctor CARMONA"
+  },
+  {
+    "place": 24,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "Brendan O'REILLY"
+  },
+  {
+    "place": 25,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Walter Andre HERSSENS"
+  },
+  {
+    "place": 26,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "Richard Clement ESTICK"
+  }
+]

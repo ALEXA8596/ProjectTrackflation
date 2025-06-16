@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "53.130",
+    "name": "Dalilah MUHAMMAD"
+  },
+  {
+    "place": 2,
+    "country": "DEN",
+    "mark": "53.550",
+    "name": "Sara Slott PETERSEN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "53.720",
+    "name": "Ashley SPENCER"
+  },
+  {
+    "place": 4,
+    "country": "CZE",
+    "mark": "53.920",
+    "name": "Zuzana HEJNOVA"
+  },
+  {
+    "place": 5,
+    "country": "JAM",
+    "mark": "54.150",
+    "name": "Ristananna TRACEY"
+  },
+  {
+    "place": 6,
+    "country": "JAM",
+    "mark": "54.450",
+    "name": "Leah NUGENT"
+  },
+  {
+    "place": 7,
+    "country": "JAM",
+    "mark": "54.560",
+    "name": "Janieve RUSSELL"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "54.610",
+    "name": "Eilidh DOYLE"
+  }
+]

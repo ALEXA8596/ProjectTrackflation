@@ -1,0 +1,38 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "11.900",
+    "name": "Stanislawa WALASIEWICZ"
+  },
+  {
+    "place": 2,
+    "country": "CAN",
+    "mark": "11.900",
+    "name": "Hilda STRIKE-SISSON"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "12.000",
+    "name": "Wilhelmina VON BREMEN"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "12.200",
+    "name": "Marie DÖLLINGER"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "12.300",
+    "name": "Eileen May HISCOCK"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "12.300",
+    "name": "Elizabeth WILDE-KINNARD"
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "59.18",
+    "name": "Alfred OERTER"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "58.02",
+    "name": "Richard Aldrich BABKA"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "57.16",
+    "name": "Richard Lee COCHRAN"
+  },
+  {
+    "place": 4,
+    "country": "HUN",
+    "mark": "55.79",
+    "name": "Jozsef SZECSENYI"
+  },
+  {
+    "place": 5,
+    "country": "POL",
+    "mark": "55.12",
+    "name": "Edmund PIATKOWSKI"
+  },
+  {
+    "place": 6,
+    "country": "URS",
+    "mark": "55.06",
+    "name": "Viktor KOMPANEETS"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "54.00",
+    "name": "Carmelo RADO"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "53.61",
+    "name": "Kim BUKHANTSOV"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "53.44",
+    "name": "Pentti REPO"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "53.37",
+    "name": "Ferenc KLICS"
+  },
+  {
+    "place": 11,
+    "country": "NOR",
+    "mark": "53.36",
+    "name": "Stein Erik HAUGEN"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "53.33",
+    "name": "Lothar MILDE"
+  },
+  {
+    "place": 13,
+    "country": "TCH",
+    "mark": "53.29",
+    "name": "Zdenek CIHAK"
+  },
+  {
+    "place": 14,
+    "country": "POL",
+    "mark": "53.18",
+    "name": "Zenon BEGIER"
+  },
+  {
+    "place": 15,
+    "country": "URS",
+    "mark": "52.93",
+    "name": "Vladimir TRUSENEV"
+  },
+  {
+    "place": 16,
+    "country": "GER",
+    "mark": "52.69",
+    "name": "Manfred GRIESER"
+  },
+  {
+    "place": 17,
+    "country": "ITA",
+    "mark": "52.44",
+    "name": "Adolfo CONSOLINI"
+  },
+  {
+    "place": 18,
+    "country": "GRE",
+    "mark": "52.42",
+    "name": "Antonios KOUNADIS"
+  },
+  {
+    "place": 19,
+    "country": "TCH",
+    "mark": "52.14",
+    "name": "Zdenek NEMEC"
+  },
+  {
+    "place": 20,
+    "country": "BUL",
+    "mark": "52.12",
+    "name": "Todor Artarski TODOROV"
+  },
+  {
+    "place": 21,
+    "country": "AUS",
+    "mark": "49.34",
+    "name": "Warren Perrins SELVEY"
+  },
+  {
+    "place": 22,
+    "country": "NED",
+    "mark": "49.21",
+    "name": "Cornelis KOCH"
+  },
+  {
+    "place": 23,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Herbert EGERMANN"
+  },
+  {
+    "place": 24,
+    "country": "ISR",
+    "mark": "Did not start",
+    "name": "Gideon ARIEL"
+  },
+  {
+    "place": 25,
+    "country": "LBN",
+    "mark": "Did not start",
+    "name": "Salem EL-JISR"
+  }
+]

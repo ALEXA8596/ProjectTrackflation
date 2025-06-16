@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:01:56.380",
+    "name": "Kelly HOLMES"
+  },
+  {
+    "place": 2,
+    "country": "MAR",
+    "mark": "00:01:56.430",
+    "name": "Hasna BENHASSI"
+  },
+  {
+    "place": 3,
+    "country": "SLO",
+    "mark": "00:01:56.430",
+    "name": "Jolanda CEPLAK"
+  },
+  {
+    "place": 4,
+    "country": "MOZ",
+    "mark": "00:01:56.510",
+    "name": "Maria MUTOLA"
+  },
+  {
+    "place": 5,
+    "country": "RUS",
+    "mark": "00:01:56.880",
+    "name": "Tatyana ANDRIANOVA"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:01:57.270",
+    "name": "Jearl MILES CLARK"
+  },
+  {
+    "place": 7,
+    "country": "ROU",
+    "mark": "00:01:59.620",
+    "name": "Maria CIONCAN"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "00:02:00.950",
+    "name": "Zulia CALATAYUD"
+  }
+]

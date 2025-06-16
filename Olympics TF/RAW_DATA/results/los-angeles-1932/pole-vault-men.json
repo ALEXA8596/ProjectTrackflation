@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "4.315",
+    "name": "William Waring MILLER"
+  },
+  {
+    "place": 2,
+    "country": "JPN",
+    "mark": "4.30",
+    "name": "Shuhei NISHIDA"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "4.20",
+    "name": "George G. JEFFERSON"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "4.15",
+    "name": "William Noe GRABER"
+  },
+  {
+    "place": 5,
+    "country": "JPN",
+    "mark": "4.00",
+    "name": "Shizuo MOCHIZUKI"
+  },
+  {
+    "place": 6,
+    "country": "BRA",
+    "mark": "3.90",
+    "name": "Lucio Almeida DE CASTRO GOLCALVES"
+  },
+  {
+    "place": 7,
+    "country": "GRE",
+    "mark": "3.75",
+    "name": "Peter CLENTZOS"
+  },
+  {
+    "place": 8,
+    "country": "BRA",
+    "mark": "NH",
+    "name": "Carlos Joel NELLI"
+  },
+  {
+    "place": 9,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Carlos WOEBCKEN"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "00:08:07.120",
+    "name": "Joseph KETER"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:08:08.330",
+    "name": "Moses KIPTANUI"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "00:08:11.280",
+    "name": "Alessandro LAMBRUSCHINI"
+  },
+  {
+    "place": 4,
+    "country": "KEN",
+    "mark": "00:08:17.180",
+    "name": "Mathew BIRIR"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:08:17.840",
+    "name": "Mark Duane CROGHAN"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "00:08:18.520",
+    "name": "Steffen BRAND"
+  },
+  {
+    "place": 7,
+    "country": "MAR",
+    "mark": "00:08:23.130",
+    "name": "Brahim BOULAMI"
+  },
+  {
+    "place": 8,
+    "country": "NOR",
+    "mark": "00:08:23.390",
+    "name": "Jim SVENOY"
+  },
+  {
+    "place": 9,
+    "country": "ITA",
+    "mark": "00:08:29.670",
+    "name": "Angelo CAROSI"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "00:08:30.310",
+    "name": "Martin STREGE"
+  },
+  {
+    "place": 11,
+    "country": "MAR",
+    "mark": "00:08:46.220",
+    "name": "Hicham BOUAOUICHE"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "00:09:51.960",
+    "name": "Marc DAVIS"
+  }
+]

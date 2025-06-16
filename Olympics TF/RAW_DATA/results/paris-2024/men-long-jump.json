@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GRE",
+    "mark": "8.48",
+    "name": "Miltiadis TENTOGLOU"
+  },
+  {
+    "place": 2,
+    "country": "JAM",
+    "mark": "8.36",
+    "name": "Wayne PINNOCK"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "8.34",
+    "name": "Mattia FURLANI"
+  },
+  {
+    "place": 4,
+    "country": "SUI",
+    "mark": "8.20",
+    "name": "Simon EHAMMER"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "8.14",
+    "name": "Jacob FINCHAM-DUKES"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "8.07",
+    "name": "Simon BATZ"
+  },
+  {
+    "place": 7,
+    "country": "CHN",
+    "mark": "8.07",
+    "name": "Mingkun ZHANG"
+  },
+  {
+    "place": 8,
+    "country": "CHN",
+    "mark": "8.03",
+    "name": "Jianan WANG"
+  },
+  {
+    "place": 9,
+    "country": "CRO",
+    "mark": "7.90",
+    "name": "Filip PRAVDICA"
+  },
+  {
+    "place": 10,
+    "country": "CZE",
+    "mark": "7.83",
+    "name": "Radek JUSKA"
+  },
+  {
+    "place": 11,
+    "country": "COL",
+    "mark": "7.83",
+    "name": "Arnovis DALMERO"
+  },
+  {
+    "place": 12,
+    "country": "JAM",
+    "mark": "7.82",
+    "name": "Carey MCLEOD"
+  }
+]

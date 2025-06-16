@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:03:57.900",
+    "name": "Kelly HOLMES"
+  },
+  {
+    "place": 2,
+    "country": "RUS",
+    "mark": "00:03:58.120",
+    "name": "Tatyana TOMASHOVA"
+  },
+  {
+    "place": 3,
+    "country": "ROU",
+    "mark": "00:03:58.390",
+    "name": "Maria CIONCAN"
+  },
+  {
+    "place": 4,
+    "country": "RUS",
+    "mark": "00:03:59.050",
+    "name": "Natalya YEVDOKIMOVA"
+  },
+  {
+    "place": 5,
+    "country": "BUL",
+    "mark": "00:03:59.100",
+    "name": "Daniela YORDANOVA"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "00:03:59.270",
+    "name": "Lidia CHOJECKA"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "00:04:00.150",
+    "name": "Anna JAKUBCZAK-PAWELEC"
+  },
+  {
+    "place": 8,
+    "country": "TUR",
+    "mark": "00:04:00.670",
+    "name": "Elvan ABEYLEGESSE"
+  },
+  {
+    "place": 9,
+    "country": "CAN",
+    "mark": "00:04:02.310",
+    "name": "Carmen DOUMA-HUSSAR"
+  },
+  {
+    "place": 10,
+    "country": "ESP",
+    "mark": "00:04:03.010",
+    "name": "Natalia RODRIGUEZ"
+  },
+  {
+    "place": 11,
+    "country": "RUS",
+    "mark": "00:04:05.650",
+    "name": "Olga YEGOROVA"
+  },
+  {
+    "place": 12,
+    "country": "MAR",
+    "mark": "00:04:12.900",
+    "name": "Hasna BENHASSI"
+  },
+  {
+    "place": 13,
+    "country": "MAR",
+    "mark": "Did not start",
+    "name": "Bouchra GHÉZIELLE"
+  },
+  {
+    "place": 14,
+    "country": "ANG",
+    "mark": "Did not start",
+    "name": "Rosa SAUL"
+  },
+  {
+    "place": 15,
+    "country": "ALG",
+    "mark": "Did not start",
+    "name": "Nouria MERAH-BENIDA"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "FRA",
+    "mark": "13.75",
+    "name": "Micheline OSTERMEYER"
+  },
+  {
+    "place": 2,
+    "country": "ITA",
+    "mark": "13.095",
+    "name": "Amelia PICCININI"
+  },
+  {
+    "place": 3,
+    "country": "AUT",
+    "mark": "13.08",
+    "name": "Ine SCHÄFFER-MAYER"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "12.985",
+    "name": "Paulette VESTE"
+  },
+  {
+    "place": 5,
+    "country": "TCH",
+    "mark": "12.92",
+    "name": "Jaroslava KOMARKOVA-KRITKOVA"
+  },
+  {
+    "place": 6,
+    "country": "AUT",
+    "mark": "12.50",
+    "name": "Anni BRUK"
+  },
+  {
+    "place": 7,
+    "country": "YUG",
+    "mark": "12.355",
+    "name": "Marija RADOSAVLJEVIC"
+  },
+  {
+    "place": 8,
+    "country": "GBR",
+    "mark": "12.17",
+    "name": "Bevis Anael REID"
+  },
+  {
+    "place": 9,
+    "country": "ARG",
+    "mark": "12.085",
+    "name": "Ingeborg MELLO DE PREISS"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "12.03",
+    "name": "Paulette LAURENT"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "11.84",
+    "name": "Eivor OLSSON"
+  },
+  {
+    "place": 12,
+    "country": "AUT",
+    "mark": "11.775",
+    "name": "Marianne SCHLÄGER"
+  },
+  {
+    "place": 13,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Julija MATEJ"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "UKR",
+    "mark": "2.00",
+    "name": "Yaroslava MAHUCHIKH"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "2.00",
+    "name": "Nicola MCDERMOTT"
+  },
+  {
+    "place": 3,
+    "country": "UKR",
+    "mark": "1.95",
+    "name": "Iryna GERASHCHENKO"
+  },
+  {
+    "place": 4,
+    "country": "AUS",
+    "mark": "1.95",
+    "name": "Eleanor PATTERSON"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "1.95",
+    "name": "Vashti CUNNINGHAM"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "1.95",
+    "name": "Christina HONSEL"
+  },
+  {
+    "place": 7,
+    "country": "CYP",
+    "mark": "1.95",
+    "name": "Elena KULICHENKO"
+  },
+  {
+    "place": 8,
+    "country": "UZB",
+    "mark": "1.95",
+    "name": "Safina SADULLAYEVA"
+  },
+  {
+    "place": 9,
+    "country": "GRE",
+    "mark": "1.86",
+    "name": "Tatiana GUSIN"
+  },
+  {
+    "place": 10,
+    "country": "TUR",
+    "mark": "1.86",
+    "name": "Buse SAVASKAN"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "1.86",
+    "name": "Nawal MENIKER"
+  },
+  {
+    "place": 12,
+    "country": "SRB",
+    "mark": "Did not start",
+    "name": "Angelina TOPIC"
+  }
+]

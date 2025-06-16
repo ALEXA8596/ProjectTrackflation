@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "00:13:11.700",
+    "name": "John NGUGI"
+  },
+  {
+    "place": 2,
+    "country": "FRG",
+    "mark": "00:13:15.520",
+    "name": "Dieter BAUMANN"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "00:13:15.730",
+    "name": "Hansjörg KUNZE"
+  },
+  {
+    "place": 4,
+    "country": "POR",
+    "mark": "00:13:16.090",
+    "name": "Domingos CASTRO"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:13:23.690",
+    "name": "Sydney MAREE"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "00:13:23.850",
+    "name": "Jack Richard BUCKNER"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "00:13:26.170",
+    "name": "Stefano MEI"
+  },
+  {
+    "place": 8,
+    "country": "BUL",
+    "mark": "00:13:26.410",
+    "name": "Evgeni Ignatov IGNATOV"
+  },
+  {
+    "place": 9,
+    "country": "IRL",
+    "mark": "00:13:27.710",
+    "name": "John DOHERTY"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "00:13:30.440",
+    "name": "Jonny DANIELSON"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "00:13:31.990",
+    "name": "Pascal THIEBAULT"
+  },
+  {
+    "place": 12,
+    "country": "KEN",
+    "mark": "00:13:52.010",
+    "name": "Yobes ONDIEKI"
+  },
+  {
+    "place": 13,
+    "country": "GBR",
+    "mark": "00:13:55.000",
+    "name": "Gary Martin STAINES"
+  },
+  {
+    "place": 14,
+    "country": "FRA",
+    "mark": "00:14:13.190",
+    "name": "Paul ARPIN"
+  },
+  {
+    "place": 15,
+    "country": "POR",
+    "mark": "Did not finish",
+    "name": "Jose REGALO"
+  },
+  {
+    "place": 16,
+    "country": "FIJ",
+    "mark": "Did not start",
+    "name": "Davendra Prakash SINGH"
+  }
+]

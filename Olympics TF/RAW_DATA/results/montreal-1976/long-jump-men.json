@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "8.35",
+    "name": "Arnie ROBINSON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "8.11",
+    "name": "Randel Luvelle WILLIAMS"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "8.02",
+    "name": "Frank WARTENBERG"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "8.00",
+    "name": "Jacques ROUSSEAU"
+  },
+  {
+    "place": 5,
+    "country": "BRA",
+    "mark": "8.00",
+    "name": "Joao Carlos DE OLIVEIRA"
+  },
+  {
+    "place": 6,
+    "country": "YUG",
+    "mark": "7.89",
+    "name": "Nenad STEKIC"
+  },
+  {
+    "place": 7,
+    "country": "URS",
+    "mark": "7.88",
+    "name": "Valery PODLUZHNY"
+  },
+  {
+    "place": 8,
+    "country": "FRG",
+    "mark": "7.84",
+    "name": "Hans BAUMGARTNER"
+  },
+  {
+    "place": 9,
+    "country": "SUI",
+    "mark": "7.74",
+    "name": "Rolf BERNHARD"
+  },
+  {
+    "place": 10,
+    "country": "URS",
+    "mark": "7.66",
+    "name": "Aleksei PEREVERZEV"
+  },
+  {
+    "place": 11,
+    "country": "BAH",
+    "mark": "7.61",
+    "name": "Fletcher LEWIS"
+  }
+]

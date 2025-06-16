@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:03:36.330",
+    "name": "Pekka VASALA"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:03:36.810",
+    "name": "Kipchoge KEINO"
+  },
+  {
+    "place": 3,
+    "country": "NZL",
+    "mark": "00:03:37.460",
+    "name": "Rodney DIXON"
+  },
+  {
+    "place": 4,
+    "country": "KEN",
+    "mark": "00:03:38.410",
+    "name": "Mike BOIT"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:03:39.020",
+    "name": "Brendan FOSTER"
+  },
+  {
+    "place": 6,
+    "country": "BEL",
+    "mark": "00:03:39.050",
+    "name": "Herman MIGNON"
+  },
+  {
+    "place": 7,
+    "country": "FRG",
+    "mark": "00:03:40.080",
+    "name": "Paul-Heinz WELLMANN"
+  },
+  {
+    "place": 8,
+    "country": "URS",
+    "mark": "00:03:40.240",
+    "name": "Vladimir PANTELEY"
+  },
+  {
+    "place": 9,
+    "country": "NZL",
+    "mark": "00:03:41.800",
+    "name": "Anthony POLHILL"
+  },
+  {
+    "place": 10,
+    "country": "DEN",
+    "mark": "00:03:46.600",
+    "name": "Tom Birger HANSEN"
+  },
+  {
+    "place": 11,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Bram WASSENAAR"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Robert LEBORGNE"
+  },
+  {
+    "place": 13,
+    "country": "LBN",
+    "mark": "Did not start",
+    "name": "Kassem HAMZE"
+  },
+  {
+    "place": 14,
+    "country": "URS",
+    "mark": "Did not start",
+    "name": "Yevgeni ARZHANOV"
+  },
+  {
+    "place": 15,
+    "country": "ZAM",
+    "mark": "Did not start",
+    "name": "Benson MULOMBA"
+  }
+]

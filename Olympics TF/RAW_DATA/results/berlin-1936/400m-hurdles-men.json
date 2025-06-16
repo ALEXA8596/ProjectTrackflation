@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "52.400",
+    "name": "Glenn Foster HARDIN"
+  },
+  {
+    "place": 2,
+    "country": "CAN",
+    "mark": "52.700",
+    "name": "John Wilfred LOARING"
+  },
+  {
+    "place": 3,
+    "country": "PHI",
+    "mark": "52.800",
+    "name": "Miguel S. WHITE"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "53.000",
+    "name": "Joseph Hester PATTERSON"
+  },
+  {
+    "place": 5,
+    "country": "BRA",
+    "mark": "54.000",
+    "name": "Sylvio DE MAGALHAES PADILHA"
+  },
+  {
+    "place": 6,
+    "country": "GRE",
+    "mark": "54.200",
+    "name": "Khristos MANTIKAS"
+  },
+  {
+    "place": 7,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Bruno LEU"
+  },
+  {
+    "place": 8,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Lawrence Gerard O'CONNOR"
+  },
+  {
+    "place": 9,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Svend Aage THOMSEN"
+  },
+  {
+    "place": 10,
+    "country": "EGY",
+    "mark": "Did not start",
+    "name": "Abu Al-yazid EL-HALAWANI"
+  },
+  {
+    "place": 11,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Andries BECKER"
+  },
+  {
+    "place": 12,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Pelle PERSSON"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "10.600",
+    "name": "Harold ABRAHAMS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.700",
+    "name": "Jackson SCHOLZ"
+  },
+  {
+    "place": 3,
+    "country": "NZL",
+    "mark": "10.800",
+    "name": "Arthur PORRITT"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "10.900",
+    "name": "Chester BOWMAN"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "10.900",
+    "name": "Charles PADDOCK"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "11.000",
+    "name": "Loren MURCHISON"
+  },
+  {
+    "place": 7,
+    "country": "EST",
+    "mark": "Did not start",
+    "name": "Herbert KUTTIM"
+  },
+  {
+    "place": 8,
+    "country": "PHI",
+    "mark": "Did not start",
+    "name": "Fortunato CATALON"
+  },
+  {
+    "place": 9,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Bohus FLEISCHER"
+  },
+  {
+    "place": 10,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Said ODYAK"
+  },
+  {
+    "place": 11,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Johannes BROCK"
+  },
+  {
+    "place": 12,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Rudolf RAUCH"
+  },
+  {
+    "place": 13,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Narciso Valdares COSTA"
+  },
+  {
+    "place": 14,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Leo Thorkild Oscar JÖRGENSEN"
+  },
+  {
+    "place": 15,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Christopher Lodwijk STEYN"
+  },
+  {
+    "place": 16,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Jaroslav VYKOUPIL"
+  },
+  {
+    "place": 17,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Stane PERPAR"
+  },
+  {
+    "place": 18,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Aleksa SPAHIC"
+  }
+]

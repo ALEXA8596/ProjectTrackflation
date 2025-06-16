@@ -1,0 +1,110 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "56.36",
+    "name": "Alfred OERTER"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "54.81",
+    "name": "Fortune Edward GORDIEN"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "54.40",
+    "name": "Desmond Dalworth KOCH"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "54.27",
+    "name": "Mark PHARAOH"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "52.37",
+    "name": "Otto GRIGALKA"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "52.21",
+    "name": "Adolfo CONSOLINI"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "51.82",
+    "name": "Ferenc KLICS"
+  },
+  {
+    "place": 8,
+    "country": "YUG",
+    "mark": "51.69",
+    "name": "Dako RADOSEVIC"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "51.38",
+    "name": "Boris MATVEYEV"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "50.72",
+    "name": "Gerald Anthony CARR"
+  },
+  {
+    "place": 11,
+    "country": "ARG",
+    "mark": "49.89",
+    "name": "Günther KRUSE"
+  },
+  {
+    "place": 12,
+    "country": "URS",
+    "mark": "48.58",
+    "name": "Kim BUKHANTSOV"
+  },
+  {
+    "place": 13,
+    "country": "RSA",
+    "mark": "48.49",
+    "name": "Stephanus Johannes DU PLESSIS"
+  },
+  {
+    "place": 14,
+    "country": "SWE",
+    "mark": "48.28",
+    "name": "Erik UDDEBOM"
+  },
+  {
+    "place": 15,
+    "country": "FIJ",
+    "mark": "47.24",
+    "name": "Mesulami RAKURO"
+  },
+  {
+    "place": 16,
+    "country": "CHI",
+    "mark": "46.00",
+    "name": "Hernan HADDAD"
+  },
+  {
+    "place": 17,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Todor Artarski TODOROV"
+  },
+  {
+    "place": 18,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "William Barclay PALMER"
+  }
+]

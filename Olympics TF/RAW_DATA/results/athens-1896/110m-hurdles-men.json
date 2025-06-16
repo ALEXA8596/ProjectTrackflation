@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "17.600",
+    "name": "Tom CURTIS"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "at 0.05 metres",
+    "name": "Grantley GOULDING"
+  },
+  {
+    "place": 3,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Pál PÉTHY"
+  },
+  {
+    "place": 4,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Konstantinos MOURATIS"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Fred LORD"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Fritz TRAUN"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Fritz HOFMANN"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Harald ARBIN"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Henrik SJÖBERG"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "James Brendan CONNOLLY"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Charles VANONI"
+  }
+]

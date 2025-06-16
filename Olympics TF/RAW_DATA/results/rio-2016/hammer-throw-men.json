@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "TJK",
+    "mark": "78.68",
+    "name": "Dilshod NAZAROV"
+  },
+  {
+    "place": 2,
+    "country": "BLR",
+    "mark": "77.79",
+    "name": "Ivan TIKHON"
+  },
+  {
+    "place": 3,
+    "country": "POL",
+    "mark": "77.73",
+    "name": "Wojciech NOWICKI"
+  },
+  {
+    "place": 4,
+    "country": "MEX",
+    "mark": "76.05",
+    "name": "Diego DEL REAL"
+  },
+  {
+    "place": 5,
+    "country": "SVK",
+    "mark": "75.97",
+    "name": "Marcel LOMNICKY"
+  },
+  {
+    "place": 6,
+    "country": "QAT",
+    "mark": "75.46",
+    "name": "Ashraf Amgad ELSEIFY"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "75.28",
+    "name": "Krisztian PARS"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "74.61",
+    "name": "David SODERBERG"
+  },
+  {
+    "place": 9,
+    "country": "BLR",
+    "mark": "74.22",
+    "name": "Siarhei KALAMOYETS"
+  },
+  {
+    "place": 10,
+    "country": "MDA",
+    "mark": "74.14",
+    "name": "Serghei MARGHIEV"
+  },
+  {
+    "place": 11,
+    "country": "UKR",
+    "mark": "74.11",
+    "name": "Yevhen VYNOHRADOV"
+  },
+  {
+    "place": 12,
+    "country": "BRA",
+    "mark": "72.28",
+    "name": "Wagner DOMINGOS"
+  }
+]

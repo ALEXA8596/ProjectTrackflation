@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GDR",
+    "mark": "22.400",
+    "name": "Renate STECHER"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "22.450",
+    "name": "Raelene Ann BOYLE"
+  },
+  {
+    "place": 3,
+    "country": "POL",
+    "mark": "22.740",
+    "name": "Irena Szewińska"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "22.750",
+    "name": "Ellen STROPAHL-STREIDT"
+  },
+  {
+    "place": 5,
+    "country": "FRG",
+    "mark": "22.890",
+    "name": "Annegret KRONIGER"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "22.890",
+    "name": "Christina HEINICH"
+  },
+  {
+    "place": 7,
+    "country": "GHA",
+    "mark": "22.990",
+    "name": "Alice ANNUM"
+  },
+  {
+    "place": 8,
+    "country": "JAM",
+    "mark": "23.110",
+    "name": "Rose ALLWOOD"
+  },
+  {
+    "place": 9,
+    "country": "BAH",
+    "mark": "Did not start",
+    "name": "Claudette Karen POWELL"
+  },
+  {
+    "place": 10,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Silvia CHIVAS BARO"
+  },
+  {
+    "place": 11,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Carmen VALDES CAPOTE"
+  },
+  {
+    "place": 12,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Eva LEHOCKA-GLESKOVA"
+  }
+]

@@ -1,0 +1,116 @@
+[
+  {
+    "place": 1,
+    "country": "URS",
+    "mark": "999",
+    "name": "Nadezhda TKACHENKO"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "1005",
+    "name": "Olga RUKAVISHNIKOVA"
+  },
+  {
+    "place": 3,
+    "country": "URS",
+    "mark": "1024",
+    "name": "Olga KURAGINA"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "960",
+    "name": "Ramona NEUBERT-GOHLER"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "844",
+    "name": "Margit PAPP-DERVALICS"
+  },
+  {
+    "place": 6,
+    "country": "GDR",
+    "mark": "863",
+    "name": "Burglinde POLLAK"
+  },
+  {
+    "place": 7,
+    "country": "BUL",
+    "mark": "849",
+    "name": "Valentina DIMITROVA"
+  },
+  {
+    "place": 8,
+    "country": "BUL",
+    "mark": "910",
+    "name": "Emilia KUNOVA"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "832",
+    "name": "Florence PICAUT"
+  },
+  {
+    "place": 10,
+    "country": "NED",
+    "mark": "836",
+    "name": "Sylvia BARLAG"
+  },
+  {
+    "place": 11,
+    "country": "TCH",
+    "mark": "786",
+    "name": "Marcela KOBLASOVA"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "680",
+    "name": "Malgorzata GUZOWSKA"
+  },
+  {
+    "place": 13,
+    "country": "GBR",
+    "mark": "725",
+    "name": "Judy LIVERMORE-SIMPSON"
+  },
+  {
+    "place": 14,
+    "country": "BRA",
+    "mark": "804",
+    "name": "Conceicao GEREMIAS CONCEICAO"
+  },
+  {
+    "place": 15,
+    "country": "GBR",
+    "mark": "795",
+    "name": "Sue LONGDEN"
+  },
+  {
+    "place": 16,
+    "country": "GBR",
+    "mark": "843",
+    "name": "Yvette WRAY"
+  },
+  {
+    "place": 17,
+    "country": "CMR",
+    "mark": "572",
+    "name": "Cecile NGAMI"
+  },
+  {
+    "place": 18,
+    "country": "ECU",
+    "mark": "Did not finish",
+    "name": "Nancy VALLECILLA"
+  },
+  {
+    "place": 19,
+    "country": "GDR",
+    "mark": "Did not finish",
+    "name": "Christine BODNER-LASER"
+  }
+]

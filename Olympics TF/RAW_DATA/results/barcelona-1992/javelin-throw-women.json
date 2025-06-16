@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "GER",
+    "mark": "68.34",
+    "name": "Silke RENK"
+  },
+  {
+    "place": 2,
+    "country": "EUN",
+    "mark": "68.26",
+    "name": "Natalia SHIKOLENKO"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "66.86",
+    "name": "Karen FORKEL"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "63.58",
+    "name": "Teresa SANDERSON"
+  },
+  {
+    "place": 5,
+    "country": "NOR",
+    "mark": "63.54",
+    "name": "Trine HATTESTAD"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "62.34",
+    "name": "Heli Orvokki RANTANEN"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "59.02",
+    "name": "Petra FELKE-MEIER"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "58.26",
+    "name": "Dulce Margarita GARCIA GIL"
+  },
+  {
+    "place": 9,
+    "country": "EUN",
+    "mark": "57.32",
+    "name": "Yelena SVEZHENTSEVA"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "56.54",
+    "name": "Kinga ZSIGMOND"
+  },
+  {
+    "place": 11,
+    "country": "AUS",
+    "mark": "56.00",
+    "name": "Louise MCPAUL"
+  },
+  {
+    "place": 12,
+    "country": "USA",
+    "mark": "55.68",
+    "name": "Donna Lee MAYHEW"
+  }
+]

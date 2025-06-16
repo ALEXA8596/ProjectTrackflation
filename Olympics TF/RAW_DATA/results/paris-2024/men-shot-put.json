@@ -1,0 +1,68 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "22.90",
+    "name": "Ryan CROUSER"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "22.15",
+    "name": "Joe KOVACS"
+  },
+  {
+    "place": 3,
+    "country": "JAM",
+    "mark": "22.15",
+    "name": "Rajindra CAMPBELL"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "22.03",
+    "name": "Payton OTTERDAHL"
+  },
+  {
+    "place": 5,
+    "country": "ITA",
+    "mark": "21.70",
+    "name": "Leonardo FABBRI"
+  },
+  {
+    "place": 6,
+    "country": "NGR",
+    "mark": "21.42",
+    "name": "Chukwuebuka ENEKWECHI"
+  },
+  {
+    "place": 7,
+    "country": "NZL",
+    "mark": "21.15",
+    "name": "Jacko GILL"
+  },
+  {
+    "place": 8,
+    "country": "MEX",
+    "mark": "20.88",
+    "name": "Uziel MUNOZ"
+  },
+  {
+    "place": 9,
+    "country": "NOR",
+    "mark": "20.67",
+    "name": "Marcus THOMSEN"
+  },
+  {
+    "place": 10,
+    "country": "CZE",
+    "mark": "20.37",
+    "name": "Tomas STANEK"
+  },
+  {
+    "place": 11,
+    "country": "ITA",
+    "mark": "20.24",
+    "name": "Zane WEIR"
+  }
+]

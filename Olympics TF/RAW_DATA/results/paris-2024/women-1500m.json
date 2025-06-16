@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "KEN",
+    "mark": "3:51.29",
+    "name": "Faith KIPYEGON"
+  },
+  {
+    "place": 2,
+    "country": "AUS",
+    "mark": "3:52.56",
+    "name": "Jessica HULL"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "3:52.61",
+    "name": "Georgia BELL"
+  },
+  {
+    "place": 4,
+    "country": "ETH",
+    "mark": "3:52.75",
+    "name": "Diribe WELTEJI"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "3:53.37",
+    "name": "Laura MUIR"
+  },
+  {
+    "place": 6,
+    "country": "KEN",
+    "mark": "3:56.07",
+    "name": "Susan Lokayo EJORE"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "3:56.38",
+    "name": "Nikki HILTZ"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "3:57.52",
+    "name": "Elinor PURRIER ST. PIERRE"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "3:59.08",
+    "name": "Agathe GUILLEMOT"
+  },
+  {
+    "place": 10,
+    "country": "POL",
+    "mark": "4:00.12",
+    "name": "Klaudia KAZIMIERSKA"
+  },
+  {
+    "place": 11,
+    "country": "ESP",
+    "mark": "4:00.31",
+    "name": "Agueda MARQUES"
+  },
+  {
+    "place": 12,
+    "country": "ETH",
+    "mark": "4:01.27",
+    "name": "Gudaf TSEGAY"
+  }
+]

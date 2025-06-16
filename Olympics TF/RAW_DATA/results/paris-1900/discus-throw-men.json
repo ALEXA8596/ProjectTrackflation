@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "HUN",
+    "mark": "OR",
+    "name": "Rudolf BAUER"
+  },
+  {
+    "place": 2,
+    "country": "CZE",
+    "mark": "35.14",
+    "name": "Frantisek JANDA-SUK"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "34.60",
+    "name": "Richard SHELDON"
+  },
+  {
+    "place": 4,
+    "country": "GRE",
+    "mark": "34.50",
+    "name": "Panagiotis PARASKEVOPOULOS"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "NM",
+    "name": "Bob GARRETT"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "NM",
+    "name": "Thomas Truxton HARE"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "André ROOSEVELT"
+  },
+  {
+    "place": 8,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Sotirios VERSIS"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Karl Gustav STAAF"
+  }
+]

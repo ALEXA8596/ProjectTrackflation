@@ -1,0 +1,128 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "3.95",
+    "name": "Lee BARNES"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "3.95",
+    "name": "Glenn GRAHAM"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "3.90",
+    "name": "James K. BROOKER"
+  },
+  {
+    "place": 4,
+    "country": "DEN",
+    "mark": "3.90",
+    "name": "Henry PETERSEN"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "3.80",
+    "name": "Victor W. PICKARD"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "3.70",
+    "name": "Ralph SPEAROW"
+  },
+  {
+    "place": 7,
+    "country": "BEL",
+    "mark": "3.66",
+    "name": "Maurice HENRIJEAN"
+  },
+  {
+    "place": 8,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Richard HASELSTEINER"
+  },
+  {
+    "place": 9,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "K. KORPI"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Emilio PAGGETTI"
+  },
+  {
+    "place": 11,
+    "country": "BUL",
+    "mark": "Did not start",
+    "name": "Jan MILDEV"
+  },
+  {
+    "place": 12,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Raimund HELD"
+  },
+  {
+    "place": 13,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Károly BRAUSZ"
+  },
+  {
+    "place": 14,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Giacinto LAMBIASI"
+  },
+  {
+    "place": 15,
+    "country": "HAI",
+    "mark": "Did not start",
+    "name": "Louis DEJOIE"
+  },
+  {
+    "place": 16,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "René JOANNES-POWELL"
+  },
+  {
+    "place": 17,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Jindrich JIRSAK"
+  },
+  {
+    "place": 18,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Laurits Möller JÖRGENSEN"
+  },
+  {
+    "place": 19,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Janos KARLOVITS"
+  },
+  {
+    "place": 20,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Carlo BUTTI"
+  },
+  {
+    "place": 21,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Charles Teilmann HOFF"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "ETH",
+    "mark": "00:14:45.650",
+    "name": "Meseret DEFAR"
+  },
+  {
+    "place": 2,
+    "country": "KEN",
+    "mark": "00:14:48.190",
+    "name": "Isabella OCHICHI"
+  },
+  {
+    "place": 3,
+    "country": "ETH",
+    "mark": "00:14:51.830",
+    "name": "Tirunesh DIBABA"
+  },
+  {
+    "place": 4,
+    "country": "RUS",
+    "mark": "00:14:55.520",
+    "name": "Yelena ZADOROZHNAYA"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:14:57.870",
+    "name": "Jo PAVEY"
+  },
+  {
+    "place": 6,
+    "country": "RUS",
+    "mark": "00:15:02.300",
+    "name": "Gulnara GALKINA-SAMITOVA"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "00:15:03.360",
+    "name": "Irina MIKITENKO"
+  },
+  {
+    "place": 8,
+    "country": "CHN",
+    "mark": "00:15:07.230",
+    "name": "Yingjie SUN"
+  },
+  {
+    "place": 9,
+    "country": "CHN",
+    "mark": "00:15:07.410",
+    "name": "Huina XING"
+  },
+  {
+    "place": 10,
+    "country": "ETH",
+    "mark": "00:15:09.550",
+    "name": "Sentayehu EJIGU"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "00:15:09.770",
+    "name": "Margaret MAURY"
+  },
+  {
+    "place": 12,
+    "country": "TUR",
+    "mark": "00:15:12.640",
+    "name": "Elvan ABEYLEGESSE"
+  },
+  {
+    "place": 13,
+    "country": "RUS",
+    "mark": "00:15:15.640",
+    "name": "Liliya SHOBUKHOVA"
+  },
+  {
+    "place": 14,
+    "country": "IRL",
+    "mark": "00:16:20.900",
+    "name": "Sonia O'SULLIVAN"
+  },
+  {
+    "place": 15,
+    "country": "KEN",
+    "mark": "Did not finish",
+    "name": "Edith MASAI"
+  }
+]

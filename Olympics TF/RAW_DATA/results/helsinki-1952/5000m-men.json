@@ -1,0 +1,134 @@
+[
+  {
+    "place": 1,
+    "country": "TCH",
+    "mark": "00:14:06.600",
+    "name": "Emil ZATOPEK"
+  },
+  {
+    "place": 2,
+    "country": "FRA",
+    "mark": "00:14:07.400",
+    "name": "Alain MIMOUN"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "00:14:08.600",
+    "name": "Herbert SCHADE"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "00:14:18.000",
+    "name": "Gordon PIRIE"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:14:18.000",
+    "name": "Christopher John CHATAWAY"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "00:14:23.600",
+    "name": "Leslie John PERRY"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "00:14:24.800",
+    "name": "Erno BERES"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "00:14:26.000",
+    "name": "Ake ANDERSSON"
+  },
+  {
+    "place": 9,
+    "country": "SWE",
+    "mark": "00:14:27.800",
+    "name": "Bertil ALBERTSSON"
+  },
+  {
+    "place": 10,
+    "country": "URS",
+    "mark": "00:14:31.400",
+    "name": "Aleksandr ANUFRIYEV"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "00:14:37.000",
+    "name": "Alan Bunyard PARKER"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "00:14:40.000",
+    "name": "Ilmari Rikhard TAIPALE"
+  },
+  {
+    "place": 13,
+    "country": "FIN",
+    "mark": "00:14:54.200",
+    "name": "Eero Allan TUOMAALA"
+  },
+  {
+    "place": 14,
+    "country": "BEL",
+    "mark": "00:14:59.000",
+    "name": "Lucien Maurice THEYS"
+  },
+  {
+    "place": 15,
+    "country": "BEL",
+    "mark": "Did not finish",
+    "name": "Gaston Etienne REIFF"
+  },
+  {
+    "place": 16,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Jan SZWARGOT"
+  },
+  {
+    "place": 17,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Milan ŠVAJGR"
+  },
+  {
+    "place": 18,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "José COLL"
+  },
+  {
+    "place": 19,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Antonio AMORÓS"
+  },
+  {
+    "place": 20,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Raúl INOSTROZA"
+  },
+  {
+    "place": 21,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Vasilios MAVRAPOSTOLOS"
+  },
+  {
+    "place": 22,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Willem SLIJKHUIS"
+  }
+]

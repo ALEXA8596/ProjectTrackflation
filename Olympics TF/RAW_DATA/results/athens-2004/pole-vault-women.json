@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "RUS",
+    "mark": "4.91",
+    "name": "Yelena ISINBAEVA"
+  },
+  {
+    "place": 2,
+    "country": "RUS",
+    "mark": "4.75",
+    "name": "Svetlana FEOFANOVA"
+  },
+  {
+    "place": 3,
+    "country": "POL",
+    "mark": "4.70",
+    "name": "Anna ROGOWSKA"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "4.55",
+    "name": "Monika PYREK"
+  },
+  {
+    "place": 5,
+    "country": "ISL",
+    "mark": "4.55",
+    "name": "Thorey Edda ELISDOTTIR"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "4.40",
+    "name": "Dana ELLIS"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "4.40",
+    "name": "Naroa AGIRRE"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "4.40",
+    "name": "Vanessa BOSLAK"
+  },
+  {
+    "place": 9,
+    "country": "UKR",
+    "mark": "4.40",
+    "name": "Anzhela BALAKHONOVA"
+  },
+  {
+    "place": 10,
+    "country": "CAN",
+    "mark": "4.40",
+    "name": "Stephanie MCCANN"
+  },
+  {
+    "place": 11,
+    "country": "CZE",
+    "mark": "4.40",
+    "name": "Pavla HAMACKOVA"
+  },
+  {
+    "place": 12,
+    "country": "CZE",
+    "mark": "4.20",
+    "name": "Katerina BADUROVA"
+  },
+  {
+    "place": 13,
+    "country": "ARG",
+    "mark": "4.20",
+    "name": "Alejandra GARCIA"
+  },
+  {
+    "place": 14,
+    "country": "GER",
+    "mark": "4.20",
+    "name": "Silke SPIEGELBURG"
+  },
+  {
+    "place": 15,
+    "country": "ESP",
+    "mark": "No mark",
+    "name": "Dana CERVANTES"
+  }
+]

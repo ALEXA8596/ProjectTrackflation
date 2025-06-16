@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "78.48",
+    "name": "Anita WLODARCZYK"
+  },
+  {
+    "place": 2,
+    "country": "CHN",
+    "mark": "77.03",
+    "name": "Zheng WANG"
+  },
+  {
+    "place": 3,
+    "country": "POL",
+    "mark": "75.49",
+    "name": "Malwina KOPRON"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "74.41",
+    "name": "Alexandra TAVERNIER"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "74.35",
+    "name": "Camryn ROGERS"
+  },
+  {
+    "place": 6,
+    "country": "ROU",
+    "mark": "74.18",
+    "name": "Bianca Florentina GHELBER"
+  },
+  {
+    "place": 7,
+    "country": "POL",
+    "mark": "73.83",
+    "name": "Joanna FIODOROW"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "73.09",
+    "name": "Deanna PRICE"
+  },
+  {
+    "place": 9,
+    "country": "NZL",
+    "mark": "72.69",
+    "name": "Julia RATCLIFFE"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "72.16",
+    "name": "Brooke ANDERSEN"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "71.35",
+    "name": "Gwen BERRY"
+  },
+  {
+    "place": 12,
+    "country": "ITA",
+    "mark": "69.10",
+    "name": "Sara FANTINI"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "4.56",
+    "name": "Bob RICHARDS"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "4.53",
+    "name": "Robert Allen GUTOWSKI"
+  },
+  {
+    "place": 3,
+    "country": "GRE",
+    "mark": "4.50",
+    "name": "Georgios ROUBANIS"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "4.35",
+    "name": "George Frank MATTOS"
+  },
+  {
+    "place": 5,
+    "country": "SWE",
+    "mark": "4.25",
+    "name": "Ragnar LUNDBERG"
+  },
+  {
+    "place": 6,
+    "country": "POL",
+    "mark": "4.25",
+    "name": "Zenon WAZNY"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "4.25",
+    "name": "Eeles Enok LANDSTRÖM"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "4.25",
+    "name": "Manfred PREUSSGER"
+  },
+  {
+    "place": 9,
+    "country": "ITA",
+    "mark": "4.15",
+    "name": "Giulio CHIESA"
+  },
+  {
+    "place": 10,
+    "country": "URS",
+    "mark": "4.15",
+    "name": "Vladimir BULATOV"
+  },
+  {
+    "place": 11,
+    "country": "URS",
+    "mark": "4.15",
+    "name": "Anatoly PETROV"
+  },
+  {
+    "place": 12,
+    "country": "POL",
+    "mark": "4.15",
+    "name": "Zbigniew JANISZEWSKI"
+  },
+  {
+    "place": 13,
+    "country": "URS",
+    "mark": "4.00",
+    "name": "Vitali CHERNOBAI"
+  },
+  {
+    "place": 14,
+    "country": "FIN",
+    "mark": "No mark",
+    "name": "Matti SUTINEN"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "23.30",
+    "name": "Ryan CROUSER"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "22.65",
+    "name": "Joe KOVACS"
+  },
+  {
+    "place": 3,
+    "country": "NZL",
+    "mark": "22.47",
+    "name": "Tomas WALSH"
+  },
+  {
+    "place": 4,
+    "country": "BRA",
+    "mark": "21.88",
+    "name": "Darlan ROMANI"
+  },
+  {
+    "place": 5,
+    "country": "ITA",
+    "mark": "21.41",
+    "name": "Zane WEIR"
+  },
+  {
+    "place": 6,
+    "country": "RSA",
+    "mark": "21.00",
+    "name": "Kyle BLIGNAUT"
+  },
+  {
+    "place": 7,
+    "country": "SRB",
+    "mark": "20.89",
+    "name": "Armin SINANCEVIC"
+  },
+  {
+    "place": 8,
+    "country": "EGY",
+    "mark": "20.73",
+    "name": "Mostafa Amr HASSAN"
+  },
+  {
+    "place": 9,
+    "country": "NZL",
+    "mark": "20.71",
+    "name": "Jacko GILL"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "20.32",
+    "name": "Payton OTTERDAHL"
+  },
+  {
+    "place": 11,
+    "country": "BIH",
+    "mark": "20.08",
+    "name": "Mesud PEZER"
+  },
+  {
+    "place": 12,
+    "country": "NGR",
+    "mark": "19.74",
+    "name": "Chukwuebuka ENEKWECHI"
+  }
+]

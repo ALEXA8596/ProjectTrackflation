@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "00:02:00.900",
+    "name": "Madeline MANNING"
+  },
+  {
+    "place": 2,
+    "country": "ROU",
+    "mark": "00:02:02.500",
+    "name": "Ileana SILAI"
+  },
+  {
+    "place": 3,
+    "country": "NED",
+    "mark": "00:02:02.600",
+    "name": "Maria Francisca P. GOMMERS"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "00:02:03.800",
+    "name": "Sheila Janet TAYLOR-CAREY"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "00:02:03.900",
+    "name": "Doris Elaine BROWN"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "00:02:04.200",
+    "name": "Patricia Barbara LOWE-CROPPER"
+  },
+  {
+    "place": 7,
+    "country": "CAN",
+    "mark": "00:02:06.800",
+    "name": "Abby HOFFMAN"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "00:02:08.200",
+    "name": "Maryvonne DUPUREUR"
+  },
+  {
+    "place": 9,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Aurelia Catalina PENTON CONDE"
+  }
+]

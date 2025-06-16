@@ -1,0 +1,200 @@
+[
+  {
+    "place": 1,
+    "country": "ARG",
+    "mark": "02:31:36.000",
+    "name": "Juan Carlos ZABALA"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "02:31:55.000",
+    "name": "Samuel FERRIS"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "02:32:12.000",
+    "name": "Armas Adam TOIVONEN"
+  },
+  {
+    "place": 4,
+    "country": "GBR",
+    "mark": "02:32:41.000",
+    "name": "Duncan Macleod WRIGHT"
+  },
+  {
+    "place": 5,
+    "country": "JPN",
+    "mark": "02:35:42.000",
+    "name": "Seiichiro TSUDA"
+  },
+  {
+    "place": 6,
+    "country": "JPN",
+    "mark": "02:37:28.000",
+    "name": "KIN Onbai"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "02:39:38.000",
+    "name": "Whitey MICHELSEN"
+  },
+  {
+    "place": 8,
+    "country": "TCH",
+    "mark": "02:41:35.000",
+    "name": "Oskar HEKS"
+  },
+  {
+    "place": 9,
+    "country": "JPN",
+    "mark": "02:42:52.000",
+    "name": "GON Taika"
+  },
+  {
+    "place": 10,
+    "country": "DEN",
+    "mark": "02:44:38.000",
+    "name": "Anders Hartington ANDERSEN"
+  },
+  {
+    "place": 11,
+    "country": "USA",
+    "mark": "02:47:26.000",
+    "name": "Hans OLDAG"
+  },
+  {
+    "place": 12,
+    "country": "CAN",
+    "mark": "02:47:58.000",
+    "name": "Cliff BRICKER"
+  },
+  {
+    "place": 13,
+    "country": "ITA",
+    "mark": "02:49:09.000",
+    "name": "Michele FANELLI"
+  },
+  {
+    "place": 14,
+    "country": "CAN",
+    "mark": "02:50:32.000",
+    "name": "John C. MILES"
+  },
+  {
+    "place": 15,
+    "country": "GER",
+    "mark": "02:52:39.000",
+    "name": "Paul DE BRUYN"
+  },
+  {
+    "place": 16,
+    "country": "FRA",
+    "mark": "02:53:34.000",
+    "name": "François BEGEOT"
+  },
+  {
+    "place": 17,
+    "country": "ARG",
+    "mark": "02:55:49.000",
+    "name": "Fernando CHACARELLI"
+  },
+  {
+    "place": 18,
+    "country": "CAN",
+    "mark": "02:58:35.000",
+    "name": "Eddie CUDWORTH"
+  },
+  {
+    "place": 19,
+    "country": "BRA",
+    "mark": "03:02:06.000",
+    "name": "João Clemente DA SILVA"
+  },
+  {
+    "place": 20,
+    "country": "MEX",
+    "mark": "03:10:51.000",
+    "name": "Margarito POMPOSO BANOS"
+  },
+  {
+    "place": 21,
+    "country": "ARG",
+    "mark": "Did not finish",
+    "name": "José RIBAS"
+  },
+  {
+    "place": 22,
+    "country": "BRA",
+    "mark": "Did not finish",
+    "name": "Matheus MARCONDES"
+  },
+  {
+    "place": 23,
+    "country": "COL",
+    "mark": "Did not finish",
+    "name": "Jorge PERRY"
+  },
+  {
+    "place": 24,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Ville KYRÖNEN"
+  },
+  {
+    "place": 25,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Lauri VIRTANEN"
+  },
+  {
+    "place": 26,
+    "country": "ITA",
+    "mark": "Did not finish",
+    "name": "Francesco ROCCATI"
+  },
+  {
+    "place": 27,
+    "country": "MEX",
+    "mark": "Did not finish",
+    "name": "Santiago HERNÁNDEZ"
+  },
+  {
+    "place": 28,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "James P. HENIGAN"
+  },
+  {
+    "place": 29,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Franz TUSCHEK"
+  },
+  {
+    "place": 30,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "René BONICH"
+  },
+  {
+    "place": 31,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Adalberto CARDOSO"
+  },
+  {
+    "place": 32,
+    "country": "EST",
+    "mark": "Did not start",
+    "name": "Alfred MAASIK"
+  },
+  {
+    "place": 33,
+    "country": "NZL",
+    "mark": "Did not start",
+    "name": "Billy SAVIDAN"
+  }
+]

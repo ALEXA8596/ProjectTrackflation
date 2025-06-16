@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "00:01:47.700",
+    "name": "Thomas William COURTNEY"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "00:01:47.800",
+    "name": "Derek James Neville JOHNSON"
+  },
+  {
+    "place": 3,
+    "country": "NOR",
+    "mark": "00:01:48.100",
+    "name": "Audun BOYSEN"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "00:01:48.300",
+    "name": "Arnold M. SOWELL"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:01:49.200",
+    "name": "Michael Arthur FARRELL"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "00:01:49.300",
+    "name": "Lonnie Vernon SPURRIER"
+  },
+  {
+    "place": 7,
+    "country": "BEL",
+    "mark": "00:01:51.800",
+    "name": "Emile LEVA"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "00:01:52.000",
+    "name": "Bill Erskine BUTCHART"
+  },
+  {
+    "place": 9,
+    "country": "LBR",
+    "mark": "Did not start",
+    "name": "Joseph NARMAH"
+  },
+  {
+    "place": 10,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Murray COCKBURN"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Olavi Armas Tapani SALSOLA"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Istvan ROSZAVÖLGYI"
+  },
+  {
+    "place": 13,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "Ronald Michael DELANY"
+  },
+  {
+    "place": 14,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "George Ezekiel KERR"
+  },
+  {
+    "place": 15,
+    "country": "LUX",
+    "mark": "Did not start",
+    "name": "Joseph BARTHEL"
+  },
+  {
+    "place": 16,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Dan WAERN"
+  },
+  {
+    "place": 17,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Stanislav JUNGWIRTH"
+  }
+]

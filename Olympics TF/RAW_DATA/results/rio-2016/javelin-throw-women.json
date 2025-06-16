@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "CRO",
+    "mark": "66.18",
+    "name": "Sara KOLAK"
+  },
+  {
+    "place": 2,
+    "country": "RSA",
+    "mark": "64.92",
+    "name": "Sunette VILJOEN"
+  },
+  {
+    "place": 3,
+    "country": "CZE",
+    "mark": "64.80",
+    "name": "Barbora SPOTAKOVA"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "64.78",
+    "name": "Maria ANDREJCZYK"
+  },
+  {
+    "place": 5,
+    "country": "BLR",
+    "mark": "64.60",
+    "name": "Tatsiana KHALADOVICH"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "64.36",
+    "name": "Kathryn MITCHELL"
+  },
+  {
+    "place": 7,
+    "country": "CHN",
+    "mark": "64.04",
+    "name": "Huihui LYU"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "62.92",
+    "name": "Christina OBERGFOLL"
+  },
+  {
+    "place": 9,
+    "country": "COL",
+    "mark": "61.54",
+    "name": "Flor RUIZ"
+  },
+  {
+    "place": 10,
+    "country": "LAT",
+    "mark": "60.14",
+    "name": "Madara PALAMEIKA"
+  },
+  {
+    "place": 11,
+    "country": "GER",
+    "mark": "59.71",
+    "name": "Linda STAHL"
+  },
+  {
+    "place": 12,
+    "country": "GER",
+    "mark": "57.70",
+    "name": "Christin HUSSONG"
+  },
+  {
+    "place": 13,
+    "country": "SLO",
+    "mark": "Disqualified",
+    "name": "Martina RATEJ"
+  }
+]

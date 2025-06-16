@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "50.800",
+    "name": "Charles Hewes Jr. MOORE"
+  },
+  {
+    "place": 2,
+    "country": "URS",
+    "mark": "51.300",
+    "name": "Yury LITUYEV"
+  },
+  {
+    "place": 3,
+    "country": "NZL",
+    "mark": "52.200",
+    "name": "John Macfarlane HOLLAND"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "52.800",
+    "name": "Anatoli YULIN"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "53.100",
+    "name": "Harold WHITTLE"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "54.400",
+    "name": "Armando FILIPUT"
+  },
+  {
+    "place": 7,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "José FÓRMICA"
+  },
+  {
+    "place": 8,
+    "country": "CUB",
+    "mark": "Did not start",
+    "name": "Samuel Aurelio ANDERSON SCHWEYER"
+  },
+  {
+    "place": 9,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Zdravko SABOLOVIC"
+  }
+]

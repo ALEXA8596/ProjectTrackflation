@@ -1,0 +1,80 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "54.200",
+    "name": "Thomas BURKE"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "55.200",
+    "name": "Herbert JAMISON"
+  },
+  {
+    "place": 3,
+    "country": "GBR",
+    "mark": "at 15-20 metres",
+    "name": "Charles GMELIN"
+  },
+  {
+    "place": 4,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Luis SUBERCASEAUX"
+  },
+  {
+    "place": 5,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Konstantinos MOURATIS"
+  },
+  {
+    "place": 6,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Leonidasz MANNO"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Fritz TRAUN"
+  },
+  {
+    "place": 8,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Edwin FLACK"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Georges DE LA NÉZIERE"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Launceston ELLIOT"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "Grantley GOULDING"
+  },
+  {
+    "place": 12,
+    "country": "GBR",
+    "mark": "Did not start",
+    "name": "George MARSHALL"
+  },
+  {
+    "place": 13,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Nandor DANI"
+  }
+]

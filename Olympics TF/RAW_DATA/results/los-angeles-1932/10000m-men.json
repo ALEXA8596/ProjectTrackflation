@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "00:30:11.400",
+    "name": "Janusz KUSOCINSKI"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "00:30:12.600",
+    "name": "Volmari ISO-HOLLO"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "00:30:35.000",
+    "name": "Lauri VIRTANEN"
+  },
+  {
+    "place": 4,
+    "country": "NZL",
+    "mark": "00:31:09.000",
+    "name": "Billy SAVIDAN"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "00:31:35.000",
+    "name": "Max SYRING"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "00:31:37.000",
+    "name": "Jean-Gunnar LINDGREN"
+  },
+  {
+    "place": 7,
+    "country": "MEX",
+    "mark": "00:32:03.000",
+    "name": "Juan MORALES RODRIGUEZ"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Eino Isak Walter PENTTI"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Thomas Charles OTTEY"
+  },
+  {
+    "place": 10,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "Lou GREGORY"
+  },
+  {
+    "place": 11,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "Aristides DA HORE"
+  },
+  {
+    "place": 12,
+    "country": "BRA",
+    "mark": "Did not start",
+    "name": "João Clemente DA SILVA"
+  },
+  {
+    "place": 13,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Paul DE BRUYN"
+  },
+  {
+    "place": 14,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Valentin GONZALES AVILA"
+  },
+  {
+    "place": 15,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Erik PETTERSSON"
+  }
+]

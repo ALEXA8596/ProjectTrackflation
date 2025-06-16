@@ -1,0 +1,74 @@
+[
+  {
+    "place": 1,
+    "country": "ITA",
+    "mark": "1.97",
+    "name": "Sara SIMEONI"
+  },
+  {
+    "place": 2,
+    "country": "POL",
+    "mark": "1.94",
+    "name": "Urszula KIELAN"
+  },
+  {
+    "place": 3,
+    "country": "GDR",
+    "mark": "1.94",
+    "name": "Jutta KIRST"
+  },
+  {
+    "place": 4,
+    "country": "GDR",
+    "mark": "1.91",
+    "name": "Rosemarie WITSCHAS-ACKERMANN"
+  },
+  {
+    "place": 5,
+    "country": "URS",
+    "mark": "1.91",
+    "name": "Marina SYSOYEVA"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "1.91",
+    "name": "Chris STANTON"
+  },
+  {
+    "place": 7,
+    "country": "GDR",
+    "mark": "1.91",
+    "name": "Andrea REICHSTEIN"
+  },
+  {
+    "place": 8,
+    "country": "ROU",
+    "mark": "1.88",
+    "name": "Cornelia POPESCU-POPA"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "1.88",
+    "name": "Tamara BYKOVA"
+  },
+  {
+    "place": 10,
+    "country": "HUN",
+    "mark": "1.85",
+    "name": "Andrea MATAY"
+  },
+  {
+    "place": 11,
+    "country": "GBR",
+    "mark": "1.85",
+    "name": "Louise MILLER"
+  },
+  {
+    "place": 12,
+    "country": "BEL",
+    "mark": "1.80",
+    "name": "Kris SOETEWEY"
+  }
+]

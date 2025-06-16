@@ -1,0 +1,248 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "04:25:30.000",
+    "name": "Donald James THOMPSON"
+  },
+  {
+    "place": 2,
+    "country": "SWE",
+    "mark": "04:25:47.000",
+    "name": "John Artur LJUNGGREN"
+  },
+  {
+    "place": 3,
+    "country": "ITA",
+    "mark": "04:27:55.400",
+    "name": "Abdon PAMICH"
+  },
+  {
+    "place": 4,
+    "country": "URS",
+    "mark": "04:31:44.000",
+    "name": "Aleksandr SHCHERBINA"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "04:33:03.000",
+    "name": "Thomas William MISSON"
+  },
+  {
+    "place": 6,
+    "country": "CAN",
+    "mark": "04:33:08.600",
+    "name": "Alex OAKLEY"
+  },
+  {
+    "place": 7,
+    "country": "ITA",
+    "mark": "04:33:27.200",
+    "name": "Giuseppe DORDONI"
+  },
+  {
+    "place": 8,
+    "country": "IND",
+    "mark": "04:37:44.600",
+    "name": "Zora SINGH"
+  },
+  {
+    "place": 9,
+    "country": "URS",
+    "mark": "04:39:57.600",
+    "name": "Anatoly VEDYAKOV"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "04:41:01.600",
+    "name": "Antonio DE GAETANO"
+  },
+  {
+    "place": 11,
+    "country": "TCH",
+    "mark": "04:42:33.600",
+    "name": "Ladislav MOC"
+  },
+  {
+    "place": 12,
+    "country": "RSA",
+    "mark": "04:43:18.800",
+    "name": "George HAZLE"
+  },
+  {
+    "place": 13,
+    "country": "GER",
+    "mark": "04:44:47.400",
+    "name": "Max WEBER"
+  },
+  {
+    "place": 14,
+    "country": "TCH",
+    "mark": "04:46:14.600",
+    "name": "Svatopluk SYKORA"
+  },
+  {
+    "place": 15,
+    "country": "IND",
+    "mark": "04:47:28.400",
+    "name": "Ajit SINGH"
+  },
+  {
+    "place": 16,
+    "country": "GER",
+    "mark": "04:50:57.000",
+    "name": "Horst ASTROTH"
+  },
+  {
+    "place": 17,
+    "country": "TCH",
+    "mark": "04:51:18.600",
+    "name": "Josef DOLEZAL"
+  },
+  {
+    "place": 18,
+    "country": "ESP",
+    "mark": "04:51:20.000",
+    "name": "Jose RIBAS JUAN"
+  },
+  {
+    "place": 19,
+    "country": "USA",
+    "mark": "04:53:21.600",
+    "name": "Ronald Owen LAIRD"
+  },
+  {
+    "place": 20,
+    "country": "IRL",
+    "mark": "04:54:40.000",
+    "name": "Frank O'REILLY"
+  },
+  {
+    "place": 21,
+    "country": "LUX",
+    "mark": "04:57:00.400",
+    "name": "Charel SOWA"
+  },
+  {
+    "place": 22,
+    "country": "SUI",
+    "mark": "05:00:13.000",
+    "name": "Louis MARQUIS"
+  },
+  {
+    "place": 23,
+    "country": "USA",
+    "mark": "05:00:47.600",
+    "name": "Bruce Duncan MACDONALD"
+  },
+  {
+    "place": 24,
+    "country": "USA",
+    "mark": "05:03:15.200",
+    "name": "John William ALLEN"
+  },
+  {
+    "place": 25,
+    "country": "SUI",
+    "mark": "05:06:55.000",
+    "name": "Alfred LEISER"
+  },
+  {
+    "place": 26,
+    "country": "TUN",
+    "mark": "05:07:57.400",
+    "name": "Mohamed BEN LAZHAR"
+  },
+  {
+    "place": 27,
+    "country": "SUI",
+    "mark": "05:09:00.800",
+    "name": "Rene CHARRIERE"
+  },
+  {
+    "place": 28,
+    "country": "FRA",
+    "mark": "05:10:22.000",
+    "name": "Jacques ARNOUX"
+  },
+  {
+    "place": 29,
+    "country": "GBR",
+    "mark": "Disqualified",
+    "name": "Albert H. JOHNSON"
+  },
+  {
+    "place": 30,
+    "country": "URS",
+    "mark": "Disqualified",
+    "name": "Grigori KLIMOV"
+  },
+  {
+    "place": 31,
+    "country": "ARG",
+    "mark": "Disqualified",
+    "name": "Guillermo WELLER"
+  },
+  {
+    "place": 32,
+    "country": "GER",
+    "mark": "Disqualified",
+    "name": "Kurt SAKOWSKI"
+  },
+  {
+    "place": 33,
+    "country": "AUS",
+    "mark": "Disqualified",
+    "name": "Noel Frederick FREEMAN"
+  },
+  {
+    "place": 34,
+    "country": "AUS",
+    "mark": "Disqualified",
+    "name": "Ronald CRAWFORD"
+  },
+  {
+    "place": 35,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Erik SODERLUND"
+  },
+  {
+    "place": 36,
+    "country": "SWE",
+    "mark": "Did not finish",
+    "name": "Ake SODERLUND"
+  },
+  {
+    "place": 37,
+    "country": "NZL",
+    "mark": "Did not finish",
+    "name": "Norman Richard READ"
+  },
+  {
+    "place": 38,
+    "country": "TUN",
+    "mark": "Did not finish",
+    "name": "Naoui ZLASSI"
+  },
+  {
+    "place": 39,
+    "country": "HUN",
+    "mark": "Did not finish",
+    "name": "Bela DIENESZ"
+  },
+  {
+    "place": 40,
+    "country": "ROU",
+    "mark": "Did not start",
+    "name": "Stefan BADULESCU"
+  },
+  {
+    "place": 41,
+    "country": "TUN",
+    "mark": "Did not start",
+    "name": "Kalifa BAHROUNI"
+  }
+]

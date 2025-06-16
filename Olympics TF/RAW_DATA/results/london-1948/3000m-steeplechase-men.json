@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "SWE",
+    "mark": "00:09:04.600",
+    "name": "Tore SJÖSTRAND"
+  },
+  {
+    "place": 2,
+    "country": "SWE",
+    "mark": "00:09:08.200",
+    "name": "Erik ELMSATER"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "00:09:11.800",
+    "name": "Göte HAGSTRÖM"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "00:09:13.600",
+    "name": "Alexandre GUYODO"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "00:09:19.600",
+    "name": "Pentti SILTALOPPI"
+  },
+  {
+    "place": 6,
+    "country": "YUG",
+    "mark": "00:09:20.400",
+    "name": "Petar SEGEDIN"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "00:09:24.100",
+    "name": "Harris Browning ROSS"
+  },
+  {
+    "place": 8,
+    "country": "ESP",
+    "mark": "00:09:26.600",
+    "name": "Constantino MIRANDA JUSTO"
+  },
+  {
+    "place": 9,
+    "country": "BEL",
+    "mark": "00:09:28.200",
+    "name": "Robert EVERAERT"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "00:09:29.000",
+    "name": "Aarne KAINLAURI"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "00:09:30.200",
+    "name": "Roger CHESNEAU"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Raphael PUJAZON"
+  },
+  {
+    "place": 13,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Laszlo JESZENSZKI"
+  },
+  {
+    "place": 14,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Jenö SZILAGYI"
+  },
+  {
+    "place": 15,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Willem SLIJKHUIS"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "10.300",
+    "name": "Harrison DILLARD"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "10.400",
+    "name": "Harold Norwood EWELL"
+  },
+  {
+    "place": 3,
+    "country": "PAN",
+    "mark": "10.600",
+    "name": "Lloyd LABEACH"
+  },
+  {
+    "place": 4,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Bogdan LIPSKI"
+  },
+  {
+    "place": 5,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Ricardo SÁENZ"
+  },
+  {
+    "place": 6,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "John O'DONNELL"
+  },
+  {
+    "place": 7,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Jack PARRY"
+  },
+  {
+    "place": 8,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "Joe KELLY"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Joseph STEPHAN"
+  },
+  {
+    "place": 10,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Kyros MARINIS"
+  },
+  {
+    "place": 11,
+    "country": "JAM",
+    "mark": "Did not start",
+    "name": "Vincent George RHODEN"
+  },
+  {
+    "place": 12,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "Tomas PAQUETE"
+  },
+  {
+    "place": 13,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Dennis Victor SHORE"
+  },
+  {
+    "place": 14,
+    "country": "SRI",
+    "mark": "Did not start",
+    "name": "John DE SARAM"
+  },
+  {
+    "place": 15,
+    "country": "SRI",
+    "mark": "Did not start",
+    "name": "Duncan WHITE"
+  }
+]

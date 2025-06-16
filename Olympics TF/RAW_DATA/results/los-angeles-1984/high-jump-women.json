@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "FRG",
+    "mark": "2.02",
+    "name": "Ulrike MEYFARTH"
+  },
+  {
+    "place": 2,
+    "country": "ITA",
+    "mark": "2.00",
+    "name": "Sara SIMEONI"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "1.97",
+    "name": "Johanna Luann HUNTLEY"
+  },
+  {
+    "place": 4,
+    "country": "FRA",
+    "mark": "1.94",
+    "name": "Maryse EWANJE-EPEE"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "1.94",
+    "name": "Deborah BRILL"
+  },
+  {
+    "place": 6,
+    "country": "AUS",
+    "mark": "1.94",
+    "name": "Vanessa BROWNE"
+  },
+  {
+    "place": 7,
+    "country": "CHN",
+    "mark": "1.91",
+    "name": "Da-Zhen ZHENG"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "1.91",
+    "name": "Dorothy Louise RITTER"
+  },
+  {
+    "place": 9,
+    "country": "CHN",
+    "mark": "1.88",
+    "name": "Wen-Qin YANG"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "1.88",
+    "name": "Diana Clare ELLIOTT-DAVIES"
+  },
+  {
+    "place": 11,
+    "country": "AUS",
+    "mark": "1.85",
+    "name": "Chris STANTON"
+  },
+  {
+    "place": 12,
+    "country": "FRG",
+    "mark": "1.85",
+    "name": "Heike HENKEL"
+  },
+  {
+    "place": 13,
+    "country": "FRG",
+    "mark": "1.85",
+    "name": "Brigitte HOLZAPFEL"
+  },
+  {
+    "place": 14,
+    "country": "ROU",
+    "mark": "1.85",
+    "name": "Niculina VASILE"
+  },
+  {
+    "place": 15,
+    "country": "USA",
+    "mark": "1.85",
+    "name": "Pamela Ann SPENCER"
+  },
+  {
+    "place": 16,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "Marjon WIJNSMA"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "47.540",
+    "name": "Derrick ADKINS"
+  },
+  {
+    "place": 2,
+    "country": "ZAM",
+    "mark": "47.780",
+    "name": "Samuel MATETE"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "47.960",
+    "name": "Calvin DAVIS"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "47.980",
+    "name": "Sven NYLANDER"
+  },
+  {
+    "place": 5,
+    "country": "AUS",
+    "mark": "48.300",
+    "name": "Rohan ROBINSON"
+  },
+  {
+    "place": 6,
+    "country": "ITA",
+    "mark": "48.410",
+    "name": "Fabrizio MORI"
+  },
+  {
+    "place": 7,
+    "country": "BRA",
+    "mark": "48.570",
+    "name": "Everson TEIXEIRA"
+  },
+  {
+    "place": 8,
+    "country": "BRA",
+    "mark": "48.780",
+    "name": "Eronilde NUNES DE ARAUJO"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "4.35",
+    "name": "Earle Elmer MEADOWS"
+  },
+  {
+    "place": 2,
+    "country": "JPN",
+    "mark": "4.25",
+    "name": "Shuhei NISHIDA"
+  },
+  {
+    "place": 3,
+    "country": "JPN",
+    "mark": "4.25",
+    "name": "Sueo OE"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "4.25",
+    "name": "William Healy SEFTON"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "4.15",
+    "name": "William Noe GRABER"
+  },
+  {
+    "place": 6,
+    "country": "JPN",
+    "mark": "4.00",
+    "name": "Kiyoshi ADACHI"
+  },
+  {
+    "place": 7,
+    "country": "CAN",
+    "mark": "4.00",
+    "name": "Charles J.Sylvanus APPS"
+  },
+  {
+    "place": 8,
+    "country": "HUN",
+    "mark": "4.00",
+    "name": "Peter BACSALMASI"
+  },
+  {
+    "place": 9,
+    "country": "AUT",
+    "mark": "4.00",
+    "name": "Josef HAUNZWICKEL"
+  },
+  {
+    "place": 10,
+    "country": "ITA",
+    "mark": "4.00",
+    "name": "Danilo INNOCENTI"
+  },
+  {
+    "place": 11,
+    "country": "TCH",
+    "mark": "4.00",
+    "name": "Jan KOREIS"
+  },
+  {
+    "place": 12,
+    "country": "SWE",
+    "mark": "4.00",
+    "name": "Bo LJUNGBERG"
+  },
+  {
+    "place": 13,
+    "country": "AUT",
+    "mark": "4.00",
+    "name": "Alfred PROKSCH"
+  },
+  {
+    "place": 14,
+    "country": "POL",
+    "mark": "4.00",
+    "name": "Wilhelm SCHNEIDER"
+  },
+  {
+    "place": 15,
+    "country": "GBR",
+    "mark": "4.00",
+    "name": "Frederick Richard WEBSTER"
+  },
+  {
+    "place": 16,
+    "country": "HUN",
+    "mark": "4.00",
+    "name": "Viktor ZSUFFKA"
+  },
+  {
+    "place": 17,
+    "country": "RSA",
+    "mark": "3.80",
+    "name": "Andries Stephanus DU PLESSIS"
+  },
+  {
+    "place": 18,
+    "country": "DEN",
+    "mark": "3.80",
+    "name": "Martin Ernst LARSEN"
+  },
+  {
+    "place": 19,
+    "country": "GER",
+    "mark": "3.80",
+    "name": "Julius MÜLLER"
+  },
+  {
+    "place": 20,
+    "country": "TCH",
+    "mark": "3.80",
+    "name": "Miroslav KLASEK"
+  },
+  {
+    "place": 21,
+    "country": "CHN",
+    "mark": "3.80",
+    "name": "Bao-Loo FU"
+  },
+  {
+    "place": 22,
+    "country": "FRA",
+    "mark": "3.80",
+    "name": "Pierre RAMADIER"
+  },
+  {
+    "place": 23,
+    "country": "GER",
+    "mark": "3.80",
+    "name": "Siegfried SCHULZ"
+  },
+  {
+    "place": 24,
+    "country": "CHI",
+    "mark": "3.60",
+    "name": "Adolfo SCHLEGEL"
+  },
+  {
+    "place": 25,
+    "country": "FRA",
+    "mark": "3.40",
+    "name": "Andre CREPIN"
+  },
+  {
+    "place": 26,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Fred WOODHOUSE"
+  },
+  {
+    "place": 27,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Hugo HUBER"
+  },
+  {
+    "place": 28,
+    "country": "CHN",
+    "mark": "Did not start",
+    "name": "Ho WANG"
+  },
+  {
+    "place": 29,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Svend Aage THOMSEN"
+  },
+  {
+    "place": 30,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Robert VINTOUSKY"
+  },
+  {
+    "place": 31,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Peter CLENTZOS"
+  }
+]
