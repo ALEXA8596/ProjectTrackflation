@@ -1,0 +1,134 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "15.87",
+    "name": "John H. KUCK"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "15.75",
+    "name": "Herman Harold BRIX"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "15.72",
+    "name": "Emil HIRSCHFELD"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "14.99",
+    "name": "Eric KRENZ"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "14.69",
+    "name": "Armas Ilmari WAHLSTEDT"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "14.69",
+    "name": "Wilhelm UEBLER"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Martti ALAROTU"
+  },
+  {
+    "place": 8,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Georgios ZAKHAROPOULOS"
+  },
+  {
+    "place": 9,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Yonataro NAKAZAWA"
+  },
+  {
+    "place": 10,
+    "country": "MON",
+    "mark": "Did not start",
+    "name": "Gaston MÉDÉCIN"
+  },
+  {
+    "place": 11,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Harry Balthazar HART"
+  },
+  {
+    "place": 12,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Kalman EGRI"
+  },
+  {
+    "place": 13,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Peter BACSALMASI"
+  },
+  {
+    "place": 14,
+    "country": "LAT",
+    "mark": "Did not start",
+    "name": "Vilhelms ROZENBERGS"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Émile RETTIG"
+  },
+  {
+    "place": 16,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "António CARDOSO"
+  },
+  {
+    "place": 17,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Kaarlo Werner JARVINEN"
+  },
+  {
+    "place": 18,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Yoshio OKITA"
+  },
+  {
+    "place": 19,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Károly HÁHN"
+  },
+  {
+    "place": 20,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Raymond DRECQ"
+  },
+  {
+    "place": 21,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Karlo AMBROZY"
+  },
+  {
+    "place": 22,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Jozef BARAN"
+  }
+]

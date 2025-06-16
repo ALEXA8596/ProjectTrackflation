@@ -1,0 +1,128 @@
+[
+  {
+    "place": 1,
+    "country": "GBR",
+    "mark": "00:01:51.800",
+    "name": "Douglas Gordon LOWE"
+  },
+  {
+    "place": 2,
+    "country": "SWE",
+    "mark": "1:52.8e",
+    "name": "Erik BYLEHN"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "1:53.2e",
+    "name": "Hermann ENGELHARD"
+  },
+  {
+    "place": 4,
+    "country": "CAN",
+    "mark": "1:53.4e",
+    "name": "Philip EDWARDS"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "1:53.5e",
+    "name": "Lloyd HAHN"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "1:53.6e",
+    "name": "Séraphin MARTIN"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "1:55.0e",
+    "name": "Earl A. FULLER"
+  },
+  {
+    "place": 8,
+    "country": "USA",
+    "mark": "1:56.5e",
+    "name": "Raymond Bates WATSON"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "1:57.0e",
+    "name": "Paul Jean KELLER"
+  },
+  {
+    "place": 10,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "António DIAS"
+  },
+  {
+    "place": 11,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Jozsef MARTON"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Harri Edvin LARVA"
+  },
+  {
+    "place": 13,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Daniel Rudolph JACOBS"
+  },
+  {
+    "place": 14,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Grigorios GEORGAKOPOULOS"
+  },
+  {
+    "place": 15,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Matti KORPELA"
+  },
+  {
+    "place": 16,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Laszlo MAGDICS"
+  },
+  {
+    "place": 17,
+    "country": "LUX",
+    "mark": "Did not start",
+    "name": "G. ARNOLDY"
+  },
+  {
+    "place": 18,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Eino Alfred PURJE"
+  },
+  {
+    "place": 19,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "L. PASSY"
+  },
+  {
+    "place": 20,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Ivan RITTIG"
+  },
+  {
+    "place": 21,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Frej LIEWENDHAL"
+  }
+]

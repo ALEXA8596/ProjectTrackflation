@@ -1,0 +1,98 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "47.32",
+    "name": "Lemuel Clarence HOUSER"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "47.23",
+    "name": "Antero Lauro KIVI"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "47.10",
+    "name": "James Hunt CORSON"
+  },
+  {
+    "place": 4,
+    "country": "NOR",
+    "mark": "45.80",
+    "name": "Harald STENERUD"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "44.87",
+    "name": "John Franklin ANDERSON"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "44.17",
+    "name": "Eino Johannes Evert KENTTÄ"
+  },
+  {
+    "place": 7,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Georgios ZAKHAROPOULOS"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Léon COURTÉJAIRE"
+  },
+  {
+    "place": 9,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "António CARDOSO"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Paavo Ilmari YRJÖLÄ"
+  },
+  {
+    "place": 11,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Pál TOTH"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Daniel PIERRE"
+  },
+  {
+    "place": 13,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Vladimir MANOJILOVIĆ"
+  },
+  {
+    "place": 14,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Alfonso DE GORTARI"
+  },
+  {
+    "place": 15,
+    "country": "LAT",
+    "mark": "Did not start",
+    "name": "Vilhelms ROZENBERGS"
+  },
+  {
+    "place": 16,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "A. NOLLEN"
+  }
+]

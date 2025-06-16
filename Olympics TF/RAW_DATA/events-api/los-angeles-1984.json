@@ -1,0 +1,207 @@
+[
+  {
+    "slug": "10000m-men",
+    "title": "10000m men",
+    "gender": "Men"
+  },
+  {
+    "slug": "100m-hurdles-women",
+    "title": "100m hurdles women",
+    "gender": "Women"
+  },
+  {
+    "slug": "100m-men",
+    "title": "100m men",
+    "gender": "Men"
+  },
+  {
+    "slug": "100m-women",
+    "title": "100m women",
+    "gender": "Women"
+  },
+  {
+    "slug": "110m-hurdles-men",
+    "title": "110m hurdles men",
+    "gender": "Men"
+  },
+  {
+    "slug": "1500m-men",
+    "title": "1500m men",
+    "gender": "Men"
+  },
+  {
+    "slug": "1500m-women",
+    "title": "1500m women",
+    "gender": "Women"
+  },
+  {
+    "slug": "200m-men",
+    "title": "200m men",
+    "gender": "Men"
+  },
+  {
+    "slug": "200m-women",
+    "title": "200m women",
+    "gender": "Women"
+  },
+  {
+    "slug": "20km-walk-men",
+    "title": "20km walk men",
+    "gender": "Men"
+  },
+  {
+    "slug": "3000m-steeplechase-men",
+    "title": "3000m steeplechase men",
+    "gender": "Men"
+  },
+  {
+    "slug": "3000m-women",
+    "title": "3000m women",
+    "gender": "Women"
+  },
+  {
+    "slug": "400m-hurdles-men",
+    "title": "400m hurdles men",
+    "gender": "Men"
+  },
+  {
+    "slug": "400m-hurdles-women",
+    "title": "400m hurdles women",
+    "gender": "Women"
+  },
+  {
+    "slug": "400m-men",
+    "title": "400m men",
+    "gender": "Men"
+  },
+  {
+    "slug": "400m-women",
+    "title": "400m women",
+    "gender": "Women"
+  },
+  {
+    "slug": "4x100m-relay-men",
+    "title": "4x100m relay men",
+    "gender": "Men"
+  },
+  {
+    "slug": "4x100m-relay-women",
+    "title": "4x100m relay women",
+    "gender": "Women"
+  },
+  {
+    "slug": "4x400m-relay-men",
+    "title": "4x400m relay men",
+    "gender": "Men"
+  },
+  {
+    "slug": "4x400m-relay-women",
+    "title": "4x400m relay women",
+    "gender": "Women"
+  },
+  {
+    "slug": "5000m-men",
+    "title": "5000m men",
+    "gender": "Men"
+  },
+  {
+    "slug": "50km-walk-men",
+    "title": "50km walk men",
+    "gender": "Men"
+  },
+  {
+    "slug": "800m-men",
+    "title": "800m men",
+    "gender": "Men"
+  },
+  {
+    "slug": "800m-women",
+    "title": "800m women",
+    "gender": "Women"
+  },
+  {
+    "slug": "decathlon-men",
+    "title": "decathlon men",
+    "gender": "Men"
+  },
+  {
+    "slug": "discus-throw-men",
+    "title": "discus throw men",
+    "gender": "Men"
+  },
+  {
+    "slug": "discus-throw-women",
+    "title": "discus throw women",
+    "gender": "Women"
+  },
+  {
+    "slug": "hammer-throw-men",
+    "title": "hammer throw men",
+    "gender": "Men"
+  },
+  {
+    "slug": "heptathlon-women",
+    "title": "heptathlon women",
+    "gender": "Women"
+  },
+  {
+    "slug": "high-jump-men",
+    "title": "high jump men",
+    "gender": "Men"
+  },
+  {
+    "slug": "high-jump-women",
+    "title": "high jump women",
+    "gender": "Women"
+  },
+  {
+    "slug": "javelin-throw-men",
+    "title": "javelin throw men",
+    "gender": "Men"
+  },
+  {
+    "slug": "javelin-throw-women",
+    "title": "javelin throw women",
+    "gender": "Women"
+  },
+  {
+    "slug": "long-jump-men",
+    "title": "long jump men",
+    "gender": "Men"
+  },
+  {
+    "slug": "long-jump-women",
+    "title": "long jump women",
+    "gender": "Women"
+  },
+  {
+    "slug": "marathon-men",
+    "title": "marathon men",
+    "gender": "Men"
+  },
+  {
+    "slug": "marathon-women",
+    "title": "marathon women",
+    "gender": "Women"
+  },
+  {
+    "slug": "pole-vault-men",
+    "title": "pole vault men",
+    "gender": "Men"
+  },
+  {
+    "slug": "shot-put-men",
+    "title": "shot put men",
+    "gender": "Men"
+  },
+  {
+    "slug": "shot-put-women",
+    "title": "shot put women",
+    "gender": "Women"
+  },
+  {
+    "slug": "triple-jump-men",
+    "title": "triple jump men",
+    "gender": "Men"
+  }
+]

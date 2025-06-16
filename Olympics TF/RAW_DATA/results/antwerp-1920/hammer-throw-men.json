@@ -1,0 +1,44 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "52.875",
+    "name": "Paddy RYAN"
+  },
+  {
+    "place": 2,
+    "country": "SWE",
+    "mark": "48.43",
+    "name": "Carl Johan LIND"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "48.23",
+    "name": "Basil BENNETT"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "47.29",
+    "name": "Malcolm SVENSSON"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "46.67",
+    "name": "Matt MCGRATH"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "45.70",
+    "name": "Thomas Rae NICOLSON"
+  },
+  {
+    "place": 7,
+    "country": "SWE",
+    "mark": "44.885",
+    "name": "Nils LINDE"
+  }
+]

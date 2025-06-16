@@ -1,0 +1,62 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "65.78",
+    "name": "Jonni MYYRÄ"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "63.605",
+    "name": "Urho Pellervo PELTONEN"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "63.095",
+    "name": "Paavo JOHANSSON"
+  },
+  {
+    "place": 4,
+    "country": "FIN",
+    "mark": "62.395",
+    "name": "Juho Julius SAARISTO"
+  },
+  {
+    "place": 5,
+    "country": "EST",
+    "mark": "62.39",
+    "name": "Aleksander KLUMBERG"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "60.52",
+    "name": "Gunnar LINDSTRÖM"
+  },
+  {
+    "place": 7,
+    "country": "USA",
+    "mark": "59.275",
+    "name": "Milton ANGIER"
+  },
+  {
+    "place": 8,
+    "country": "SWE",
+    "mark": "58.18",
+    "name": "Erik BLOMQVIST"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "57.86",
+    "name": "James LINCOLN"
+  },
+  {
+    "place": 10,
+    "country": "SWE",
+    "mark": "56.775",
+    "name": "Hugo LILLIÉR"
+  }
+]

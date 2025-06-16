@@ -1,0 +1,57 @@
+[
+  {
+    "slug": "100m-men",
+    "title": "100m men",
+    "gender": "Men"
+  },
+  {
+    "slug": "1500m-men",
+    "title": "1500m men",
+    "gender": "Men"
+  },
+  {
+    "slug": "200m-men",
+    "title": "200m men",
+    "gender": "Men"
+  },
+  {
+    "slug": "400m-men",
+    "title": "400m men",
+    "gender": "Men"
+  },
+  {
+    "slug": "60m-men",
+    "title": "60m men",
+    "gender": "Men"
+  },
+  {
+    "slug": "800m-men",
+    "title": "800m men",
+    "gender": "Men"
+  },
+  {
+    "slug": "high-jump-standing-men",
+    "title": "high jump standing men",
+    "gender": "Men"
+  },
+  {
+    "slug": "long-jump-standing-men",
+    "title": "long jump standing men",
+    "gender": "Men"
+  },
+  {
+    "slug": "marathon-men",
+    "title": "marathon men",
+    "gender": "Men"
+  },
+  {
+    "slug": "shot-put-men",
+    "title": "shot put men",
+    "gender": "Men"
+  },
+  {
+    "slug": "triple-jump-men",
+    "title": "triple jump men",
+    "gender": "Men"
+  }
+]

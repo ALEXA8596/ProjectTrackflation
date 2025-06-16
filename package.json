@@ -1,0 +1,16 @@
+{
+  "name": "projecttrackflation",
+  "version": "1.0.0",
+  "description": "A small project of mine where I compare the \"inflation\" in track and field inflation between high school(, collegiate,) and professional levels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^26.1.0",
+    "node-fetch": "^2.6.7"
+  }
+}

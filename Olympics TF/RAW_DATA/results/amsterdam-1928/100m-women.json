@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "12.200",
+    "name": "Elizabeth ROBINSON"
+  },
+  {
+    "place": 2,
+    "country": "CAN",
+    "mark": "12.300",
+    "name": "Bobby ROSENFELD"
+  },
+  {
+    "place": 3,
+    "country": "CAN",
+    "mark": "12.300",
+    "name": "Ethel M. SMITH"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "12.400",
+    "name": "Erna STEINBERG"
+  },
+  {
+    "place": 5,
+    "country": "CAN",
+    "mark": "Disqualified",
+    "name": "Myrtle Alice COOK"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "Disqualified",
+    "name": "Helene Leni SCHMIDT"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Eva LUKÁCS"
+  },
+  {
+    "place": 8,
+    "country": "POL",
+    "mark": "Did not start",
+    "name": "Anna BREUER"
+  },
+  {
+    "place": 9,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Suzanne DEVENOGES"
+  },
+  {
+    "place": 10,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Antoinette GALLEMAERS"
+  },
+  {
+    "place": 11,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "R. MAYER"
+  },
+  {
+    "place": 12,
+    "country": "EST",
+    "mark": "Did not start",
+    "name": "Sara TEITELBAUM"
+  },
+  {
+    "place": 13,
+    "country": "AUT",
+    "mark": "Did not start",
+    "name": "Dolly WAGNER KUCERA"
+  },
+  {
+    "place": 14,
+    "country": "LTU",
+    "mark": "Did not start",
+    "name": "Paula RADZIULYTE"
+  },
+  {
+    "place": 15,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Elise VAN TRUYEN"
+  }
+]

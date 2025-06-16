@@ -1,0 +1,206 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:30:18.800",
+    "name": "Paavo NURMI"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "00:30:19.400",
+    "name": "Ville RITOLA"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "00:31:00.800",
+    "name": "Edvin WIDE"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "00:31:26.000",
+    "name": "Jean-Gunnar LINDGREN"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:31:31.800",
+    "name": "Arthur MUGGRIDGE"
+  },
+  {
+    "place": 6,
+    "country": "SWE",
+    "mark": "00:31:37.200",
+    "name": "K. Ragnar MAGNUSSON"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "00:31:39.000",
+    "name": "Toivo Aarne LOUKOLA"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "00:31:45.000",
+    "name": "Kaarlo Kalle MATILAINEN"
+  },
+  {
+    "place": 9,
+    "country": "GBR",
+    "mark": "00:31:48.000",
+    "name": "Wally BEAVERS"
+  },
+  {
+    "place": 10,
+    "country": "GBR",
+    "mark": "00:31:50.000",
+    "name": "Suttie SMITH"
+  },
+  {
+    "place": 11,
+    "country": "ESP",
+    "mark": "00:32:21.800",
+    "name": "Arturo PENA"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "Did not finish",
+    "name": "Henri LAUVAUX"
+  },
+  {
+    "place": 13,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "John Macauley L. SMITH"
+  },
+  {
+    "place": 14,
+    "country": "USA",
+    "mark": "Did not finish",
+    "name": "John Luther ROMIG"
+  },
+  {
+    "place": 15,
+    "country": "IND",
+    "mark": "Did not finish",
+    "name": "D. B. CHAVAN"
+  },
+  {
+    "place": 16,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Henri DARTIGUES"
+  },
+  {
+    "place": 17,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Elek SZERB"
+  },
+  {
+    "place": 18,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Josef NEMECKY"
+  },
+  {
+    "place": 19,
+    "country": "MON",
+    "mark": "Did not start",
+    "name": "Robert MASINO"
+  },
+  {
+    "place": 20,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Seiichiro TSUDA"
+  },
+  {
+    "place": 21,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "George R. HYDE"
+  },
+  {
+    "place": 22,
+    "country": "ARG",
+    "mark": "Did not start",
+    "name": "José RIBAS"
+  },
+  {
+    "place": 23,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Athanassios BEKIARIS"
+  },
+  {
+    "place": 24,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Erik STENFELDT"
+  },
+  {
+    "place": 25,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Johan BADENDYCK"
+  },
+  {
+    "place": 26,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Torvald MINDE"
+  },
+  {
+    "place": 27,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Carl Axel Holger PETERSEN"
+  },
+  {
+    "place": 28,
+    "country": "POR",
+    "mark": "Did not start",
+    "name": "António ALMEIDA"
+  },
+  {
+    "place": 29,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Cliff BRICKER"
+  },
+  {
+    "place": 30,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "John C. MILES"
+  },
+  {
+    "place": 31,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Billy REYNOLDS"
+  },
+  {
+    "place": 32,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Harold WEBSTER"
+  },
+  {
+    "place": 33,
+    "country": "EST",
+    "mark": "Did not start",
+    "name": "Felix BELDSINSKY"
+  },
+  {
+    "place": 34,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "William AGEE"
+  }
+]

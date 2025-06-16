@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "USA",
+    "mark": "7.73",
+    "name": "Edward Barton HAMM"
+  },
+  {
+    "place": 2,
+    "country": "HAI",
+    "mark": "7.58",
+    "name": "Silvio M. CATOR"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "7.40",
+    "name": "Alfred Hilborn BATES"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "7.39",
+    "name": "Willi MEIER"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "7.35",
+    "name": "Erich KOCHERMANN"
+  },
+  {
+    "place": 6,
+    "country": "NED",
+    "mark": "7.32",
+    "name": "Hannes DE BOER"
+  },
+  {
+    "place": 7,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Anthony William WINTER"
+  },
+  {
+    "place": 8,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Kaarlo Werner JARVINEN"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "Walter HARRISON"
+  },
+  {
+    "place": 10,
+    "country": "RSA",
+    "mark": "Did not start",
+    "name": "Sidney ATKINSON"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Robert LOISEAU"
+  },
+  {
+    "place": 12,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Akiles Eero Johannes JÄRVINEN"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Pierre DINARD"
+  },
+  {
+    "place": 14,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Stelios BENARDIS"
+  },
+  {
+    "place": 15,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Elemer SOMFAY"
+  }
+]

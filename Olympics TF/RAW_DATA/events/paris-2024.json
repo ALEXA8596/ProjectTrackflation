@@ -1,0 +1,194 @@
+[
+  {
+    "eventName": "4 x 400m Relay Mixed",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/4-x-400m-relay-mixed"
+  },
+  {
+    "eventName": "Marathon Race Walk Relay Mixed",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/marathon-race-walk-relay-mixed"
+  },
+  {
+    "eventName": "Men's 10,000m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-10-000m"
+  },
+  {
+    "eventName": "Men's 100m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-100m"
+  },
+  {
+    "eventName": "Men's 110m Hurdles",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-110m-hurdles"
+  },
+  {
+    "eventName": "Men's 1500m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-1500m"
+  },
+  {
+    "eventName": "Men's 200m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-200m"
+  },
+  {
+    "eventName": "Men's 20km Race Walk",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-20km-race-walk"
+  },
+  {
+    "eventName": "Men's 3000m Steeplechase",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-3000m-steeplechase"
+  },
+  {
+    "eventName": "Men's 4 x 100m Relay",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-4-x-100m-relay"
+  },
+  {
+    "eventName": "Men's 4 x 400m Relay",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-4-x-400m-relay"
+  },
+  {
+    "eventName": "Men's 400m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-400m"
+  },
+  {
+    "eventName": "Men's 400m Hurdles",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-400m-hurdles"
+  },
+  {
+    "eventName": "Men's 5000m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-5000m"
+  },
+  {
+    "eventName": "Men's 800m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-800m"
+  },
+  {
+    "eventName": "Men's Decathlon",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-decathlon"
+  },
+  {
+    "eventName": "Men's Discus Throw",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-discus-throw"
+  },
+  {
+    "eventName": "Men's Hammer Throw",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-hammer-throw"
+  },
+  {
+    "eventName": "Men's High Jump",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-high-jump"
+  },
+  {
+    "eventName": "Men's Javelin Throw",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-javelin-throw"
+  },
+  {
+    "eventName": "Men's Long Jump",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-long-jump"
+  },
+  {
+    "eventName": "Men's Marathon",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-marathon"
+  },
+  {
+    "eventName": "Men's Pole Vault",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-pole-vault"
+  },
+  {
+    "eventName": "Men's Shot Put",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-shot-put"
+  },
+  {
+    "eventName": "Men's Triple Jump",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/men-triple-jump"
+  },
+  {
+    "eventName": "Women's 10,000m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-10-000m"
+  },
+  {
+    "eventName": "Women's 100m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-100m"
+  },
+  {
+    "eventName": "Women's 100m Hurdles",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-100m-hurdles"
+  },
+  {
+    "eventName": "Women's 1500m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-1500m"
+  },
+  {
+    "eventName": "Women's 200m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-200m"
+  },
+  {
+    "eventName": "Women's 20km Race Walk",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-20km-race-walk"
+  },
+  {
+    "eventName": "Women's 3000m Steeplechase",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-3000m-steeplechase"
+  },
+  {
+    "eventName": "Women's 4 x 100m Relay",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-4-x-100m-relay"
+  },
+  {
+    "eventName": "Women's 4 x 400m Relay",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-4-x-400m-relay"
+  },
+  {
+    "eventName": "Women's 400m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-400m"
+  },
+  {
+    "eventName": "Women's 400m Hurdles",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-400m-hurdles"
+  },
+  {
+    "eventName": "Women's 5000m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-5000m"
+  },
+  {
+    "eventName": "Women's 800m",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-800m"
+  },
+  {
+    "eventName": "Women's Discus Throw",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-discus-throw"
+  },
+  {
+    "eventName": "Women's Hammer Throw",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-hammer-throw"
+  },
+  {
+    "eventName": "Women's Heptathlon",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-heptathlon"
+  },
+  {
+    "eventName": "Women's High Jump",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-high-jump"
+  },
+  {
+    "eventName": "Women's Javelin Throw",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-javelin-throw"
+  },
+  {
+    "eventName": "Women's Long Jump",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-long-jump"
+  },
+  {
+    "eventName": "Women's Marathon",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-marathon"
+  },
+  {
+    "eventName": "Women's Pole Vault",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-pole-vault"
+  },
+  {
+    "eventName": "Women's Shot Put",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-shot-put"
+  },
+  {
+    "eventName": "Women's Triple Jump",
+    "eventUrl": "/en/olympic-games/paris-2024/results/athletics/women-triple-jump"
+  }
+]

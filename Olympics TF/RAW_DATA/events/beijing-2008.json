@@ -1,0 +1,190 @@
+[
+  {
+    "eventName": "10000m men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/10000m-men"
+  },
+  {
+    "eventName": "10000m women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/10000m-women"
+  },
+  {
+    "eventName": "100m hurdles women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/100m-hurdles-women"
+  },
+  {
+    "eventName": "100m men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/100m-men"
+  },
+  {
+    "eventName": "100m women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/100m-women"
+  },
+  {
+    "eventName": "110m hurdles men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/110m-hurdles-men"
+  },
+  {
+    "eventName": "1500m men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/1500m-men"
+  },
+  {
+    "eventName": "1500m women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/1500m-women"
+  },
+  {
+    "eventName": "200m men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/200m-men"
+  },
+  {
+    "eventName": "200m women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/200m-women"
+  },
+  {
+    "eventName": "20km race walk women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/20km-race-walk-women"
+  },
+  {
+    "eventName": "20km walk men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/20km-walk-men"
+  },
+  {
+    "eventName": "3000m steeplechase men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/3000m-steeplechase-men"
+  },
+  {
+    "eventName": "3000m steeplechase women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/3000m-steeplechase-women"
+  },
+  {
+    "eventName": "400m hurdles men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/400m-hurdles-men"
+  },
+  {
+    "eventName": "400m hurdles women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/400m-hurdles-women"
+  },
+  {
+    "eventName": "400m men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/400m-men"
+  },
+  {
+    "eventName": "400m women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/400m-women"
+  },
+  {
+    "eventName": "4x100m relay men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/4x100m-relay-men"
+  },
+  {
+    "eventName": "4x100m relay women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/4x100m-relay-women"
+  },
+  {
+    "eventName": "4x400m relay men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/4x400m-relay-men"
+  },
+  {
+    "eventName": "4x400m relay women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/4x400m-relay-women"
+  },
+  {
+    "eventName": "5000m men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/5000m-men"
+  },
+  {
+    "eventName": "5000m women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/5000m-women"
+  },
+  {
+    "eventName": "50km walk men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/50km-walk-men"
+  },
+  {
+    "eventName": "800m men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/800m-men"
+  },
+  {
+    "eventName": "800m women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/800m-women"
+  },
+  {
+    "eventName": "decathlon men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/decathlon-men"
+  },
+  {
+    "eventName": "discus throw men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/discus-throw-men"
+  },
+  {
+    "eventName": "discus throw women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/discus-throw-women"
+  },
+  {
+    "eventName": "hammer throw men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/hammer-throw-men"
+  },
+  {
+    "eventName": "hammer throw women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/hammer-throw-women"
+  },
+  {
+    "eventName": "heptathlon women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/heptathlon-women"
+  },
+  {
+    "eventName": "high jump men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/high-jump-men"
+  },
+  {
+    "eventName": "high jump women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/high-jump-women"
+  },
+  {
+    "eventName": "javelin throw men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/javelin-throw-men"
+  },
+  {
+    "eventName": "javelin throw women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/javelin-throw-women"
+  },
+  {
+    "eventName": "long jump men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/long-jump-men"
+  },
+  {
+    "eventName": "long jump women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/long-jump-women"
+  },
+  {
+    "eventName": "marathon men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/marathon-men"
+  },
+  {
+    "eventName": "marathon women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/marathon-women"
+  },
+  {
+    "eventName": "pole vault men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/pole-vault-men"
+  },
+  {
+    "eventName": "pole vault women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/pole-vault-women"
+  },
+  {
+    "eventName": "shot put men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/shot-put-men"
+  },
+  {
+    "eventName": "shot put women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/shot-put-women"
+  },
+  {
+    "eventName": "triple jump men",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/triple-jump-men"
+  },
+  {
+    "eventName": "triple jump women",
+    "eventUrl": "/en/olympic-games/beijing-2008/results/athletics/triple-jump-women"
+  }
+]

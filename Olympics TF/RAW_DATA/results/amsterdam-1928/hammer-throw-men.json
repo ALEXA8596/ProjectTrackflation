@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "IRL",
+    "mark": "51.39",
+    "name": "Pat O'CALLAGHAN"
+  },
+  {
+    "place": 2,
+    "country": "SWE",
+    "mark": "51.29",
+    "name": "Ossian E. SKIÖLD"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "49.03",
+    "name": "Ed BLACK"
+  },
+  {
+    "place": 4,
+    "country": "ITA",
+    "mark": "48.37",
+    "name": "Armando POGGIOLI"
+  },
+  {
+    "place": 5,
+    "country": "USA",
+    "mark": "47.15",
+    "name": "Donald S. GWINN"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "46.75",
+    "name": "Frank Norris CONNOR"
+  },
+  {
+    "place": 7,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Ðuro GAŠPAR"
+  },
+  {
+    "place": 8,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Jesus AGUIRRE DELGADO"
+  },
+  {
+    "place": 9,
+    "country": "NED",
+    "mark": "Did not start",
+    "name": "W. DE HEUS"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Paavo HILDÉN"
+  },
+  {
+    "place": 11,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Robert SAINT-PE"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Louis RAIMBOURG"
+  },
+  {
+    "place": 13,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Pierre ZAIDIN"
+  },
+  {
+    "place": 14,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Charles LAGARDE"
+  }
+]

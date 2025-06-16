@@ -1,0 +1,86 @@
+[
+  {
+    "place": 1,
+    "country": "POL",
+    "mark": "39.62",
+    "name": "Halina KONOPACKA"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "37.08",
+    "name": "Lillian COPELAND"
+  },
+  {
+    "place": 3,
+    "country": "SWE",
+    "mark": "35.92",
+    "name": "Ruth A. SVEDBERG"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "35.86",
+    "name": "Mathilde Emilie REUTER"
+  },
+  {
+    "place": 5,
+    "country": "GER",
+    "mark": "35.56",
+    "name": "Greta HEUBLEIN"
+  },
+  {
+    "place": 6,
+    "country": "AUT",
+    "mark": "33.54",
+    "name": "Elisabeth PERKAUS"
+  },
+  {
+    "place": 7,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Kinue HITOMI"
+  },
+  {
+    "place": 8,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Bobby ROSENFELD"
+  },
+  {
+    "place": 9,
+    "country": "LTU",
+    "mark": "Did not start",
+    "name": "Marija PAKARKLYTĖ"
+  },
+  {
+    "place": 10,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "José PAQUES"
+  },
+  {
+    "place": 11,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Sidonie VERSCHUEREN"
+  },
+  {
+    "place": 12,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Vanda VODICKOVÁ"
+  },
+  {
+    "place": 13,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Ethel CATHERWOOD"
+  },
+  {
+    "place": 14,
+    "country": "EST",
+    "mark": "Did not start",
+    "name": "Sara TEITELBAUM"
+  }
+]

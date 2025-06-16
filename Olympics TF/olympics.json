@@ -1,0 +1,122 @@
+[
+    {
+        "id": "paris-2024",
+        "name": "Paris 2024"
+    },
+    {
+        "id": "tokyo-2020",
+        "name": "Tokyo 2020"
+    },
+    {
+        "id": "rio-2016",
+        "name": "Rio 2016"
+    },
+    {
+        "id": "london-2012",
+        "name": "London 2012"
+    },
+    {
+        "id": "beijing-2008",
+        "name": "Beijing 2008"
+    },
+    {
+        "id": "athens-2004",
+        "name": "Athens 2004"
+    },
+    {
+        "id": "sydney-2000",
+        "name": "Sydney 2000"
+    },
+    {
+        "id": "atlanta-1996",
+        "name": "Atlanta 1996"
+    },
+    {
+        "id": "barcelona-1992",
+        "name": "Barcelona 1992"
+    },
+    {
+        "id": "seoul-1988",
+        "name": "Seoul 1988"
+    },
+    {
+        "id": "los-angeles-1984",
+        "name": "Los Angeles 1984"
+    },
+    {
+        "id": "moscow-1980",
+        "name": "Moscow 1980"
+    },
+    {
+        "id": "montreal-1976",
+        "name": "Montreal 1976"
+    },
+    {
+        "id": "munich-1972",
+        "name": "Munich 1972"
+    },
+    {
+        "id": "mexico-city-1968",
+        "name": "Mexico City 1968"
+    },
+    {
+        "id": "tokyo-1964",
+        "name": "Tokyo 1964"
+    },
+    {
+        "id": "rome-1960",
+        "name": "Rome 1960"
+    },
+    {
+        "id": "melbourne-1956",
+        "name": "Melbourne 1956"
+    },
+    {
+        "id": "helsinki-1952",
+        "name": "Helsinki 1952"
+    },
+    {
+        "id": "london-1948",
+        "name": "London 1948"
+    },
+    {
+        "id": "berlin-1936",
+        "name": "Berlin 1936"
+    },
+    {
+        "id": "los-angeles-1932",
+        "name": "Los Angeles 1932"
+    },
+    {
+        "id": "amsterdam-1928",
+        "name": "Amsterdam 1928"
+    },
+    {
+        "id": "paris-1924",
+        "name": "Paris 1924"
+    },
+    {
+        "id": "antwerp-1920",
+        "name": "Antwerp 1920"
+    },
+    {
+        "id": "stockholm-1912",
+        "name": "Stockholm 1912"
+    },
+    {
+        "id": "london-1908",
+        "name": "London 1908"
+    },
+    {
+        "id": "st-louis-1904",
+        "name": "St. Louis 1904"
+    },
+    {
+        "id": "paris-1900",
+        "name": "Paris 1900"
+    },
+    {
+        "id": "athens-1896",
+        "name": "Athens 1896"
+    }
+]

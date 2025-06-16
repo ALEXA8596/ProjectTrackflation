@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:09:21.800",
+    "name": "Toivo Aarne LOUKOLA"
+  },
+  {
+    "place": 2,
+    "country": "FIN",
+    "mark": "00:09:31.200",
+    "name": "Paavo NURMI"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "00:09:35.600",
+    "name": "Ove ANDERSEN"
+  },
+  {
+    "place": 4,
+    "country": "SWE",
+    "mark": "00:09:38.000",
+    "name": "Nils E. EKLÖF"
+  },
+  {
+    "place": 5,
+    "country": "FRA",
+    "mark": "00:09:40.000",
+    "name": "Henri DARTIGUES"
+  },
+  {
+    "place": 6,
+    "country": "FRA",
+    "mark": "00:09:40.500",
+    "name": "Lucien Léon DUQUESNE"
+  },
+  {
+    "place": 7,
+    "country": "FIN",
+    "mark": "Did not finish",
+    "name": "Ville RITOLA"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Maurice NORLAND"
+  },
+  {
+    "place": 9,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Gurbachan SINGH"
+  },
+  {
+    "place": 10,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Paul BONTEMPS"
+  },
+  {
+    "place": 11,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Edvin WIDE"
+  },
+  {
+    "place": 12,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Billy KIBBLEWHITE"
+  },
+  {
+    "place": 13,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "Vincent CALLARD"
+  },
+  {
+    "place": 14,
+    "country": "TCH",
+    "mark": "Did not start",
+    "name": "Josef NEMECKY"
+  },
+  {
+    "place": 15,
+    "country": "AUS",
+    "mark": "Did not start",
+    "name": "George R. HYDE"
+  },
+  {
+    "place": 16,
+    "country": "CAN",
+    "mark": "Did not start",
+    "name": "David GRIFFIN"
+  },
+  {
+    "place": 17,
+    "country": "SUI",
+    "mark": "Did not start",
+    "name": "Eugène BEC"
+  }
+]

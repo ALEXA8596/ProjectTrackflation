@@ -1,0 +1,92 @@
+[
+  {
+    "place": 1,
+    "country": "RSA",
+    "mark": "14.800",
+    "name": "Sidney ATKINSON"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "14.800",
+    "name": "Stephen ANDERSON"
+  },
+  {
+    "place": 3,
+    "country": "USA",
+    "mark": "14.900",
+    "name": "John COLLIER"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "14.900",
+    "name": "Leighton DYE"
+  },
+  {
+    "place": 5,
+    "country": "RSA",
+    "mark": "15.000",
+    "name": "George Collinson WEIGHTMAN SMITH"
+  },
+  {
+    "place": 6,
+    "country": "GBR",
+    "mark": "15.200",
+    "name": "Frederick Richard GABY"
+  },
+  {
+    "place": 7,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Erling SEEBERG"
+  },
+  {
+    "place": 8,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Conrad HAUGE"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Gilbert ALLART"
+  },
+  {
+    "place": 10,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Aarne JOUNELA"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Erkki JÄRVINEN"
+  },
+  {
+    "place": 12,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Roger VIEL"
+  },
+  {
+    "place": 13,
+    "country": "EST",
+    "mark": "Did not start",
+    "name": "Alfred ROSENBERG"
+  },
+  {
+    "place": 14,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Branko KALLAY"
+  },
+  {
+    "place": 15,
+    "country": "DEN",
+    "mark": "Did not start",
+    "name": "Herman David LARSEN"
+  }
+]

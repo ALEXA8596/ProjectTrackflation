@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "CAN",
+    "mark": "10.800",
+    "name": "Percy WILLIAMS"
+  },
+  {
+    "place": 2,
+    "country": "GBR",
+    "mark": "10.900",
+    "name": "Jack LONDON"
+  },
+  {
+    "place": 3,
+    "country": "GER",
+    "mark": "10.900",
+    "name": "Georg LAMMERS"
+  },
+  {
+    "place": 4,
+    "country": "USA",
+    "mark": "11.000",
+    "name": "Frank Clifford WYKOFF"
+  },
+  {
+    "place": 5,
+    "country": "RSA",
+    "mark": "11.000",
+    "name": "Wilfred B. LEGG"
+  },
+  {
+    "place": 6,
+    "country": "USA",
+    "mark": "11.000",
+    "name": "Bob MCALLISTER"
+  },
+  {
+    "place": 7,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Stane PERPAR"
+  },
+  {
+    "place": 8,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Tormod ULLEBERG"
+  },
+  {
+    "place": 9,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Sándor HAJDU"
+  },
+  {
+    "place": 10,
+    "country": "LUX",
+    "mark": "Did not start",
+    "name": "Robert CODRONS"
+  },
+  {
+    "place": 11,
+    "country": "FIN",
+    "mark": "Did not start",
+    "name": "Ilmari HELLE"
+  },
+  {
+    "place": 12,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Melvin CARSON"
+  },
+  {
+    "place": 13,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "R. ENISS BEY"
+  },
+  {
+    "place": 14,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Friedrich-wilhelm WICHMANN"
+  },
+  {
+    "place": 15,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Nikolaos PAPANIKOLAOU"
+  },
+  {
+    "place": 16,
+    "country": "ITA",
+    "mark": "Did not start",
+    "name": "Giuseppe CASTELLI"
+  },
+  {
+    "place": 17,
+    "country": "NZL",
+    "mark": "Did not start",
+    "name": "Arthur PORRITT"
+  }
+]

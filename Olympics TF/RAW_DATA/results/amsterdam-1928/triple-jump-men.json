@@ -1,0 +1,104 @@
+[
+  {
+    "place": 1,
+    "country": "JPN",
+    "mark": "15.21",
+    "name": "Mikio ODA"
+  },
+  {
+    "place": 2,
+    "country": "USA",
+    "mark": "15.17",
+    "name": "Lee CASEY"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "15.11",
+    "name": "Vilho Immanuel TUULOS"
+  },
+  {
+    "place": 4,
+    "country": "JPN",
+    "mark": "15.01",
+    "name": "Chuhei NANBU"
+  },
+  {
+    "place": 5,
+    "country": "FIN",
+    "mark": "14.70",
+    "name": "Toimi TULIKOURA"
+  },
+  {
+    "place": 6,
+    "country": "FIN",
+    "mark": "14.65",
+    "name": "Erkki JÄRVINEN"
+  },
+  {
+    "place": 7,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Béla BOTTLIK"
+  },
+  {
+    "place": 8,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "André CLAYEUX"
+  },
+  {
+    "place": 9,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Jacques FLOURET"
+  },
+  {
+    "place": 10,
+    "country": "YUG",
+    "mark": "Did not start",
+    "name": "Zdravka JAKUPIĆ"
+  },
+  {
+    "place": 11,
+    "country": "NOR",
+    "mark": "Did not start",
+    "name": "Gunnar FREDRIKSEN"
+  },
+  {
+    "place": 12,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Stelios BENARDIS"
+  },
+  {
+    "place": 13,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Dalip SINGH"
+  },
+  {
+    "place": 14,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Elemer SOMFAY"
+  },
+  {
+    "place": 15,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Paul COUILLAUD"
+  },
+  {
+    "place": 16,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "André MOURLON"
+  },
+  {
+    "place": 17,
+    "country": "SWE",
+    "mark": "Did not start",
+    "name": "Eric SVENSSON"
+  }
+]

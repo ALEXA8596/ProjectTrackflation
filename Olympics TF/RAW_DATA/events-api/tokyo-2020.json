@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "4-x-400m-relay-mixed",
+    "title": "4 x 400m Relay Mixed",
+    "gender": "Mixed"
+  },
+  {
+    "slug": "men-s-10000m",
+    "title": "Men's 10,000m",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-100m",
+    "title": "Men's 100m",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-110m-hurdles",
+    "title": "Men's 110m Hurdles",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-1500m",
+    "title": "Men's 1500m",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-200m",
+    "title": "Men's 200m",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-20km-race-walk",
+    "title": "Men's 20km Race Walk",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-3000m-steeplechase",
+    "title": "Men's 3000m Steeplechase",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-4-x-100m-relay",
+    "title": "Men's 4 x 100m Relay",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-4-x-400m-relay",
+    "title": "Men's 4 x 400m Relay",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-400m",
+    "title": "Men's 400m",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-400m-hurdles",
+    "title": "Men's 400m Hurdles",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-5000m",
+    "title": "Men's 5000m",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-50km-race-walk",
+    "title": "Men's 50km Race Walk",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-800m",
+    "title": "Men's 800m",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-decathlon",
+    "title": "Men's Decathlon",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-discus-throw",
+    "title": "Men's Discus Throw",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-hammer-throw",
+    "title": "Men's Hammer Throw",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-high-jump",
+    "title": "Men's High Jump",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-javelin-throw",
+    "title": "Men's Javelin Throw",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-long-jump",
+    "title": "Men's Long Jump",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-marathon",
+    "title": "Men's Marathon",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-pole-vault",
+    "title": "Men's Pole Vault",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-shot-put",
+    "title": "Men's Shot Put",
+    "gender": "Men"
+  },
+  {
+    "slug": "men-s-triple-jump",
+    "title": "Men's Triple Jump",
+    "gender": "Men"
+  },
+  {
+    "slug": "women-s-10000m",
+    "title": "Women's 10,000m",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-100m",
+    "title": "Women's 100m",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-100m-hurdles",
+    "title": "Women's 100m Hurdles",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-1500m",
+    "title": "Women's 1500m",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-200m",
+    "title": "Women's 200m",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-20km-race-walk",
+    "title": "Women's 20km Race Walk",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-3000m-steeplechase",
+    "title": "Women's 3000m Steeplechase",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-4-x-100m-relay",
+    "title": "Women's 4 x 100m Relay",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-4-x-400m-relay",
+    "title": "Women's 4 x 400m Relay",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-400m",
+    "title": "Women's 400m",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-400m-hurdles",
+    "title": "Women's 400m Hurdles",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-5000m",
+    "title": "Women's 5000m",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-800m",
+    "title": "Women's 800m",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-discus-throw",
+    "title": "Women's Discus Throw",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-hammer-throw",
+    "title": "Women's Hammer Throw",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-heptathlon",
+    "title": "Women's Heptathlon",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-high-jump",
+    "title": "Women's High Jump",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-javelin-throw",
+    "title": "Women's Javelin Throw",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-long-jump",
+    "title": "Women's Long Jump",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-marathon",
+    "title": "Women's Marathon",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-pole-vault",
+    "title": "Women's Pole Vault",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-shot-put",
+    "title": "Women's Shot Put",
+    "gender": "Women"
+  },
+  {
+    "slug": "women-s-triple-jump",
+    "title": "Women's Triple Jump",
+    "gender": "Women"
+  }
+]

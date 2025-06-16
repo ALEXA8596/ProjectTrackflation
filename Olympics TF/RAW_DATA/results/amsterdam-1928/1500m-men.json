@@ -1,0 +1,152 @@
+[
+  {
+    "place": 1,
+    "country": "FIN",
+    "mark": "00:03:53.200",
+    "name": "Harri Edvin LARVA"
+  },
+  {
+    "place": 2,
+    "country": "FRA",
+    "mark": "00:03:53.800",
+    "name": "Jules LADOUMEGUE"
+  },
+  {
+    "place": 3,
+    "country": "FIN",
+    "mark": "00:03:56.400",
+    "name": "Eino Alfred PURJE"
+  },
+  {
+    "place": 4,
+    "country": "GER",
+    "mark": "00:03:56.800",
+    "name": "Hans-Georg WICHMANN"
+  },
+  {
+    "place": 5,
+    "country": "GBR",
+    "mark": "00:03:57.600",
+    "name": "Cyril ELLIS"
+  },
+  {
+    "place": 6,
+    "country": "SUI",
+    "mark": "00:03:58.400",
+    "name": "Paul-René MARTIN"
+  },
+  {
+    "place": 7,
+    "country": "GER",
+    "mark": "00:03:59.000",
+    "name": "Hans-helmuth KRAUSE"
+  },
+  {
+    "place": 8,
+    "country": "TCH",
+    "mark": "00:04:00.400",
+    "name": "Adolf KITTEL"
+  },
+  {
+    "place": 9,
+    "country": "AUS",
+    "mark": "00:04:00.400",
+    "name": "William M. WHYTE"
+  },
+  {
+    "place": 10,
+    "country": "GER",
+    "mark": "Did not finish",
+    "name": "Herbert BÖCHER"
+  },
+  {
+    "place": 11,
+    "country": "IRL",
+    "mark": "Did not start",
+    "name": "Gerry COUGHLAN"
+  },
+  {
+    "place": 12,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Joaquín MIQUEL"
+  },
+  {
+    "place": 13,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Andreas PAOURIS"
+  },
+  {
+    "place": 14,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Grigorios GEORGAKOPOULOS"
+  },
+  {
+    "place": 15,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "Gábor GYULAY"
+  },
+  {
+    "place": 16,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Antonios MANGOS"
+  },
+  {
+    "place": 17,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Georges L. BARATON"
+  },
+  {
+    "place": 18,
+    "country": "TUR",
+    "mark": "Did not start",
+    "name": "Ömer Besim KOŞALAY"
+  },
+  {
+    "place": 19,
+    "country": "MON",
+    "mark": "Did not start",
+    "name": "Robert MASINO"
+  },
+  {
+    "place": 20,
+    "country": "GRE",
+    "mark": "Did not start",
+    "name": "Vasilios STAVRINOS"
+  },
+  {
+    "place": 21,
+    "country": "MEX",
+    "mark": "Did not start",
+    "name": "Ciro CHAPA"
+  },
+  {
+    "place": 22,
+    "country": "BEL",
+    "mark": "Did not start",
+    "name": "Philip COENJAERTS"
+  },
+  {
+    "place": 23,
+    "country": "JPN",
+    "mark": "Did not start",
+    "name": "Juichi NAGATANI"
+  },
+  {
+    "place": 24,
+    "country": "ESP",
+    "mark": "Did not start",
+    "name": "Jesús OYARBIDE"
+  },
+  {
+    "place": 25,
+    "country": "IND",
+    "mark": "Did not start",
+    "name": "Gurbachan SINGH"
+  }
+]

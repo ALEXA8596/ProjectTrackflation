@@ -1,0 +1,56 @@
+[
+  {
+    "place": 1,
+    "country": "AUS",
+    "mark": "00:02:11.000",
+    "name": "Edwin FLACK"
+  },
+  {
+    "place": 2,
+    "country": "HUN",
+    "mark": "00:02:11.800",
+    "name": "Nandor DANI"
+  },
+  {
+    "place": 3,
+    "country": "GRE",
+    "mark": "at 20-100 metres",
+    "name": "Dimitrios GOLEMIS"
+  },
+  {
+    "place": 4,
+    "country": "CHI",
+    "mark": "Did not start",
+    "name": "Luis SUBERCASEAUX"
+  },
+  {
+    "place": 5,
+    "country": "HUN",
+    "mark": "Did not start",
+    "name": "István ZABORSZKY"
+  },
+  {
+    "place": 6,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Fritz HOFMANN"
+  },
+  {
+    "place": 7,
+    "country": "FRA",
+    "mark": "Did not start",
+    "name": "Frantz REICHEL"
+  },
+  {
+    "place": 8,
+    "country": "GER",
+    "mark": "Did not start",
+    "name": "Kurt DOERRY"
+  },
+  {
+    "place": 9,
+    "country": "USA",
+    "mark": "Did not start",
+    "name": "Thomas BURKE"
+  }
+]
