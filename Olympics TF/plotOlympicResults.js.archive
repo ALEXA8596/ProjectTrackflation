@@ -1,0 +1,290 @@
+const fs = require("fs");
+const path = require("path");
+const { ChartJSNodeCanvas } = require("chartjs-node-canvas");
+const csv = require("csv-parser");
+const { LinearScale, CategoryScale } = require("chart.js");
+const {
+  BoxPlotController,
+  BoxAndWiskers,
+} = require("@sgratzl/chartjs-chart-boxplot");
+
+const tablesDir = path.join(__dirname, "tables");
+const outputDir = path.join(__dirname, "olympic_plots");
+
+// Create output directory if it doesn't exist
+if (!fs.existsSync(outputDir)) {
+    fs.mkdirSync(outputDir);
+}
+
+// Configure chart dimensions
+const width = 1200;
+const height = 800;
+
+const chartCallback = (ChartJS) => {
+  ChartJS.register(
+    BoxPlotController,
+    BoxAndWiskers,
+    LinearScale,
+    CategoryScale
+  );
+};
+
+const chartJSNodeCanvas = new ChartJSNodeCanvas({
+    width,
+    height,
+    chartCallback
+});
+
+// Helper function for linear regression
+function calculateLinearRegression(xValues, yValues) {
+    const n = xValues.length;
+    let sumX = 0,
+        sumY = 0,
+        sumXY = 0,
+        sumXX = 0;
+
+    for (let i = 0; i < n; i++) {
+        sumX += xValues[i];
+        sumY += yValues[i];
+        sumXY += xValues[i] * yValues[i];
+        sumXX += xValues[i] * xValues[i];
+    }
+
+    const slope = (n * sumXY - sumX * sumY) / (n * sumXX - sumX * sumX);
+    const intercept = (sumY - slope * sumX) / n;
+
+    return {
+        slope,
+        intercept,
+        predict: (x) => slope * x + intercept,
+    };
+}
+
+function addRegressionLines(configuration, years, values, metric) {
+    const validData = years
+        .map((year, index) => ({ year, value: values[index] }))
+        .filter(({ value }) => value !== null);
+
+    const validYears = validData.map(({ year }) => year);
+    const validValues = validData.map(({ value }) => value);
+
+    const baseYear = Math.min(...years);
+    const normalizedYears = validYears.map((y) => y - baseYear);
+
+    const linearReg = calculateLinearRegression(normalizedYears, validValues);
+
+    configuration.data.datasets.push({
+        label: `${metric} Linear Trend`,
+        data: years.map((y) => linearReg.predict(y - baseYear)),
+        borderColor: "rgba(255, 0, 0, 0.5)",
+        borderDash: [5, 5],
+        fill: false,
+        tension: 0,
+    });
+
+    return configuration;
+}
+
+async function processCSVFile(filePath) {
+    const data = [];
+    const eventName = path.basename(filePath, ".csv");
+    const isFieldEvent =
+        eventName.toLowerCase().includes("shot") ||
+        eventName.toLowerCase().includes("discus") ||
+        eventName.toLowerCase().includes("javelin") ||
+        eventName.toLowerCase().includes("jump");
+
+    return new Promise((resolve, reject) => {
+        fs.createReadStream(filePath)
+            .pipe(csv())
+            .on("data", (row) => {
+                const year = parseInt(row.Year);
+                const place = parseInt(row.Place);
+                const mark = row.Mark;
+
+                if (place === 1) {
+                    let parsedMark;
+                    if (isFieldEvent) {
+                        parsedMark = parseFloat(mark);
+                    } else {
+                        const timeParts = mark.split(":");
+                        let seconds = 0;
+                        if (timeParts.length === 3) {
+                            seconds += parseInt(timeParts[0]) * 60 * 60;
+                            seconds += parseInt(timeParts[1]) * 60;
+                            seconds += parseFloat(timeParts[2]);
+                        } else if (timeParts.length === 2) {
+                            seconds += parseInt(timeParts[0]) * 60;
+                            seconds += parseFloat(timeParts[1]);
+                        } else {
+                            seconds = parseFloat(timeParts[0]);
+                        }
+                        parsedMark = seconds;
+                    }
+
+                    data.push({ year, mark: parsedMark });
+                }
+            })
+            .on("end", () => {
+                resolve(data);
+            })
+            .on("error", reject);
+    });
+}
+
+async function createBoxPlot(data, eventName) {
+    const configuration = {
+        type: "boxplot",
+        data: {
+            labels: data.map((d) => d.year.toString()),
+            datasets: [
+                {
+                    label: eventName,
+                    data: data.map((d) => ({
+                        min: d.mark,
+                        q1: d.mark * 0.9,
+                        median: d.mark,
+                        q3: d.mark * 1.1,
+                        max: d.mark * 1.2,
+                    })),
+                    backgroundColor: "rgba(75, 192, 192, 0.5)",
+                    borderColor: "rgba(75, 192, 192, 1)",
+                    borderWidth: 1,
+                },
+            ],
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: true,
+                    text: `${eventName} Performance Over Time`,
+                },
+            },
+            scales: {
+                y: {
+                    beginAtZero: false,
+                    title: {
+                        display: true,
+                        text: "Performance",
+                    },
+                },
+                x: {
+                    title: {
+                        display: true,
+                        text: "Year",
+                    },
+                },
+            },
+        },
+    };
+
+    return await chartJSNodeCanvas.renderToBuffer(configuration);
+}
+
+async function createLinePlot(data, eventName, metric) {
+    const years = data.map((d) => d.year);
+    const values = data.map((d) => d.mark);
+
+    let configuration = {
+        type: "line",
+        data: {
+            labels: years,
+            datasets: [
+                {
+                    label: metric,
+                    data: values,
+                    borderColor: "rgba(75, 192, 192, 1)",
+                    backgroundColor: "rgba(75, 192, 192, 0.2)",
+                    tension: 0.1,
+                    fill: true,
+                },
+            ],
+        },
+        options: {
+            responsive: true,
+            plugins: {
+                title: {
+                    display: true,
+                    text: `${eventName} ${metric} Over Time`,
+                },
+            },
+            scales: {
+                y: {
+                    beginAtZero: false,
+                    title: {
+                        display: true,
+                        text: "Performance",
+                    },
+                },
+                x: {
+                    title: {
+                        display: true,
+                        text: "Year",
+                    },
+                },
+            },
+        },
+    };
+
+    configuration = addRegressionLines(configuration, years, values, metric);
+
+    return await chartJSNodeCanvas.renderToBuffer(configuration);
+}
+
+async function generateAllPlots() {
+    const olympicGames = fs.readdirSync(tablesDir);
+
+    for (const game of olympicGames) {
+        const eventFilesDir = path.join(tablesDir, game);
+        const files = fs
+            .readdirSync(eventFilesDir)
+            .filter((file) => file.endsWith(".csv"));
+
+        for (const file of files) {
+            try {
+                console.log(`Processing ${file}...`);
+                const filePath = path.join(eventFilesDir, file);
+                const data = await processCSVFile(filePath);
+                const eventName = path.basename(file, ".csv");
+
+                const boxPlotBuffer = await createBoxPlot(data, eventName);
+                const bestMarksBuffer = await createLinePlot(data, eventName, "Best Marks");
+                const meanBuffer = await createLinePlot(data, eventName, "Mean");
+                const medianBuffer = await createLinePlot(data, eventName, "Median");
+
+                const plotTypes = ["boxplots", "best_marks", "means", "medians"];
+                plotTypes.forEach((type) => {
+                    const dir = path.join(outputDir, type);
+                    if (!fs.existsSync(dir)) {
+                        fs.mkdirSync(dir);
+                    }
+                });
+
+                fs.writeFileSync(
+                    path.join(outputDir, "boxplots", `${game}_${eventName}.png`),
+                    boxPlotBuffer
+                );
+                fs.writeFileSync(
+                    path.join(outputDir, "best_marks", `${game}_${eventName}.png`),
+                    bestMarksBuffer
+                );
+                fs.writeFileSync(
+                    path.join(outputDir, "means", `${game}_${eventName}.png`),
+                    meanBuffer
+                );
+                fs.writeFileSync(
+                    path.join(outputDir, "medians", `${game}_${eventName}.png`),
+                    medianBuffer
+                );
+
+                console.log(`Created plots for ${eventName}`);
+            } catch (error) {
+                console.error(`Error processing ${file}:`, error);
+            }
+        }
+    }
+}
+
+// Execute the script
+generateAllPlots().catch(console.error);

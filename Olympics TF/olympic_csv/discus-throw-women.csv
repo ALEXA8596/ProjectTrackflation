@@ -1,0 +1,22 @@
+Year,Event Name,Minimum,Maximum,Mean,Median,Standard Deviation,Sample Size
+1928,discus-throw-women,33.54,39.62,36.2633,35.92,1.8315,6
+1936,discus-throw-women,33.98,44.26,38.87,39.8,3.89,6
+1952,discus-throw-women,27.84,51.42,40.8783,41.03,4.849,18
+1956,discus-throw-women,40.84,53.69,46.8631,45.84,4.1643,13
+1960,discus-throw-women,43.96,55.1,50.5183,51.29,2.6256,12
+1964,discus-throw-women,45.63,57.27,53.5486,53.81,3.146,14
+1968,discus-throw-women,49.8,52.34,50.75,50.46,0.9536,4
+1972,discus-throw-women,56.5,66.62,60.875,61.72,3.3304,12
+1976,discus-throw-women,55.88,69,63.3046,63.86,3.8943,13
+1980,discus-throw-women,55.06,69.96,63.7233,64.38,4.2111,12
+1984,discus-throw-women,50.16,65.36,58.8,58.56,4.7856,12
+1988,discus-throw-women,63.42,72.3,67.6927,67.84,2.927,11
+1992,discus-throw-women,60.24,70.06,64.085,63.8,2.7997,12
+1996,discus-throw-women,60.46,69.66,63.9767,64.7,2.5383,12
+2000,discus-throw-women,58.34,68.4,62.7115,63.16,2.9113,13
+2004,discus-throw-women,59.48,67.02,63.754,64.92,2.5817,10
+2008,discus-throw-women,58.63,64.74,61.0264,60.68,1.6385,11
+2012,discus-throw-women,60.4,69.11,63.9745,63.62,2.7173,11
+2016,discus-throw-women,59.85,69.21,64.0236,63.13,2.3971,11
+2020,discus-throw-women,59.97,68.98,63.5058,63.7,2.6076,12
+2024,discus-throw-women,57.03,69.5,63.475,63.62,3.6577,12
