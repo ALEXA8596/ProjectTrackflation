@@ -1,0 +1,387 @@
+[
+  {
+    "name": "World Athletics Indoor Championships",
+    "location": "GBR",
+    "date": "March 01, 2024 - March 03, 2024",
+    "id": "588029"
+  },
+  {
+    "name": "World Athletics Championships, Budapest",
+    "location": "Budapest, HUN",
+    "date": "August 19, 2023 - August 27, 2023",
+    "id": "559902"
+  },
+  {
+    "name": "Women's Decathlon World Championships & Ico For All Championship",
+    "location": "Geneva, OH",
+    "date": "August 03, 2024 - August 04, 2024",
+    "id": "625415"
+  },
+  {
+    "name": "World Athletics Outdoor Championships",
+    "location": "Eugene, OR",
+    "date": "July 15, 2022 - July 24, 2022",
+    "id": "495441"
+  },
+  {
+    "name": "World Athletics Indoor Championships",
+    "location": "Beograd, SRB",
+    "date": "March 18, 2022 - March 20, 2022",
+    "id": "489510"
+  },
+  {
+    "name": "World Athletics Half Marathon Championships",
+    "location": "Valencia, ESP",
+    "date": "March 24, 2018",
+    "id": "494014"
+  },
+  {
+    "name": "World Athletics Half Marathon Championships",
+    "location": "Gdynia, POL",
+    "date": "October 17, 2020",
+    "id": "490360"
+  },
+  {
+    "name": "World Athletics Championships, Oregon 2022",
+    "location": "Eugene, OR",
+    "date": "July 15, 2022 - July 24, 2022",
+    "id": "487135"
+  },
+  {
+    "name": "World Outdoor Track & Field Championships",
+    "location": "Eugene, OR",
+    "date": "July 15, 2022 - July 24, 2022",
+    "id": "492434"
+  },
+  {
+    "name": "IAAF World Cross Country Championships",
+    "location": null,
+    "date": "March 30, 2019",
+    "id": "351046"
+  },
+  {
+    "name": "ETA Florida International Indoor World Championships 2022",
+    "location": "Orlando, FL",
+    "date": "January 08, 2022",
+    "id": "452929"
+  },
+  {
+    "name": "2022 Pre World Championships Invitational",
+    "location": "Edmonton, AB, CAN",
+    "date": "July 03, 2022",
+    "id": "487115"
+  },
+  {
+    "name": "44th World Athletics Cross Country Championships",
+    "location": "Bathurst, AUS",
+    "date": "February 18, 2023",
+    "id": "521712"
+  },
+  {
+    "name": "45th World Athletics Cross Country Championships",
+    "location": "Belgrade, SRB",
+    "date": "March 30, 2024",
+    "id": "589405"
+  },
+  {
+    "name": "2019 IAAF World Championships",
+    "location": "Doha, QAT",
+    "date": "September 27, 2019 - October 06, 2019",
+    "id": "364726"
+  },
+  {
+    "name": "IAAF World Indoor Championships",
+    "location": "Birmingham, GBR",
+    "date": "March 01, 2018 - March 04, 2018",
+    "id": "306096"
+  },
+  {
+    "name": "World Athletics Race Walking Team Championships",
+    "location": "Muscatine, IA",
+    "date": "March 04, 2022 - March 05, 2022",
+    "id": "489375"
+  },
+  {
+    "name": "IAAF World Championships",
+    "location": "London, GBR",
+    "date": "August 04, 2017 - August 13, 2017",
+    "id": "287981"
+  },
+  {
+    "name": "IAAF World Indoor Championships",
+    "location": "Portland, OR, USA",
+    "date": "March 17, 2016 - March 20, 2016",
+    "id": "211781"
+  },
+  {
+    "name": "London IAAF World Championships in Athletics",
+    "location": "London, UK, GBR",
+    "date": "August 04, 2017 - August 13, 2017",
+    "id": "494116"
+  },
+  {
+    "name": "IAAF World Championships",
+    "location": "Bejing, CHN",
+    "date": "August 22, 2015 - August 30, 2015",
+    "id": "211315"
+  },
+  {
+    "name": "World Indoor Throwing Championships",
+    "location": "Växjö, SWE",
+    "date": "March 01, 2015",
+    "id": "197126"
+  },
+  {
+    "name": "World Indoor Throwing Championships",
+    "location": "Växjö, SWE",
+    "date": "March 01, 2015",
+    "id": "203939"
+  },
+  {
+    "name": "IAAF World Half Marathon Championships",
+    "location": "Cardiff, GBR",
+    "date": "March 26, 2016",
+    "id": "494102"
+  },
+  {
+    "name": "Portland IAAF World Indoor Championships",
+    "location": "Portland, OR",
+    "date": "March 17, 2016 - March 20, 2016",
+    "id": "494103"
+  },
+  {
+    "name": "IAAF World Indoor Championships",
+    "location": "Sopot, POL",
+    "date": "March 07, 2014 - March 09, 2014",
+    "id": "165388"
+  },
+  {
+    "name": "14th IAAF World Championships",
+    "location": "Moscow, RUS",
+    "date": "August 10, 2013 - August 18, 2013",
+    "id": "126692"
+  },
+  {
+    "name": "IAAF World Cross Country Championships",
+    "location": "Bydgoszcz, POL, USA",
+    "date": "March 24, 2013",
+    "id": "138067"
+  },
+  {
+    "name": "IAAF World Cross Country Championships",
+    "location": "Guiyang, CHN",
+    "date": "March 28, 2015",
+    "id": "201118"
+  },
+  {
+    "name": "IAAF World Cross Country Championships",
+    "location": "CHN",
+    "date": "March 28, 2015",
+    "id": "201528"
+  },
+  {
+    "name": "Kampala IAAF World Cross Country Championships",
+    "location": "Kololo, UGA",
+    "date": "March 26, 2017",
+    "id": "494141"
+  },
+  {
+    "name": "World Indoor Throwing Championships",
+    "location": "Växjö, SWE",
+    "date": "March 16, 2013 - March 17, 2013",
+    "id": "138656"
+  },
+  {
+    "name": "IAAF World Championships",
+    "location": "Daegu, KOR",
+    "date": "August 27, 2011 - September 04, 2011",
+    "id": "98914"
+  },
+  {
+    "name": "IAAF World Championships",
+    "location": "Berlin, GER, USA",
+    "date": "August 15, 2010 - August 23, 2010",
+    "id": "74475"
+  },
+  {
+    "name": "World Cross Country Championships",
+    "location": "Bydgoszcz, POL, USA",
+    "date": "March 28, 2010",
+    "id": "69573"
+  },
+  {
+    "name": "IAAF World XC Championships",
+    "location": "Bydgoszcz, POL, USA",
+    "date": "March 28, 2010",
+    "id": "69125"
+  },
+  {
+    "name": "IAAF World Championships",
+    "location": "Berlin, GER, USA",
+    "date": "August 15, 2009 - August 23, 2009",
+    "id": "55504"
+  },
+  {
+    "name": "IAAF World Cross Country Championships",
+    "location": "Punta Unbria, Spain, USA",
+    "date": "March 20, 2011",
+    "id": "89407"
+  },
+  {
+    "name": "IAAF World Championships",
+    "location": "Berlin, GER",
+    "date": "August 15, 2008 - August 23, 2008",
+    "id": "132110"
+  },
+  {
+    "name": "IAAF World XC Championships",
+    "location": "Edinburgh, GBR, GBR",
+    "date": "March 30, 2008",
+    "id": "33970"
+  },
+  {
+    "name": "IAAF World Championships Doha 2010",
+    "location": "Doha, QAT",
+    "date": "February 12, 2010 - February 14, 2010",
+    "id": "132174"
+  },
+  {
+    "name": "IAAF World Indoor Championships Istanbul 2012",
+    "location": "Istanbul, TUR",
+    "date": "March 09, 2012 - March 11, 2012",
+    "id": "132176"
+  },
+  {
+    "name": "IAAF World Half Marathon Championships",
+    "location": "Rio de Janeiro, BRA, USA",
+    "date": "October 12, 2008",
+    "id": "42658"
+  },
+  {
+    "name": "IAAF World Cross Country Championships",
+    "location": "Amman, JOR, JOR",
+    "date": "March 28, 2009",
+    "id": "50946"
+  },
+  {
+    "name": "IAAF World Championships in Athletics",
+    "location": "Osaka, JPN, USA",
+    "date": "August 25, 2007 - September 02, 2007",
+    "id": "25677"
+  },
+  {
+    "name": "IAAF World Championships Valencia 2008 ",
+    "location": "Valencia, ESP",
+    "date": "March 07, 2008 - March 09, 2008",
+    "id": "132173"
+  },
+  {
+    "name": "IAAF World Championships in Athletics",
+    "location": "Helsinki, FIN, FIN",
+    "date": "August 06, 2005 - August 14, 2005",
+    "id": "12242"
+  },
+  {
+    "name": "IAAF World XC Championships",
+    "location": "Saint Galmier, FRA, FRA",
+    "date": "March 19, 2005 - March 20, 2005",
+    "id": "10397"
+  },
+  {
+    "name": "Moscow IAAF World Indoor Championships",
+    "location": "Moscow, RUS",
+    "date": "March 10, 2006 - March 12, 2006",
+    "id": "132172"
+  },
+  {
+    "name": "IAAF World Championships",
+    "location": "Paris, FRA",
+    "date": "August 23, 2003 - August 31, 2003",
+    "id": "132189"
+  },
+  {
+    "name": "IAAF World Youth Championships",
+    "location": "Sherbrooke , CAN",
+    "date": "July 09, 2003 - July 13, 2003",
+    "id": "177290"
+  },
+  {
+    "name": "IAAF World Indoor Championships",
+    "location": "Birmingham, EN, GBR",
+    "date": "March 14, 2003 - March 16, 2003",
+    "id": "132167"
+  },
+  {
+    "name": "Budapest IAAF World Indoor Championships",
+    "location": "Budapest, HUN",
+    "date": "March 05, 2004 - March 07, 2004",
+    "id": "132169"
+  },
+  {
+    "name": "IAAF World Championships",
+    "location": "Edmonton, AL, CAN",
+    "date": "August 03, 2001 - August 12, 2001",
+    "id": "132190"
+  },
+  {
+    "name": "IAAF World Indoor Championships",
+    "location": "Birmingham, EN, GBR",
+    "date": "March 09, 2001 - March 11, 2001",
+    "id": "133231"
+  },
+
+  {
+    "name": "7th IAAF World Championships",
+    "location": "Sevilla, ESP",
+    "date": "August 20, 1999 - August 29, 1999",
+    "id": "132116"
+  },
+  {
+    "name": "7th IAAF World Championships",
+    "location": "Sevilla, GRE",
+    "date": "August 20, 1999 - August 29, 1999",
+    "id": "132112"
+  },
+  {
+    "name": "IAAF World Championships",
+    "location": "Sevilla, ESP",
+    "date": "August 21, 1999 - August 29, 1999",
+    "id": "132191"
+  },
+  {
+    "name": "Lisboa IAAF World Indoor Championships",
+    "location": "Lisbon, POR",
+    "date": "March 09, 2001 - March 11, 2001",
+    "id": "132083"
+  },
+  {
+    "name": "IAAF World Championships",
+    "location": "Athens, GRE, GRE",
+    "date": "August 01, 1997 - August 10, 1997",
+    "id": "132193"
+  },
+  {
+    "name": "IAAF World Indoor Championships",
+    "location": "Budapest, HUN",
+    "date": "March 04, 1989",
+    "id": "179590"
+  },
+  {
+    "name": "IAAF World Cross Country Championships",
+    "location": "Marrakech, MAR, MAR",
+    "date": "March 22, 1998",
+    "id": "132698"
+  },
+  {
+    "name": "IAAF World Championships",
+    "location": "Gothenburg, SWE",
+    "date": "August 05, 1995 - August 13, 1995",
+    "id": "132194"
+  },
+  {
+    "name": "IAAF World Championships",
+    "location": "Tokyo, JPN",
+    "date": "August 23, 1991 - September 01, 1991",
+    "id": "179496"
+  }
+]
