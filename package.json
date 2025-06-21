@@ -4,15 +4,18 @@
   "description": "A small project of mine where I compare the \"inflation\" in track and field inflation between high school(, collegiate,) and professional levels",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "@sgratzl/chartjs-chart-boxplot": "^4.4.4",
+    "athletichelper": "^2.0.5",
     "chart.js": "^4.5.0",
     "chartjs-node-canvas": "^5.0.0",
+    "csv-loader": "^3.0.5",
     "csv-parser": "^3.2.0",
     "csv-writer": "^1.6.0",
     "hh-mm-ss": "^1.2.0",

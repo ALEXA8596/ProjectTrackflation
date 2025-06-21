@@ -1,0 +1,2 @@
+1. milesplitdata.js
+- Manually get the urls, names, locations, times from the Milesplit search website and input them as arrays into the file. This outputs a JSON file with each of the meets having their respective information

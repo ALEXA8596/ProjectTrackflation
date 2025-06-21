@@ -1,155 +1,200 @@
 <!DOCTYPE html>
 <html>
+  <head>
+    <title>
+      Project Trackflation: An Investigation into High School Track and Field
+      Peformance Inflation
+    </title>
 
-<head>
-  <title>
-    Project Trackflation: An Investigation into High School Track and Field
-    Peformance Inflation
-  </title>
+    <!-- import jQuery -->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
 
-  <!-- import jQuery -->
-  <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+    <!-- import Boostrap -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr"
+      crossorigin="anonymous"
+    />
+    <!-- import chartJS -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@sgratzl/chartjs-chart-boxplot@4.4.4/build/index.umd.min.js"></script>
 
-  <!-- import Boostrap -->
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous" />
-  <!-- import chartJS -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/@sgratzl/chartjs-chart-boxplot@4.4.4/build/index.umd.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdn.datatables.net/2.3.2/css/dataTables.dataTables.css"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://cdn.datatables.net/2.3.2/js/dataTables.js"></script>
+  </head>
 
-  <link rel="stylesheet" href="https://cdn.datatables.net/2.3.2/css/dataTables.dataTables.css" />
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
-  <script src="https://cdn.datatables.net/2.3.2/js/dataTables.js"></script>
-</head>
-
-<body>
-  <nav>
-    <ul style="
+  <body>
+    <nav>
+      <ul
+        style="
           list-style: none;
           display: flex;
           gap: 20px;
           padding: 0;
           margin-bottom: 20px;
-        ">
-      <li><a href="index.html">Home</a></li>
-      <li><a href="charts.html">Interactive Charts</a></li>
-      <li><a href="data.html">Data</a></li>
-      <li><a href="contact.html">Contact</a></li>
-    </ul>
-  </nav>
+        "
+      >
+        <li><a href="index.html">Home</a></li>
+        <li><a href="charts.html">Interactive Charts</a></li>
+        <li><a href="data.html">Data</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
 
-  <h1>
-    Project Trackflation: An Investigation into High School Track and Field
-    Peformance Inflation
-  </h1>
+    <h1>
+      Project Trackflation: An Investigation into High School Track and Field
+      Peformance Inflation
+    </h1>
 
-  <br />
+    <br />
 
-  <div id="abstract">
-    <h4>Abstract</h4>
-  </div>
+    <div id="abstract">
+      <h4>Abstract</h4>
+    </div>
 
-  <br />
+    <br />
 
-  <div id="introduction">
-    <h3>Introduction</h3>
-    <p></p>
-  </div>
+    <div id="introduction">
+      <h3>Introduction</h3>
+      <p></p>
+    </div>
 
-  <br />
+    <br />
 
-  <div id="methodology">
-    <h3>Methodology</h3>
+    <div id="methodology">
+      <h3>Methodology</h3>
 
-    <h4>Here are the meets we decided to investigate:</h4>
+      <h4>Here are the meets we decided to investigate:</h4>
 
-    <p>
-      The Olympics don't need an introduction. It's the competition where the
-      best competitors come every 4 years to fight for the gold medal.
-      However, some things to note are that women weren't allowed to compete
-      until the 1928 Amsterdam Olympics. Even then, women were limited to few
-      events. Additionally, the 5000m and the Triple Jump (two events we chose
-      to investigate) were not competed in the women's division until 1996.
-      Also, results from competitions during the Cold War are widely
-      considered to be tainted by doping from both the United States and the
-      Soviet Union
-      (https://link.gale.com/apps/doc/A175877048/AONE?u=anon~a6be528b&amp;sid=googleScholar&amp;xid=2dd8fa62).
-    </p>
+      <p>
+        The Olympics don't need an introduction. It's the competition where the
+        best competitors come every 4 years to fight for the gold medal.
+        However, some things to note are that women weren't allowed to compete
+        until the 1928 Amsterdam Olympics. Even then, women were limited to few
+        events. Additionally, the 5000m and the Triple Jump (two events we chose
+        to investigate) were not competed in the women's division until 1996.
+        Also, results from competitions during the Cold War are widely
+        considered to be tainted by doping from both the United States and the
+        Soviet Union
+        (https://link.gale.com/apps/doc/A175877048/AONE?u=anon~a6be528b&amp;sid=googleScholar&amp;xid=2dd8fa62).
+      </p>
 
-    <p>
-      The World Athletics Championships (Formerly the IAAF World
-      Championships) is a competition hosted by World Athletics (Formerly the
-      IAAF), the governing body of Athletics (the umbrella term for Track and
-      Field & Road Racing). It is held every two years and brings out the best
-      competitors from all around the world, much like the Olympics.
-      <!-- There also exists an indoor counterpart, which we decided to use for comparing Indoor Track and Field results -->
-    </p>
+      <p>
+        The World Athletics Championships (Formerly the IAAF World
+        Championships) is a competition hosted by World Athletics (Formerly the
+        IAAF), the governing body of Athletics (the umbrella term for Track and
+        Field & Road Racing). It is held every two years and brings out the best
+        competitors from all around the world, much like the Olympics.
+        <!-- There also exists an indoor counterpart, which we decided to use for comparing Indoor Track and Field results -->
+      </p>
 
-    <p>
-      The CIF State Championships is the Championship meet for Californian
-      High School Track and Field Athletes. For the most part, it's a two day
-      meet, with prelims hosted on a Friday and the finals hosted the
-      following day. Although we were able to find results as far back as the
-      1920s, It's important to note that most track events (100m, 200m, 400m,
-      1600m) were replaced by their imperial / english counterparts (100yd,
-      220yd, 440yd, 1 mile). Appropriate conversions were added
-      (https://www.ustfccca.org/assets/track-event-conversions-standardized.pdf).
-      Additionally, older meet results often lack depth, with only the fastest
-      times being recorded. We make sure to note down (n), or the number of
-      times in our sample.
-    </p>
+      <p>
+        The CIF State Championships is the Championship meet for Californian
+        High School Track and Field Athletes. For the most part, it's a two day
+        meet, with prelims hosted on a Friday and the finals hosted the
+        following day. Although we were able to find results as far back as the
+        1920s, It's important to note that most track events (100m, 200m, 400m,
+        1600m) were replaced by their imperial / english counterparts (100yd,
+        220yd, 440yd, 1 mile). Appropriate conversions were added
+        (https://www.ustfccca.org/assets/track-event-conversions-standardized.pdf).
+        Additionally, older meet results often lack depth, with only the fastest
+        times being recorded. We make sure to note down (n), or the number of
+        times in our sample.
+      </p>
 
-    <p>
-      The Arcadia Invitational is a meet hosted in Arcadia, California. It
-      attracts notable athletes nationwide (and even internationally). It is
-      known primarily for its 3200 event, where record-breaking numbers of
-      performances occur.
-    </p>
+      <p>
+        The Arcadia Invitational is a meet hosted in Arcadia, California. It
+        attracts notable athletes nationwide (and even internationally). It is
+        known primarily for its 3200 event, where record-breaking numbers of
+        performances occur.
+      </p>
 
-    <p>
-      The UIL State Championships is the Championship meet for Texan High
-      School Track and Field Athletes. The meet is spread throughout 3 days
-      and across 6 divisions.
-    </p>
+      <p>
+        The UIL State Championships is the Championship meet for Texan High
+        School Track and Field Athletes. The meet is spread throughout 3 days
+        and across 6 divisions. Although meets go as far back as 1910,
+      </p>
 
-    <!-- <p>We also wanted to choose an indoor championship meet so that we could also evaluate indoor performance. Confusingly, the two top indoor meets in the nation, currently known as New Balance Nationals Indoor and Nike Indoor Nationals, have a very mixed past. Nike and New Balance have sponsored the same meet in different years. To prevent confusion, we decided to look at the results from the National Scholastic Athletics Foundation (NSAF) hosted meets. Present day, this meet is refered to as Nike Indoor Nationals.</p> -->
+      <!-- <p>We also wanted to choose an indoor championship meet so that we could also evaluate indoor performance. Confusingly, the two top indoor meets in the nation, currently known as New Balance Nationals Indoor and Nike Indoor Nationals, have a very mixed past. Nike and New Balance have sponsored the same meet in different years. To prevent confusion, we decided to look at the results from the National Scholastic Athletics Foundation (NSAF) hosted meets. Present day, this meet is refered to as Nike Indoor Nationals.</p> -->
 
-    <p>
-      We decided to make a maximum sample size of 8 per sprint event (since
-      standard tracks have 8 lanes), 12 per distance races (1600 and 3200),
-      and 12 per field event (since 12 is the standard size of a field
-      flight).
-    </p>
-  </div>
+      <h4>Data Scraping Process</h4>
 
-  <br />
+      <p>
+        We decided to make a maximum sample size of 8 per sprint event (since
+        standard tracks have 8 lanes), 12 per distance races (1600 and 3200),
+        and 12 per field event (since 12 is the standard size of a field
+        flight).
+      </p>
+    </div>
 
-  <div id="analysis">
-    <h3>Analysis</h3>
-  </div>
+    <br />
 
-  <br />
+    <div id="analysis">
+      <h3>Analysis</h3>
 
-  <div id="furtherResearch">
-    <h3>Further Research</h3>
-    <p>
-      Further areas to analyze include Indoor Track and Field Competition,
-      Cross Country, and the NCAAs. Notably, the introduction of more and more
-      international athletes and older athletes look to have impacted the
-      competitiveness of Collegiate Track and Field.
-    </p>
-  </div>
+      <div>
+        <canvas id="100m"></canvas>
+      </div>
+      <div>
+        <canvas id="200m"></canvas>
+      </div>
+      <div>
+        <canvas id="400m"></canvas>
+      </div>
+      <div>
+        <canvas id="1600m"></canvas>
+      </div>
+      <div>
+        <canvas id="3200m"></canvas>
+      </div>
+      <div>
+        <canvas id="hj"></canvas>
+      </div>
+      <div>
+        <canvas id="lj"></canvas>
+      </div>
+      <div>
+        <canvas id="tj"></canvas>
+      </div>
+      <div>
+        <canvas id="shot"></canvas>
+      </div>
+      <div>
+        <canvas id="'discus'"></canvas>
+      </div>
+    </div>
 
-  <br />
+    <br />
 
-  <div id="conclusion">
-    <h3>Conclusion</h3>
-  </div>
+    <div id="furtherResearch">
+      <h3>Further Research</h3>
+      <p>
+        Further areas to analyze include Indoor Track and Field Competition,
+        Cross Country, and the NCAAs. Notably, the introduction of more and more
+        international athletes and older athletes look to have impacted the
+        competitiveness of Collegiate Track and Field.
+      </p>
+    </div>
 
-  <br />
+    <br />
 
-  <div id="worksCited">
-    <h3>Works Cited</h3>
-  </div>
-</body>
+    <div id="conclusion">
+      <h3>Conclusion</h3>
+    </div>
 
+    <br />
+
+    <div id="worksCited">
+      <h3>Works Cited</h3>
+    </div>
+  </body>
 </html>
