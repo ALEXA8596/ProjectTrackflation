@@ -3,4 +3,4 @@
 2006 doesn't have results, find them manually later
 1A - 
 
-Meets 2008 and earlier are missing formatted data, so they will be manually scraped in ``scrapeRawMeets.js``
+Meets [1986] are missing formatted data, so they will be manually scraped in ``scrapeRawMeets.js``
