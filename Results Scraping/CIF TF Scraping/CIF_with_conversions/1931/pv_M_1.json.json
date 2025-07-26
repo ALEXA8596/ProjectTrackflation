@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 16,
+      "EventTypeID": 0,
+      "ShortCode": "W3iYDggiZFOPRamTZ",
+      "disPlace": "1.",
+      "disAthlete": "Matt Stankovich",
+      "disTeam": "Polytechnic",
+      "Result": "12-08.25",
+      "SortInt": 19847750,
+      "AthleteID": 16926261,
+      "FirstName": "Matt",
+      "LastName": "Stankovich",
+      "Grade": "12",
+      "TeamID": 1512,
+      "SchoolName": "Polytechnic",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 16,
+      "EventTypeID": 0,
+      "ShortCode": "zvijJVVi3FgjWNBhm",
+      "disPlace": "1.",
+      "disAthlete": "Joe Ramsey",
+      "disTeam": "Inglewood",
+      "Result": "12-08.25",
+      "SortInt": 19847750,
+      "AthleteID": 16934028,
+      "FirstName": "Joe",
+      "LastName": "Ramsey",
+      "Grade": "12",
+      "TeamID": 1703,
+      "SchoolName": "Inglewood",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

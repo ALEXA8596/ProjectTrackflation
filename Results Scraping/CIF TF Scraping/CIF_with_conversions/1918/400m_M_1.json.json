@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 49300,
+      "SortIntTemp": 49440,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "George Schiller",
+      "disTeam": "Polytechnic",
+      "IDResult": 180952107,
+      "Result": "49.6h",
+      "SortInt": 49440,
+      "AthleteID": 16748229,
+      "FirstName": "George",
+      "LastName": "Schiller",
+      "Grade": "12",
+      "TeamID": 1512,
+      "SchoolName": "Polytechnic",
+      "Gender": "M",
+      "originalImperialSortInt": 49740
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 50000,
+      "SortIntTemp": 50140,
+      "ShortCode": "400m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Wilmarth \"Hilly\" Hildreth",
+      "disTeam": "Stockton (Closed 1948)",
+      "IDResult": 180952108,
+      "Result": "50.3h",
+      "SortInt": 50140,
+      "AthleteID": 16772471,
+      "FirstName": "Wilmarth \"Hilly\"",
+      "LastName": "Hildreth",
+      "Grade": "12",
+      "TeamID": 79725,
+      "SchoolName": "Stockton (Closed 1948)",
+      "Gender": "M",
+      "originalImperialSortInt": 50440
+    }
+  ]
+}

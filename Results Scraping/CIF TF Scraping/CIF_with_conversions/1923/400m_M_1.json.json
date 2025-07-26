@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 53300,
+      "SortIntTemp": 53440,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "10",
+      "disAthlete": "June Vernon Hanford",
+      "disTeam": "Manual Arts",
+      "IDResult": 148226897,
+      "Result": "53.6",
+      "SortInt": 53440,
+      "AthleteID": 16802009,
+      "FirstName": "June Vernon",
+      "LastName": "Hanford",
+      "Grade": "10",
+      "TeamID": 1482,
+      "SchoolName": "Manual Arts",
+      "Gender": "M",
+      "originalImperialSortInt": 53740
+    }
+  ]
+}

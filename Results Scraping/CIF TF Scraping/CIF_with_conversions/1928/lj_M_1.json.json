@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "YViKJM1T0IWrxvkSR",
+      "disPlace": "1.",
+      "disAthlete": "Dick Barber",
+      "disTeam": "Poly (Long Beach)",
+      "Result": "23-05.25",
+      "SortInt": 19718750,
+      "AthleteID": 16913538,
+      "FirstName": "Dick",
+      "LastName": "Barber",
+      "Grade": "12",
+      "TeamID": 1827,
+      "SchoolName": "Poly (Long Beach)",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

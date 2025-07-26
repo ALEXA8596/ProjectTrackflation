@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 12,
+      "EventTypeID": 0,
+      "ShortCode": "q5imjYmsEu4EolZTN",
+      "disPlace": "1.",
+      "disAthlete": "Bob Pyle",
+      "disTeam": "Pasadena",
+      "Result": "53-06.00",
+      "SortInt": 19358000,
+      "AthleteID": 16937083,
+      "FirstName": "Bob",
+      "LastName": "Pyle",
+      "Grade": "12",
+      "TeamID": 1821,
+      "SchoolName": "Pasadena",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "2",
+      "Round": "F",
+      "EventID": 12,
+      "EventTypeID": 0,
+      "ShortCode": "L6ijvqjFeu4vP1un",
+      "disPlace": "2.",
+      "disAthlete": "Frank Pastore",
+      "disTeam": "Abraham Lincoln",
+      "Result": "51-10.00",
+      "SortInt": 19378000,
+      "AthleteID": 1142101,
+      "FirstName": "Frank",
+      "LastName": "Pastore",
+      "Grade": "12",
+      "TeamID": 1504,
+      "SchoolName": "Abraham Lincoln",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

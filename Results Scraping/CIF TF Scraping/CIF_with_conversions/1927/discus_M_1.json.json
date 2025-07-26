@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 200,
+      "ShortCode": "vOiqBj8hjc0Wd24co",
+      "disPlace": "1.",
+      "disAthlete": "Fred Steiner",
+      "disTeam": "Chaffey",
+      "Result": "135-09",
+      "SortInt": 18371000,
+      "AthleteID": 16911539,
+      "FirstName": "Fred",
+      "LastName": "Steiner",
+      "Grade": "12",
+      "TeamID": 1609,
+      "SchoolName": "Chaffey",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

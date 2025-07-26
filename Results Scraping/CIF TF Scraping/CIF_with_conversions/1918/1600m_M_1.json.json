@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 282800,
+      "SortIntTemp": 282800,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Jerry Pearce",
+      "disTeam": "Berkeley",
+      "IDResult": 180952079,
+      "Result": "4:44.4h",
+      "SortInt": 282800,
+      "AthleteID": 16767490,
+      "FirstName": "Jerry",
+      "LastName": "Pearce",
+      "Grade": "11",
+      "TeamID": 904,
+      "SchoolName": "Berkeley",
+      "Gender": "M",
+      "originalImperialSortInt": 284400
+    }
+  ]
+}

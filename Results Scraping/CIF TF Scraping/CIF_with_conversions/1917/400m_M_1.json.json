@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 52700,
+      "SortIntTemp": 52840,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Dick Seltzer",
+      "disTeam": "Redlands",
+      "IDResult": 180950715,
+      "Result": "53.0h",
+      "SortInt": 52840,
+      "AthleteID": 16748223,
+      "FirstName": "Dick",
+      "LastName": "Seltzer",
+      "Grade": "12",
+      "TeamID": 1840,
+      "SchoolName": "Redlands",
+      "Gender": "M",
+      "originalImperialSortInt": 53140
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 51100,
+      "SortIntTemp": 51240,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Mark Kellogg",
+      "disTeam": "Fresno",
+      "IDResult": 158376883,
+      "Result": "51.4h",
+      "SortInt": 51240,
+      "AthleteID": 16745130,
+      "FirstName": "Mark",
+      "LastName": "Kellogg",
+      "Grade": "12",
+      "TeamID": 1333,
+      "SchoolName": "Fresno",
+      "Gender": "M",
+      "originalImperialSortInt": 51540
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 51300,
+      "SortIntTemp": 51440,
+      "ShortCode": "400m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Charles Fitzsimmons",
+      "disTeam": "Manual Arts",
+      "IDResult": 158376884,
+      "Result": "51.6h",
+      "SortInt": 51440,
+      "AthleteID": 16745095,
+      "FirstName": "Charles",
+      "LastName": "Fitzsimmons",
+      "Grade": "12",
+      "TeamID": 1482,
+      "SchoolName": "Manual Arts",
+      "Gender": "M",
+      "originalImperialSortInt": 51740
+    }
+  ]
+}

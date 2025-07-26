@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 49000,
+      "SortIntTemp": 49140,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Norm Stocks",
+      "disTeam": "San Diego",
+      "IDResult": 181686383,
+      "Result": "49.3h",
+      "SortInt": 49140,
+      "AthleteID": 17037181,
+      "FirstName": "Norm",
+      "LastName": "Stocks",
+      "Grade": "12",
+      "TeamID": 1450,
+      "SchoolName": "San Diego",
+      "Gender": "M",
+      "originalImperialSortInt": 49440
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 49400,
+      "SortIntTemp": 49540,
+      "ShortCode": "400m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Dick Webster",
+      "disTeam": "Abraham Lincoln (SJ)",
+      "IDResult": 181686384,
+      "Result": "49.7h",
+      "SortInt": 49540,
+      "AthleteID": 17037157,
+      "FirstName": "Dick",
+      "LastName": "Webster",
+      "Grade": "12",
+      "TeamID": 1078,
+      "SchoolName": "Abraham Lincoln (SJ)",
+      "Gender": "M",
+      "originalImperialSortInt": 49840
+    }
+  ]
+}

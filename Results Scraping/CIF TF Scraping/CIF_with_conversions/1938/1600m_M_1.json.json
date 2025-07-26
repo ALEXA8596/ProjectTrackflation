@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 265300,
+      "SortIntTemp": 265300,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Jack Moore",
+      "disTeam": "Stockton (Closed 1948)",
+      "IDResult": 157575285,
+      "Result": "4:26.9h",
+      "SortInt": 265300,
+      "AthleteID": 17017084,
+      "FirstName": "Jack",
+      "LastName": "Moore",
+      "Grade": "12",
+      "TeamID": 79725,
+      "SchoolName": "Stockton (Closed 1948)",
+      "Gender": "M",
+      "originalImperialSortInt": 266900
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 266600,
+      "SortIntTemp": 266600,
+      "ShortCode": "1600m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Ed Bajo",
+      "disTeam": "Sherman Indian",
+      "IDResult": 157575286,
+      "Result": "4:28.2h",
+      "SortInt": 266600,
+      "AthleteID": 17017078,
+      "FirstName": "Ed",
+      "LastName": "Bajo",
+      "Grade": "12",
+      "TeamID": 1888,
+      "SchoolName": "Sherman Indian",
+      "Gender": "M",
+      "originalImperialSortInt": 268200
+    }
+  ]
+}

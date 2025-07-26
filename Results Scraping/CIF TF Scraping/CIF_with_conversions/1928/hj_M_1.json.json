@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 9,
+      "EventTypeID": 0,
+      "ShortCode": "XViJmRzHBt5m0NPf8",
+      "disPlace": "1.",
+      "disAthlete": "Henry Lassalette",
+      "disTeam": "La Puente",
+      "Result": "6-02.25",
+      "SortInt": 19925750,
+      "AthleteID": 16913575,
+      "FirstName": "Henry",
+      "LastName": "Lassalette",
+      "Grade": "12",
+      "TeamID": 1718,
+      "SchoolName": "La Puente",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 9,
+      "EventTypeID": 0,
+      "ShortCode": "5Oiyn3qc1tvxOloCl",
+      "disPlace": "1.",
+      "disAthlete": "Bob Van Osdel",
+      "disTeam": "Compton",
+      "Result": "6-02.25",
+      "SortInt": 19925750,
+      "AthleteID": 16863173,
+      "FirstName": "Bob",
+      "LastName": "Van Osdel",
+      "Grade": "12",
+      "TeamID": 1622,
+      "SchoolName": "Compton",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

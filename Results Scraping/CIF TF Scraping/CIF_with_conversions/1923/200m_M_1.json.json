@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 22100,
+      "SortIntTemp": 22340,
+      "ShortCode": "200m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Bob Lee",
+      "disTeam": "Franklin",
+      "IDResult": 148226893,
+      "Result": "22.2",
+      "SortInt": 22340,
+      "AthleteID": 16801978,
+      "FirstName": "Bob",
+      "LastName": "Lee",
+      "Grade": "12",
+      "TeamID": 1503,
+      "SchoolName": "Franklin",
+      "Gender": "M",
+      "originalImperialSortInt": 22440
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 22400,
+      "SortIntTemp": 22640,
+      "ShortCode": "200m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Herschel Smith",
+      "disTeam": "San Fernando",
+      "IDResult": 148226894,
+      "Result": "22.5",
+      "SortInt": 22640,
+      "AthleteID": 16787356,
+      "FirstName": "Herschel",
+      "LastName": "Smith",
+      "Grade": "12",
+      "TeamID": 1517,
+      "SchoolName": "San Fernando",
+      "Gender": "M",
+      "originalImperialSortInt": 22740
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 49900,
+      "SortIntTemp": 50040,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Thurmond Clarke",
+      "disTeam": "Los Angeles",
+      "IDResult": 145363218,
+      "Result": "50.2h",
+      "SortInt": 50040,
+      "AthleteID": 16776143,
+      "FirstName": "Thurmond",
+      "LastName": "Clarke",
+      "Grade": "12",
+      "TeamID": 1505,
+      "SchoolName": "Los Angeles",
+      "Gender": "M",
+      "originalImperialSortInt": 50340
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 50400,
+      "SortIntTemp": 50540,
+      "ShortCode": "400m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Bob Hurst",
+      "disTeam": "Poly (Long Beach)",
+      "IDResult": 145363219,
+      "Result": "50.7h",
+      "SortInt": 50540,
+      "AthleteID": 16780725,
+      "FirstName": "Bob",
+      "LastName": "Hurst",
+      "Grade": "12",
+      "TeamID": 1827,
+      "SchoolName": "Poly (Long Beach)",
+      "Gender": "M",
+      "originalImperialSortInt": 50840
+    }
+  ]
+}

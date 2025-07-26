@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 0,
+      "ShortCode": "5Oiyn3qcvcvgwMysl",
+      "disPlace": "1.",
+      "disAthlete": "Dudley Stephens",
+      "disTeam": "Woodland",
+      "Result": "135-01",
+      "SortInt": 18379000,
+      "AthleteID": 16911579,
+      "FirstName": "Dudley",
+      "LastName": "Stephens",
+      "Grade": "11",
+      "TeamID": 824,
+      "SchoolName": "Woodland",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "7",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 0,
+      "ShortCode": "q5imjBPcKc4E5RrUN",
+      "disPlace": "7.",
+      "disAthlete": "Nick Carter",
+      "disTeam": "San Luis Obispo",
+      "Result": "119-06",
+      "SortInt": 18566000,
+      "AthleteID": 16913550,
+      "FirstName": "Nick",
+      "LastName": "Carter",
+      "Grade": "12",
+      "TeamID": 1865,
+      "SchoolName": "San Luis Obispo",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

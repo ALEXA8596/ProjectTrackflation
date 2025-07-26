@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 200,
+      "ShortCode": "JdiXLZxcQcEwMApuA",
+      "disPlace": "1.",
+      "disAthlete": "Ed Moeller",
+      "disTeam": "San Diego",
+      "Result": "114-00",
+      "SortInt": 18632000,
+      "AthleteID": 16803890,
+      "FirstName": "Ed",
+      "LastName": "Moeller",
+      "Grade": "12",
+      "TeamID": 1450,
+      "SchoolName": "San Diego",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

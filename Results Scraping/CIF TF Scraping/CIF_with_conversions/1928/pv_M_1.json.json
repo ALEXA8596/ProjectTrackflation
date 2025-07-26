@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 16,
+      "EventTypeID": 0,
+      "ShortCode": "AWiKQLwTRF0dDWDhN",
+      "disPlace": "1.",
+      "disAthlete": "Bill Miller",
+      "disTeam": "San Diego",
+      "Result": "12-09.50",
+      "SortInt": 19846500,
+      "AthleteID": 16911555,
+      "FirstName": "Bill",
+      "LastName": "Miller",
+      "Grade": "11",
+      "TeamID": 1450,
+      "SchoolName": "San Diego",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "3",
+      "Round": "F",
+      "EventID": 16,
+      "EventTypeID": 0,
+      "ShortCode": "16iVgX2uXF1EXkoty",
+      "disPlace": "3.",
+      "disAthlete": "Petros \"Pete\" Chlentzos",
+      "disTeam": "San Luis Obispo",
+      "Result": "12-03.00",
+      "SortInt": 19853000,
+      "AthleteID": 16911581,
+      "FirstName": "Petros \"Pete\"",
+      "LastName": "Chlentzos",
+      "Grade": "12",
+      "TeamID": 1865,
+      "SchoolName": "San Luis Obispo",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

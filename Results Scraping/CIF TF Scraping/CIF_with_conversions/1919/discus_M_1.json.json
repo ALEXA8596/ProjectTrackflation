@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 200,
+      "ShortCode": "OoiAKq0sjcMLQ84ty",
+      "disPlace": "1.",
+      "disAthlete": "John Boyle",
+      "disTeam": "Manual Arts",
+      "Result": "120-06",
+      "SortInt": 18554000,
+      "AthleteID": 16776117,
+      "FirstName": "John",
+      "LastName": "Boyle",
+      "Grade": "12",
+      "TeamID": 1482,
+      "SchoolName": "Manual Arts",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

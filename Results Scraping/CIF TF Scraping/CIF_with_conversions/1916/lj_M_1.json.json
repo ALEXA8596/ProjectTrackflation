@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "AWiKa1LCaI0N6R4iN",
+      "disPlace": "1.",
+      "disAthlete": "Harry Lamport",
+      "disTeam": "Manual Arts",
+      "Result": "21-05.25",
+      "SortInt": 19742750,
+      "AthleteID": 16733384,
+      "FirstName": "Harry",
+      "LastName": "Lamport",
+      "Grade": "12",
+      "TeamID": 1482,
+      "SchoolName": "Manual Arts",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "5",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "kxiMypmurIKg011To",
+      "disPlace": "5.",
+      "disAthlete": "William Carson",
+      "disTeam": "Hughson",
+      "Result": "21-02.50",
+      "SortInt": 19745500,
+      "AthleteID": 16767515,
+      "FirstName": "William",
+      "LastName": "Carson",
+      "Grade": "10",
+      "TeamID": 866,
+      "SchoolName": "Hughson",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

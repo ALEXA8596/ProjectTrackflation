@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 10700,
+      "SortIntTemp": 10940,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Al Jackson",
+      "disTeam": "Edison",
+      "IDResult": 181910985,
+      "Result": "9.8h",
+      "SortInt": 10940,
+      "AthleteID": 17028192,
+      "FirstName": "Al",
+      "LastName": "Jackson",
+      "Grade": "12",
+      "TeamID": 1359,
+      "SchoolName": "Edison",
+      "Gender": "M",
+      "originalImperialSortInt": 10040
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 21300,
+      "SortIntTemp": 21540,
+      "ShortCode": "200m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Eddie Morris",
+      "disTeam": "Huntington Beach",
+      "IDResult": 181814766,
+      "Result": "21.4h",
+      "SortInt": 21540,
+      "AthleteID": 17017061,
+      "FirstName": "Eddie",
+      "LastName": "Morris",
+      "Grade": "11",
+      "TeamID": 1699,
+      "SchoolName": "Huntington Beach",
+      "Gender": "M",
+      "originalImperialSortInt": 21640
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 21400,
+      "SortIntTemp": 21640,
+      "ShortCode": "200m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Jack Trout",
+      "disTeam": "Bakersfield",
+      "IDResult": 181814767,
+      "Result": "21.5h",
+      "SortInt": 21640,
+      "AthleteID": 17017055,
+      "FirstName": "Jack",
+      "LastName": "Trout",
+      "Grade": "12",
+      "TeamID": 1337,
+      "SchoolName": "Bakersfield",
+      "Gender": "M",
+      "originalImperialSortInt": 21740
+    }
+  ]
+}

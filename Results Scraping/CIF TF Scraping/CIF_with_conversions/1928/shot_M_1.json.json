@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 12,
+      "EventTypeID": 0,
+      "ShortCode": "zvijJzguKugjrpksm",
+      "disPlace": "1.",
+      "disAthlete": "Garrett Arbelbide",
+      "disTeam": "Huntington Park",
+      "Result": "48-10.50",
+      "SortInt": 19413500,
+      "AthleteID": 16911558,
+      "FirstName": "Garrett",
+      "LastName": "Arbelbide",
+      "Grade": "12",
+      "TeamID": 1491,
+      "SchoolName": "Huntington Park",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

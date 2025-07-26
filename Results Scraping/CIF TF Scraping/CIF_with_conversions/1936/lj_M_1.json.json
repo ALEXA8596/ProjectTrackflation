@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "eAioe3pFRIQY4wVsv",
+      "disPlace": "1.",
+      "disAthlete": "Eddie Arnold",
+      "disTeam": "Muir",
+      "Result": "23-01.75",
+      "SortInt": 19722250,
+      "AthleteID": 17002062,
+      "FirstName": "Eddie",
+      "LastName": "Arnold",
+      "Grade": "12",
+      "TeamID": 1778,
+      "SchoolName": "Muir",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "2",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "QainLkRtzIMDoBefd",
+      "disPlace": "2.",
+      "disAthlete": "Henry \"Buddy\" Sims",
+      "disTeam": "Berkeley",
+      "Result": "22-08.00",
+      "SortInt": 19728000,
+      "AthleteID": 17002021,
+      "FirstName": "Henry \"Buddy\"",
+      "LastName": "Sims",
+      "Grade": "11",
+      "TeamID": 904,
+      "SchoolName": "Berkeley",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

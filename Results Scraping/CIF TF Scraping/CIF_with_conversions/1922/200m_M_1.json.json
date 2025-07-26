@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 24100,
+      "SortIntTemp": 24340,
+      "ShortCode": "200m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Walter Wickersham",
+      "disTeam": "Bakersfield",
+      "IDResult": 157571519,
+      "Result": "24.2h",
+      "SortInt": 24340,
+      "AthleteID": 16780714,
+      "FirstName": "Walter",
+      "LastName": "Wickersham",
+      "Grade": "12",
+      "TeamID": 1337,
+      "SchoolName": "Bakersfield",
+      "Gender": "M",
+      "originalImperialSortInt": 24440
+    }
+  ]
+}

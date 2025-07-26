@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 9,
+      "EventTypeID": 0,
+      "ShortCode": "Dei1EMAhxtpNzypTW",
+      "disPlace": "1.",
+      "disAthlete": "Oliver Corey",
+      "disTeam": "Chaffey",
+      "Result": "6-00",
+      "SortInt": 19928000,
+      "AthleteID": 16780724,
+      "FirstName": "Oliver",
+      "LastName": "Corey",
+      "Grade": "12",
+      "TeamID": 1609,
+      "SchoolName": "Chaffey",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "2",
+      "Round": "F",
+      "EventID": 9,
+      "EventTypeID": 0,
+      "ShortCode": "8Riky0Ps1tYPa35uv",
+      "disPlace": "2.",
+      "disAthlete": "Clifford Argue",
+      "disTeam": "Oxnard",
+      "Result": "5-11",
+      "SortInt": 19929000,
+      "AthleteID": 16780748,
+      "FirstName": "Clifford",
+      "LastName": "Argue",
+      "Grade": "12",
+      "TeamID": 1809,
+      "SchoolName": "Oxnard",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

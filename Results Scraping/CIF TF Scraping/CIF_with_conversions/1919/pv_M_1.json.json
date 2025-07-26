@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 16,
+      "EventTypeID": 0,
+      "ShortCode": "W3iYL8KCZFOz5aXCZ",
+      "disPlace": "1.",
+      "disAthlete": "Dick Emmons",
+      "disTeam": "Manual Arts",
+      "Result": "10-06",
+      "SortInt": 19874000,
+      "AthleteID": 16767492,
+      "FirstName": "Dick",
+      "LastName": "Emmons",
+      "Grade": "12",
+      "TeamID": 1482,
+      "SchoolName": "Manual Arts",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

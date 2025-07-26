@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 9,
+      "EventTypeID": 0,
+      "ShortCode": "MmiyP5DCytVj50RhM",
+      "disPlace": "1.",
+      "disAthlete": "Bob Van Osdel",
+      "disTeam": "Compton",
+      "Result": "5-11",
+      "SortInt": 19929000,
+      "AthleteID": 16863173,
+      "FirstName": "Bob",
+      "LastName": "Van Osdel",
+      "Grade": "10",
+      "TeamID": 1622,
+      "SchoolName": "Compton",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "2",
+      "Round": "F",
+      "EventID": 9,
+      "EventTypeID": 0,
+      "ShortCode": "yEiXxkqcOtOL38nfN",
+      "disPlace": "2.",
+      "disAthlete": "Olympus Carter",
+      "disTeam": "Jordan",
+      "Result": "5-11",
+      "SortInt": 19929000,
+      "AthleteID": 16863199,
+      "FirstName": "Olympus",
+      "LastName": "Carter",
+      "Grade": "12",
+      "TeamID": 1492,
+      "SchoolName": "Jordan",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

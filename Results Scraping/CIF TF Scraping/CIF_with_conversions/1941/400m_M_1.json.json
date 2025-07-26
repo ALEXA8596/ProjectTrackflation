@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 49600,
+      "SortIntTemp": 49740,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "O.B. Hughes",
+      "disTeam": "Whittier",
+      "IDResult": 181911008,
+      "Result": "49.9h",
+      "SortInt": 49740,
+      "AthleteID": 17027327,
+      "FirstName": "O.B.",
+      "LastName": "Hughes",
+      "Grade": "11",
+      "TeamID": 1959,
+      "SchoolName": "Whittier",
+      "Gender": "M",
+      "originalImperialSortInt": 50040
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 49700,
+      "SortIntTemp": 49840,
+      "ShortCode": "400m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Louis Barrera",
+      "disTeam": "San Diego",
+      "IDResult": 181911009,
+      "Result": "50.0h",
+      "SortInt": 49840,
+      "AthleteID": 17028548,
+      "FirstName": "Louis",
+      "LastName": "Barrera",
+      "Grade": "12",
+      "TeamID": 1450,
+      "SchoolName": "San Diego",
+      "Gender": "M",
+      "originalImperialSortInt": 50140
+    }
+  ]
+}

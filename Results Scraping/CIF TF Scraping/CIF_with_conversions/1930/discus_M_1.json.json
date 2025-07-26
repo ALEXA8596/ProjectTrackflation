@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 200,
+      "ShortCode": "4miPB1wS5cRpmAJiZ",
+      "disPlace": "1.",
+      "disAthlete": "Gordon Dunn",
+      "disTeam": "Fresno",
+      "Result": "130-05.25",
+      "SortInt": 18434750,
+      "AthleteID": 16926249,
+      "FirstName": "Gordon",
+      "LastName": "Dunn",
+      "Grade": "12",
+      "TeamID": 1333,
+      "SchoolName": "Fresno",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

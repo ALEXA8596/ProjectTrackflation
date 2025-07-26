@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 9,
+      "EventTypeID": 0,
+      "ShortCode": "BMiNagRSAtDrXy5ig",
+      "disPlace": "1.",
+      "disAthlete": "Titus Moore",
+      "disTeam": "Pasadena",
+      "Result": "5-08.50",
+      "SortInt": 19931500,
+      "AthleteID": 16745123,
+      "FirstName": "Titus",
+      "LastName": "Moore",
+      "Grade": "12",
+      "TeamID": 1821,
+      "SchoolName": "Pasadena",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

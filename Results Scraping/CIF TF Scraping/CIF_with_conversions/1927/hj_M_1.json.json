@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 9,
+      "EventTypeID": 0,
+      "ShortCode": "YViKJMOHwtWrpvvCR",
+      "disPlace": "1.",
+      "disAthlete": "Lynford \"Burt\" Scott",
+      "disTeam": "Eureka",
+      "Result": "6-00.75",
+      "SortInt": 19927250,
+      "AthleteID": 16911590,
+      "FirstName": "Lynford \"Burt\"",
+      "LastName": "Scott",
+      "Grade": "12",
+      "TeamID": 965,
+      "SchoolName": "Eureka",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "nligrymhdI6jA2qH1",
+      "disPlace": "1.",
+      "disAthlete": "Verdon Nash",
+      "disTeam": "Chino",
+      "Result": "21-09.50",
+      "SortInt": 19738500,
+      "AthleteID": 17030755,
+      "FirstName": "Verdon",
+      "LastName": "Nash",
+      "Grade": "10",
+      "TeamID": 1614,
+      "SchoolName": "Chino",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "2",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "o3iZknVujIZeQX2ce",
+      "disPlace": "2.",
+      "disAthlete": "Cliff Argue",
+      "disTeam": "Oxnard",
+      "Result": "21-02.50",
+      "SortInt": 19745500,
+      "AthleteID": 16780747,
+      "FirstName": "Cliff",
+      "LastName": "Argue",
+      "Grade": "12",
+      "TeamID": 1809,
+      "SchoolName": "Oxnard",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

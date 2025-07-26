@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 200,
+      "ShortCode": "m1irlYPCAcnEoj0u6",
+      "disPlace": "1.",
+      "disAthlete": "Roy \"Swede\" Evans",
+      "disTeam": "Chaffey",
+      "Result": "122-11",
+      "SortInt": 18525000,
+      "AthleteID": 16745086,
+      "FirstName": "Roy \"Swede\"",
+      "LastName": "Evans",
+      "Grade": "12",
+      "TeamID": 1609,
+      "SchoolName": "Chaffey",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

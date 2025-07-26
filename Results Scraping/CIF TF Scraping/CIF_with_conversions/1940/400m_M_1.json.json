@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 48500,
+      "SortIntTemp": 48640,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Duane Lewis",
+      "disTeam": "Compton",
+      "IDResult": 181813872,
+      "Result": "48.8h",
+      "SortInt": 48640,
+      "AthleteID": 17027293,
+      "FirstName": "Duane",
+      "LastName": "Lewis",
+      "Grade": "12",
+      "TeamID": 1622,
+      "SchoolName": "Compton",
+      "Gender": "M",
+      "originalImperialSortInt": 48940
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 48700,
+      "SortIntTemp": 48840,
+      "ShortCode": "400m",
+      "disPlace": "2.",
+      "disGrade": "11",
+      "disAthlete": "O.B. Hughes",
+      "disTeam": "Whittier",
+      "IDResult": 181813873,
+      "Result": "49.0h",
+      "SortInt": 48840,
+      "AthleteID": 17027327,
+      "FirstName": "O.B.",
+      "LastName": "Hughes",
+      "Grade": "11",
+      "TeamID": 1959,
+      "SchoolName": "Whittier",
+      "Gender": "M",
+      "originalImperialSortInt": 49140
+    }
+  ]
+}

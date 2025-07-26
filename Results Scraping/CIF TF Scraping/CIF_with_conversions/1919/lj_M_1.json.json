@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "16iVaABHZI1gOY5Fy",
+      "disPlace": "1.",
+      "disAthlete": "Harold \"Brick\" Muller",
+      "disTeam": "Oakland Tech",
+      "Result": "20-00.00",
+      "SortInt": 19760000,
+      "AthleteID": 16776138,
+      "FirstName": "Harold \"Brick\"",
+      "LastName": "Muller",
+      "Grade": "12",
+      "TeamID": 1973,
+      "SchoolName": "Oakland Tech",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 268800,
+      "SortIntTemp": 268800,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Bill Kerr",
+      "disTeam": "Huntington Beach",
+      "IDResult": 158576468,
+      "Result": "4:30.4h",
+      "SortInt": 268800,
+      "AthleteID": 16785401,
+      "FirstName": "Bill",
+      "LastName": "Kerr",
+      "Grade": "11",
+      "TeamID": 1699,
+      "SchoolName": "Huntington Beach",
+      "Gender": "M",
+      "originalImperialSortInt": 270400
+    },
+    {
+      "Place": "4",
+      "Round": "F",
+      "SortIntRaw": 272500,
+      "SortIntTemp": 272500,
+      "ShortCode": "1600m",
+      "disPlace": "4.",
+      "disGrade": "12",
+      "disAthlete": "Earnest Landis",
+      "disTeam": "La Verne Academy (Closed 1925)",
+      "IDResult": 158576471,
+      "Result": "4:34.1h",
+      "SortInt": 272500,
+      "AthleteID": 18580874,
+      "FirstName": "Earnest",
+      "LastName": "Landis",
+      "Grade": "12",
+      "TeamID": 81047,
+      "SchoolName": "La Verne Academy (Closed 1925)",
+      "Gender": "M",
+      "originalImperialSortInt": 274100
+    }
+  ]
+}

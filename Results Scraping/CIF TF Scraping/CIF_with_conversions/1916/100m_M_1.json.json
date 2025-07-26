@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 11300,
+      "SortIntTemp": 11540,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "10",
+      "disAthlete": "Charley Paddock",
+      "disTeam": "Pasadena",
+      "IDResult": 158376867,
+      "Result": "10.4h",
+      "SortInt": 11540,
+      "AthleteID": 16745119,
+      "FirstName": "Charley",
+      "LastName": "Paddock",
+      "Grade": "10",
+      "TeamID": 1821,
+      "SchoolName": "Pasadena",
+      "Gender": "M",
+      "originalImperialSortInt": 10640
+    }
+  ]
+}

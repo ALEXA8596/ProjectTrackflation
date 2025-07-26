@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 50000,
+      "SortIntTemp": 50140,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Doug Hammond",
+      "disTeam": "Hollywood",
+      "IDResult": 158344984,
+      "Result": "50.3h",
+      "SortInt": 50140,
+      "AthleteID": 16950449,
+      "FirstName": "Doug",
+      "LastName": "Hammond",
+      "Grade": "12",
+      "TeamID": 1510,
+      "SchoolName": "Hollywood",
+      "Gender": "M",
+      "originalImperialSortInt": 50440
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 50100,
+      "SortIntTemp": 50240,
+      "ShortCode": "400m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Robert Bonebrake",
+      "disTeam": "Orange",
+      "IDResult": 158344985,
+      "Result": "50.4h",
+      "SortInt": 50240,
+      "AthleteID": 16950438,
+      "FirstName": "Robert",
+      "LastName": "Bonebrake",
+      "Grade": "12",
+      "TeamID": 1806,
+      "SchoolName": "Orange",
+      "Gender": "M",
+      "originalImperialSortInt": 50540
+    }
+  ]
+}

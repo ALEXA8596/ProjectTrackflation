@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 48400,
+      "SortIntTemp": 48540,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "John McCarthy",
+      "disTeam": "Fairfax",
+      "IDResult": 158376650,
+      "Result": "48.7h",
+      "SortInt": 48540,
+      "AthleteID": 16926269,
+      "FirstName": "John",
+      "LastName": "McCarthy",
+      "Grade": "12",
+      "TeamID": 1526,
+      "SchoolName": "Fairfax",
+      "Gender": "M",
+      "originalImperialSortInt": 48840
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 48500,
+      "SortIntTemp": 48640,
+      "ShortCode": "400m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Jimmy LuValle",
+      "disTeam": "Polytechnic",
+      "IDResult": 158376651,
+      "Result": "48.8h",
+      "SortInt": 48640,
+      "AthleteID": 16933985,
+      "FirstName": "Jimmy",
+      "LastName": "LuValle",
+      "Grade": "12",
+      "TeamID": 1512,
+      "SchoolName": "Polytechnic",
+      "Gender": "M",
+      "originalImperialSortInt": 48940
+    }
+  ]
+}

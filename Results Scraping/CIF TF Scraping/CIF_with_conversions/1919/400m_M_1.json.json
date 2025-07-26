@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 53900,
+      "SortIntTemp": 54040,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Jeff Wilcox",
+      "disTeam": "Harvard-Westlake",
+      "IDResult": 144956829,
+      "Result": "54.2h",
+      "SortInt": 54040,
+      "AthleteID": 16767577,
+      "FirstName": "Jeff",
+      "LastName": "Wilcox",
+      "Grade": "11",
+      "TeamID": 1689,
+      "SchoolName": "Harvard-Westlake",
+      "Gender": "M",
+      "originalImperialSortInt": 54340
+    }
+  ]
+}

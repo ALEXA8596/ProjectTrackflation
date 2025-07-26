@@ -2,8 +2,6 @@ const fs = require("fs");
 const path = require("path");
 const csvWriter = require("csv-writer").createObjectCsvWriter;
 
-const resultsDir = "dist";
-
 (async () => {
   const dir = "CIF";
   const folders = fs.readdirSync(dir);

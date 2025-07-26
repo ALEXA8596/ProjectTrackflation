@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 9,
+      "EventTypeID": 0,
+      "ShortCode": "16iVagdhWt1gOY5Fy",
+      "disPlace": "1.",
+      "disAthlete": "Harold \"Brick\" Muller",
+      "disTeam": "San Diego",
+      "Result": "5-11.75",
+      "SortInt": 19928250,
+      "AthleteID": 16776138,
+      "FirstName": "Harold \"Brick\"",
+      "LastName": "Muller",
+      "Grade": "11",
+      "TeamID": 1450,
+      "SchoolName": "San Diego",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

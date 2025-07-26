@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "m1irldjF1InvN4ph6",
+      "disPlace": "1.",
+      "disAthlete": "Virgil Elliott",
+      "disTeam": "Huntington Beach",
+      "Result": "22-03.50",
+      "SortInt": 19732500,
+      "AthleteID": 16801990,
+      "FirstName": "Virgil",
+      "LastName": "Elliott",
+      "Grade": "12",
+      "TeamID": 1699,
+      "SchoolName": "Huntington Beach",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

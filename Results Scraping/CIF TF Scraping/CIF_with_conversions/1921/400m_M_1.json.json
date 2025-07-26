@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 51900,
+      "SortIntTemp": 52040,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Ed Shaw",
+      "disTeam": "Monrovia",
+      "IDResult": 158576481,
+      "Result": "52.2h",
+      "SortInt": 52040,
+      "AthleteID": 16785417,
+      "FirstName": "Ed",
+      "LastName": "Shaw",
+      "Grade": "11",
+      "TeamID": 1770,
+      "SchoolName": "Monrovia",
+      "Gender": "M",
+      "originalImperialSortInt": 52340
+    }
+  ]
+}

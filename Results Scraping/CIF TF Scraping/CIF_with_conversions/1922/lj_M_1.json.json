@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "YViK8X8F0IWlgVPfR",
+      "disPlace": "1.",
+      "disAthlete": "Verdon Nash",
+      "disTeam": "Huntington Beach",
+      "Result": "22-05.25",
+      "SortInt": 19730750,
+      "AthleteID": 16787347,
+      "FirstName": "Verdon",
+      "LastName": "Nash",
+      "Grade": "12",
+      "TeamID": 1699,
+      "SchoolName": "Huntington Beach",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "2",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "R3iqa5aFXIErR34i8",
+      "disPlace": "2.",
+      "disAthlete": "Bob Sencerbox",
+      "disTeam": "Abraham Lincoln",
+      "Result": "22-01.75",
+      "SortInt": 19734250,
+      "AthleteID": 16780709,
+      "FirstName": "Bob",
+      "LastName": "Sencerbox",
+      "Grade": "11",
+      "TeamID": 1504,
+      "SchoolName": "Abraham Lincoln",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

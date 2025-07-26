@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "0Nirl8wCxILAxyzHm",
+      "disPlace": "1.",
+      "disAthlete": "Gene Davis",
+      "disTeam": "Polytechnic",
+      "Result": "21-10.50",
+      "SortInt": 19737500,
+      "AthleteID": 16745115,
+      "FirstName": "Gene",
+      "LastName": "Davis",
+      "Grade": "12",
+      "TeamID": 1512,
+      "SchoolName": "Polytechnic",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

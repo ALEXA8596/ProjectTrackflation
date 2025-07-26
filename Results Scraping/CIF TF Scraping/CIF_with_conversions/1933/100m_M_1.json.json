@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 10900,
+      "SortIntTemp": 11140,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Dave Siegel",
+      "disTeam": "Polytechnic",
+      "IDResult": 141916113,
+      "Result": "10.0",
+      "SortInt": 11140,
+      "AthleteID": 16937112,
+      "FirstName": "Dave",
+      "LastName": "Siegel",
+      "Grade": "12",
+      "TeamID": 1512,
+      "SchoolName": "Polytechnic",
+      "Gender": "M",
+      "originalImperialSortInt": 10240
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 11000,
+      "SortIntTemp": 11240,
+      "ShortCode": "100m",
+      "disPlace": "2.",
+      "disGrade": "11",
+      "disAthlete": "Adrian Talley",
+      "disTeam": "South Gate",
+      "IDResult": 141916114,
+      "Result": "10.1",
+      "SortInt": 11240,
+      "AthleteID": 16940122,
+      "FirstName": "Adrian",
+      "LastName": "Talley",
+      "Grade": "11",
+      "TeamID": 1494,
+      "SchoolName": "South Gate",
+      "Gender": "M",
+      "originalImperialSortInt": 10340
+    }
+  ]
+}

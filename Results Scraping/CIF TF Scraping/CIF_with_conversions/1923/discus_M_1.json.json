@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 200,
+      "ShortCode": "R3iqaXJIvcENW2BU8",
+      "disPlace": "1.",
+      "disAthlete": "Eric Krenz",
+      "disTeam": "Stockton (Closed 1948)",
+      "Result": "123-04",
+      "SortInt": 18520000,
+      "AthleteID": 16785407,
+      "FirstName": "Eric",
+      "LastName": "Krenz",
+      "Grade": "12",
+      "TeamID": 79725,
+      "SchoolName": "Stockton (Closed 1948)",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

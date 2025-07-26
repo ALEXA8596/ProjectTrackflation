@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 10500,
+      "SortIntTemp": 10740,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Bob Frick",
+      "disTeam": "San Ramon Valley",
+      "IDResult": 180955228,
+      "Result": "9.6h",
+      "SortInt": 10740,
+      "AthleteID": 16950480,
+      "FirstName": "Bob",
+      "LastName": "Frick",
+      "Grade": "12",
+      "TeamID": 1028,
+      "SchoolName": "San Ramon Valley",
+      "Gender": "M",
+      "originalImperialSortInt": 9840
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 10600,
+      "SortIntTemp": 10840,
+      "ShortCode": "100m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Tommy Nelson",
+      "disTeam": "Pasadena",
+      "IDResult": 180955229,
+      "Result": "9.7h",
+      "SortInt": 10840,
+      "AthleteID": 16958986,
+      "FirstName": "Tommy",
+      "LastName": "Nelson",
+      "Grade": "12",
+      "TeamID": 1821,
+      "SchoolName": "Pasadena",
+      "Gender": "M",
+      "originalImperialSortInt": 9940
+    }
+  ]
+}

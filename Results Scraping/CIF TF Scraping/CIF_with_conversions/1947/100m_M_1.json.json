@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 10800,
+      "SortIntTemp": 11040,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "John Bradley",
+      "disTeam": "Hoover",
+      "IDResult": 157560577,
+      "Result": "9.9h",
+      "SortInt": 11040,
+      "AthleteID": 17050525,
+      "FirstName": "John",
+      "LastName": "Bradley",
+      "Grade": "11",
+      "TeamID": 1697,
+      "SchoolName": "Hoover",
+      "Gender": "M",
+      "originalImperialSortInt": 10140
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 11000,
+      "SortIntTemp": 11240,
+      "ShortCode": "100m",
+      "disPlace": "2.",
+      "disGrade": "11",
+      "disAthlete": "Howard Bugbee",
+      "disTeam": "Redondo Union",
+      "IDResult": 157560578,
+      "Result": "10.1h",
+      "SortInt": 11240,
+      "AthleteID": 16957752,
+      "FirstName": "Howard",
+      "LastName": "Bugbee",
+      "Grade": "11",
+      "TeamID": 1842,
+      "SchoolName": "Redondo Union",
+      "Gender": "M",
+      "originalImperialSortInt": 10340
+    }
+  ]
+}

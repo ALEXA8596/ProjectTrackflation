@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 10900,
+      "SortIntTemp": 11140,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Guy Blackburn",
+      "disTeam": "Jefferson",
+      "IDResult": 181135605,
+      "Result": "10.0h",
+      "SortInt": 11140,
+      "AthleteID": 17063257,
+      "FirstName": "Guy",
+      "LastName": "Blackburn",
+      "Grade": "11",
+      "TeamID": 1480,
+      "SchoolName": "Jefferson",
+      "Gender": "M",
+      "originalImperialSortInt": 10240
+    }
+  ]
+}

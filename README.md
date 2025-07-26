@@ -1,30 +1,14 @@
 # ProjectTrackflation
-A small project of mine where I compare the "inflation" in track and field inflation between high school(, collegiate,) and professional levels
+A small project of mine where I compare the "inflation" in track and field inflation between high school(, collegiate,) and professional levels.
 
 ## Todo
 
 ### Track and Field
 - [X] CIF TF State Meet
-- [ ] Nike Outdoor Nationals
-- [ ] Brooks PR
-- [ ] Hoka Festival of Miles
-- [ ] New Balance Outdoor
-- [ ] Arcadia
-- [ ] Mt. SAC?
 
-- World Athletics, Diamond League Finals?, Olympics
+- [X] Olympics
 
-- Potentially compare fastest hs and professional records by year?
-    - Getting the data would be the hardest
+## Conversions
+CIF Track used the Imperial Measurement system until 1980. Conversions were done as recommended by the NFHS.
 
-
-
-#### Indoor TF
-- [ ] New Balance Indoor Nationals
-- [ ] Nike Indoor Nationals
-
-### Cross Country
-- World Athletics Cross Country Championships
-- European
-- USATF
-- 
+https://nfhs.org/resources/sports/converting-times-manual-to-fat-and-from-english-to-metric-distances

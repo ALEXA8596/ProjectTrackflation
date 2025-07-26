@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 275000,
+      "SortIntTemp": 275000,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Cliff Halstead",
+      "disTeam": "Sacramento",
+      "IDResult": 208528418,
+      "Result": "4:36.6h",
+      "SortInt": 275000,
+      "AthleteID": 16911580,
+      "FirstName": "Cliff",
+      "LastName": "Halstead",
+      "Grade": "12",
+      "TeamID": 712,
+      "SchoolName": "Sacramento",
+      "Gender": "M",
+      "originalImperialSortInt": 276600
+    }
+  ]
+}

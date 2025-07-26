@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 11500,
+      "SortIntTemp": 11740,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "-",
+      "disAthlete": "Don Pitts",
+      "disTeam": "Manual Arts",
+      "IDResult": 181135643,
+      "Result": "10.6h",
+      "SortInt": 11740,
+      "AthleteID": 18759760,
+      "FirstName": "Don",
+      "LastName": "Pitts",
+      "Grade": "-",
+      "TeamID": 1482,
+      "SchoolName": "Manual Arts",
+      "Gender": "M",
+      "originalImperialSortInt": 10840
+    }
+  ]
+}

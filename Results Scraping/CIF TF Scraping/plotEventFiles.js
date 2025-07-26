@@ -140,31 +140,6 @@ async function createBoxPlot(data, eventName) {
   return await chartJSNodeCanvas.renderToBuffer(configuration);
 }
 
-/*
-async function generateAllPlots() {
-  const files = fs
-    .readdirSync(eventFilesDir)
-    .filter((file) => file.endsWith(".csv"));
-
-  for (const file of files) {
-    try {
-      console.log(`Processing ${file}...`);
-      const filePath = path.join(eventFilesDir, file);
-      const data = await processCSVFile(filePath);
-      const eventName = path.basename(file, ".csv");
-
-      const buffer = await createBoxPlot(data, eventName);
-      const outputPath = path.join(outputDir, `${eventName}_boxplot.png`);
-
-      fs.writeFileSync(outputPath, buffer);
-      console.log(`Created plot: ${outputPath}`);
-    } catch (error) {
-      console.error(`Error processing ${file}:`, error);
-    }
-  }
-}
-  */
-
 // Execute the script
 generateAllPlots().catch(console.error);
 

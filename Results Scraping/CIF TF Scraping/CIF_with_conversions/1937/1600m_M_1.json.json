@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 268800,
+      "SortIntTemp": 268800,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Brice Hammack",
+      "disTeam": "Yreka",
+      "IDResult": 181656000,
+      "Result": "4:30.4h",
+      "SortInt": 268800,
+      "AthleteID": 17002424,
+      "FirstName": "Brice",
+      "LastName": "Hammack",
+      "Grade": "12",
+      "TeamID": 660,
+      "SchoolName": "Yreka",
+      "Gender": "M",
+      "originalImperialSortInt": 270400
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 270400,
+      "SortIntTemp": 270400,
+      "ShortCode": "1600m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Wesley Craig",
+      "disTeam": "Piedmont",
+      "IDResult": 181656001,
+      "Result": "4:32.0h",
+      "SortInt": 270400,
+      "AthleteID": 17002448,
+      "FirstName": "Wesley",
+      "LastName": "Craig",
+      "Grade": "12",
+      "TeamID": 915,
+      "SchoolName": "Piedmont",
+      "Gender": "M",
+      "originalImperialSortInt": 272000
+    }
+  ]
+}

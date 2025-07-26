@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 50700,
+      "SortIntTemp": 50840,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Percy McArthur",
+      "disTeam": "Huntington Park",
+      "IDResult": 208528457,
+      "Result": "51.0h",
+      "SortInt": 50840,
+      "AthleteID": 16911559,
+      "FirstName": "Percy",
+      "LastName": "McArthur",
+      "Grade": "12",
+      "TeamID": 1491,
+      "SchoolName": "Huntington Park",
+      "Gender": "M",
+      "originalImperialSortInt": 51140
+    }
+  ]
+}

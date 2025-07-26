@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 48600,
+      "SortIntTemp": 48740,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Howard Upton",
+      "disTeam": "Turlock",
+      "IDResult": 180955252,
+      "Result": "48.9h",
+      "SortInt": 48740,
+      "AthleteID": 16950442,
+      "FirstName": "Howard",
+      "LastName": "Upton",
+      "Grade": "12",
+      "TeamID": 718,
+      "SchoolName": "Turlock",
+      "Gender": "M",
+      "originalImperialSortInt": 49040
+    }
+  ]
+}

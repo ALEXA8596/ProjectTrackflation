@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 21500,
+      "SortIntTemp": 21740,
+      "ShortCode": "200m",
+      "disPlace": "1.",
+      "disGrade": "10",
+      "disAthlete": "Eddie Morris",
+      "disTeam": "Huntington Beach",
+      "IDResult": 157575273,
+      "Result": "21.6h",
+      "SortInt": 21740,
+      "AthleteID": 17017061,
+      "FirstName": "Eddie",
+      "LastName": "Morris",
+      "Grade": "10",
+      "TeamID": 1699,
+      "SchoolName": "Huntington Beach",
+      "Gender": "M",
+      "originalImperialSortInt": 21840
+    }
+  ]
+}

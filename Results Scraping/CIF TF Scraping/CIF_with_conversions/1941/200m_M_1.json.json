@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 21600,
+      "SortIntTemp": 21840,
+      "ShortCode": "200m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Glenn Willis",
+      "disTeam": "San Diego",
+      "IDResult": 181911003,
+      "Result": "21.7h",
+      "SortInt": 21840,
+      "AthleteID": 17028200,
+      "FirstName": "Glenn",
+      "LastName": "Willis",
+      "Grade": "12",
+      "TeamID": 1450,
+      "SchoolName": "San Diego",
+      "Gender": "M",
+      "originalImperialSortInt": 21940
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 21800,
+      "SortIntTemp": 22040,
+      "ShortCode": "200m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Al Jackson",
+      "disTeam": "Edison",
+      "IDResult": 181911004,
+      "Result": "21.9h",
+      "SortInt": 22040,
+      "AthleteID": 17028192,
+      "FirstName": "Al",
+      "LastName": "Jackson",
+      "Grade": "12",
+      "TeamID": 1359,
+      "SchoolName": "Edison",
+      "Gender": "M",
+      "originalImperialSortInt": 22140
+    }
+  ]
+}

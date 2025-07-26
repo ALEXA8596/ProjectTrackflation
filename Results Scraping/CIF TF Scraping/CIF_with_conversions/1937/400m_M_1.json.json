@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 49400,
+      "SortIntTemp": 49540,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Wilbur Miller",
+      "disTeam": "Jefferson",
+      "IDResult": 181656037,
+      "Result": "49.7h",
+      "SortInt": 49540,
+      "AthleteID": 17002439,
+      "FirstName": "Wilbur",
+      "LastName": "Miller",
+      "Grade": "12",
+      "TeamID": 1480,
+      "SchoolName": "Jefferson",
+      "Gender": "M",
+      "originalImperialSortInt": 49840
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 49700,
+      "SortIntTemp": 49840,
+      "ShortCode": "400m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Jim White",
+      "disTeam": "Edison",
+      "IDResult": 181656038,
+      "Result": "50.0h",
+      "SortInt": 49840,
+      "AthleteID": 17002428,
+      "FirstName": "Jim",
+      "LastName": "White",
+      "Grade": "12",
+      "TeamID": 1359,
+      "SchoolName": "Edison",
+      "Gender": "M",
+      "originalImperialSortInt": 50140
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 10700,
+      "SortIntTemp": 10940,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Bryant Allen",
+      "disTeam": "Jefferson",
+      "IDResult": 181656013,
+      "Result": "9.8h",
+      "SortInt": 10940,
+      "AthleteID": 17002432,
+      "FirstName": "Bryant",
+      "LastName": "Allen",
+      "Grade": "12",
+      "TeamID": 1480,
+      "SchoolName": "Jefferson",
+      "Gender": "M",
+      "originalImperialSortInt": 10040
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 11000,
+      "SortIntTemp": 11240,
+      "ShortCode": "100m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Wilbur Miller",
+      "disTeam": "Jefferson",
+      "IDResult": 181656014,
+      "Result": "10.1h",
+      "SortInt": 11240,
+      "AthleteID": 17002439,
+      "FirstName": "Wilbur",
+      "LastName": "Miller",
+      "Grade": "12",
+      "TeamID": 1480,
+      "SchoolName": "Jefferson",
+      "Gender": "M",
+      "originalImperialSortInt": 10340
+    }
+  ]
+}

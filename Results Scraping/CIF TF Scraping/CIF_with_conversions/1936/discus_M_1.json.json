@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 0,
+      "ShortCode": "AWiKQ0RFKc0Dx1dSN",
+      "disPlace": "1.",
+      "disAthlete": "Chuck Fenenbock",
+      "disTeam": "Pittsburg",
+      "Result": "206-02",
+      "SortInt": 17526000,
+      "AthleteID": 17002106,
+      "FirstName": "Chuck",
+      "LastName": "Fenenbock",
+      "Grade": "12",
+      "TeamID": 1008,
+      "SchoolName": "Pittsburg",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

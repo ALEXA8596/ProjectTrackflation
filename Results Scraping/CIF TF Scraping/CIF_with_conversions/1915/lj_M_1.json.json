@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "P8igN1YUYIX5xPrUl",
+      "disPlace": "1.",
+      "disAthlete": "Ernie Plavan",
+      "disTeam": "Santa Ana",
+      "Result": "21-02.00",
+      "SortInt": 19746000,
+      "AthleteID": 16733358,
+      "FirstName": "Ernie",
+      "LastName": "Plavan",
+      "Grade": "12",
+      "TeamID": 1868,
+      "SchoolName": "Santa Ana",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 200,
+      "ShortCode": "r8ijdQptgcXp2oYHj",
+      "disPlace": "1.",
+      "disAthlete": "Bob Patton",
+      "disTeam": "Poly (Riverside)",
+      "Result": "124-06.50",
+      "SortInt": 18505500,
+      "AthleteID": 16803776,
+      "FirstName": "Bob",
+      "LastName": "Patton",
+      "Grade": "10",
+      "TeamID": 1829,
+      "SchoolName": "Poly (Riverside)",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

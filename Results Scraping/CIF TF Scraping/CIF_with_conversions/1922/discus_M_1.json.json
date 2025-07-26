@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 200,
+      "ShortCode": "zvijrkrsvcgY24ksm",
+      "disPlace": "1.",
+      "disAthlete": "Clarence \"Bud\" Houser",
+      "disTeam": "Oxnard",
+      "Result": "144-03",
+      "SortInt": 18269000,
+      "AthleteID": 16780746,
+      "FirstName": "Clarence \"Bud\"",
+      "LastName": "Houser",
+      "Grade": "12",
+      "TeamID": 1809,
+      "SchoolName": "Oxnard",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "2",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 200,
+      "ShortCode": "R3iqa5aFvcENQL1S8",
+      "disPlace": "2.",
+      "disAthlete": "Clifford Martin",
+      "disTeam": "Poly (Riverside)",
+      "Result": "117-00",
+      "SortInt": 18596000,
+      "AthleteID": 16787364,
+      "FirstName": "Clifford",
+      "LastName": "Martin",
+      "Grade": "12",
+      "TeamID": 1829,
+      "SchoolName": "Poly (Riverside)",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

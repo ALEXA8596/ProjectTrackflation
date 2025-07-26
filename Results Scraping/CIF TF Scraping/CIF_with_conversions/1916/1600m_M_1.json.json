@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 279000,
+      "SortIntTemp": 279000,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Andy Silvas",
+      "disTeam": "Oakland Tech",
+      "IDResult": 158376779,
+      "Result": "4:40.6h",
+      "SortInt": 279000,
+      "AthleteID": 16745103,
+      "FirstName": "Andy",
+      "LastName": "Silvas",
+      "Grade": "12",
+      "TeamID": 1973,
+      "SchoolName": "Oakland Tech",
+      "Gender": "M",
+      "originalImperialSortInt": 280600
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 279200,
+      "SortIntTemp": 279200,
+      "ShortCode": "1600m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Kenneth Strickfaden",
+      "disTeam": "Santa Monica",
+      "IDResult": 158376839,
+      "Result": "4:40.8h",
+      "SortInt": 279200,
+      "AthleteID": 16745088,
+      "FirstName": "Kenneth",
+      "LastName": "Strickfaden",
+      "Grade": "12",
+      "TeamID": 1875,
+      "SchoolName": "Santa Monica",
+      "Gender": "M",
+      "originalImperialSortInt": 280800
+    }
+  ]
+}

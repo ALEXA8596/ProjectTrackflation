@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 21200,
+      "SortIntTemp": 21440,
+      "ShortCode": "200m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Guy Blackburn",
+      "disTeam": "Jefferson",
+      "IDResult": 181838915,
+      "Result": "21.3h",
+      "SortInt": 21440,
+      "AthleteID": 17063257,
+      "FirstName": "Guy",
+      "LastName": "Blackburn",
+      "Grade": "12",
+      "TeamID": 1480,
+      "SchoolName": "Jefferson",
+      "Gender": "M",
+      "originalImperialSortInt": 21540
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 21300,
+      "SortIntTemp": 21540,
+      "ShortCode": "200m",
+      "disPlace": "2.",
+      "disGrade": "10",
+      "disAthlete": "Herb Turner",
+      "disTeam": "Alameda",
+      "IDResult": 181838916,
+      "Result": "21.4h",
+      "SortInt": 21540,
+      "AthleteID": 17063215,
+      "FirstName": "Herb",
+      "LastName": "Turner",
+      "Grade": "10",
+      "TeamID": 903,
+      "SchoolName": "Alameda",
+      "Gender": "M",
+      "originalImperialSortInt": 21640
+    }
+  ]
+}

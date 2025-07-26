@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 12,
+      "EventTypeID": 0,
+      "ShortCode": "wOiDnPjFEuloAlKhy",
+      "disPlace": "1.",
+      "disAthlete": "Ben Steele",
+      "disTeam": "Santa Rosa",
+      "Result": "54-04.25",
+      "SortInt": 19347750,
+      "AthleteID": 17027323,
+      "FirstName": "Ben",
+      "LastName": "Steele",
+      "Grade": "12",
+      "TeamID": 990,
+      "SchoolName": "Santa Rosa",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "5",
+      "Round": "F",
+      "EventID": 12,
+      "EventTypeID": 0,
+      "ShortCode": "YViKJk6fEuWpLWksR",
+      "disPlace": "5.",
+      "disAthlete": "Ralph Hull",
+      "disTeam": "Santa Ana",
+      "Result": "50-05.50",
+      "SortInt": 19394500,
+      "AthleteID": 17027322,
+      "FirstName": "Ralph",
+      "LastName": "Hull",
+      "Grade": "12",
+      "TeamID": 1868,
+      "SchoolName": "Santa Ana",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

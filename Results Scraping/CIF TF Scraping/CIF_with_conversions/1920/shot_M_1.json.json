@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 12,
+      "EventTypeID": 0,
+      "ShortCode": "W3iYLOnFzuOzQ8yhZ",
+      "disPlace": "1.",
+      "disAthlete": "Clarence \"Bud\" Houser",
+      "disTeam": "Oxnard",
+      "Result": "48-09.00",
+      "SortInt": 19415000,
+      "AthleteID": 16780746,
+      "FirstName": "Clarence \"Bud\"",
+      "LastName": "Houser",
+      "Grade": "10",
+      "TeamID": 1809,
+      "SchoolName": "Oxnard",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

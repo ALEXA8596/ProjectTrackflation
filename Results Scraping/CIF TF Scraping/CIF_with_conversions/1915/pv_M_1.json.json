@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 16,
+      "EventTypeID": 0,
+      "ShortCode": "31iN1mksPF1l2Ani1",
+      "disPlace": "1.",
+      "disAthlete": "Lincoln Hall",
+      "disTeam": "Santa Paula",
+      "Result": "11-06.00",
+      "SortInt": 19862000,
+      "AthleteID": 16733355,
+      "FirstName": "Lincoln",
+      "LastName": "Hall",
+      "Grade": "11",
+      "TeamID": 1876,
+      "SchoolName": "Santa Paula",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

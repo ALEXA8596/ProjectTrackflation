@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 11300,
+      "SortIntTemp": 11540,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Al Wright",
+      "disTeam": "Abraham Lincoln",
+      "IDResult": 144956821,
+      "Result": "10.4h",
+      "SortInt": 11540,
+      "AthleteID": 16776090,
+      "FirstName": "Al",
+      "LastName": "Wright",
+      "Grade": "12",
+      "TeamID": 1504,
+      "SchoolName": "Abraham Lincoln",
+      "Gender": "M",
+      "originalImperialSortInt": 10640
+    }
+  ]
+}

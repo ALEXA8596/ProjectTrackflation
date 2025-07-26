@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 285400,
+      "SortIntTemp": 285400,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Atwood Scovel",
+      "disTeam": "San Bernardino",
+      "IDResult": 144956805,
+      "Result": "4:47.0h",
+      "SortInt": 285400,
+      "AthleteID": 16776124,
+      "FirstName": "Atwood",
+      "LastName": "Scovel",
+      "Grade": "11",
+      "TeamID": 1858,
+      "SchoolName": "San Bernardino",
+      "Gender": "M",
+      "originalImperialSortInt": 287000
+    }
+  ]
+}

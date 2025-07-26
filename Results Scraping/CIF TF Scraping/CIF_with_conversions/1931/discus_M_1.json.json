@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 200,
+      "ShortCode": "eAioeggUocQVxBOIv",
+      "disPlace": "1.",
+      "disAthlete": "George Theodoratus",
+      "disTeam": "Sacramento",
+      "Result": "132-01.50",
+      "SortInt": 18414500,
+      "AthleteID": 16920543,
+      "FirstName": "George",
+      "LastName": "Theodoratus",
+      "Grade": "12",
+      "TeamID": 712,
+      "SchoolName": "Sacramento",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

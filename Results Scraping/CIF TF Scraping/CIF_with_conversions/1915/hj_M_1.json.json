@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 9,
+      "EventTypeID": 0,
+      "ShortCode": "16iVanvsWt1g0BVFy",
+      "disPlace": "1.",
+      "disAthlete": "Millard Webster",
+      "disTeam": "Santa Paula",
+      "Result": "5-09.50",
+      "SortInt": 19930500,
+      "AthleteID": 16733356,
+      "FirstName": "Millard",
+      "LastName": "Webster",
+      "Grade": "12",
+      "TeamID": 1876,
+      "SchoolName": "Santa Paula",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

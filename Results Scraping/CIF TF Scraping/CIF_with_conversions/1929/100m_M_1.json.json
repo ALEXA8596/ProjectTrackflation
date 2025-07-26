@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 10700,
+      "SortIntTemp": 10940,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Jim Willson",
+      "disTeam": "San Diego",
+      "IDResult": 237363162,
+      "Result": "9.8h",
+      "SortInt": 10940,
+      "AthleteID": 16920483,
+      "FirstName": "Jim",
+      "LastName": "Willson",
+      "Grade": "11",
+      "TeamID": 1450,
+      "SchoolName": "San Diego",
+      "Gender": "M",
+      "originalImperialSortInt": 10040
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 10900,
+      "SortIntTemp": 11140,
+      "ShortCode": "100m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Carroll Maas",
+      "disTeam": "Fresno",
+      "IDResult": 237363163,
+      "Result": "10.0h",
+      "SortInt": 11140,
+      "AthleteID": 16920516,
+      "FirstName": "Carroll",
+      "LastName": "Maas",
+      "Grade": "12",
+      "TeamID": 1333,
+      "SchoolName": "Fresno",
+      "Gender": "M",
+      "originalImperialSortInt": 10240
+    }
+  ]
+}

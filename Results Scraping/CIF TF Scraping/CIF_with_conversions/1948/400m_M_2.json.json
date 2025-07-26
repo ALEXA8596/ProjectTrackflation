@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 49500,
+      "SortIntTemp": 49640,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Luther Butler",
+      "disTeam": "Jefferson",
+      "IDResult": 181702797,
+      "Result": "49.8h",
+      "SortInt": 49640,
+      "AthleteID": 17050551,
+      "FirstName": "Luther",
+      "LastName": "Butler",
+      "Grade": "12",
+      "TeamID": 1480,
+      "SchoolName": "Jefferson",
+      "Gender": "M",
+      "originalImperialSortInt": 49940
+    }
+  ]
+}

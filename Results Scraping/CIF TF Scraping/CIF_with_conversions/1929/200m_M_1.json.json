@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 21300,
+      "SortIntTemp": 21540,
+      "ShortCode": "200m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Jim Willson",
+      "disTeam": "San Diego",
+      "IDResult": 237363173,
+      "Result": "21.4h",
+      "SortInt": 21540,
+      "AthleteID": 16920483,
+      "FirstName": "Jim",
+      "LastName": "Willson",
+      "Grade": "11",
+      "TeamID": 1450,
+      "SchoolName": "San Diego",
+      "Gender": "M",
+      "originalImperialSortInt": 21640
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 21500,
+      "SortIntTemp": 21740,
+      "ShortCode": "200m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Vernon Jordan",
+      "disTeam": "Jefferson",
+      "IDResult": 237363174,
+      "Result": "21.6h",
+      "SortInt": 21740,
+      "AthleteID": 16911591,
+      "FirstName": "Vernon",
+      "LastName": "Jordan",
+      "Grade": "12",
+      "TeamID": 1480,
+      "SchoolName": "Jefferson",
+      "Gender": "M",
+      "originalImperialSortInt": 21840
+    }
+  ]
+}

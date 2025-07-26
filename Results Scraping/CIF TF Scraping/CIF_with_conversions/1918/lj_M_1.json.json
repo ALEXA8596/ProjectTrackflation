@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "kxiMyozIrIKg5eEho",
+      "disPlace": "1.",
+      "disAthlete": "Roy Hasselbach",
+      "disTeam": "Fresno",
+      "Result": "20-11.25",
+      "SortInt": 19748750,
+      "AthleteID": 16748244,
+      "FirstName": "Roy",
+      "LastName": "Hasselbach",
+      "Grade": "12",
+      "TeamID": 1333,
+      "SchoolName": "Fresno",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

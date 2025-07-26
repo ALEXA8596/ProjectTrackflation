@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 11000,
+      "SortIntTemp": 11240,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Vic Klein",
+      "disTeam": "Hollywood",
+      "IDResult": 158589241,
+      "Result": "10.1h",
+      "SortInt": 11240,
+      "AthleteID": 16803774,
+      "FirstName": "Vic",
+      "LastName": "Klein",
+      "Grade": "12",
+      "TeamID": 1510,
+      "SchoolName": "Hollywood",
+      "Gender": "M",
+      "originalImperialSortInt": 10340
+    }
+  ]
+}

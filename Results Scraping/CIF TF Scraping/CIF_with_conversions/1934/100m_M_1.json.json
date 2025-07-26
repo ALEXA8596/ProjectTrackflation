@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 10900,
+      "SortIntTemp": 11140,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Mack Robinson",
+      "disTeam": "Muir",
+      "IDResult": 158344960,
+      "Result": "10.0h",
+      "SortInt": 11140,
+      "AthleteID": 16950471,
+      "FirstName": "Mack",
+      "LastName": "Robinson",
+      "Grade": "12",
+      "TeamID": 1778,
+      "SchoolName": "Muir",
+      "Gender": "M",
+      "originalImperialSortInt": 10240
+    }
+  ]
+}

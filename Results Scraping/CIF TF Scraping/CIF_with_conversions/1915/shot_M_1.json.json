@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 12,
+      "EventTypeID": 0,
+      "ShortCode": "4miPqJ4CEuRDw5BHZ",
+      "disPlace": "1.",
+      "disAthlete": "Wayne Weeks",
+      "disTeam": "Santa Rosa",
+      "Result": "46-02.38",
+      "SortInt": 19445620,
+      "AthleteID": 16733350,
+      "FirstName": "Wayne",
+      "LastName": "Weeks",
+      "Grade": "11",
+      "TeamID": 990,
+      "SchoolName": "Santa Rosa",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

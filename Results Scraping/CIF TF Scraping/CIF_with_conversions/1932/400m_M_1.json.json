@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 49800,
+      "SortIntTemp": 49940,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "John Rout",
+      "disTeam": "Jefferson",
+      "IDResult": 141729687,
+      "Result": "50.1",
+      "SortInt": 49940,
+      "AthleteID": 16937122,
+      "FirstName": "John",
+      "LastName": "Rout",
+      "Grade": "12",
+      "TeamID": 1480,
+      "SchoolName": "Jefferson",
+      "Gender": "M",
+      "originalImperialSortInt": 50240
+    }
+  ]
+}

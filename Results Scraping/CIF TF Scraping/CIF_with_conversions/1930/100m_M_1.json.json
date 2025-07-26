@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 11000,
+      "SortIntTemp": 11240,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Al Koenig",
+      "disTeam": "Huntington Beach",
+      "IDResult": 236533649,
+      "Result": "10.1h",
+      "SortInt": 11240,
+      "AthleteID": 16920466,
+      "FirstName": "Al",
+      "LastName": "Koenig",
+      "Grade": "12",
+      "TeamID": 1699,
+      "SchoolName": "Huntington Beach",
+      "Gender": "M",
+      "originalImperialSortInt": 10340
+    }
+  ]
+}

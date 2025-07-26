@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "4miPB1wSmIRpNgDfZ",
+      "disPlace": "1.",
+      "disAthlete": "George Shehtanian",
+      "disTeam": "Tulare Union",
+      "Result": "23-02.63",
+      "SortInt": 19721370,
+      "AthleteID": 16913576,
+      "FirstName": "George",
+      "LastName": "Shehtanian",
+      "Grade": "12",
+      "TeamID": 1330,
+      "SchoolName": "Tulare Union",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "2",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "x8iVDOAiJIa5kN0SN",
+      "disPlace": "2.",
+      "disAthlete": "Marvis Crawford",
+      "disTeam": "Los Angeles",
+      "Result": "23-01.50",
+      "SortInt": 19722500,
+      "AthleteID": 16920474,
+      "FirstName": "Marvis",
+      "LastName": "Crawford",
+      "Grade": "12",
+      "TeamID": 1505,
+      "SchoolName": "Los Angeles",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

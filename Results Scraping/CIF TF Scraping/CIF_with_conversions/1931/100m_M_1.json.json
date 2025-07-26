@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 10800,
+      "SortIntTemp": 11040,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Foy Draper",
+      "disTeam": "Huntington Park",
+      "IDResult": 158376618,
+      "Result": "9.9h",
+      "SortInt": 11040,
+      "AthleteID": 16934023,
+      "FirstName": "Foy",
+      "LastName": "Draper",
+      "Grade": "11",
+      "TeamID": 1491,
+      "SchoolName": "Huntington Park",
+      "Gender": "M",
+      "originalImperialSortInt": 10140
+    }
+  ]
+}

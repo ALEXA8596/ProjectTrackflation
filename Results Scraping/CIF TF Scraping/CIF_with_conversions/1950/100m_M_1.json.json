@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 10800,
+      "SortIntTemp": 11040,
+      "ShortCode": "100m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Gary Green",
+      "disTeam": "Jefferson",
+      "IDResult": 181838892,
+      "Result": "9.9h",
+      "SortInt": 11040,
+      "AthleteID": 17062319,
+      "FirstName": "Gary",
+      "LastName": "Green",
+      "Grade": "12",
+      "TeamID": 1480,
+      "SchoolName": "Jefferson",
+      "Gender": "M",
+      "originalImperialSortInt": 10140
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 10800,
+      "SortIntTemp": 11040,
+      "ShortCode": "100m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Guy Blackburn",
+      "disTeam": "Jefferson",
+      "IDResult": 181838893,
+      "Result": "9.9h",
+      "SortInt": 11040,
+      "AthleteID": 17063257,
+      "FirstName": "Guy",
+      "LastName": "Blackburn",
+      "Grade": "12",
+      "TeamID": 1480,
+      "SchoolName": "Jefferson",
+      "Gender": "M",
+      "originalImperialSortInt": 10140
+    }
+  ]
+}

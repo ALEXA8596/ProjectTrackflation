@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "VPi0WN3cRIEwMjLhm",
+      "disPlace": "1.",
+      "disAthlete": "Fred Osborne",
+      "disTeam": "Fullerton",
+      "Result": "21-08.50",
+      "SortInt": 19739500,
+      "AthleteID": 16803926,
+      "FirstName": "Fred",
+      "LastName": "Osborne",
+      "Grade": "11",
+      "TeamID": 1674,
+      "SchoolName": "Fullerton",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "2",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "6viBoZjh1IK8LaZhN",
+      "disPlace": "2.",
+      "disAthlete": "Howard Paul",
+      "disTeam": "Santa Ana",
+      "Result": "21-07.00",
+      "SortInt": 19741000,
+      "AthleteID": 16803914,
+      "FirstName": "Howard",
+      "LastName": "Paul",
+      "Grade": "12",
+      "TeamID": 1868,
+      "SchoolName": "Santa Ana",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

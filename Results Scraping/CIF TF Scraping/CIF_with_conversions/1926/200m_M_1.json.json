@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 22000,
+      "SortIntTemp": 22240,
+      "ShortCode": "200m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Elam Kirks",
+      "disTeam": "El Monte",
+      "IDResult": 181904362,
+      "Result": "22.1h",
+      "SortInt": 22240,
+      "AthleteID": 16863154,
+      "FirstName": "Elam",
+      "LastName": "Kirks",
+      "Grade": "12",
+      "TeamID": 1657,
+      "SchoolName": "El Monte",
+      "Gender": "M",
+      "originalImperialSortInt": 22340
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 49400,
+      "SortIntTemp": 49540,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Jack North",
+      "disTeam": "Jordan",
+      "IDResult": 181841892,
+      "Result": "49.7h",
+      "SortInt": 49540,
+      "AthleteID": 17085717,
+      "FirstName": "Jack",
+      "LastName": "North",
+      "Grade": "12",
+      "TeamID": 1705,
+      "SchoolName": "Jordan",
+      "Gender": "M",
+      "originalImperialSortInt": 49840
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 49400,
+      "SortIntTemp": 49540,
+      "ShortCode": "400m",
+      "disPlace": "2.",
+      "disGrade": "11",
+      "disAthlete": "Larry Kirchman",
+      "disTeam": "Anaheim",
+      "IDResult": 181841893,
+      "Result": "49.7h",
+      "SortInt": 49540,
+      "AthleteID": 17085690,
+      "FirstName": "Larry",
+      "LastName": "Kirchman",
+      "Grade": "11",
+      "TeamID": 1539,
+      "SchoolName": "Anaheim",
+      "Gender": "M",
+      "originalImperialSortInt": 49840
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 271200,
+      "SortIntTemp": 271200,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Bob Ingram",
+      "disTeam": "San Jose",
+      "IDResult": 181910961,
+      "Result": "4:32.8h",
+      "SortInt": 271200,
+      "AthleteID": 17028564,
+      "FirstName": "Bob",
+      "LastName": "Ingram",
+      "Grade": "12",
+      "TeamID": 1071,
+      "SchoolName": "San Jose",
+      "Gender": "M",
+      "originalImperialSortInt": 272800
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 271700,
+      "SortIntTemp": 271700,
+      "ShortCode": "1600m",
+      "disPlace": "2.",
+      "disGrade": "10",
+      "disAthlete": "Kellen Ramirez",
+      "disTeam": "Edison",
+      "IDResult": 181910962,
+      "Result": "4:33.3h",
+      "SortInt": 271700,
+      "AthleteID": 17027295,
+      "FirstName": "Kellen",
+      "LastName": "Ramirez",
+      "Grade": "9",
+      "TeamID": 1359,
+      "SchoolName": "Edison",
+      "Gender": "M",
+      "originalImperialSortInt": 273300
+    }
+  ]
+}

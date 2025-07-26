@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 21100,
+      "SortIntTemp": 21340,
+      "ShortCode": "200m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Bryant Allen",
+      "disTeam": "Jefferson",
+      "IDResult": 181656029,
+      "Result": "21.2h",
+      "SortInt": 21340,
+      "AthleteID": 17002432,
+      "FirstName": "Bryant",
+      "LastName": "Allen",
+      "Grade": "12",
+      "TeamID": 1480,
+      "SchoolName": "Jefferson",
+      "Gender": "M",
+      "originalImperialSortInt": 21440
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 21800,
+      "SortIntTemp": 22040,
+      "ShortCode": "200m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Hovis Bess",
+      "disTeam": "Corona",
+      "IDResult": 181656030,
+      "Result": "21.9h",
+      "SortInt": 22040,
+      "AthleteID": 17002429,
+      "FirstName": "Hovis",
+      "LastName": "Bess",
+      "Grade": "12",
+      "TeamID": 1625,
+      "SchoolName": "Corona",
+      "Gender": "M",
+      "originalImperialSortInt": 22140
+    }
+  ]
+}

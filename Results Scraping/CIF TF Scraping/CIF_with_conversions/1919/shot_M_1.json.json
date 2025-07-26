@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 12,
+      "EventTypeID": 0,
+      "ShortCode": "x8iVm8dHLuaV8D5CN",
+      "disPlace": "1.",
+      "disAthlete": "Ernst Hartman",
+      "disTeam": "Polytechnic",
+      "Result": "44-03.00",
+      "SortInt": 19469000,
+      "AthleteID": 16776122,
+      "FirstName": "Ernst",
+      "LastName": "Hartman",
+      "Grade": "12",
+      "TeamID": 1512,
+      "SchoolName": "Polytechnic",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

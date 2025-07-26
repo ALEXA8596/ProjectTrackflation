@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 274700,
+      "SortIntTemp": 274700,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Charley Watts",
+      "disTeam": "Berkeley",
+      "IDResult": 145363203,
+      "Result": "4:36.3h",
+      "SortInt": 274700,
+      "AthleteID": 16780716,
+      "FirstName": "Charley",
+      "LastName": "Watts",
+      "Grade": "12",
+      "TeamID": 904,
+      "SchoolName": "Berkeley",
+      "Gender": "M",
+      "originalImperialSortInt": 276300
+    }
+  ]
+}

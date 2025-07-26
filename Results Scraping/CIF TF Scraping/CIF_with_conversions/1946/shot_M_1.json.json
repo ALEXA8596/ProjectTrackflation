@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 12,
+      "EventTypeID": 0,
+      "ShortCode": "VPi0nlMuzuEe5rwtm",
+      "disPlace": "1.",
+      "disAthlete": "John Helwig",
+      "disTeam": "Mt. Carmel (Closed 1976)",
+      "Result": "59-05.75",
+      "SortInt": 19286250,
+      "AthleteID": 17138989,
+      "FirstName": "John",
+      "LastName": "Helwig",
+      "Grade": "12",
+      "TeamID": 79793,
+      "SchoolName": "Mt. Carmel (Closed 1976)",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

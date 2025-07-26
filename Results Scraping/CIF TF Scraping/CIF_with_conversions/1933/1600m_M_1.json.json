@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 267600,
+      "SortIntTemp": 267600,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Virgil Hooper",
+      "disTeam": "Antelope Valley",
+      "IDResult": 141916089,
+      "Result": "4:29.2",
+      "SortInt": 267600,
+      "AthleteID": 16933968,
+      "FirstName": "Virgil",
+      "LastName": "Hooper",
+      "Grade": "11",
+      "TeamID": 1541,
+      "SchoolName": "Antelope Valley",
+      "Gender": "M",
+      "originalImperialSortInt": 269200
+    }
+  ]
+}

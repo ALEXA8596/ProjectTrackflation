@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 200,
+      "ShortCode": "zvijrJdHvcgY8D6Hm",
+      "disPlace": "1.",
+      "disAthlete": "John Boyle",
+      "disTeam": "Los Angeles",
+      "Result": "114-02",
+      "SortInt": 18630000,
+      "AthleteID": 16767514,
+      "FirstName": "John",
+      "LastName": "Boyle",
+      "Grade": "11",
+      "TeamID": 1505,
+      "SchoolName": "Los Angeles",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

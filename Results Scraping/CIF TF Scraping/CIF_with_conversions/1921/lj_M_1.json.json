@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "JdiXLa6S8IEel05FA",
+      "disPlace": "1.",
+      "disAthlete": "Verdon \"Bud\" Nash",
+      "disTeam": "Chino",
+      "Result": "22-04.50",
+      "SortInt": 19731500,
+      "AthleteID": 16780754,
+      "FirstName": "Verdon \"Bud\"",
+      "LastName": "Nash",
+      "Grade": "11",
+      "TeamID": 1614,
+      "SchoolName": "Chino",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "2",
+      "Round": "F",
+      "EventID": 17,
+      "EventTypeID": 0,
+      "ShortCode": "2Kiqkz2s0IwOQ4pFr",
+      "disPlace": "2.",
+      "disAthlete": "Elmer Boyden",
+      "disTeam": "Vallejo",
+      "Result": "21-08.00",
+      "SortInt": 19740000,
+      "AthleteID": 16780726,
+      "FirstName": "Elmer",
+      "LastName": "Boyden",
+      "Grade": "12",
+      "TeamID": 816,
+      "SchoolName": "Vallejo",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

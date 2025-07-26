@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 21100,
+      "SortIntTemp": 21340,
+      "ShortCode": "200m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Burt Price",
+      "disTeam": "Excelsior (Closed 1981)",
+      "IDResult": 180955244,
+      "Result": "21.2h",
+      "SortInt": 21340,
+      "AthleteID": 16962296,
+      "FirstName": "Burt",
+      "LastName": "Price",
+      "Grade": "12",
+      "TeamID": 79766,
+      "SchoolName": "Excelsior (Closed 1981)",
+      "Gender": "M",
+      "originalImperialSortInt": 21440
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 21300,
+      "SortIntTemp": 21540,
+      "ShortCode": "200m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "John Helman",
+      "disTeam": "El Monte",
+      "IDResult": 180955245,
+      "Result": "21.4h",
+      "SortInt": 21540,
+      "AthleteID": 16959161,
+      "FirstName": "John",
+      "LastName": "Helman",
+      "Grade": "12",
+      "TeamID": 1657,
+      "SchoolName": "El Monte",
+      "Gender": "M",
+      "originalImperialSortInt": 21640
+    }
+  ]
+}

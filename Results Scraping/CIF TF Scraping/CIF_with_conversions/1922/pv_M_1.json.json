@@ -1,0 +1,46 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 16,
+      "EventTypeID": 0,
+      "ShortCode": "YViK8X8FlFWlgV0CR",
+      "disPlace": "1.",
+      "disAthlete": "Harry Smith",
+      "disTeam": "San Diego",
+      "Result": "11-11.50",
+      "SortInt": 19856500,
+      "AthleteID": 16787348,
+      "FirstName": "Harry",
+      "LastName": "Smith",
+      "Grade": "11",
+      "TeamID": 1450,
+      "SchoolName": "San Diego",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    },
+    {
+      "IDDiv": 1,
+      "Place": "--",
+      "Round": "F",
+      "EventID": 16,
+      "EventTypeID": 0,
+      "ShortCode": "MmiyPxPSaFVjpz5uM",
+      "disPlace": "--",
+      "disAthlete": "Sherman Bassford",
+      "disTeam": "Vacaville",
+      "Result": "11-03.00",
+      "SortInt": 19865000,
+      "AthleteID": 16785426,
+      "FirstName": "Sherman",
+      "LastName": "Bassford",
+      "Grade": "12",
+      "TeamID": 770,
+      "SchoolName": "Vacaville",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

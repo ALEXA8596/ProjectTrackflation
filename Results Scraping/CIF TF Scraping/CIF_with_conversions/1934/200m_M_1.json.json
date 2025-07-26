@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 21700,
+      "SortIntTemp": 21940,
+      "ShortCode": "200m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Brainard Worrill",
+      "disTeam": "Muir",
+      "IDResult": 158344976,
+      "Result": "21.8h",
+      "SortInt": 21940,
+      "AthleteID": 16950470,
+      "FirstName": "Brainard",
+      "LastName": "Worrill",
+      "Grade": "11",
+      "TeamID": 1778,
+      "SchoolName": "Muir",
+      "Gender": "M",
+      "originalImperialSortInt": 22040
+    }
+  ]
+}

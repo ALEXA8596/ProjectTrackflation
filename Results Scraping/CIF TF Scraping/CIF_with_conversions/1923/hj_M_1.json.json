@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 9,
+      "EventTypeID": 0,
+      "ShortCode": "r8ijdQNiQtXpwq6uj",
+      "disPlace": "1.",
+      "disAthlete": "Henry Coggeshall",
+      "disTeam": "Sacramento",
+      "Result": "5-11.00",
+      "SortInt": 19929000,
+      "AthleteID": 16802007,
+      "FirstName": "Henry",
+      "LastName": "Coggeshall",
+      "Grade": "11",
+      "TeamID": 712,
+      "SchoolName": "Sacramento",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

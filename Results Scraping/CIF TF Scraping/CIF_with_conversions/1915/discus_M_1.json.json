@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 13,
+      "EventTypeID": 200,
+      "ShortCode": "QainXmzugcMpw0Oud",
+      "disPlace": "1.",
+      "disAthlete": "Clifford Merritt",
+      "disTeam": "Santa Rosa",
+      "Result": "113-00",
+      "SortInt": 18644000,
+      "AthleteID": 16733348,
+      "FirstName": "Clifford",
+      "LastName": "Merritt",
+      "Grade": "12",
+      "TeamID": 990,
+      "SchoolName": "Santa Rosa",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 12,
+      "EventTypeID": 0,
+      "ShortCode": "pjiYEYgu1u02JOjhO",
+      "disPlace": "1.",
+      "disAthlete": "John Raitt",
+      "disTeam": "Fullerton",
+      "Result": "55-05.25",
+      "SortInt": 19334750,
+      "AthleteID": 16959152,
+      "FirstName": "John",
+      "LastName": "Raitt",
+      "Grade": "12",
+      "TeamID": 1674,
+      "SchoolName": "Fullerton",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

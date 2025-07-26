@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 275500,
+      "SortIntTemp": 275500,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Lee Hansen",
+      "disTeam": "Manual Arts",
+      "IDResult": 158589236,
+      "Result": "4:37.1",
+      "SortInt": 275500,
+      "AthleteID": 16802010,
+      "FirstName": "Lee",
+      "LastName": "Hansen",
+      "Grade": "12",
+      "TeamID": 1482,
+      "SchoolName": "Manual Arts",
+      "Gender": "M",
+      "originalImperialSortInt": 277100
+    }
+  ]
+}

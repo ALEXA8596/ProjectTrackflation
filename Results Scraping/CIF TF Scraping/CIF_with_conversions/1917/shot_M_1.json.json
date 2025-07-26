@@ -1,0 +1,25 @@
+{
+  "results": [
+    {
+      "IDDiv": 1,
+      "Place": "1",
+      "Round": "F",
+      "EventID": 12,
+      "EventTypeID": 0,
+      "ShortCode": "OoiAKd4f8uMLwJdsy",
+      "disPlace": "1.",
+      "disAthlete": "Jim Blewett",
+      "disTeam": "Manual Arts",
+      "Result": "47-09.25",
+      "SortInt": 19426750,
+      "AthleteID": 16745096,
+      "FirstName": "Jim",
+      "LastName": "Blewett",
+      "Grade": "12",
+      "TeamID": 1482,
+      "SchoolName": "Manual Arts",
+      "Gender": "M",
+      "originalImperialSortInt": null
+    }
+  ]
+}

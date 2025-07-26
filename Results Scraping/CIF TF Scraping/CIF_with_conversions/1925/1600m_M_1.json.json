@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 273600,
+      "SortIntTemp": 273600,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Chesley Unruh",
+      "disTeam": "El Monte",
+      "IDResult": 181910818,
+      "Result": "4:35.2h",
+      "SortInt": 273600,
+      "AthleteID": 16803785,
+      "FirstName": "Chesley",
+      "LastName": "Unruh",
+      "Grade": "12",
+      "TeamID": 1657,
+      "SchoolName": "El Monte",
+      "Gender": "M",
+      "originalImperialSortInt": 275200
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 274400,
+      "SortIntTemp": 274400,
+      "ShortCode": "1600m",
+      "disPlace": "2.",
+      "disGrade": "11",
+      "disAthlete": "Dillard Carnahan",
+      "disTeam": "Poly (Riverside)",
+      "IDResult": 181910819,
+      "Result": "4:36.0h",
+      "SortInt": 274400,
+      "AthleteID": 16803777,
+      "FirstName": "Dillard",
+      "LastName": "Carnahan",
+      "Grade": "11",
+      "TeamID": 1829,
+      "SchoolName": "Poly (Riverside)",
+      "Gender": "M",
+      "originalImperialSortInt": 276000
+    }
+  ]
+}

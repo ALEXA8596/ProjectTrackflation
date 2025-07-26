@@ -15,6 +15,7 @@
     "athletichelper": "^2.4.1",
     "chart.js": "^4.5.0",
     "chartjs-node-canvas": "^5.0.0",
+    "commander": "^14.0.0",
     "csv-loader": "^3.0.5",
     "csv-parser": "^3.2.0",
     "csv-writer": "^1.6.0",

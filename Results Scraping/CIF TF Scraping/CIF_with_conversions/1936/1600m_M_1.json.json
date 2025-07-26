@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 269600,
+      "SortIntTemp": 269600,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Simon Scott",
+      "disTeam": "Tamalpais",
+      "IDResult": 209855602,
+      "Result": "4:31.2h",
+      "SortInt": 269600,
+      "AthleteID": 17002042,
+      "FirstName": "Simon",
+      "LastName": "Scott",
+      "Grade": "12",
+      "TeamID": 984,
+      "SchoolName": "Tamalpais",
+      "Gender": "M",
+      "originalImperialSortInt": 271200
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 269800,
+      "SortIntTemp": 269800,
+      "ShortCode": "1600m",
+      "disPlace": "2.",
+      "disGrade": "11",
+      "disAthlete": "Forrest Jamieson",
+      "disTeam": "Galt",
+      "IDResult": 209855603,
+      "Result": "4:31.4h",
+      "SortInt": 269800,
+      "AthleteID": 910408,
+      "FirstName": "Forrest",
+      "LastName": "Jamieson",
+      "Grade": "11",
+      "TeamID": 843,
+      "SchoolName": "Galt",
+      "Gender": "M",
+      "originalImperialSortInt": 271400
+    }
+  ]
+}

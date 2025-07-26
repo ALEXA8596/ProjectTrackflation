@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 271200,
+      "SortIntTemp": 271200,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Phil Morentin",
+      "disTeam": "Mt. Whitney",
+      "IDResult": 158376682,
+      "Result": "4:32.8h",
+      "SortInt": 271200,
+      "AthleteID": 16920486,
+      "FirstName": "Phil",
+      "LastName": "Morentin",
+      "Grade": "12",
+      "TeamID": 1352,
+      "SchoolName": "Mt. Whitney",
+      "Gender": "M",
+      "originalImperialSortInt": 272800
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 271900,
+      "SortIntTemp": 271900,
+      "ShortCode": "1600m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Glenn Hotchkiss",
+      "disTeam": "Washington Union",
+      "IDResult": 158376683,
+      "Result": "4:33.5h",
+      "SortInt": 271900,
+      "AthleteID": 16933998,
+      "FirstName": "Glenn",
+      "LastName": "Hotchkiss",
+      "Grade": "12",
+      "TeamID": 1309,
+      "SchoolName": "Washington Union",
+      "Gender": "M",
+      "originalImperialSortInt": 273500
+    }
+  ]
+}

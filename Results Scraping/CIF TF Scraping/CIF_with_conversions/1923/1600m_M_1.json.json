@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 270000,
+      "SortIntTemp": 270000,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Earl Lockhart",
+      "disTeam": "Sacramento",
+      "IDResult": 148226882,
+      "Result": "4:31.6",
+      "SortInt": 270000,
+      "AthleteID": 16787341,
+      "FirstName": "Earl",
+      "LastName": "Lockhart",
+      "Grade": "12",
+      "TeamID": 712,
+      "SchoolName": "Sacramento",
+      "Gender": "M",
+      "originalImperialSortInt": 271600
+    }
+  ]
+}

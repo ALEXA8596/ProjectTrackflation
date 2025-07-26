@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 21700,
+      "SortIntTemp": 21940,
+      "ShortCode": "200m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "John Bradley",
+      "disTeam": "Hoover",
+      "IDResult": 157560582,
+      "Result": "21.8h",
+      "SortInt": 21940,
+      "AthleteID": 17050525,
+      "FirstName": "John",
+      "LastName": "Bradley",
+      "Grade": "11",
+      "TeamID": 1697,
+      "SchoolName": "Hoover",
+      "Gender": "M",
+      "originalImperialSortInt": 22040
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 21900,
+      "SortIntTemp": 22140,
+      "ShortCode": "200m",
+      "disPlace": "2.",
+      "disGrade": "12",
+      "disAthlete": "Bob Ursery",
+      "disTeam": "Jefferson",
+      "IDResult": 157560583,
+      "Result": "22.0h",
+      "SortInt": 22140,
+      "AthleteID": 17050548,
+      "FirstName": "Bob",
+      "LastName": "Ursery",
+      "Grade": "12",
+      "TeamID": 1480,
+      "SchoolName": "Jefferson",
+      "Gender": "M",
+      "originalImperialSortInt": 22240
+    }
+  ]
+}

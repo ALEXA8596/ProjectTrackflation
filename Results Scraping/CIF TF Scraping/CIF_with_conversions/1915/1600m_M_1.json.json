@@ -1,0 +1,26 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 268400,
+      "SortIntTemp": 268400,
+      "ShortCode": "1600m",
+      "disPlace": "1.",
+      "disGrade": "12",
+      "disAthlete": "Gerald Blankenship",
+      "disTeam": "Mt. Whitney",
+      "IDResult": 238539549,
+      "Result": "4:30.0h",
+      "SortInt": 268400,
+      "AthleteID": 16733340,
+      "FirstName": "Gerald",
+      "LastName": "Blankenship",
+      "Grade": "12",
+      "TeamID": 1352,
+      "SchoolName": "Mt. Whitney",
+      "Gender": "M",
+      "originalImperialSortInt": 270000
+    }
+  ]
+}

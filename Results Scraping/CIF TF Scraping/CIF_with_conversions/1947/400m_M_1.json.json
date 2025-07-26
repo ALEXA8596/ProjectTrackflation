@@ -1,0 +1,48 @@
+{
+  "results": [
+    {
+      "Place": "1",
+      "Round": "F",
+      "SortIntRaw": 49100,
+      "SortIntTemp": 49240,
+      "ShortCode": "400m",
+      "disPlace": "1.",
+      "disGrade": "11",
+      "disAthlete": "Luther Butler",
+      "disTeam": "Jefferson",
+      "IDResult": 157560587,
+      "Result": "49.4h",
+      "SortInt": 49240,
+      "AthleteID": 17050551,
+      "FirstName": "Luther",
+      "LastName": "Butler",
+      "Grade": "11",
+      "TeamID": 1480,
+      "SchoolName": "Jefferson",
+      "Gender": "M",
+      "originalImperialSortInt": 49540
+    },
+    {
+      "Place": "2",
+      "Round": "F",
+      "SortIntRaw": 49400,
+      "SortIntTemp": 49540,
+      "ShortCode": "400m",
+      "disPlace": "2.",
+      "disGrade": "11",
+      "disAthlete": "Fred Thompson",
+      "disTeam": "Jordan",
+      "IDResult": 157560588,
+      "Result": "49.7h",
+      "SortInt": 49540,
+      "AthleteID": 17050541,
+      "FirstName": "Fred",
+      "LastName": "Thompson",
+      "Grade": "11",
+      "TeamID": 1492,
+      "SchoolName": "Jordan",
+      "Gender": "M",
+      "originalImperialSortInt": 49840
+    }
+  ]
+}
