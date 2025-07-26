@@ -3,10 +3,10 @@ const path = require('path');
 const csv = require('csv-parser');
 
 // Path to the input CSV file
-const inputCsvPath = path.join(__dirname, 'CIFresults.csv');
+const inputCsvPath = path.join(__dirname, 'CIFresults_with_conversions.csv');
 
 // Directory to save individual event files
-const outputDir = path.join(__dirname, 'EventFiles');
+const outputDir = path.join(__dirname, 'EventFiles_with_conversions');
 
 // Ensure the output directory exists
 if (!fs.existsSync(outputDir)) {

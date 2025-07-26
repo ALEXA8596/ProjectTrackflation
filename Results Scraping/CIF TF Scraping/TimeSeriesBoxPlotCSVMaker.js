@@ -2,8 +2,10 @@ const fs = require("fs");
 const path = require("path");
 const csvWriter = require("csv-writer").createObjectCsvWriter;
 
+const outputFile = "CIFresults_with_conversions.csv";
+
 (async () => {
-  const dir = "CIF";
+  const dir = "CIF_with_conversions";
   const folders = fs.readdirSync(dir);
   const allData = [];
 
@@ -40,8 +42,7 @@ const csvWriter = require("csv-writer").createObjectCsvWriter;
             .filter(
               (result) =>
                 !["DQ", "NH", "DNS", "NM", "DNF"].includes(result.Result) &&
-                result.SortIntRaw !== 20000001 &&
-                result.SortIntTemp !== 20000001
+                result.SortInt !== 20000001
             )
             .slice(0, maxResults);
 
@@ -53,7 +54,7 @@ const csvWriter = require("csv-writer").createObjectCsvWriter;
           // calculate min, max, mean, median, and stddev
           const values = dataToAnalyze.map((result) => {
             // console.log(result.SortIntRaw);
-            return parseFloat(result.SortIntRaw) / 1000;
+            return parseFloat(result.SortInt) / 1000;
           });
           // console.log(values);
           const min = Math.min(...values);
@@ -150,7 +151,7 @@ const csvWriter = require("csv-writer").createObjectCsvWriter;
     }
 
     // make a csv file with allData
-    const csvPath = path.join(__dirname, "CIFresults.csv");
+    const csvPath = path.join(__dirname, outputFile);
     const csvWriterInstance = csvWriter({
       path: csvPath,
       header: [

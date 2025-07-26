@@ -8,8 +8,8 @@ const {
   BoxAndWiskers,
 } = require("@sgratzl/chartjs-chart-boxplot");
 
-const eventFilesDir = path.join(__dirname, "FinalEventFiles");
-const outputDir = path.join(__dirname, "plots");
+const eventFilesDir = path.join(__dirname, "EventFiles_with_conversions");
+const outputDir = path.join(__dirname, "plots_with_conversions");
 
 // Create output directory if it doesn't exist
 if (!fs.existsSync(outputDir)) {
@@ -415,36 +415,23 @@ function addRegressionLines(configuration, years, values, metric) {
   const validValues = validData.map(({ value }) => value);
 
   // Normalize years to prevent numerical issues
-  const baseYear = Math.min(...years); // Use original years for base year
+  const baseYear = Math.min(...validYears); // Use valid years for base year
   const normalizedYears = validYears.map((y) => y - baseYear);
 
   // Calculate regressions
   const linearReg = calculateLinearRegression(normalizedYears, validValues);
-//   const expReg = calculateExponentialRegression(normalizedYears, validValues);
 
   // Add regression lines to the plot
   configuration.data.datasets.push({
     label: `${metric} Linear Trend`,
-    data: years.map((y) => linearReg.predict(y - baseYear)), // Use original years here
+    data: years.map((y) =>
+      validYears.includes(y) ? linearReg.predict(y - baseYear) : null
+    ), // Predict only for valid years
     borderColor: "rgba(255, 0, 0, 0.5)",
     borderDash: [5, 5],
     fill: false,
     tension: 0,
   });
-
-//   if (expReg) {
-//     configuration.data.datasets.push({
-//       label: `${metric} Exponential Trend`,
-//       data: years.map((y) => expReg.predict(y - baseYear)), // Use original years here
-//       borderColor: "rgba(0, 255, 0, 0.5)",
-//       borderDash: [5, 5],
-//       fill: false,
-//       tension: 0,
-//     });
-//   }
-
-  // Enable legend
-//   configuration.options.plugins.legend.display = true;
 
   return configuration;
 }

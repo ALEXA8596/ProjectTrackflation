@@ -48,3 +48,29 @@ async function readCsvFile() {
         }
     }
 })();
+
+
+// 1957 got yeeted for some reason, idk, so we're manually downloading it again
+// (async() => {
+//     // download just 1957
+//     const stateMeetFiles = await readCsvFile();
+//     console.log(`Found ${stateMeetFiles.length} state meet files to process.`);
+//     for (const stateMeet of stateMeetFiles) {
+//         const year = stateMeet["Year"];
+//         const id = stateMeet["Meet ID"];
+//         if (year !== "1957") continue; // Only process 1957
+//         console.log(`Processing results for year: ${year}, ID: ${id}`);
+//         try {
+//             const results = await athletichelper.track.meet.GetAllResultsData(id);
+//             // check if ./CIF/ exists, if not create it
+//             if (!fs.existsSync('./CIF/' + year)) {
+//                 fs.mkdirSync('./CIF/' + year, { recursive: true });
+//             }
+//             // write results to ./CIF/${year}/data.json
+//             fs.writeFileSync(`./CIF/${year}/data.json`, JSON.stringify(results), null, 2);
+//             console.log(`Results for ${year} saved.`);
+//         } catch (error) {
+//             console.error(`Error fetching results for ${year}:`, error);
+//         }
+//     }
+// })();

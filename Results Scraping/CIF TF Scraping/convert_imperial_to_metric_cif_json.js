@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const parentFolder = path.join(__dirname, "CIF_no_conversions");
+const parentFolder = path.join(__dirname, "CIF");
 
 const newFolder = path.join(__dirname, "CIF_with_conversions");
 
@@ -77,7 +77,7 @@ for (const year of fs.readdirSync(parentFolder)) {
       return result;
     });
     results = results.filter((result) => result !== null);
-    const jsonPath = path.join(newFolder, year, `${resultFile}.json`);
+    const jsonPath = path.join(newFolder, year, `${resultFile}`);
 
     if (!fs.existsSync(path.join(newFolder, year))) {
       fs.mkdirSync(path.join(newFolder, year), { recursive: true });

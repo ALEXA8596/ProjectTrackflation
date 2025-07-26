@@ -1,117 +1,119 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>
-      Project Trackflation: An Investigation into High School Track and Field
-      Peformance Inflation
-    </title>
 
-    <!-- import jQuery -->
-    <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+<head>
+  <title>
+    Project Trackflation: An Investigation into High School Track and Field
+    Peformance Inflation
+  </title>
 
-    <!-- import Boostrap -->
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr"
-      crossorigin="anonymous"
-    />
-    <!-- import chartJS -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@sgratzl/chartjs-chart-boxplot@4.4.4/build/index.umd.min.js"></script>
+  <!-- import jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
 
-    <link
-      rel="stylesheet"
-      href="https://cdn.datatables.net/2.3.2/css/dataTables.dataTables.css"
-    />
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
-      crossorigin="anonymous"
-    ></script>
-    <script src="https://cdn.datatables.net/2.3.2/js/dataTables.js"></script>
-  </head>
+  <!-- import Boostrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous" />
+  <!-- import chartJS -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@sgratzl/chartjs-chart-boxplot@4.4.4/build/index.umd.min.js"></script>
 
-  <body>
-    <nav>
-      <ul
-        style="
+  <link rel="stylesheet" href="https://cdn.datatables.net/2.3.2/css/dataTables.dataTables.css" />
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+  <script src="https://cdn.datatables.net/2.3.2/js/dataTables.js"></script>
+</head>
+
+<body style="padding-left: 5%; padding-right: 5%; padding-top: 2%;">
+  <nav>
+    <ul style="
           list-style: none;
           display: flex;
           gap: 20px;
           padding: 0;
           margin-bottom: 20px;
-        "
-      >
-        <li><a href="index.html">Home</a></li>
-        <li><a href="charts.html">Interactive Charts</a></li>
-        <li><a href="data.html">Data</a></li>
-        <li><a href="contact.html">Contact</a></li>
-      </ul>
-    </nav>
+        ">
+      <li><a href="index.html">Home</a></li>
+      <!-- <li><a href="charts.html">Interactive Charts</a></li>
+      <li><a href="data.html">Data</a></li>
+      <li><a href="contact.html">Contact</a></li> -->
+    </ul>
+  </nav>
 
-    <h1>
-      Project Trackflation: An Investigation into High School Track and Field
-      Peformance Inflation
-    </h1>
+  <h1>
+    Project Trackflation: An Investigation into High School Track and Field
+    Peformance Inflation
+  </h1>
 
-    <br />
+  <div class="d-flex justify-content-end mb-3">
+    <a href="https://github.com/ALEXA8596/ProjectTrackflation" target="_blank" class="text-decoration-none">
+      <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-github" viewBox="0 0 16 16">
+        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.7-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z" />
+      </svg>
+      <span class="ms-1">View on GitHub</span>
+    </a>
+  </div>
 
-    <div id="abstract">
-      <h4>Abstract</h4>
-    </div>
+  <br />
 
-    <br />
+  <div id="abstract">
+    <h4>Abstract</h4>
 
-    <div id="introduction">
-      <h3>Introduction</h3>
-      <p></p>
-    </div>
+    <p>
+      In recent years, it's clear that high school athletes have blown our expectations. Athletes like Quincy Wilson, Jane Hendegren, Gout Gout, Sam Ruthe, Sadie Engelhardt, and Brayden Williams have each broken numerous records in each of their specialties. In general, more and more high schoolers are participating in the sport of Athletics (Track and Field and Cross Country) and it seems like high school athletes are improving at such a rate that they can compete with and even surpass professional athletes. Individuals on social media have termed this growth "Trackflation," a portmanteau of Track and inflation, due to the abnormally large rates of improvement. In this paper, I aim to determine whether high school athletics is improving at a rate greater than that of professional athletics. If so, when did it start and what are the causes?
 
-    <br />
+      Keywords: Track and Field, Athletics, Cross Country, Athletic.net, Milesplit, Olympics, NCAA, CIF, Arcadia, Brooks PR, Nike Indoor Nationals, New Balance Indoor Nationals
+    </p>
+  </div>
 
-    <div id="methodology">
-      <h3>Methodology</h3>
+  <br />
 
-      <h4>Here are the meets we decided to investigate:</h4>
+  <div id="introduction">
+    <h3>Introduction</h3>
+    <p></p>
+  </div>
 
-      <p>
-        The Olympics don't need an introduction. It's the competition where the
-        best competitors come every 4 years to fight for the gold medal.
-        However, some things to note are that women weren't allowed to compete
-        until the 1928 Amsterdam Olympics. Even then, women were limited to few
-        events. Additionally, the 5000m and the Triple Jump (two events we chose
-        to investigate) were not competed in the women's division until 1996.
-        Also, results from competitions during the Cold War are widely
-        considered to be tainted by doping from both the United States and the
-        Soviet Union
-        (https://link.gale.com/apps/doc/A175877048/AONE?u=anon~a6be528b&amp;sid=googleScholar&amp;xid=2dd8fa62).
-      </p>
+  <br />
 
-      <p>
-        The World Athletics Championships (Formerly the IAAF World
-        Championships) is a competition hosted by World Athletics (Formerly the
-        IAAF), the governing body of Athletics (the umbrella term for Track and
-        Field & Road Racing). It is held every two years and brings out the best
-        competitors from all around the world, much like the Olympics.
-        <!-- There also exists an indoor counterpart, which we decided to use for comparing Indoor Track and Field results -->
-      </p>
+  <div id="methodology">
+    <h3>Methodology</h3>
 
-      <p>
-        The CIF State Championships is the Championship meet for Californian
-        High School Track and Field Athletes. For the most part, it's a two day
-        meet, with prelims hosted on a Friday and the finals hosted the
-        following day. Although we were able to find results as far back as the
-        1920s, It's important to note that most track events (100m, 200m, 400m,
-        1600m) were replaced by their imperial / english counterparts (100yd,
-        220yd, 440yd, 1 mile). Appropriate conversions were added
-        (https://www.ustfccca.org/assets/track-event-conversions-standardized.pdf).
-        Additionally, older meet results often lack depth, with only the fastest
-        times being recorded. We make sure to note down (n), or the number of
-        times in our sample.
-      </p>
+    <h4>Here are the meets we decided to investigate:</h4>
 
-      <p>
+    <p>
+      The Olympics don't need an introduction. It's the competition where the
+      best competitors come every 4 years to fight for the gold medal.
+      However, some things to note are that women weren't allowed to compete
+      until the 1928 Amsterdam Olympics. Even then, women were limited to few
+      events. Additionally, the 5000m and the Triple Jump (two events we chose
+      to investigate) were not competed in the women's division until 1996.
+      Also, results from competitions during the Cold War are widely
+      considered to be tainted by doping from both the United States and the
+      Soviet Union
+      (https://link.gale.com/apps/doc/A175877048/AONE?u=anon~a6be528b&amp;sid=googleScholar&amp;xid=2dd8fa62).
+    </p>
+
+    <p>
+      The World Athletics Championships (Formerly the IAAF World
+      Championships) is a competition hosted by World Athletics (Formerly the
+      IAAF), the governing body of Athletics (the umbrella term for Track and
+      Field & Road Racing). It is held every two years and brings out the best
+      competitors from all around the world, much like the Olympics.
+      <!-- There also exists an indoor counterpart, which we decided to use for comparing Indoor Track and Field results -->
+    </p>
+
+    <p>
+      The CIF State Championships is the Championship meet for Californian
+      High School Track and Field Athletes. For the most part, it's a two day
+      meet, with prelims hosted on a Friday and the finals hosted the
+      following day. Although we were able to find results as far back as the
+      1920s, It's important to note that most track events (100m, 200m, 400m,
+      1600m) were replaced by their imperial / english counterparts (100yd,
+      220yd, 440yd, 1 mile). Appropriate conversions were added
+      (https://www.ustfccca.org/assets/track-event-conversions-standardized.pdf).
+      Additionally, older meet results often lack depth, with only the fastest
+      times being recorded. We make sure to note down (n), or the number of
+      times in our sample.
+    </p>
+
+    <!-- <p>
         The Arcadia Invitational is a meet hosted in Arcadia, California. It
         attracts notable athletes nationwide (and even internationally). It is
         known primarily for its 3200 event, where record-breaking numbers of
@@ -122,58 +124,452 @@
         The UIL State Championships is the Championship meet for Texan High
         School Track and Field Athletes. The meet is spread throughout 3 days
         and across 6 divisions. Although meets go as far back as 1910,
-      </p>
+      </p> -->
 
-      <!-- <p>We also wanted to choose an indoor championship meet so that we could also evaluate indoor performance. Confusingly, the two top indoor meets in the nation, currently known as New Balance Nationals Indoor and Nike Indoor Nationals, have a very mixed past. Nike and New Balance have sponsored the same meet in different years. To prevent confusion, we decided to look at the results from the National Scholastic Athletics Foundation (NSAF) hosted meets. Present day, this meet is refered to as Nike Indoor Nationals.</p> -->
+    <!-- <p>We also wanted to choose an indoor championship meet so that we could also evaluate indoor performance. Confusingly, the two top indoor meets in the nation, currently known as New Balance Nationals Indoor and Nike Indoor Nationals, have a very mixed past. Nike and New Balance have sponsored the same meet in different years. To prevent confusion, we decided to look at the results from the National Scholastic Athletics Foundation (NSAF) hosted meets. Present day, this meet is refered to as Nike Indoor Nationals.</p> -->
 
-      <h4>Data Scraping Process</h4>
+    <h4>Data Scraping Process</h4>
 
-      <p>
-        We decided to make a maximum sample size of 8 per sprint event (since
-        standard tracks have 8 lanes), 12 per distance races (1600 and 3200),
-        and 12 per field event (since 12 is the standard size of a field
-        flight).
-      </p>
+    <p>
+      We decided to make a maximum sample size of 8 per sprint event (since
+      standard tracks have 8 lanes), 12 per distance races (1600 and 3200),
+      and 12 per field event (since 12 is the standard size of a field
+      flight).
+    </p>
+
+    <h5>High School CIF Scraping</h5>
+    <p>
+      We used the athletichelper npm module created by ourselves to search and obtain the results page for each of the meets from 1915 to 2025.
+      Then, we used NodeJS, CSV-parser, ChartJS, and other libraries to convert the results into CSV and JSON files, convert Imperial measurements to Metric Conversions, generate the charts that we needed, and finally generate the year to year improvement rates by percentage
+    </p>
+
+    <h6>Olympics Results Scraping</h6>
+    <p>
+      We used fetch to manually scrape the results from the official Olympics website. We were able to locate an open API route that provided us the JSON data of each of the results over the years.
+      We then used a similar process to the CIF results scraping to convert the results into CSV and JSON files, convert Imperial measurements to Metric Conversions, generate the charts that we needed, and finally generate the year to year improvement rates by percentage.
+    </p>
+  </div>
+
+  <br />
+
+  <div id="analysis">
+    <h3>Analysis</h3>
+
+    <h4>Distribution of Performances Over Time</h4>
+    <p>The following boxplots show the distribution of performances comparing CIF Championships (left) and Olympics (right) for each event.</p>
+
+    <h5>Men's 100m</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Men's 100m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/100m_M.png" alt="CIF Men's 100m Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Men's 100m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/100m-men.png" alt="Olympic Men's 100m Boxplot">
+          </div>
+        </div>
+      </div>
     </div>
+
+    <h5>Women's 100m</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Women's 100m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/100m_F.png" alt="CIF Women's 100m Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Women's 100m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/100m-women.png" alt="Olympic Women's 100m Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Men's 200m</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Men's 200m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/200m-men.png" alt="Olympic Men's 200m Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Women's 200m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/200m-women.png" alt="Olympic Women's 200m Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Men's 400m</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Men's 400m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/400m_M.png" alt="CIF Men's 400m Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Men's 400m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/400m-men.png" alt="Olympic Men's 400m Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Women's 400m</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Women's 400m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/400m_F.png" alt="CIF Women's 400m Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Women's 400m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/400m-women.png" alt="Olympic Women's 400m Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Men's 1600m/1500m</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Men's 1600m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/1600m_M.png" alt="CIF Men's 1600m Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Men's 1500m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/1500m-men.png" alt="Olympic Men's 1500m Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Women's 1600m/1500m</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Women's 1600m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/1600m_F.png" alt="CIF Women's 1600m Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Women's 1500m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/1500m-women.png" alt="Olympic Women's 1500m Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Men's 3200m/5000m</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Men's 3200m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/3200m_M.png" alt="CIF Men's 3200m Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Men's 5000m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/5000m-men.png" alt="Olympic Men's 5000m Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Women's 3200m/5000m</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Women's 3200m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/3200m_F.png" alt="CIF Women's 3200m Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Women's 5000m</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/5000m-women.png" alt="Olympic Women's 5000m Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Men's High Jump</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Men's High Jump</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/hj_M.png" alt="CIF Men's High Jump Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Men's High Jump</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/high-jump-men.png" alt="Olympic Men's High Jump Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Women's High Jump</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Women's High Jump</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/hj_F.png" alt="CIF Women's High Jump Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Women's High Jump</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/high-jump-women.png" alt="Olympic Women's High Jump Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Men's Long Jump</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Men's Long Jump</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/lj_M.png" alt="CIF Men's Long Jump Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Men's Long Jump</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/long-jump-men.png" alt="Olympic Men's Long Jump Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Women's Long Jump</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Women's Long Jump</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/lj_F.png" alt="CIF Women's Long Jump Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Women's Long Jump</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/long-jump-women.png" alt="Olympic Women's Long Jump Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Triple Jump (Olympics Only)</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Men's Triple Jump</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/triple-jump-men.png" alt="Olympic Men's Triple Jump Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Women's Triple Jump</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/triple-jump-women.png" alt="Olympic Women's Triple Jump Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Men's Shot Put</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Men's Shot Put</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/shot_M.png" alt="CIF Men's Shot Put Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Men's Shot Put</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/shot-put-men.png" alt="Olympic Men's Shot Put Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Women's Shot Put</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Women's Shot Put</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/shot_F.png" alt="CIF Women's Shot Put Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Women's Shot Put</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/shot-put-women.png" alt="Olympic Women's Shot Put Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Men's Discus</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Men's Discus</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/discus_M.png" alt="CIF Men's Discus Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Men's Discus</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/discus-throw-men.png" alt="Olympic Men's Discus Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <h5>Women's Discus</h5>
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">CIF - Women's Discus</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_cif/discus_F.png" alt="CIF Women's Discus Boxplot">
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-4">
+        <div class="card">
+          <div class="card-header">Olympics - Women's Discus</div>
+          <div class="card-body">
+            <img class="img-fluid" src="boxplots_oly/discus-throw-women.png" alt="Olympic Women's Discus Boxplot">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+
+    <h5>Year to Year Improvements for Californian High Schoolers</h5>
+    <pre><code>
+100m Womens: 0.13%
+100m Mens: 0.06%
+1600m Womens: 0.19%
+1600m Mens: 0.05%
+3200m Womens: 0.09%
+3200m Mens: 0.05%
+400m Womens: 0.14%
+400m Mens: 0.03%
+discus Womens: 0.03%
+discus Mens: 0.05%
+hj Womens: 0.00%
+hj Mens: 0.00%
+lj Womens: 0.00%
+lj Mens: 0.00%
+pv Womens: 0.00%
+pv Mens: 0.00%
+shot Womens: 0.01%
+shot Mens: 0.01%
+      </code></pre>
+
+    <h5>Year to Year Improvements for Olympic Athletes</h5>
+    <pre><code>
+100m Mens: 0.66%
+100m Womens: 0.37%
+1500m Mens: 0.85%
+1500m Womens: 0.27%
+200m Mens: 0.03%
+200m Womens: 0.65%
+400m Mens: 0.70%
+400m Womens: 0.62%
+5000m Mens: 0.43%
+5000m Womens: 0.47%
+discus-throw Mens: -2.53%
+discus-throw Womens: -3.08%
+high-jump Mens: -1.20%
+high-jump Womens: -1.28%
+long-jump Mens: -4.49%
+long-jump Womens: -1.19%
+shot-put Mens: -1.98%
+shot-put Womens: -2.29%
+triple-jump Mens: -0.91%
+triple-jump Womens: 0.01%
+      </code></pre>
+
 
     <br />
 
-    <div id="analysis">
-      <h3>Analysis</h3>
 
-      <div>
-        <canvas id="100m"></canvas>
-      </div>
-      <div>
-        <canvas id="200m"></canvas>
-      </div>
-      <div>
-        <canvas id="400m"></canvas>
-      </div>
-      <div>
-        <canvas id="1600m"></canvas>
-      </div>
-      <div>
-        <canvas id="3200m"></canvas>
-      </div>
-      <div>
-        <canvas id="hj"></canvas>
-      </div>
-      <div>
-        <canvas id="lj"></canvas>
-      </div>
-      <div>
-        <canvas id="tj"></canvas>
-      </div>
-      <div>
-        <canvas id="shot"></canvas>
-      </div>
-      <div>
-        <canvas id="'discus'"></canvas>
-      </div>
-    </div>
-
-    <br />
 
     <div id="furtherResearch">
       <h3>Further Research</h3>
@@ -196,5 +592,6 @@
     <div id="worksCited">
       <h3>Works Cited</h3>
     </div>
-  </body>
+</body>
+
 </html>
