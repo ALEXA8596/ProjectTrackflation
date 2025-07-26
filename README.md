@@ -1,5 +1,13 @@
 # ProjectTrackflation
-A small project of mine where I compare the "inflation" in track and field inflation between high school(, collegiate,) and professional levels.
+A small project of mine where I compare the "inflation" in track and field inflation between high school and professional levels.
+
+## Viewing
+
+[Project Dashboard](https://alexa8596.github.io/ProjectTrackflation/)
+
+## Scraping
+
+See Results Scraping/CIF TF Scraping/README.md and Results Scraping/Olympics TF /README.md for help on how to execute each of the folders.
 
 ## Todo
 
