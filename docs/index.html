@@ -767,66 +767,6 @@ triple-jump-women: 0.07%</code></pre>
         <li><a href="https://trackandfieldnews.com/tfn-lists/high-school-all-time-top-10s-boys/" target="_blank">Track and Field News High School All-Time Lists</a></li>
       </ul>
     </div>
-    <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      // Create overlay that grays out the background
-      const overlay = document.createElement("div");
-      overlay.style.position = "fixed";
-      overlay.style.top = "0";
-      overlay.style.left = "0";
-      overlay.style.width = "100%";
-      overlay.style.height = "100%";
-      overlay.style.backgroundColor = "rgba(0, 0, 0, 0.5)";
-      overlay.style.zIndex = "999";
-      overlay.id = "popupOverlay";
-
-      // Create the popup
-      const popup = document.createElement("div");
-      popup.style.position = "fixed";
-      popup.style.top = "50%";
-      popup.style.left = "50%";
-      popup.style.transform = "translate(-50%, -50%)";
-      popup.style.backgroundColor = "white";
-      popup.style.padding = "20px";
-      popup.style.boxShadow = "0 4px 8px rgba(0, 0, 0, 0.2)";
-      popup.style.zIndex = "1000";
-      popup.style.borderRadius = "8px";
-      popup.style.maxWidth = "600px";
-      popup.style.width = "90%";
-
-      popup.innerHTML = `
-        <h3>Welcome to Project Trackflation!</h3>
-        <p>This Draft of a Research Paper is the Culmination of 2 Years of Work, including deciphering the Athletic.net, Milesplit, and Olympic Websites, Creating a Google Chrome Extension to analyze data on-the-spot, and running 20+ Cross Country and Track Races. I hope this is a fun read for you!</p>
-        <div style="margin-bottom: 15px;">
-          <p>Feel Free to check out the repositories of my other works!:</p>
-          <ul>
-            <li><a href="https://github.com/ALEXA8596/ProjectTrackflation" target="_blank">Main Project Repository</a></li>
-            <li><a href="https://github.com/ALEXA8596/AthleticNetExtension" target="_blank">Athletic.net Chrome Extension</a></li>
-            <li><a href="https://github.com/ALEXA8596/AthleticNetWrapper" target="_blank">Athletic Helper NPM Module</a></li>
-            <li><a href="https://www.npmjs.com/package/athletichelper" target="_blank">Athletic Helper on NPM</a></li>
-          </ul>
-        </div>
-        <p>PS: This is not the final draft! Small bits and pieces will be changed. Feel free to give me a star on github so that I'm nudged to finish this project!</p>
-        <button id="closePopup" class="btn btn-primary">Close</button>
-      `;
-
-      // Add both elements to the DOM
-      document.body.appendChild(overlay);
-      document.body.appendChild(popup);
-
-      // Handle closing of the popup
-      document.getElementById("closePopup").addEventListener("click", function () {
-        popup.style.display = "none";
-        overlay.style.display = "none";
-      });
-
-      // Also close when clicking on the overlay
-      overlay.addEventListener("click", function() {
-        popup.style.display = "none";
-        overlay.style.display = "none";
-      });
-    });
-  </script>
 </body>
 
 </html>
